@@ -14,11 +14,6 @@ jobs:
         run: |
           RELEASE_VERSION=${GITHUB_REF#refs/*/}
           echo "RELEASE_NAME=${RELEASE_VERSION:1}" >> $GITHUB_ENV
-      - name: Publish to NPM
-        run: |
-          # Publish
-          yarn config set npmAuthToken ${{ secrets.NPM_TOKEN }}
-          yarn workspaces foreach run publish
       - name: Zip
         run: |
           cd packages
