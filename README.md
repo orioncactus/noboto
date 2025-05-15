@@ -1,1 +1,1 @@
-/packages/wanted-sans/README.md
+/packages/noboto/README.md
