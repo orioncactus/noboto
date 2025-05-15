@@ -1,8 +1,8 @@
 # Noboto
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/noboto/blob/HEAD/documentation/images/thumbnail/dark/thumbnail.gif">
-    <img width="100%" alt="Noboto Thumbnail" src="https://github.com/orioncactus/noboto/blob/HEAD/documentation/images/thumbnail/light/thumbnail.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/noboto/blob/HEAD/documentation/images/thumbnail/dark/thumbnail.svg">
+    <img width="100%" alt="Noboto Thumbnail" src="https://github.com/orioncactus/noboto/blob/HEAD/documentation/images/thumbnail/light/thumbnail.svg">
 </picture>
 
 Noboto는 Android 및 Google에서 기본 글꼴로 사용하는 Roboto와 본고딕을 병합한 폰트로, Figma 등 디자인 애플리케이션에서 Android 환경을 더욱 쉽게 시뮬레이션할 수 있습니다.
