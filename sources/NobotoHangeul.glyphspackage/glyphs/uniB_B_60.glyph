@@ -1,0 +1,171 @@
+{
+color = 0;
+glyphname = uniBB60;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"305 449 LINE",
+"305 -168 LINE",
+"1706 -168 LINE",
+"1706 449 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1362 203 LINE",
+"1362 80 LINE",
+"651 80 LINE",
+"651 203 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"485 918 LINE",
+"485 496 LINE",
+"817 496 LINE",
+"817 918 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"217 1655 LINE",
+"217 1085 LINE",
+"1174 1085 LINE",
+"1174 1655 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"836 1411 LINE",
+"836 1327 LINE",
+"555 1327 LINE",
+"555 1411 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1372 1729 LINE",
+"1372 496 LINE",
+"1706 496 LINE",
+"1706 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1018 750 LINE",
+"1018 537 LINE",
+"1483 537 LINE",
+"1483 750 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"106 748 LINE",
+"471 748 OFFCURVE",
+"893 756 OFFCURVE",
+"1294 811 CURVE",
+"1276 1042 LINE",
+"885 1008 OFFCURVE",
+"442 1006 OFFCURVE",
+"70 1006 CURVE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"377 414 LINE",
+"377 -111 LINE",
+"1556 -111 LINE",
+"1556 414 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 352 LINE",
+"1489 -51 LINE",
+"444 -51 LINE",
+"444 352 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"649 825 LINE",
+"649 485 LINE",
+"717 485 LINE",
+"717 825 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"281 1585 LINE",
+"281 1059 LINE",
+"1081 1059 LINE",
+"1081 1585 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1016 1524 LINE",
+"1016 1122 LINE",
+"346 1122 LINE",
+"346 1524 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 487 LINE",
+"1554 487 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1081 700 LINE",
+"1081 637 LINE",
+"1516 637 LINE",
+"1516 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 786 LINE",
+"457 786 OFFCURVE",
+"903 799 OFFCURVE",
+"1290 842 CURVE",
+"1280 901 LINE",
+"897 866 OFFCURVE",
+"453 860 OFFCURVE",
+"98 858 CURVE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BB60;
+}

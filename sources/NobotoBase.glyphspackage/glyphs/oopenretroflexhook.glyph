@@ -1,0 +1,252 @@
+{
+glyphname = oopenretroflexhook;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{509, -447}";
+},
+{
+name = top;
+position = "{509, 1290}";
+},
+{
+name = top0315;
+position = "{1087, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"64 -139 LINE SMOOTH",
+"64 -331 OFFCURVE",
+"206 -437 OFFCURVE",
+"370 -437 CURVE SMOOTH",
+"399 -437 OFFCURVE",
+"442 -431 OFFCURVE",
+"469 -422 CURVE",
+"469 -288 LINE",
+"452 -293 OFFCURVE",
+"429 -295 OFFCURVE",
+"414 -295 CURVE SMOOTH",
+"322 -295 OFFCURVE",
+"264 -255 OFFCURVE",
+"264 -139 CURVE SMOOTH",
+"264 343 LINE",
+"64 343 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"840 -20 OFFCURVE",
+"995 232 OFFCURVE",
+"995 520 CURVE SMOOTH",
+"995 562 LINE SMOOTH",
+"995 850 OFFCURVE",
+"839 1102 OFFCURVE",
+"509 1102 CURVE SMOOTH",
+"251 1102 OFFCURVE",
+"85 929 OFFCURVE",
+"75 709 CURVE",
+"264 709 LINE",
+"274 835 OFFCURVE",
+"364 942 OFFCURVE",
+"509 942 CURVE SMOOTH",
+"733 942 OFFCURVE",
+"795 743 OFFCURVE",
+"795 562 CURVE SMOOTH",
+"795 520 LINE SMOOTH",
+"795 337 OFFCURVE",
+"735 140 OFFCURVE",
+"509 140 CURVE SMOOTH",
+"381 140 OFFCURVE",
+"274 229 OFFCURVE",
+"264 343 CURVE",
+"75 343 LINE",
+"85 153 OFFCURVE",
+"278 -20 OFFCURVE",
+"509 -20 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1087;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{504, -447}";
+},
+{
+name = top;
+position = "{504, 1290}";
+},
+{
+name = top0315;
+position = "{1039, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"99 -89 LINE SMOOTH",
+"99 -314 OFFCURVE",
+"165 -437 OFFCURVE",
+"344 -437 CURVE SMOOTH",
+"385 -437 OFFCURVE",
+"417 -430 OFFCURVE",
+"456 -417 CURVE",
+"443 -365 LINE",
+"422 -373 OFFCURVE",
+"381 -383 OFFCURVE",
+"344 -383 CURVE SMOOTH",
+"196 -383 OFFCURVE",
+"153 -276 OFFCURVE",
+"153 -89 CURVE SMOOTH",
+"153 328 LINE",
+"99 328 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"784 -20 OFFCURVE",
+"942 203 OFFCURVE",
+"942 520 CURVE SMOOTH",
+"942 562 LINE SMOOTH",
+"942 879 OFFCURVE",
+"781 1102 OFFCURVE",
+"502 1102 CURVE SMOOTH",
+"293 1102 OFFCURVE",
+"109 973 OFFCURVE",
+"99 725 CURVE",
+"153 725 LINE",
+"163 940 OFFCURVE",
+"324 1048 OFFCURVE",
+"502 1048 CURVE SMOOTH",
+"767 1048 OFFCURVE",
+"888 831 OFFCURVE",
+"888 562 CURVE SMOOTH",
+"888 520 LINE SMOOTH",
+"888 249 OFFCURVE",
+"767 34 OFFCURVE",
+"500 34 CURVE SMOOTH",
+"331 34 OFFCURVE",
+"166 121 OFFCURVE",
+"153 328 CURVE",
+"99 328 LINE",
+"110 108 OFFCURVE",
+"292 -20 OFFCURVE",
+"503 -20 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1039;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{512, -447}";
+},
+{
+name = top;
+position = "{512, 1290}";
+},
+{
+name = top0315;
+position = "{1066, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 -57 LINE SMOOTH",
+"50 -289 OFFCURVE",
+"178 -416 OFFCURVE",
+"390 -416 CURVE SMOOTH",
+"437 -416 OFFCURVE",
+"475 -413 OFFCURVE",
+"522 -401 CURVE",
+"522 -185 LINE",
+"494 -189 OFFCURVE",
+"470 -192 OFFCURVE",
+"442 -192 CURVE SMOOTH",
+"366 -192 OFFCURVE",
+"271 -167 OFFCURVE",
+"271 -57 CURVE SMOOTH",
+"271 386 LINE",
+"50 386 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"841 -20 OFFCURVE",
+"1009 216 OFFCURVE",
+"1009 529 CURVE SMOOTH",
+"1009 552 LINE SMOOTH",
+"1009 865 OFFCURVE",
+"841 1102 OFFCURVE",
+"506 1102 CURVE SMOOTH",
+"237 1102 OFFCURVE",
+"50 943 OFFCURVE",
+"50 668 CURVE",
+"352 668 LINE",
+"352 765 OFFCURVE",
+"405 842 OFFCURVE",
+"513 842 CURVE SMOOTH",
+"661 842 OFFCURVE",
+"687 708 OFFCURVE",
+"687 552 CURVE SMOOTH",
+"687 529 LINE SMOOTH",
+"687 369 OFFCURVE",
+"662 240 OFFCURVE",
+"511 240 CURVE SMOOTH",
+"413 240 OFFCURVE",
+"352 294 OFFCURVE",
+"352 386 CURVE",
+"70 386 LINE",
+"70 142 OFFCURVE",
+"258 -20 OFFCURVE",
+"504 -20 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1066;
+}
+);
+unicode = 1D97;
+}

@@ -1,0 +1,93 @@
+{
+glyphname = lowLeftStemToneBarmod;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -5, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"836 274 LINE",
+"310 274 LINE",
+"310 124 LINE",
+"836 124 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 916;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 19, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"764 202 LINE",
+"238 202 LINE",
+"238 148 LINE",
+"764 148 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 804;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -51, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"854 290 LINE",
+"238 290 LINE",
+"238 118 LINE",
+"854 118 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 914;
+}
+);
+unicode = A715;
+}

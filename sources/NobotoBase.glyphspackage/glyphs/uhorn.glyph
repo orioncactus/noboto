@@ -1,0 +1,169 @@
+{
+glyphname = uhorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{563, 0}";
+},
+{
+name = bottomu;
+position = "{508, 0}";
+},
+{
+name = right;
+position = "{1021, 0}";
+},
+{
+name = top;
+position = "{580, 1269}";
+},
+{
+name = top0315;
+position = "{1282, 1269}";
+}
+);
+components = (
+{
+name = u;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1156 1016 OFFCURVE",
+"1153 952 OFFCURVE",
+"974 952 CURVE",
+"974 833 LINE",
+"1236 833 OFFCURVE",
+"1308 946 OFFCURVE",
+"1308 1167 CURVE",
+"1156 1167 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1282;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{560, 0}";
+},
+{
+name = bottomu;
+position = "{514, 0}";
+},
+{
+name = right;
+position = "{956, 0}";
+},
+{
+name = top;
+position = "{580, 1269}";
+},
+{
+name = top0315;
+position = "{1133, 1269}";
+}
+);
+components = (
+{
+name = u;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1132 1034 OFFCURVE",
+"1098 946 OFFCURVE",
+"913 946 CURVE",
+"913 892 LINE",
+"1121 892 OFFCURVE",
+"1187 997 OFFCURVE",
+"1187 1190 CURVE",
+"1132 1190 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1133;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{575, 0}";
+},
+{
+name = bottomu;
+position = "{458, 0}";
+},
+{
+name = right;
+position = "{1056, 0}";
+},
+{
+name = top;
+position = "{575, 1269}";
+},
+{
+name = top0315;
+position = "{1237, 1269}";
+}
+);
+components = (
+{
+name = u;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1165 1013 OFFCURVE",
+"1138 930 OFFCURVE",
+"938 930 CURVE",
+"937 787 LINE",
+"1245 787 OFFCURVE",
+"1345 921 OFFCURVE",
+"1345 1181 CURVE",
+"1165 1181 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1237;
+}
+);
+leftKerningGroup = u;
+unicode = 01B0;
+}

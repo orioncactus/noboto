@@ -1,0 +1,179 @@
+{
+glyphname = Delta;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"772 1456 LINE",
+"643 1456 LINE",
+"29 0 LINE",
+"242 0 LINE",
+"780 1320 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1400 0 LINE",
+"825 1456 LINE",
+"695 1456 LINE",
+"683 1328 LINE",
+"1187 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"187 166 LINE",
+"187 0 LINE",
+"1237 0 LINE",
+"1237 166 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1448;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"725 1456 LINE",
+"674 1456 LINE",
+"58 0 LINE",
+"117 0 LINE",
+"676 1325 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1356 0 LINE",
+"739 1456 LINE",
+"687 1456 LINE",
+"736 1325 LINE",
+"1296 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"99 54 LINE",
+"99 0 LINE",
+"1304 0 LINE",
+"1304 54 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 1411;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"766 1456 LINE",
+"586 1456 LINE",
+"18 0 LINE",
+"371 0 LINE",
+"863 1338 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1517 0 LINE",
+"945 1456 LINE",
+"765 1456 LINE",
+"665 1347 LINE",
+"1164 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 270 LINE",
+"292 0 LINE",
+"1192 0 LINE",
+"1192 270 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1516;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 0394;
+}

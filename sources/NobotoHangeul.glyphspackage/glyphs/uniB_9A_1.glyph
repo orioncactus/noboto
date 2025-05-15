@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniB9A1;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"328 451 LINE",
+"328 -182 LINE",
+"1688 -182 LINE",
+"1688 451 LINE",
+"1341 451 LINE",
+"1341 365 LINE",
+"674 365 LINE",
+"674 451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"674 135 LINE",
+"1341 135 LINE",
+"1341 63 LINE",
+"674 63 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1352 1729 LINE",
+"1352 512 LINE",
+"1688 512 LINE",
+"1688 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1098 LINE",
+"215 858 LINE",
+"1194 858 LINE",
+"1194 1098 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"213 1665 LINE",
+"213 1421 LINE",
+"836 1421 LINE",
+"836 1374 LINE",
+"215 1374 LINE",
+"215 1030 LINE",
+"559 1030 LINE",
+"559 1155 LINE",
+"1180 1155 LINE",
+"1180 1665 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"141 508 LINE",
+"496 508 OFFCURVE",
+"907 516 OFFCURVE",
+"1294 565 CURVE",
+"1276 803 LINE",
+"899 770 OFFCURVE",
+"469 768 OFFCURVE",
+"98 768 CURVE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"414 530 LINE",
+"414 -119 LINE",
+"1554 -119 LINE",
+"1554 530 LINE",
+"1489 530 LINE",
+"1489 281 LINE",
+"479 281 LINE",
+"479 530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"479 217 LINE",
+"1489 217 LINE",
+"1489 -57 LINE",
+"479 -57 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 637 LINE",
+"1554 637 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"285 1044 LINE",
+"285 983 LINE",
+"1130 983 LINE",
+"1130 1044 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 1575 LINE",
+"279 1513 LINE",
+"1030 1513 LINE",
+"1030 1317 LINE",
+"285 1317 LINE",
+"285 1022 LINE",
+"350 1022 LINE",
+"350 1255 LINE",
+"1096 1255 LINE",
+"1096 1575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 709 LINE",
+"477 713 OFFCURVE",
+"932 737 OFFCURVE",
+"1307 780 CURVE",
+"1298 836 LINE",
+"928 801 OFFCURVE",
+"475 782 OFFCURVE",
+"104 778 CURVE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B9A1;
+}

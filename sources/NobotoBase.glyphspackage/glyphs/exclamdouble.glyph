@@ -1,0 +1,45 @@
+{
+glyphname = exclamdouble;
+layers = (
+{
+components = (
+{
+name = exclam;
+transform = "{1, 0, 0, 1, 397, 0}";
+},
+{
+name = exclam;
+}
+);
+layerId = master01;
+width = 794;
+},
+{
+components = (
+{
+name = exclam;
+transform = "{1, 0, 0, 1, 542, 0}";
+},
+{
+name = exclam;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1084;
+},
+{
+components = (
+{
+name = exclam;
+transform = "{1, 0, 0, 1, 563, 0}";
+},
+{
+name = exclam;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1126;
+}
+);
+unicode = 203C;
+}

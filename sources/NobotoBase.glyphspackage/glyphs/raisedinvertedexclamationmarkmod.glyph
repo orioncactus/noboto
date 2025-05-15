@@ -1,0 +1,126 @@
+{
+glyphname = raisedinvertedexclamationmarkmod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"108 651 LINE",
+"119 1423 LINE",
+"280 1423 LINE",
+"291 651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 1696 OFFCURVE",
+"134 1737 OFFCURVE",
+"199 1737 CURVE SMOOTH",
+"264 1737 OFFCURVE",
+"299 1696 OFFCURVE",
+"299 1644 CURVE SMOOTH",
+"299 1590 OFFCURVE",
+"264 1547 OFFCURVE",
+"199 1547 CURVE SMOOTH",
+"134 1547 OFFCURVE",
+"100 1590 OFFCURVE",
+"100 1644 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 399;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"147 651 LINE",
+"147 1432 LINE",
+"201 1432 LINE",
+"201 651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"120 1709 OFFCURVE",
+"144 1733 OFFCURVE",
+"175 1733 CURVE SMOOTH",
+"206 1733 OFFCURVE",
+"231 1709 OFFCURVE",
+"231 1678 CURVE SMOOTH",
+"231 1647 OFFCURVE",
+"206 1622 OFFCURVE",
+"175 1622 CURVE SMOOTH",
+"144 1622 OFFCURVE",
+"120 1647 OFFCURVE",
+"120 1678 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 351;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"106 655 LINE",
+"136 1406 LINE",
+"330 1406 LINE",
+"360 655 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 1687 OFFCURVE",
+"153 1741 OFFCURVE",
+"232 1741 CURVE SMOOTH",
+"311 1741 OFFCURVE",
+"364 1687 OFFCURVE",
+"364 1616 CURVE SMOOTH",
+"364 1545 OFFCURVE",
+"311 1491 OFFCURVE",
+"232 1491 CURVE SMOOTH",
+"153 1491 OFFCURVE",
+"100 1545 OFFCURVE",
+"100 1616 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 464;
+}
+);
+unicode = A71E;
+}

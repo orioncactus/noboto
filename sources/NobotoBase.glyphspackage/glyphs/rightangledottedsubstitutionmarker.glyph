@@ -1,0 +1,153 @@
+{
+glyphname = rightangledottedsubstitutionmarker;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"228 1451 LINE",
+"228 1298 LINE",
+"750 1298 LINE",
+"750 1451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 1451 LINE",
+"80 651 LINE",
+"263 651 LINE",
+"263 1451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"359 948 OFFCURVE",
+"398 900 OFFCURVE",
+"474 900 CURVE SMOOTH",
+"550 900 OFFCURVE",
+"590 948 OFFCURVE",
+"590 1009 CURVE SMOOTH",
+"590 1071 OFFCURVE",
+"550 1120 OFFCURVE",
+"474 1120 CURVE SMOOTH",
+"398 1120 OFFCURVE",
+"359 1071 OFFCURVE",
+"359 1009 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 830;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"98 1451 LINE",
+"98 1398 LINE",
+"640 1398 LINE",
+"640 1451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 1451 LINE",
+"80 651 LINE",
+"133 651 LINE",
+"133 1451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"353 995 OFFCURVE",
+"377 971 OFFCURVE",
+"408 971 CURVE SMOOTH",
+"439 971 OFFCURVE",
+"464 995 OFFCURVE",
+"464 1026 CURVE SMOOTH",
+"464 1057 OFFCURVE",
+"439 1082 OFFCURVE",
+"408 1082 CURVE SMOOTH",
+"377 1082 OFFCURVE",
+"353 1057 OFFCURVE",
+"353 1026 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 720;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"228 1451 LINE",
+"228 1258 LINE",
+"780 1258 LINE",
+"780 1451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 1451 LINE",
+"80 655 LINE",
+"303 655 LINE",
+"303 1451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"414 904 OFFCURVE",
+"486 840 OFFCURVE",
+"593 840 CURVE SMOOTH",
+"700 840 OFFCURVE",
+"772 904 OFFCURVE",
+"772 989 CURVE SMOOTH",
+"772 1074 OFFCURVE",
+"700 1138 OFFCURVE",
+"593 1138 CURVE SMOOTH",
+"486 1138 OFFCURVE",
+"414 1074 OFFCURVE",
+"414 989 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 860;
+}
+);
+unicode = 2E01;
+}

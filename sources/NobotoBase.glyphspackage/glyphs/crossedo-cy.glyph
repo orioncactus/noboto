@@ -1,0 +1,150 @@
+{
+glyphname = "crossedo-cy";
+layers = (
+{
+components = (
+{
+name = o;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"505 1004 LINE",
+"505 78 LINE",
+"665 78 LINE",
+"665 1004 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1048 621 LINE",
+"122 621 LINE",
+"122 461 LINE",
+"1048 461 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 541;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 585;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1173;
+},
+{
+components = (
+{
+name = o;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"535 1074 LINE",
+"535 -12 LINE",
+"589 -12 LINE",
+"589 1074 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1014 578 LINE",
+"128 578 LINE",
+"128 524 LINE",
+"1014 524 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1127;
+},
+{
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"487 1004 LINE",
+"487 78 LINE",
+"668 78 LINE",
+"668 1004 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1040 631 LINE",
+"114 631 LINE",
+"114 450 LINE",
+"1040 450 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 540;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 577;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1154;
+}
+);
+unicode = A69B;
+}

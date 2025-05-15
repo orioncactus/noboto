@@ -1,0 +1,109 @@
+{
+glyphname = oslash;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{540, 1289}";
+},
+{
+name = top0315;
+position = "{1165, 1289}";
+},
+{
+name = top_dd;
+position = "{1165, 1600}";
+}
+);
+components = (
+{
+name = o;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"859 1208 LINE",
+"196 -134 LINE",
+"326 -134 LINE",
+"989 1208 LINE"
+);
+}
+);
+width = 1165;
+},
+{
+anchors = (
+{
+name = top;
+position = "{510, 1289}";
+},
+{
+name = top0315;
+position = "{1121, 1289}";
+},
+{
+name = top_dd;
+position = "{1121, 1600}";
+}
+);
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, -3, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"868 1219 LINE",
+"205 -145 LINE",
+"268 -145 LINE",
+"931 1219 LINE"
+);
+}
+);
+width = 1121;
+},
+{
+anchors = (
+{
+name = top;
+position = "{539, 1284}";
+},
+{
+name = top0315;
+position = "{1153, 1284}";
+},
+{
+name = top_dd;
+position = "{1153, 1600}";
+}
+);
+components = (
+{
+name = o;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"824 1219 LINE",
+"161 -145 LINE",
+"333 -145 LINE",
+"996 1219 LINE"
+);
+}
+);
+width = 1153;
+}
+);
+unicode = 00F8;
+}

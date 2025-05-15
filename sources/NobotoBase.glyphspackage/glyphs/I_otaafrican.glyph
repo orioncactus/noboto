@@ -1,0 +1,111 @@
+{
+glyphname = Iotaafrican;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"159 1536 LINE",
+"159 344 LINE SMOOTH",
+"159 109 OFFCURVE",
+"290 -20 OFFCURVE",
+"504 -20 CURVE SMOOTH",
+"553 -20 OFFCURVE",
+"600 -11 OFFCURVE",
+"649 1 CURVE",
+"624 151 LINE",
+"602 145 OFFCURVE",
+"573 140 OFFCURVE",
+"536 140 CURVE SMOOTH",
+"420 140 OFFCURVE",
+"359 217 OFFCURVE",
+"359 344 CURVE SMOOTH",
+"359 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 669;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"174 1536 LINE",
+"174 301 LINE SMOOTH",
+"174 94 OFFCURVE",
+"280 -20 OFFCURVE",
+"456 -20 CURVE SMOOTH",
+"498 -20 OFFCURVE",
+"543 -16 OFFCURVE",
+"584 -3 CURVE",
+"576 49 LINE",
+"539 39 OFFCURVE",
+"511 34 OFFCURVE",
+"457 34 CURVE SMOOTH",
+"315 34 OFFCURVE",
+"228 132 OFFCURVE",
+"228 301 CURVE SMOOTH",
+"228 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 604;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"117 1536 LINE",
+"117 367 LINE SMOOTH",
+"117 116 OFFCURVE",
+"272 -20 OFFCURVE",
+"535 -20 CURVE SMOOTH",
+"591 -20 OFFCURVE",
+"644 -11 OFFCURVE",
+"700 1 CURVE",
+"676 250 LINE",
+"645 244 OFFCURVE",
+"620 240 OFFCURVE",
+"576 240 CURVE SMOOTH",
+"488 240 OFFCURVE",
+"439 285 OFFCURVE",
+"439 367 CURVE SMOOTH",
+"439 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 740;
+}
+);
+unicode = 0196;
+}

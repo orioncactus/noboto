@@ -1,0 +1,123 @@
+{
+glyphname = "Eldescender-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"341 770 LINE SMOOTH",
+"324 330 OFFCURVE",
+"275 183 OFFCURVE",
+"90 169 CURVE SMOOTH",
+"49 166 LINE",
+"49 0 LINE",
+"104 0 LINE SMOOTH",
+"431 0 OFFCURVE",
+"521 230 OFFCURVE",
+"543 736 CURVE SMOOTH",
+"567 1289 LINE",
+"1067 1289 LINE",
+"1067 0 LINE",
+"1246 0 LINE",
+"1246 -360 LINE",
+"1446 -360 LINE",
+"1446 159 LINE",
+"1275 159 LINE",
+"1275 1456 LINE",
+"368 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1533;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"378 822 LINE SMOOTH",
+"337 197 OFFCURVE",
+"276 54 OFFCURVE",
+"69 54 CURVE SMOOTH",
+"34 54 LINE",
+"34 0 LINE",
+"66 0 LINE SMOOTH",
+"344 0 OFFCURVE",
+"392 226 OFFCURVE",
+"432 822 CURVE SMOOTH",
+"470 1402 LINE",
+"1179 1402 LINE",
+"1179 0 LINE",
+"1233 0 LINE",
+"1233 -352 LINE",
+"1287 -352 LINE",
+"1287 95 LINE",
+"1233 95 LINE",
+"1233 1456 LINE",
+"420 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1357;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"305 836 LINE SMOOTH",
+"290 427 OFFCURVE",
+"233 290 OFFCURVE",
+"77 274 CURVE SMOOTH",
+"38 270 LINE",
+"38 0 LINE",
+"120 0 LINE SMOOTH",
+"441 0 OFFCURVE",
+"596 157 OFFCURVE",
+"624 716 CURVE SMOOTH",
+"647 1185 LINE",
+"994 1185 LINE",
+"994 0 LINE",
+"1240 0 LINE",
+"1240 -356 LINE",
+"1562 -356 LINE",
+"1562 223 LINE",
+"1329 223 LINE",
+"1329 1456 LINE",
+"328 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1619;
+}
+);
+unicode = 052E;
+}

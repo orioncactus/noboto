@@ -1,0 +1,90 @@
+{
+glyphname = Vdiagonalstroke;
+layers = (
+{
+components = (
+{
+name = V;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"835 1557 LINE",
+"256 -125 LINE",
+"426 -125 LINE",
+"1004 1557 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1313;
+},
+{
+components = (
+{
+name = V;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"974 1557 LINE",
+"352 -125 LINE",
+"411 -125 LINE",
+"1033 1557 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1223;
+},
+{
+components = (
+{
+name = V;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"716 1581 LINE",
+"225 -125 LINE",
+"457 -125 LINE",
+"948 1581 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1349;
+}
+);
+unicode = A75E;
+}

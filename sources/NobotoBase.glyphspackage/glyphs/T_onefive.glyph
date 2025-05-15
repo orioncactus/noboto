@@ -1,0 +1,91 @@
+{
+glyphname = Tonefive;
+layers = (
+{
+components = (
+{
+name = five;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"65 1456 LINE",
+"65 1275 LINE",
+"387 1275 LINE",
+"387 1456 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1154;
+},
+{
+components = (
+{
+name = five;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"59 1456 LINE",
+"59 1403 LINE",
+"306 1403 LINE",
+"306 1456 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+},
+{
+components = (
+{
+name = five;
+transform = "{1, 0, 0, 1, 107, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 1456 LINE",
+"60 1194 LINE",
+"371 1194 LINE",
+"371 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1283;
+}
+);
+unicode = 01BC;
+}

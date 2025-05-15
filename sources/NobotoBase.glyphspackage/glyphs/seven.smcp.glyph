@@ -1,0 +1,67 @@
+{
+glyphname = seven.smcp;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"66 1165 LINE",
+"66 1004 LINE",
+"755 1004 LINE",
+"224 0 LINE",
+"435 0 LINE",
+"966 1054 LINE",
+"966 1165 LINE"
+);
+}
+);
+width = 1043;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"69 1165 LINE",
+"69 1110 LINE",
+"847 1110 LINE",
+"277 0 LINE",
+"333 0 LINE",
+"908 1130 LINE",
+"908 1165 LINE"
+);
+}
+);
+width = 1010;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"43 1165 LINE",
+"43 905 LINE",
+"657 905 LINE",
+"174 0 LINE",
+"514 0 LINE",
+"995 984 LINE",
+"995 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1072;
+}
+);
+}

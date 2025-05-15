@@ -1,0 +1,90 @@
+{
+glyphname = IstrokeSmallmod;
+layers = (
+{
+components = (
+{
+name = Ismallmod;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1193 LINE",
+"40 1040 LINE",
+"591 1040 LINE",
+"591 1193 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 631;
+},
+{
+components = (
+{
+name = Ismallmod;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 1156 LINE",
+"20 1102 LINE",
+"411 1102 LINE",
+"411 1156 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 431;
+},
+{
+components = (
+{
+name = Ismallmod;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1235 LINE",
+"40 1062 LINE",
+"553 1062 LINE",
+"553 1235 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 593;
+}
+);
+unicode = 1DA7;
+}

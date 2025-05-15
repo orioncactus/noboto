@@ -1,0 +1,57 @@
+{
+glyphname = "enmod-cy";
+layers = (
+{
+components = (
+{
+name = Hmod;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1094;
+},
+{
+components = (
+{
+name = Hmod;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1008;
+},
+{
+components = (
+{
+name = Hmod;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1078;
+}
+);
+unicode = 1D78;
+}

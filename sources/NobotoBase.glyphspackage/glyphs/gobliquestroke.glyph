@@ -1,0 +1,93 @@
+{
+glyphname = gobliquestroke;
+layers = (
+{
+components = (
+{
+name = g;
+transform = "{1, 0, 0, 1, 60, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 395 LINE",
+"20 268 LINE",
+"1251 594 LINE",
+"1251 721 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1271;
+},
+{
+components = (
+{
+name = g;
+transform = "{1, 0, 0, 1, 68, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 410 LINE",
+"34 358 LINE",
+"1234 679 LINE",
+"1220 731 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1254;
+},
+{
+components = (
+{
+name = g;
+transform = "{1, 0, 0, 1, 158, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 425 LINE",
+"20 247 LINE",
+"1463 632 LINE",
+"1463 809 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1483;
+}
+);
+unicode = A7A1;
+}

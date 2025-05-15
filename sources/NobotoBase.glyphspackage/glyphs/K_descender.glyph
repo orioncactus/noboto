@@ -1,0 +1,93 @@
+{
+glyphname = Kdescender;
+layers = (
+{
+components = (
+{
+name = K;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1097 166 LINE",
+"1128 38 LINE",
+"1128 -358 LINE",
+"1334 -358 LINE",
+"1334 166 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1362;
+},
+{
+components = (
+{
+name = K;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1170 54 LINE",
+"1180 11 LINE",
+"1180 -349 LINE",
+"1235 -349 LINE",
+"1235 54 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1300;
+},
+{
+components = (
+{
+name = K;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1022 270 LINE",
+"1062 109 LINE",
+"1062 -358 LINE",
+"1397 -358 LINE",
+"1397 270 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1408;
+}
+);
+unicode = 2C69;
+}

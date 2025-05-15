@@ -1,0 +1,169 @@
+{
+color = 0;
+glyphname = uniB29A;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"283 1350 LINE",
+"283 1096 LINE",
+"1622 1096 LINE",
+"1622 1350 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 1001 LINE",
+"74 735 LINE",
+"1812 735 LINE",
+"1812 1001 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"283 1708 LINE",
+"283 1235 LINE",
+"618 1235 LINE",
+"618 1708 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"244 651 LINE",
+"244 418 LINE",
+"573 418 LINE",
+"573 354 LINE",
+"246 354 LINE",
+"246 -31 LINE",
+"553 -31 LINE",
+"553 137 LINE",
+"881 137 LINE",
+"881 651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"973 651 LINE",
+"973 -176 LINE",
+"1620 -176 LINE",
+"1620 651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1346 414 LINE",
+"1346 61 LINE",
+"1247 61 LINE",
+"1247 414 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"246 61 LINE",
+"246 -176 LINE",
+"362 -176 LINE SMOOTH",
+"664 -176 OFFCURVE",
+"778 -176 OFFCURVE",
+"915 -150 CURVE",
+"897 86 LINE",
+"764 61 OFFCURVE",
+"655 61 OFFCURVE",
+"362 61 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"360 1169 LINE",
+"360 1106 LINE",
+"1563 1106 LINE",
+"1563 1169 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 872 LINE",
+"119 809 LINE",
+"1759 809 LINE",
+"1759 872 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 1636 LINE",
+"360 1137 LINE",
+"422 1137 LINE",
+"422 1636 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 588 LINE",
+"315 528 LINE",
+"815 528 LINE",
+"815 289 LINE",
+"319 289 LINE",
+"319 -82 LINE",
+"385 -82 LINE",
+"385 229 LINE",
+"879 229 LINE",
+"879 588 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1016 588 LINE",
+"1016 -109 LINE",
+"1581 -109 LINE",
+"1581 588 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 530 LINE",
+"1513 -49 LINE",
+"1081 -49 LINE",
+"1081 530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"319 -47 LINE",
+"319 -109 LINE",
+"408 -109 LINE SMOOTH",
+"637 -109 OFFCURVE",
+"770 -106 OFFCURVE",
+"954 -70 CURVE",
+"942 -10 LINE",
+"768 -43 OFFCURVE",
+"635 -47 OFFCURVE",
+"408 -47 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B29A;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = quotedblleft;
+layers = (
+{
+components = (
+{
+name = quoteleft;
+transform = "{1, 0, 0, 1, 10, 0}";
+},
+{
+name = quoteleft;
+transform = "{1, 0, 0, 1, 339, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 749;
+},
+{
+components = (
+{
+name = quoteleft;
+transform = "{1, 0, 0, 1, -6, 0}";
+},
+{
+name = quoteleft;
+transform = "{1, 0, 0, 1, 180, 0}";
+}
+);
+layerId = master01;
+width = 500;
+},
+{
+components = (
+{
+name = quoteleft;
+transform = "{1, 0, 0, 1, 7, 0}";
+},
+{
+name = quoteleft;
+transform = "{1, 0, 0, 1, 356, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 861;
+}
+);
+leftKerningGroup = quotedbl;
+rightKerningGroup = quotedbl;
+unicode = 201C;
+}

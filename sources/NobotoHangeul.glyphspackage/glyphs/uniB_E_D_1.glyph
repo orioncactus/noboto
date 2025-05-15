@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniBED1;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1427 1726 LINE",
+"1427 598 LINE",
+"1751 598 LINE",
+"1751 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"336 526 LINE",
+"336 266 LINE",
+"1417 266 LINE",
+"1417 -195 LINE",
+"1749 -195 LINE",
+"1749 526 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"94 1630 LINE",
+"94 662 LINE",
+"684 662 LINE",
+"684 1630 LINE",
+"420 1630 LINE",
+"420 1389 LINE",
+"360 1389 LINE",
+"360 1630 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 1137 LINE",
+"420 1137 LINE",
+"420 920 LINE",
+"360 920 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"741 1630 LINE",
+"741 662 LINE",
+"1321 662 LINE",
+"1321 1630 LINE",
+"1059 1630 LINE",
+"1059 1389 LINE",
+"1004 1389 LINE",
+"1004 1630 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1004 1137 LINE",
+"1059 1137 LINE",
+"1059 920 LINE",
+"1004 920 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1239 1294 LINE",
+"1239 1030 LINE",
+"1511 1030 LINE",
+"1511 1294 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1534 1671 LINE",
+"1534 573 LINE",
+"1602 573 LINE",
+"1602 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"381 471 LINE",
+"381 410 LINE",
+"1534 410 LINE",
+"1534 -135 LINE",
+"1602 -135 LINE",
+"1602 471 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"184 1556 LINE",
+"184 717 LINE",
+"637 717 LINE",
+"637 1556 LINE",
+"571 1556 LINE",
+"571 1208 LINE",
+"252 1208 LINE",
+"252 1556 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"252 1147 LINE",
+"571 1147 LINE",
+"571 778 LINE",
+"252 778 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"786 1556 LINE",
+"786 717 LINE",
+"1225 717 LINE",
+"1225 1556 LINE",
+"1159 1556 LINE",
+"1159 1208 LINE",
+"854 1208 LINE",
+"854 1556 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"854 1147 LINE",
+"1159 1147 LINE",
+"1159 778 LINE",
+"854 778 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1190 1169 LINE",
+"1190 1108 LINE",
+"1561 1108 LINE",
+"1561 1169 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BED1;
+}

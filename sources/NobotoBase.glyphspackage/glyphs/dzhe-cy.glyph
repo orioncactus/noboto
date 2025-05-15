@@ -1,0 +1,98 @@
+{
+glyphname = "dzhe-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"497 -357 LINE",
+"697 -357 LINE",
+"697 160 LINE",
+"497 160 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"155 0 LINE",
+"1034 0 LINE",
+"1034 1082 LINE",
+"834 1082 LINE",
+"834 160 LINE",
+"355 160 LINE",
+"355 1082 LINE",
+"155 1082 LINE"
+);
+}
+);
+width = 1189;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"538 -350 LINE",
+"592 -350 LINE",
+"592 54 LINE",
+"538 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 0 LINE",
+"950 0 LINE",
+"950 1082 LINE",
+"895 1082 LINE",
+"895 54 LINE",
+"226 54 LINE",
+"226 1082 LINE",
+"172 1082 LINE"
+);
+}
+);
+width = 1121;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"416 -360 LINE",
+"738 -360 LINE",
+"738 260 LINE",
+"416 260 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 0 LINE",
+"1059 0 LINE",
+"1059 1082 LINE",
+"736 1082 LINE",
+"736 260 LINE",
+"418 260 LINE",
+"418 1082 LINE",
+"96 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1153;
+}
+);
+unicode = 045F;
+}

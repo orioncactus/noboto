@@ -1,0 +1,49 @@
+{
+glyphname = twodotenleader;
+layers = (
+{
+components = (
+{
+name = period;
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 443, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 972;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 38, 0}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 422, 0}";
+}
+);
+layerId = master01;
+width = 893;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 10, 0}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 494, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1103;
+}
+);
+leftKerningGroup = comma;
+rightKerningGroup = comma;
+unicode = 2025;
+}

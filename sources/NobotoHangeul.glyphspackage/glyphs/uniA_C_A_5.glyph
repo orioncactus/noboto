@@ -1,0 +1,177 @@
+{
+color = 0;
+glyphname = uniACA5;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"414 676 LINE",
+"414 -39 LINE",
+"743 -39 LINE",
+"743 432 LINE",
+"1731 432 LINE",
+"1731 676 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"414 57 LINE",
+"414 -186 LINE",
+"1763 -186 LINE",
+"1763 57 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"686 358 LINE",
+"686 131 LINE",
+"1710 131 LINE",
+"1710 358 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1407 1729 LINE",
+"1407 741 LINE",
+"1720 741 LINE",
+"1720 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"678 1319 LINE",
+"678 1063 LINE",
+"1055 1063 LINE",
+"1055 1319 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1012 1694 LINE",
+"1012 754 LINE",
+"1319 754 LINE",
+"1319 1694 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"567 1626 LINE",
+"567 1495 LINE SMOOTH",
+"567 1233 OFFCURVE",
+"449 1055 OFFCURVE",
+"63 934 CURVE",
+"219 694 LINE",
+"705 864 OFFCURVE",
+"903 1147 OFFCURVE",
+"903 1626 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 1626 LINE",
+"176 1368 LINE",
+"715 1368 LINE",
+"715 1626 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"487 594 LINE",
+"487 -82 LINE",
+"555 -82 LINE",
+"555 535 LINE",
+"1636 535 LINE",
+"1636 594 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"487 -47 LINE",
+"487 -109 LINE",
+"1679 -109 LINE",
+"1679 -47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"524 281 LINE",
+"524 219 LINE",
+"1614 219 LINE",
+"1614 281 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1561 1669 LINE",
+"1561 721 LINE",
+"1626 721 LINE",
+"1626 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"780 1194 LINE",
+"780 1133 LINE",
+"1264 1133 LINE",
+"1264 1194 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1210 1628 LINE",
+"1210 735 LINE",
+"1276 735 LINE",
+"1276 1628 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"854 1561 LINE",
+"854 1548 LINE SMOOTH",
+"854 1178 OFFCURVE",
+"590 885 OFFCURVE",
+"162 723 CURVE",
+"199 672 LINE",
+"647 844 OFFCURVE",
+"920 1161 OFFCURVE",
+"920 1561 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"219 1561 LINE",
+"219 1499 LINE",
+"877 1499 LINE",
+"877 1561 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = ACA5;
+}

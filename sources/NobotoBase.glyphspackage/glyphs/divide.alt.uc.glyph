@@ -1,0 +1,35 @@
+{
+glyphname = divide.alt.uc;
+layers = (
+{
+components = (
+{
+name = divide.alt;
+transform = "{1, 0, 0, 1, 0, 178}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1240;
+},
+{
+components = (
+{
+name = divide.alt;
+transform = "{1, 0, 0, 1, 0, 178}";
+}
+);
+layerId = master01;
+width = 1161;
+},
+{
+components = (
+{
+name = divide.alt;
+transform = "{1, 0, 0, 1, 0, 178}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1348;
+}
+);
+}

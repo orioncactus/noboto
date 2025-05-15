@@ -1,0 +1,162 @@
+{
+glyphname = hungarumlaut;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{345, 1290}";
+},
+{
+name = mkmktop_acc;
+position = "{345, 1620}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"554 1232 LINE",
+"820 1535 LINE",
+"599 1535 LINE",
+"374 1232 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"248 1232 LINE",
+"463 1535 LINE",
+"252 1535 LINE",
+"89 1232 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 762;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{330, 1293}";
+},
+{
+name = mkmktop_acc;
+position = "{330, 1543}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"454 1232 LINE",
+"742 1536 LINE",
+"662 1536 LINE",
+"381 1232 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1232 LINE",
+"458 1536 LINE",
+"382 1536 LINE",
+"146 1232 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 783;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{369, 1290}";
+},
+{
+name = mkmktop_acc;
+position = "{369, 1640}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"654 1235 LINE",
+"920 1535 LINE",
+"648 1535 LINE",
+"423 1235 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"277 1235 LINE",
+"512 1535 LINE",
+"240 1535 LINE",
+"46 1235 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 870;
+}
+);
+unicode = 02DD;
+}

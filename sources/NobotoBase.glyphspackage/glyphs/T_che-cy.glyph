@@ -1,0 +1,93 @@
+{
+glyphname = "Tche-cy";
+layers = (
+{
+components = (
+{
+name = "Che-cy";
+transform = "{1, 0, 0, 1, 336, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 1456 LINE",
+"20 1289 LINE",
+"1142 1289 LINE",
+"1142 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1737;
+},
+{
+components = (
+{
+name = "Che-cy";
+transform = "{1, 0, 0, 1, 278, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-40 1456 LINE",
+"-40 1402 LINE",
+"1054 1402 LINE",
+"1054 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1608;
+},
+{
+components = (
+{
+name = "Che-cy";
+transform = "{1, 0, 0, 1, 316, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1456 LINE",
+"40 1185 LINE",
+"1132 1185 LINE",
+"1132 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1745;
+}
+);
+unicode = A692;
+}

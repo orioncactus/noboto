@@ -1,0 +1,175 @@
+{
+color = 0;
+glyphname = uniBCD5;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"412 655 LINE",
+"412 -59 LINE",
+"741 -59 LINE",
+"741 422 LINE",
+"1704 422 LINE",
+"1704 655 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 59 LINE",
+"412 -176 LINE",
+"1733 -176 LINE",
+"1733 59 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"641 354 LINE",
+"641 131 LINE",
+"1667 131 LINE",
+"1667 354 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1010 1507 LINE",
+"1010 1253 LINE",
+"1436 1253 LINE",
+"1436 1507 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1010 1149 LINE",
+"1010 897 LINE",
+"1436 897 LINE",
+"1436 1149 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1364 1726 LINE",
+"1364 721 LINE",
+"1696 721 LINE",
+"1696 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 1642 LINE",
+"145 766 LINE",
+"1077 766 LINE",
+"1077 1642 LINE",
+"754 1642 LINE",
+"754 1440 LINE",
+"473 1440 LINE",
+"473 1642 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"473 1196 LINE",
+"754 1196 LINE",
+"754 1020 LINE",
+"473 1020 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"463 563 LINE",
+"463 -90 LINE",
+"528 -90 LINE",
+"528 502 LINE",
+"1587 502 LINE",
+"1587 563 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"463 -47 LINE",
+"463 -109 LINE",
+"1626 -109 LINE",
+"1626 -47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"498 264 LINE",
+"498 203 LINE",
+"1567 203 LINE",
+"1567 264 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"954 1376 LINE",
+"954 1315 LINE",
+"1538 1315 LINE",
+"1538 1376 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"954 1040 LINE",
+"954 981 LINE",
+"1538 981 LINE",
+"1538 1040 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 1671 LINE",
+"1513 676 LINE",
+"1579 676 LINE",
+"1579 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 1579 LINE",
+"223 784 LINE",
+"999 784 LINE",
+"999 1579 LINE",
+"932 1579 LINE",
+"932 1257 LINE",
+"291 1257 LINE",
+"291 1579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 1198 LINE",
+"932 1198 LINE",
+"932 844 LINE",
+"291 844 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BCD5;
+}

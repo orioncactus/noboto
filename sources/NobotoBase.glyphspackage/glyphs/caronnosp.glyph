@@ -1,0 +1,89 @@
+{
+glyphname = caronnosp;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-901 1518 LINE",
+"-901 1497 LINE",
+"-647 1252 LINE",
+"-527 1252 LINE",
+"-269 1500 LINE",
+"-269 1518 LINE",
+"-441 1518 LINE",
+"-587 1372 LINE",
+"-733 1518 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-816 1475 LINE",
+"-816 1461 LINE",
+"-602 1252 LINE",
+"-523 1252 LINE",
+"-311 1459 LINE",
+"-311 1475 LINE",
+"-378 1475 LINE",
+"-562 1288 LINE",
+"-745 1475 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-979 1528 LINE",
+"-979 1514 LINE",
+"-689 1252 LINE",
+"-463 1252 LINE",
+"-175 1512 LINE",
+"-175 1528 LINE",
+"-449 1528 LINE",
+"-576 1392 LINE",
+"-703 1528 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+}

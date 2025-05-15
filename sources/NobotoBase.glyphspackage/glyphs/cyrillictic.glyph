@@ -1,0 +1,92 @@
+{
+glyphname = cyrillictic;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{193, 63}";
+},
+{
+name = _left;
+position = "{273, 0}";
+},
+{
+name = _right;
+position = "{121, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"95 159 LINE",
+"95 -360 LINE",
+"295 -360 LINE",
+"295 159 LINE"
+);
+}
+);
+width = 401;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{209, 70}";
+},
+{
+name = _left;
+position = "{236, 0}";
+},
+{
+name = _right;
+position = "{182, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"182 95 LINE",
+"182 -352 LINE",
+"236 -352 LINE",
+"236 95 LINE"
+);
+}
+);
+width = 408;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{250, 133}";
+},
+{
+name = _left;
+position = "{337, 0}";
+},
+{
+name = _right;
+position = "{173, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"89 223 LINE",
+"89 -356 LINE",
+"411 -356 LINE",
+"411 223 LINE"
+);
+}
+);
+width = 500;
+}
+);
+}

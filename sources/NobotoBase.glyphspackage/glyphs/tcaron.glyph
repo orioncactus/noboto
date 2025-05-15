@@ -1,0 +1,51 @@
+{
+glyphname = tcaron;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = t;
+},
+{
+alignment = -1;
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 536, 1733}";
+}
+);
+layerId = master01;
+width = 688;
+},
+{
+components = (
+{
+alignment = -1;
+name = t;
+},
+{
+alignment = -1;
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 676, 1733}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 884;
+},
+{
+components = (
+{
+alignment = -1;
+name = t;
+},
+{
+alignment = -1;
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 714, 1733}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 926;
+}
+);
+unicode = 0165;
+}

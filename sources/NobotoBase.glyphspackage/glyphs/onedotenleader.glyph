@@ -1,0 +1,58 @@
+{
+glyphname = onedotenleader;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -4, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 523;
+},
+{
+components = (
+{
+name = period;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 405;
+},
+{
+components = (
+{
+name = period;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 612;
+}
+);
+unicode = 2024;
+}

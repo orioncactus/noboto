@@ -1,0 +1,108 @@
+{
+glyphname = caretSign;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"448 -95 LINE",
+"329 -95 LINE",
+"30 -546 LINE",
+"205 -546 LINE",
+"377 -263 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"763 -546 LINE",
+"465 -95 LINE",
+"345 -95 LINE",
+"414 -263 LINE",
+"589 -546 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 793;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"469 -105 LINE",
+"420 -105 LINE",
+"80 -549 LINE",
+"139 -549 LINE",
+"398 -209 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"813 -549 LINE",
+"474 -105 LINE",
+"425 -105 LINE",
+"493 -209 LINE",
+"753 -549 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 893;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"584 -105 LINE",
+"421 -105 LINE",
+"80 -555 LINE",
+"323 -555 LINE",
+"520 -273 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"987 -555 LINE",
+"636 -105 LINE",
+"473 -105 LINE",
+"534 -273 LINE",
+"744 -555 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1067;
+}
+);
+unicode = 2038;
+}

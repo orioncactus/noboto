@@ -1,0 +1,89 @@
+{
+glyphname = "Hadescender-cy.smcp";
+layers = (
+{
+components = (
+{
+name = X.smcp;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1150 159 LINE",
+"970 159 LINE",
+"970 -341 LINE",
+"1150 -341 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.779,
+0.6,
+1
+);
+};
+width = 1200;
+},
+{
+components = (
+{
+name = X.smcp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1021 54 LINE",
+"967 54 LINE",
+"967 -331 LINE",
+"1021 -331 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+},
+{
+components = (
+{
+name = X.smcp;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1190 260 LINE",
+"930 260 LINE",
+"930 -331 LINE",
+"1190 -331 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1260;
+}
+);
+}

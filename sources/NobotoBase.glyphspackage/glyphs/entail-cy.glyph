@@ -1,0 +1,94 @@
+{
+glyphname = "entail-cy";
+layers = (
+{
+anchors = (
+{
+name = top0315;
+position = "{1188, 1269}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "en-cy";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 911, -72}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1280;
+},
+{
+anchors = (
+{
+name = top0315;
+position = "{1121, 1269}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "en-cy";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 766, -25}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1080;
+},
+{
+anchors = (
+{
+name = top0315;
+position = "{1153, 1269}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "en-cy";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 883, -35}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1353;
+}
+);
+leftKerningGroup = m;
+unicode = 04CA;
+}

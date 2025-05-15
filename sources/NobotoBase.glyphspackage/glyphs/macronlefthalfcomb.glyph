@@ -1,0 +1,93 @@
+{
+glyphname = macronlefthalfcomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-313, 1170}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-588 1456 LINE",
+"-588 1306 LINE",
+"-37 1306 LINE",
+"-37 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-306, 1170}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-562 1456 LINE",
+"-562 1403 LINE",
+"-49 1403 LINE",
+"-49 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-319, 1170}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-576 1458 LINE",
+"-576 1285 LINE",
+"-61 1285 LINE",
+"-61 1458 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = FE24;
+}

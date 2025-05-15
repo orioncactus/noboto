@@ -1,0 +1,89 @@
+{
+glyphname = quotesinglbase.alt;
+layers = (
+{
+components = (
+{
+name = quoteright.alt;
+transform = "{1, 0, 0, 1, 0, -1237}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 567;
+},
+{
+components = (
+{
+name = quoteright.alt;
+transform = "{1, 0, 0, 1, 0, -1304}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 412;
+},
+{
+components = (
+{
+name = quoteright.alt;
+transform = "{1, 0, 0, 1, 0, -1202}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 750;
+}
+);
+}

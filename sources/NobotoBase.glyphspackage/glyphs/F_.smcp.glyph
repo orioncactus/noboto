@@ -1,0 +1,190 @@
+{
+glyphname = F.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{491, 10}";
+},
+{
+name = bottom_dd;
+position = "{968, -407}";
+},
+{
+name = cross;
+position = "{286, 254}";
+},
+{
+name = top;
+position = "{539, 1320}";
+},
+{
+name = top0315;
+position = "{968, 1320}";
+},
+{
+name = top_dd;
+position = "{968, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"135 1165 LINE",
+"135 0 LINE",
+"335 0 LINE",
+"335 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"290 655 LINE",
+"290 494 LINE",
+"842 494 LINE",
+"842 655 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"290 1165 LINE",
+"290 1004 LINE",
+"921 1004 LINE",
+"921 1165 LINE"
+);
+}
+);
+width = 968;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{471, 10}";
+},
+{
+name = bottom_dd;
+position = "{1005, -407}";
+},
+{
+name = cross;
+position = "{285, 270}";
+},
+{
+name = top;
+position = "{559, 1320}";
+},
+{
+name = top0315;
+position = "{1005, 1320}";
+},
+{
+name = top_dd;
+position = "{1005, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"170 1165 LINE",
+"170 0 LINE",
+"224 0 LINE",
+"224 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"190 620 LINE",
+"190 565 LINE",
+"857 565 LINE",
+"857 620 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"190 1165 LINE",
+"190 1110 LINE",
+"945 1110 LINE",
+"945 1165 LINE"
+);
+}
+);
+width = 1005;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{411, 10}";
+},
+{
+name = bottom_dd;
+position = "{962, -407}";
+},
+{
+name = cross;
+position = "{282, 209}";
+},
+{
+name = top;
+position = "{521, 1320}";
+},
+{
+name = top0315;
+position = "{962, 1320}";
+},
+{
+name = top_dd;
+position = "{962, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"87 1165 LINE",
+"87 0 LINE",
+"410 0 LINE",
+"410 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"316 700 LINE",
+"316 440 LINE",
+"892 440 LINE",
+"892 700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"316 1165 LINE",
+"316 905 LINE",
+"936 905 LINE",
+"936 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 962;
+}
+);
+}

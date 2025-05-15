@@ -1,0 +1,159 @@
+{
+glyphname = bridgebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-588, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-588, -465}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-248 -465 LINE",
+"-248 -109 LINE",
+"-399 -109 LINE",
+"-399 -465 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-778 -465 LINE",
+"-778 -109 LINE",
+"-929 -109 LINE",
+"-929 -465 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-384 -232 LINE",
+"-384 -109 LINE",
+"-797 -109 LINE",
+"-797 -232 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-553, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-553, -455}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-253 -455 LINE",
+"-253 -119 LINE",
+"-307 -119 LINE",
+"-307 -455 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-819 -455 LINE",
+"-819 -119 LINE",
+"-874 -119 LINE",
+"-874 -455 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-292 -173 LINE",
+"-292 -119 LINE",
+"-838 -119 LINE",
+"-838 -173 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-577, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-577, -496}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-218 -476 LINE",
+"-218 -90 LINE",
+"-419 -90 LINE",
+"-419 -476 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-738 -476 LINE",
+"-738 -90 LINE",
+"-939 -90 LINE",
+"-939 -476 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-404 -280 LINE",
+"-404 -90 LINE",
+"-807 -90 LINE",
+"-807 -280 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 032A;
+}

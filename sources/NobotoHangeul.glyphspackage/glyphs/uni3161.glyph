@@ -1,0 +1,37 @@
+{
+color = 0;
+glyphname = uni3161;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"74 940 LINE",
+"74 674 LINE",
+"1812 674 LINE",
+"1812 940 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"127 821 LINE",
+"127 760 LINE",
+"1749 760 LINE",
+"1749 821 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = "3161,FFDA";
+}

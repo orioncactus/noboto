@@ -1,0 +1,135 @@
+{
+glyphname = "pokrytiecomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-592, 1190}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-417 1437 OFFCURVE",
+"-485 1557 OFFCURVE",
+"-693 1557 CURVE SMOOTH",
+"-870 1557 OFFCURVE",
+"-973 1472 OFFCURVE",
+"-973 1340 CURVE SMOOTH",
+"-973 1303 LINE",
+"-837 1303 LINE",
+"-837 1321 LINE SMOOTH",
+"-837 1393 OFFCURVE",
+"-770 1423 OFFCURVE",
+"-706 1423 CURVE SMOOTH",
+"-514 1423 OFFCURVE",
+"-464 1303 OFFCURVE",
+"-328 1303 CURVE SMOOTH",
+"-151 1303 LINE",
+"-151 1437 LINE",
+"-313 1437 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-632, 1190}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-431 1361 OFFCURVE",
+"-496 1557 OFFCURVE",
+"-727 1557 CURVE SMOOTH",
+"-897 1557 OFFCURVE",
+"-976 1453 OFFCURVE",
+"-976 1329 CURVE SMOOTH",
+"-976 1303 LINE",
+"-921 1303 LINE",
+"-921 1321 LINE SMOOTH",
+"-921 1415 OFFCURVE",
+"-875 1504 OFFCURVE",
+"-727 1504 CURVE SMOOTH",
+"-503 1504 OFFCURVE",
+"-479 1317 OFFCURVE",
+"-302 1317 CURVE SMOOTH",
+"-148 1317 LINE",
+"-148 1361 LINE",
+"-302 1361 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-618, 1190}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-433 1437 OFFCURVE",
+"-501 1557 OFFCURVE",
+"-709 1557 CURVE SMOOTH",
+"-886 1557 OFFCURVE",
+"-989 1472 OFFCURVE",
+"-989 1340 CURVE SMOOTH",
+"-989 1303 LINE",
+"-853 1303 LINE",
+"-853 1321 LINE SMOOTH",
+"-853 1393 OFFCURVE",
+"-786 1423 OFFCURVE",
+"-722 1423 CURVE SMOOTH",
+"-530 1423 OFFCURVE",
+"-480 1303 OFFCURVE",
+"-344 1303 CURVE SMOOTH",
+"-167 1303 LINE",
+"-167 1437 LINE",
+"-329 1437 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0487;
+}

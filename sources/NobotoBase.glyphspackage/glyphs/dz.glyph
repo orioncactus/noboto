@@ -1,0 +1,192 @@
+{
+glyphname = dz;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{1406, 0}";
+},
+{
+name = top;
+position = "{1406, 1600}";
+},
+{
+name = top0315;
+position = "{1946, 1600}";
+}
+);
+components = (
+{
+name = d;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1092 160 LINE",
+"1092 0 LINE",
+"1875 0 LINE",
+"1875 160 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1849 1082 LINE",
+"1722 1082 LINE",
+"1015 144 LINE",
+"1015 0 LINE",
+"1137 0 LINE",
+"1849 944 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"981 1082 LINE",
+"981 921 LINE",
+"1761 921 LINE",
+"1761 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1946;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{1358, 0}";
+},
+{
+name = top;
+position = "{1358, 1600}";
+},
+{
+name = top0315;
+position = "{1842, 1600}";
+}
+);
+components = (
+{
+name = d;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"966 54 LINE",
+"966 0 LINE",
+"1794 0 LINE",
+"1794 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1735 1082 LINE",
+"1702 1082 LINE",
+"951 44 LINE",
+"951 0 LINE",
+"985 0 LINE",
+"1735 1034 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"912 1082 LINE",
+"912 1027 LINE",
+"1710 1027 LINE",
+"1710 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1842;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{1515, 0}";
+},
+{
+name = top;
+position = "{1515, 1600}";
+},
+{
+name = top0315;
+position = "{2033, 1600}";
+}
+);
+components = (
+{
+name = d;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1131 260 LINE",
+"1131 0 LINE",
+"1963 0 LINE",
+"1963 260 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1951 1082 LINE",
+"1731 1082 LINE",
+"1051 188 LINE",
+"1051 0 LINE",
+"1270 0 LINE",
+"1951 900 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1030 1082 LINE",
+"1030 822 LINE",
+"1843 822 LINE",
+"1843 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2033;
+}
+);
+unicode = 01F3;
+}

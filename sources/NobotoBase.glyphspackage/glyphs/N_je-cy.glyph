@@ -1,0 +1,170 @@
+{
+glyphname = "Nje-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"353 832 LINE",
+"353 666 LINE",
+"1105 666 LINE",
+"1105 832 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"176 1456 LINE",
+"176 0 LINE",
+"384 0 LINE",
+"384 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1240 684 LINE",
+"1635 684 LINE",
+"1840 684 OFFCURVE",
+"1924 566 OFFCURVE",
+"1924 432 CURVE",
+"1924 297 OFFCURVE",
+"1840 176 OFFCURVE",
+"1635 176 CURVE",
+"1286 176 LINE",
+"1286 1456 LINE",
+"1078 1456 LINE",
+"1078 0 LINE",
+"1635 0 LINE",
+"1955 0 OFFCURVE",
+"2131 182 OFFCURVE",
+"2131 430 CURVE",
+"2131 678 OFFCURVE",
+"1955 850 OFFCURVE",
+"1635 850 CURVE",
+"1240 850 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 2213;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"222 748 LINE",
+"222 694 LINE",
+"1202 694 LINE",
+"1202 748 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"195 1456 LINE",
+"195 0 LINE",
+"249 0 LINE",
+"249 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1192 756 LINE",
+"1602 756 LINE",
+"1898 756 OFFCURVE",
+"2020 583 OFFCURVE",
+"2020 407 CURVE",
+"2020 222 OFFCURVE",
+"1898 53 OFFCURVE",
+"1602 53 CURVE",
+"1233 53 LINE",
+"1233 1456 LINE",
+"1179 1456 LINE",
+"1179 0 LINE",
+"1602 0 LINE",
+"1914 0 OFFCURVE",
+"2074 173 OFFCURVE",
+"2074 405 CURVE",
+"2074 638 OFFCURVE",
+"1915 810 OFFCURVE",
+"1602 810 CURVE",
+"1192 810 LINE"
+);
+}
+);
+width = 2209;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"344 847 LINE",
+"344 577 LINE",
+"1097 577 LINE",
+"1097 847 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"116 1456 LINE",
+"116 0 LINE",
+"451 0 LINE",
+"451 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1205 720 LINE",
+"1526 720 LINE",
+"1682 720 OFFCURVE",
+"1764 613 OFFCURVE",
+"1764 497 CURVE",
+"1764 376 OFFCURVE",
+"1682 268 OFFCURVE",
+"1526 268 CURVE",
+"1326 268 LINE",
+"1326 1456 LINE",
+"992 1456 LINE",
+"992 0 LINE",
+"1526 0 LINE",
+"1876 0 OFFCURVE",
+"2098 208 OFFCURVE",
+"2098 495 CURVE",
+"2098 780 OFFCURVE",
+"1876 990 OFFCURVE",
+"1526 990 CURVE",
+"1205 990 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 2152;
+}
+);
+rightKerningGroup = "Lje-cy";
+unicode = 040A;
+}

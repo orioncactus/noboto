@@ -1,0 +1,119 @@
+{
+glyphname = "iotifieda-cy.cn";
+layers = (
+{
+components = (
+{
+name = a.cn;
+transform = "{1, 0, 0, 1, 401, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"296 386 LINE",
+"296 227 LINE",
+"653 227 LINE",
+"653 386 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 1082 LINE",
+"137 0 LINE",
+"337 0 LINE",
+"337 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1519;
+},
+{
+components = (
+{
+name = a.cn;
+transform = "{1, 0, 0, 1, 352, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"204 309 LINE",
+"204 255 LINE",
+"474 255 LINE",
+"474 309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 1082 LINE",
+"172 0 LINE",
+"226 0 LINE",
+"226 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1433;
+},
+{
+components = (
+{
+name = a.cn;
+transform = "{1, 0, 0, 1, 476, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"261 412 LINE",
+"261 167 LINE",
+"818 167 LINE",
+"818 412 LINE {name = hr00;}"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 1082 LINE",
+"102 0 LINE",
+"425 0 LINE",
+"425 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1567;
+}
+);
+}

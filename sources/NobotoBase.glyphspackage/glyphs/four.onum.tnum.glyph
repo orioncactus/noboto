@@ -1,0 +1,62 @@
+{
+glyphname = four.onum.tnum;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = four.onum;
+transform = "{1, 0, 0, 1, -26, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1154;
+},
+{
+components = (
+{
+alignment = -1;
+name = four.onum;
+transform = "{1, 0, 0, 1, -43, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+},
+{
+components = (
+{
+alignment = -1;
+name = four.onum;
+transform = "{1, 0, 0, 1, 20, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1183;
+}
+);
+}

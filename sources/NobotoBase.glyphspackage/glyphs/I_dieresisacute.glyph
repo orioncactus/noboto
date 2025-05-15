@@ -1,0 +1,180 @@
+{
+glyphname = Idieresisacute;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{369, 10}";
+},
+{
+name = bottom_dd;
+position = "{649, -407}";
+},
+{
+name = ogonek;
+position = "{436, 0}";
+},
+{
+name = right;
+position = "{469, 0}";
+},
+{
+name = tonos;
+position = "{168, 1457}";
+},
+{
+name = top;
+position = "{369, 1612}";
+},
+{
+name = top0315;
+position = "{649, 1612}";
+},
+{
+name = top_dd;
+position = "{649, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 89, 0}";
+},
+{
+alignment = -1;
+name = dieresisacutecomb;
+transform = "{1, 0, 0, 1, 957, 349}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 740;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{288, 0}";
+},
+{
+name = bottom_dd;
+position = "{554, -407}";
+},
+{
+name = ogonek;
+position = "{308, 0}";
+},
+{
+name = right;
+position = "{314, 0}";
+},
+{
+name = tonos;
+position = "{88, 1451}";
+},
+{
+name = top;
+position = "{288, 1612}";
+},
+{
+name = top0315;
+position = "{554, 1612}";
+},
+{
+name = top_dd;
+position = "{554, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 20, 0}";
+},
+{
+alignment = -1;
+name = dieresisacutecomb;
+transform = "{1, 0, 0, 1, 850, 249}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 576;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{374, 0}";
+},
+{
+name = bottom_dd;
+position = "{680, -407}";
+},
+{
+name = ogonek;
+position = "{474, 0}";
+},
+{
+name = right;
+position = "{533, 0}";
+},
+{
+name = tonos;
+position = "{68, 1457}";
+},
+{
+name = top;
+position = "{373, 1600}";
+},
+{
+name = top0315;
+position = "{680, 1600}";
+},
+{
+name = top_dd;
+position = "{680, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 68, 0}";
+},
+{
+alignment = -1;
+name = dieresisacutecomb;
+transform = "{1, 0, 0, 1, 949, 337}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 745;
+}
+);
+unicode = 1E2E;
+}

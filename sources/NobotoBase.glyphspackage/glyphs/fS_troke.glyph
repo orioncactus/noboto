@@ -1,0 +1,90 @@
+{
+glyphname = fStroke;
+layers = (
+{
+components = (
+{
+name = f;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 702 LINE",
+"60 552 LINE",
+"653 552 LINE",
+"653 702 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 719;
+},
+{
+components = (
+{
+name = f;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"66 682 LINE",
+"66 627 LINE",
+"594 627 LINE",
+"594 682 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 645;
+},
+{
+components = (
+{
+name = f;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"18 672 LINE",
+"18 438 LINE",
+"711 438 LINE",
+"711 672 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 740;
+}
+);
+unicode = A799;
+}

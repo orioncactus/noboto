@@ -1,0 +1,162 @@
+{
+glyphname = rum;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"670 1291 LINE",
+"442 591 LINE",
+"612 591 LINE",
+"839 1291 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"331 1082 LINE",
+"137 1082 LINE",
+"137 0 LINE",
+"337 0 LINE",
+"337 914 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"683 913 OFFCURVE",
+"762 893 OFFCURVE",
+"864 864 CURVE",
+"864 1049 LINE",
+"806 1073 OFFCURVE",
+"707 1102 OFFCURVE",
+"611 1102 CURVE SMOOTH",
+"352 1102 OFFCURVE",
+"253 884 OFFCURVE",
+"253 628 CURVE",
+"307 660 LINE",
+"325 809 OFFCURVE",
+"408 913 OFFCURVE",
+"584 913 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 894;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"669 1290 LINE",
+"400 591 LINE",
+"459 591 LINE",
+"728 1290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"226 1082 LINE",
+"172 1082 LINE",
+"172 0 LINE",
+"226 0 LINE",
+"226 894 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"660 1049 OFFCURVE",
+"728 1034 OFFCURVE",
+"795 1004 CURVE",
+"801 1059 LINE",
+"741 1084 OFFCURVE",
+"668 1102 OFFCURVE",
+"582 1102 CURVE SMOOTH",
+"309 1102 OFFCURVE",
+"179 881 OFFCURVE",
+"179 577 CURVE",
+"215 580 LINE",
+"215 835 OFFCURVE",
+"336 1049 OFFCURVE",
+"579 1049 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 831;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"743 1290 LINE",
+"479 488 LINE",
+"711 488 LINE",
+"974 1290 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"404 1082 LINE",
+"102 1082 LINE",
+"102 0 LINE",
+"424 0 LINE",
+"424 814 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"785 785 OFFCURVE",
+"889 772 OFFCURVE",
+"960 757 CURVE",
+"965 1070 LINE",
+"902 1089 OFFCURVE",
+"811 1102 OFFCURVE",
+"723 1102 CURVE SMOOTH",
+"485 1102 OFFCURVE",
+"343 902 OFFCURVE",
+"343 612 CURVE",
+"403 572 LINE",
+"403 714 OFFCURVE",
+"493 785 OFFCURVE",
+"701 785 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 996;
+}
+);
+unicode = A775;
+}

@@ -1,0 +1,92 @@
+{
+glyphname = "Twelve-roman";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = X;
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1303, 0}";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1833, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2395;
+},
+{
+components = (
+{
+alignment = -1;
+name = X;
+transform = "{1, 0, 0, 1, 1, 0}";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1171, 0}";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1571, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2105;
+},
+{
+components = (
+{
+alignment = -1;
+name = X;
+transform = "{1, 0, 0, 1, -2, 0}";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1318, 0}";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1880, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2492;
+}
+);
+unicode = 216B;
+}

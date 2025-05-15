@@ -1,0 +1,75 @@
+{
+glyphname = "dzelo-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "zemlya-cy";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 22, -197}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1020;
+},
+{
+components = (
+{
+alignment = -1;
+name = "zemlya-cy";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 60, -220}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 978;
+},
+{
+components = (
+{
+alignment = -1;
+name = "zemlya-cy";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 20, -208}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1051;
+}
+);
+unicode = A643;
+}

@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniB307;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"145 1593 LINE",
+"145 829 LINE",
+"481 829 LINE",
+"481 1331 LINE",
+"868 1331 LINE",
+"868 1593 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 977 LINE",
+"145 717 LINE",
+"283 717 LINE SMOOTH",
+"508 717 OFFCURVE",
+"713 721 OFFCURVE",
+"948 762 CURVE",
+"926 1018 LINE",
+"696 983 OFFCURVE",
+"500 977 OFFCURVE",
+"283 977 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"995 1694 LINE",
+"995 639 LINE",
+"1305 639 LINE",
+"1305 1694 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1192 1311 LINE",
+"1192 1044 LINE",
+"1606 1044 LINE",
+"1606 1311 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1411 1729 LINE",
+"1411 637 LINE",
+"1726 637 LINE",
+"1726 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"377 96 LINE",
+"377 -172 LINE",
+"1745 -172 LINE",
+"1745 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"377 559 LINE",
+"377 -18 LINE",
+"715 -18 LINE",
+"715 299 LINE",
+"1733 299 LINE",
+"1733 559 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"215 1520 LINE",
+"215 780 LINE",
+"281 780 LINE",
+"281 1458 LINE",
+"891 1458 LINE",
+"891 1520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 813 LINE",
+"215 750 LINE",
+"322 750 LINE SMOOTH",
+"631 750 OFFCURVE",
+"805 762 OFFCURVE",
+"1020 809 CURVE",
+"1010 872 LINE",
+"803 823 OFFCURVE",
+"627 813 OFFCURVE",
+"322 813 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1167 1634 LINE",
+"1167 575 LINE",
+"1235 575 LINE",
+"1235 1634 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1198 1155 LINE",
+"1198 1094 LINE",
+"1595 1094 LINE",
+"1595 1155 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1563 1669 LINE",
+"1563 561 LINE",
+"1628 561 LINE",
+"1628 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"440 -55 LINE",
+"440 -117 LINE",
+"1661 -117 LINE",
+"1661 -55 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"440 485 LINE",
+"440 -82 LINE",
+"508 -82 LINE",
+"508 422 LINE",
+"1645 422 LINE",
+"1645 485 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B307;
+}

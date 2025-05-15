@@ -1,0 +1,152 @@
+{
+glyphname = o_rhotichookmod;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{586, 0}";
+},
+{
+name = bottom_dd;
+position = "{1173, -407}";
+},
+{
+name = markbottom;
+position = "{586, 0}";
+},
+{
+name = top;
+position = "{576, 1290}";
+},
+{
+name = top0315;
+position = "{1583, 1290}";
+},
+{
+name = top_dd;
+position = "{1173, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1172, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1583;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{567, -10}";
+},
+{
+name = bottom_dd;
+position = "{1127, -407}";
+},
+{
+name = markbottom;
+position = "{567, -10}";
+},
+{
+name = top;
+position = "{567, 1290}";
+},
+{
+name = top0315;
+position = "{1547, 1290}";
+},
+{
+name = top_dd;
+position = "{1127, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1188, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1547;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{576, -10}";
+},
+{
+name = bottom_dd;
+position = "{1153, -407}";
+},
+{
+name = markbottom;
+position = "{576, -10}";
+},
+{
+name = top;
+position = "{576, 1290}";
+},
+{
+name = top0315;
+position = "{1606, 1290}";
+},
+{
+name = top_dd;
+position = "{1153, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = o;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1107, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1606;
+}
+);
+}

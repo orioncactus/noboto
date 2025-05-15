@@ -1,0 +1,90 @@
+{
+glyphname = DZcaron;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = D;
+},
+{
+alignment = -1;
+name = Z;
+transform = "{1, 0, 0, 1, 1170, 0}";
+},
+{
+alignment = -1;
+name = caron;
+transform = "{1, 0, 0, 1, 1332, 310}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2397;
+},
+{
+components = (
+{
+alignment = -1;
+name = D;
+},
+{
+alignment = -1;
+name = Z;
+transform = "{1, 0, 0, 1, 1020, 0}";
+},
+{
+alignment = -1;
+name = caron;
+transform = "{1, 0, 0, 1, 1247, 320}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2244;
+},
+{
+components = (
+{
+alignment = -1;
+name = D;
+},
+{
+alignment = -1;
+name = Z;
+transform = "{1, 0, 0, 1, 1190, 0}";
+},
+{
+alignment = -1;
+name = caron;
+transform = "{1, 0, 0, 1, 1333, 335}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2437;
+}
+);
+unicode = 01C4;
+}

@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniB045;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"233 1661 LINE",
+"233 1401 LINE",
+"649 1401 LINE",
+"649 1661 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"557 1661 LINE",
+"557 1518 LINE SMOOTH",
+"557 1356 OFFCURVE",
+"557 1182 OFFCURVE",
+"459 911 CURVE",
+"778 868 LINE",
+"879 1143 OFFCURVE",
+"879 1346 OFFCURVE",
+"879 1518 CURVE SMOOTH",
+"879 1661 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"975 1661 LINE",
+"975 1401 LINE",
+"1456 1401 LINE",
+"1456 1661 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1300 1661 LINE",
+"1300 1509 LINE SMOOTH",
+"1300 1339 OFFCURVE",
+"1300 1159 OFFCURVE",
+"1219 893 CURVE",
+"1538 852 LINE",
+"1622 1126 OFFCURVE",
+"1622 1331 OFFCURVE",
+"1622 1509 CURVE SMOOTH",
+"1622 1661 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"72 938 LINE",
+"72 678 LINE",
+"1810 678 LINE",
+"1810 938 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 526 LINE",
+"258 268 LINE",
+"1276 268 LINE",
+"1276 -195 LINE",
+"1606 -195 LINE",
+"1606 526 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"272 1556 LINE",
+"272 1495 LINE",
+"811 1495 LINE",
+"811 1556 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"778 1556 LINE",
+"778 1554 LINE",
+"778 1470 OFFCURVE",
+"778 1229 OFFCURVE",
+"696 877 CURVE",
+"766 870 LINE",
+"844 1229 OFFCURVE",
+"844 1481 OFFCURVE",
+"844 1554 CURVE",
+"844 1556 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"987 1556 LINE",
+"987 1495 LINE",
+"1497 1495 LINE",
+"1497 1556 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1475 1556 LINE",
+"1475 1530 LINE SMOOTH",
+"1475 1432 OFFCURVE",
+"1475 1206 OFFCURVE",
+"1405 877 CURVE",
+"1470 864 LINE",
+"1540 1200 OFFCURVE",
+"1540 1434 OFFCURVE",
+"1540 1530 CURVE SMOOTH",
+"1540 1556 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 895 LINE",
+"121 836 LINE",
+"1761 836 LINE",
+"1761 895 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"297 526 LINE",
+"297 465 LINE",
+"1481 465 LINE",
+"1481 -127 LINE",
+"1548 -127 LINE",
+"1548 526 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B045;
+}

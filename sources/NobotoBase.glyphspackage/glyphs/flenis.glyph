@@ -1,0 +1,57 @@
+{
+glyphname = flenis;
+layers = (
+{
+components = (
+{
+name = f;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 719;
+},
+{
+components = (
+{
+name = f;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 645;
+},
+{
+components = (
+{
+name = f;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 740;
+}
+);
+unicode = AB35;
+}

@@ -1,0 +1,58 @@
+{
+glyphname = "numeral-greek";
+layers = (
+{
+components = (
+{
+name = primemod;
+transform = "{1, 0, 0, 1, 70, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 470;
+},
+{
+components = (
+{
+name = primemod;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 334;
+},
+{
+components = (
+{
+name = primemod;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 542;
+}
+);
+unicode = 0374;
+}

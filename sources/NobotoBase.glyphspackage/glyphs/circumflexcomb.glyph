@@ -1,0 +1,105 @@
+{
+glyphname = circumflexcomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{0, 1290}";
+},
+{
+name = mkmktop;
+position = "{0, 1640}";
+},
+{
+name = parent_top;
+position = "{1, 1395}";
+}
+);
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, -479, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-3, 1290}";
+},
+{
+name = mkmktop;
+position = "{-3, 1606}";
+},
+{
+name = parent_top;
+position = "{0, 1390}";
+}
+);
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, -404, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{0, 1290}";
+},
+{
+name = mkmktop;
+position = "{0, 1640}";
+},
+{
+name = parent_top;
+position = "{3, 1389}";
+}
+);
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, -512, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0302;
+}

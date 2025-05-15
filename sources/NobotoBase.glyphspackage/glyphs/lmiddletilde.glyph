@@ -1,0 +1,132 @@
+{
+glyphname = lmiddletilde;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{361, 0}";
+},
+{
+name = parenthesses.w2;
+position = "{361, 768}";
+},
+{
+name = top;
+position = "{361, 1600}";
+},
+{
+name = top0315;
+position = "{735, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = l;
+transform = "{1, 0, 0, 1, 108, 0}";
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -117, -600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 735;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{364, 0}";
+},
+{
+name = parenthesses.w2;
+position = "{363, 800}";
+},
+{
+name = top;
+position = "{364, 1600}";
+},
+{
+name = top0315;
+position = "{719, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = l;
+transform = "{1, 0, 0, 1, 150, 0}";
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -55, -570}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 719;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{420, 0}";
+},
+{
+name = parenthesses.w2;
+position = "{426, 842}";
+},
+{
+name = top;
+position = "{420, 1600}";
+},
+{
+name = top0315;
+position = "{847, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = l;
+transform = "{1, 0, 0, 1, 144, 0}";
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -74, -550}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 847;
+}
+);
+unicode = 026B;
+}

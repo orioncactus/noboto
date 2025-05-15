@@ -1,0 +1,177 @@
+{
+glyphname = l;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{253, 10}";
+},
+{
+name = bottom_dd;
+position = "{506, -407}";
+},
+{
+name = caron;
+position = "{483, 1536}";
+},
+{
+name = dot;
+position = "{477, 774}";
+},
+{
+name = marktop;
+position = "{573, 1543}";
+},
+{
+name = top;
+position = "{253, 1699}";
+},
+{
+name = top0315;
+position = "{506, 1699}";
+},
+{
+name = top_dd;
+position = "{506, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"153 1536 LINE",
+"153 0 LINE",
+"353 0 LINE",
+"353 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 506;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{214, 10}";
+},
+{
+name = bottom_dd;
+position = "{422, -407}";
+},
+{
+name = caron;
+position = "{417, 1536}";
+},
+{
+name = dot;
+position = "{397, 794}";
+},
+{
+name = marktop;
+position = "{474, 1503}";
+},
+{
+name = top;
+position = "{214, 1673}";
+},
+{
+name = top0315;
+position = "{422, 1673}";
+},
+{
+name = top_dd;
+position = "{422, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"185 1536 LINE",
+"185 0 LINE",
+"239 0 LINE",
+"239 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 422;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{278, 10}";
+},
+{
+name = bottom_dd;
+position = "{557, -407}";
+},
+{
+name = caron;
+position = "{549, 1536}";
+},
+{
+name = dot;
+position = "{536, 779}";
+},
+{
+name = marktop;
+position = "{688, 1486}";
+},
+{
+name = top;
+position = "{278, 1677}";
+},
+{
+name = top0315;
+position = "{557, 1677}";
+},
+{
+name = top_dd;
+position = "{557, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"117 1536 LINE",
+"117 0 LINE",
+"440 0 LINE",
+"440 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 557;
+}
+);
+unicode = 006C;
+}

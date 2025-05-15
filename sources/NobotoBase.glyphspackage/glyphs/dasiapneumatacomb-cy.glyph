@@ -1,0 +1,99 @@
+{
+glyphname = "dasiapneumatacomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-547, 1280}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-423 1367 LINE",
+"-482 1482 LINE",
+"-481 1622 LINE",
+"-670 1622 LINE",
+"-670 1500 LINE",
+"-505 1299 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-558, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-477 1377 LINE",
+"-541 1503 LINE",
+"-541 1642 LINE",
+"-638 1642 LINE",
+"-638 1500 LINE",
+"-513 1349 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-477, 1280}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-353 1377 LINE",
+"-411 1482 LINE",
+"-410 1652 LINE",
+"-600 1652 LINE",
+"-600 1500 LINE",
+"-434 1309 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0485;
+}

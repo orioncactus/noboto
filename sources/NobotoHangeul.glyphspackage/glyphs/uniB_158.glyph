@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniB158;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"182 1640 LINE",
+"182 844 LINE",
+"510 844 LINE",
+"510 1640 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"182 944 LINE",
+"182 682 LINE",
+"336 682 LINE SMOOTH",
+"657 682 OFFCURVE",
+"881 690 OFFCURVE",
+"1116 735 CURVE",
+"1081 995 LINE",
+"852 952 OFFCURVE",
+"645 944 OFFCURVE",
+"336 944 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"371 592 LINE",
+"371 334 LINE",
+"1364 334 LINE",
+"1364 -195 LINE",
+"1696 -195 LINE",
+"1696 592 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1364 1729 LINE",
+"1364 666 LINE",
+"1696 666 LINE",
+"1696 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"952 1602 LINE",
+"952 1354 LINE",
+"1444 1354 LINE",
+"1444 1602 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"952 1282 LINE",
+"952 1034 LINE",
+"1444 1034 LINE",
+"1444 1282 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1397 252 LINE",
+"336 213 LINE",
+"365 -35 LINE",
+"1397 23 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"233 1550 LINE",
+"233 725 LINE",
+"301 725 LINE",
+"301 1550 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"233 768 LINE",
+"233 705 LINE",
+"358 705 LINE SMOOTH",
+"686 705 OFFCURVE",
+"909 723 OFFCURVE",
+"1178 778 CURVE",
+"1165 840 LINE",
+"905 784 OFFCURVE",
+"682 768 OFFCURVE",
+"358 768 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"393 502 LINE",
+"393 440 LINE",
+"1513 440 LINE",
+"1513 -135 LINE",
+"1581 -135 LINE",
+"1581 502 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 1671 LINE",
+"1513 600 LINE",
+"1581 600 LINE",
+"1581 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"926 1417 LINE",
+"926 1356 LINE",
+"1538 1356 LINE",
+"1538 1417 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"926 1085 LINE",
+"926 1026 LINE",
+"1538 1026 LINE",
+"1538 1085 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1530 221 LINE",
+"346 176 LINE",
+"365 113 LINE",
+"1530 166 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B158;
+}

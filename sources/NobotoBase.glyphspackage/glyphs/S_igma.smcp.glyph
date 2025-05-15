@@ -1,0 +1,143 @@
+{
+glyphname = Sigma.smcp;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"145 162 LINE",
+"145 1 LINE",
+"971 1 LINE",
+"971 162 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 1165 LINE",
+"104 1004 LINE",
+"922 1004 LINE",
+"922 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"181 1165 LINE",
+"65 1165 LINE",
+"65 1013 LINE",
+"393 583 LINE",
+"65 153 LINE",
+"65 1 LINE",
+"181 1 LINE",
+"635 571 LINE",
+"635 594 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1011;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"71 54 LINE",
+"71 0 LINE",
+"947 0 LINE",
+"947 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"94 1165 LINE",
+"94 1111 LINE",
+"887 1111 LINE",
+"887 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"92 1165 LINE",
+"55 1165 LINE",
+"55 1121 LINE",
+"467 589 LINE",
+"55 44 LINE",
+"55 0 LINE",
+"92 0 LINE",
+"524 570 LINE",
+"524 617 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 977;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"196 260 LINE",
+"196 0 LINE",
+"1050 0 LINE",
+"1050 260 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"237 1165 LINE",
+"237 905 LINE",
+"1031 905 LINE",
+"1031 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"325 1165 LINE",
+"75 1165 LINE",
+"75 1015 LINE",
+"376 607 LINE",
+"75 152 LINE",
+"75 0 LINE",
+"325 0 LINE",
+"697 600 LINE",
+"697 614 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1120;
+}
+);
+}

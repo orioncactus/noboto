@@ -1,0 +1,90 @@
+{
+glyphname = Kdiagonalstroke;
+layers = (
+{
+components = (
+{
+name = K;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"548 285 LINE",
+"662 171 LINE",
+"1116 625 LINE",
+"1002 739 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1283;
+},
+{
+components = (
+{
+name = K;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"601 264 LINE",
+"639 225 LINE",
+"1060 635 LINE",
+"1022 674 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1300;
+},
+{
+components = (
+{
+name = K;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"567 287 LINE",
+"664 123 LINE",
+"1250 470 LINE",
+"1153 634 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1324;
+}
+);
+unicode = A742;
+}

@@ -1,0 +1,129 @@
+{
+glyphname = cedillacomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{0, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-96 -136 LINE",
+"15 -145 OFFCURVE",
+"62 -163 OFFCURVE",
+"62 -228 CURVE SMOOTH",
+"62 -296 OFFCURVE",
+"-6 -323 OFFCURVE",
+"-96 -323 CURVE",
+"-89 -435 LINE",
+"112 -435 OFFCURVE",
+"216 -350 OFFCURVE",
+"216 -224 CURVE SMOOTH",
+"216 -109 OFFCURVE",
+"141 -64 OFFCURVE",
+"66 -51 CURVE",
+"78 0 LINE",
+"-64 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{0, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-51 -121 LINE",
+"73 -134 OFFCURVE",
+"138 -157 OFFCURVE",
+"138 -245 CURVE SMOOTH",
+"138 -344 OFFCURVE",
+"8 -386 OFFCURVE",
+"-99 -386 CURVE",
+"-92 -435 LINE",
+"84 -435 OFFCURVE",
+"193 -359 OFFCURVE",
+"193 -245 CURVE SMOOTH",
+"193 -124 OFFCURVE",
+"105 -85 OFFCURVE",
+"16 -76 CURVE",
+"27 0 LINE",
+"-26 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{0, 9}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-153 -136 LINE",
+"-56 -142 OFFCURVE",
+"-16 -158 OFFCURVE",
+"-16 -209 CURVE SMOOTH",
+"-16 -264 OFFCURVE",
+"-56 -286 OFFCURVE",
+"-112 -286 CURVE",
+"-105 -472 LINE",
+"135 -472 OFFCURVE",
+"261 -373 OFFCURVE",
+"261 -224 CURVE SMOOTH",
+"261 -109 OFFCURVE",
+"185 -64 OFFCURVE",
+"111 -51 CURVE",
+"122 10 LINE",
+"-122 10 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0327;
+}

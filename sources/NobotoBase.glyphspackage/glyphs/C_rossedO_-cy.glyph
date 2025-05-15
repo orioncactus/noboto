@@ -1,0 +1,117 @@
+{
+glyphname = "CrossedO-cy";
+layers = (
+{
+components = (
+{
+name = O;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"627 1406 LINE",
+"627 80 LINE",
+"787 80 LINE",
+"787 1406 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1170 823 LINE",
+"244 823 LINE",
+"244 663 LINE",
+"1170 663 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1414;
+},
+{
+components = (
+{
+name = O;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"655 1442 LINE",
+"655 -4 LINE",
+"709 -4 LINE",
+"709 1442 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1214 756 LINE",
+"168 756 LINE",
+"168 702 LINE",
+"1214 702 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1364;
+},
+{
+components = (
+{
+name = O;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"617 1390 LINE",
+"617 64 LINE",
+"798 64 LINE",
+"798 1390 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1170 817 LINE",
+"244 817 LINE",
+"244 636 LINE",
+"1170 636 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1414;
+}
+);
+unicode = A69A;
+}

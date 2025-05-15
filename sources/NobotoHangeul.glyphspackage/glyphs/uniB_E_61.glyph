@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniBE61;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1362 1726 LINE",
+"1362 598 LINE",
+"1686 598 LINE",
+"1686 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1507 1309 LINE",
+"1507 1038 LINE",
+"1837 1038 LINE",
+"1837 1309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 526 LINE",
+"270 266 LINE",
+"1352 266 LINE",
+"1352 -195 LINE",
+"1683 -195 LINE",
+"1683 526 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 1622 LINE",
+"74 668 LINE",
+"662 668 LINE",
+"662 1622 LINE",
+"397 1622 LINE",
+"397 1393 LINE",
+"338 1393 LINE",
+"338 1622 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"338 1141 LINE",
+"397 1141 LINE",
+"397 926 LINE",
+"338 926 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"713 1622 LINE",
+"713 668 LINE",
+"1296 668 LINE",
+"1296 1622 LINE",
+"1030 1622 LINE",
+"1030 1393 LINE",
+"977 1393 LINE",
+"977 1622 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"977 1141 LINE",
+"1030 1141 LINE",
+"1030 926 LINE",
+"977 926 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1460 1671 LINE",
+"1460 584 LINE",
+"1526 584 LINE",
+"1526 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1161 LINE",
+"1489 1100 LINE",
+"1802 1100 LINE",
+"1802 1161 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"346 477 LINE",
+"346 416 LINE",
+"1460 416 LINE",
+"1460 -137 LINE",
+"1526 -137 LINE",
+"1526 477 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"201 1554 LINE",
+"201 715 LINE",
+"639 715 LINE",
+"639 1554 LINE",
+"571 1554 LINE",
+"571 1206 LINE",
+"268 1206 LINE",
+"268 1554 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"268 1145 LINE",
+"571 1145 LINE",
+"571 776 LINE",
+"268 776 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"793 1554 LINE",
+"793 715 LINE",
+"1231 715 LINE",
+"1231 1554 LINE",
+"1165 1554 LINE",
+"1165 1206 LINE",
+"860 1206 LINE",
+"860 1554 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"860 1145 LINE",
+"1165 1145 LINE",
+"1165 776 LINE",
+"860 776 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BE61;
+}

@@ -1,0 +1,141 @@
+{
+glyphname = "Tsse-cy";
+layers = (
+{
+components = (
+{
+name = T;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"340 136 OFFCURVE",
+"270 27 OFFCURVE",
+"270 -88 CURVE SMOOTH",
+"270 -230 OFFCURVE",
+"376 -303 OFFCURVE",
+"524 -303 CURVE SMOOTH",
+"562 -303 OFFCURVE",
+"624 -296 OFFCURVE",
+"676 -257 CURVE",
+"649 -156 LINE",
+"621 -176 OFFCURVE",
+"584 -185 OFFCURVE",
+"540 -185 CURVE SMOOTH",
+"478 -185 OFFCURVE",
+"424 -160 OFFCURVE",
+"424 -91 CURVE SMOOTH",
+"424 -27 OFFCURVE",
+"461 0 OFFCURVE",
+"512 0 CURVE",
+"512 136 LINE",
+"496 136 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1222;
+},
+{
+components = (
+{
+name = T;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"461 53 OFFCURVE",
+"363 -1 OFFCURVE",
+"363 -128 CURVE SMOOTH",
+"363 -243 OFFCURVE",
+"449 -303 OFFCURVE",
+"579 -303 CURVE SMOOTH",
+"631 -303 OFFCURVE",
+"684 -293 OFFCURVE",
+"731 -265 CURVE",
+"709 -221 LINE",
+"676 -240 OFFCURVE",
+"631 -250 OFFCURVE",
+"583 -250 CURVE SMOOTH",
+"510 -250 OFFCURVE",
+"416 -232 OFFCURVE",
+"416 -128 CURVE SMOOTH",
+"416 -34 OFFCURVE",
+"486 0 OFFCURVE",
+"585 0 CURVE",
+"585 53 LINE",
+"574 53 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1224;
+},
+{
+components = (
+{
+name = T;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"264 180 OFFCURVE",
+"186 60 OFFCURVE",
+"186 -80 CURVE SMOOTH",
+"186 -262 OFFCURVE",
+"338 -323 OFFCURVE",
+"474 -323 CURVE SMOOTH",
+"524 -323 OFFCURVE",
+"586 -316 OFFCURVE",
+"638 -277 CURVE",
+"611 -132 LINE",
+"582 -149 OFFCURVE",
+"539 -158 OFFCURVE",
+"502 -158 CURVE SMOOTH",
+"448 -158 OFFCURVE",
+"406 -137 OFFCURVE",
+"406 -77 CURVE SMOOTH",
+"406 -27 OFFCURVE",
+"434 0 OFFCURVE",
+"474 0 CURVE",
+"474 180 LINE",
+"458 180 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1279;
+}
+);
+unicode = A690;
+}

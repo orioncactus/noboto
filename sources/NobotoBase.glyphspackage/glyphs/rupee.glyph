@@ -1,0 +1,75 @@
+{
+glyphname = rupee;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = R;
+},
+{
+alignment = -1;
+name = s;
+transform = "{1, 0, 0, 1, 1110, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2171;
+},
+{
+components = (
+{
+alignment = -1;
+name = R;
+},
+{
+alignment = -1;
+name = s;
+transform = "{1, 0, 0, 1, 1100, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2119;
+},
+{
+components = (
+{
+alignment = -1;
+name = R;
+},
+{
+alignment = -1;
+name = s;
+transform = "{1, 0, 0, 1, 1190, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2241;
+}
+);
+unicode = 20A8;
+}

@@ -1,0 +1,84 @@
+{
+glyphname = tripleunderdotcomb;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -1300, -500}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -857, -500}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -437, -500}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -1162, -500}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -778, -500}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -409, -500}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -1370, -500}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -886, -500}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -406, -500}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 20E8;
+}

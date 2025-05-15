@@ -1,0 +1,89 @@
+{
+glyphname = tonebarhighmod_tonebarmidmod_tonebarextrahighmod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1051 1456 LINE",
+"850 1456 LINE",
+"535 898 LINE",
+"287 1134 LINE",
+"181 1017 LINE",
+"574 645 LINE",
+"851 1134 LINE",
+"851 0 LINE",
+"1051 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1208;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"900 1456 LINE",
+"846 1456 LINE",
+"514 789 LINE",
+"211 1107 LINE",
+"174 1071 LINE",
+"527 701 LINE",
+"846 1340 LINE",
+"846 0 LINE",
+"900 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1100;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1178 1456 LINE",
+"854 1456 LINE",
+"552 983 LINE",
+"351 1157 LINE",
+"186 971 LINE",
+"614 598 LINE",
+"855 977 LINE",
+"855 0 LINE",
+"1178 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1300;
+}
+);
+}

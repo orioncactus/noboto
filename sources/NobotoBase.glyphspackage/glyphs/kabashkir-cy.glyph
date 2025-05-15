@@ -1,0 +1,77 @@
+{
+glyphname = "kabashkir-cy";
+layers = (
+{
+components = (
+{
+name = "ka-cy";
+transform = "{1, 0, 0, 1, 324, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"65 1082 LINE",
+"65 921 LINE",
+"584 921 LINE",
+"584 1082 LINE"
+);
+}
+);
+width = 1425;
+},
+{
+components = (
+{
+name = "ka-cy";
+transform = "{1, 0, 0, 1, 258, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1082 LINE",
+"40 1028 LINE",
+"442 1028 LINE",
+"442 1082 LINE"
+);
+}
+);
+width = 1291;
+},
+{
+components = (
+{
+name = "ka-cy";
+transform = "{1, 0, 0, 1, 323, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"56 1082 LINE",
+"56 821 LINE",
+"625 821 LINE",
+"625 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1480;
+}
+);
+unicode = 04A1;
+}

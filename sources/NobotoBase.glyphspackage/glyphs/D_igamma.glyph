@@ -1,0 +1,90 @@
+{
+glyphname = Digamma;
+layers = (
+{
+components = (
+{
+name = F;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"803 803 LINE",
+"803 427 LINE",
+"969 427 LINE",
+"969 803 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1128;
+},
+{
+components = (
+{
+name = F;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"946 772 LINE",
+"946 456 LINE",
+"1000 456 LINE",
+"1000 772 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1172;
+},
+{
+components = (
+{
+name = F;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"751 850 LINE",
+"751 363 LINE",
+"1021 363 LINE",
+"1021 850 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+}
+);
+unicode = 03DC;
+}

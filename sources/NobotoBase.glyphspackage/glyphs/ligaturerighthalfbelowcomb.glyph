@@ -1,0 +1,87 @@
+{
+glyphname = ligaturerighthalfbelowcomb;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"460 -181 OFFCURVE",
+"231 -279 OFFCURVE",
+"0 -279 CURVE",
+"0 -403 LINE",
+"326 -403 OFFCURVE",
+"591 -262 OFFCURVE",
+"701 -104 CURVE",
+"540 -104 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"774 -207 OFFCURVE",
+"559 -336 OFFCURVE",
+"0 -336 CURVE",
+"0 -392 LINE",
+"574 -392 OFFCURVE",
+"838 -250 OFFCURVE",
+"978 -104 CURVE",
+"914 -104 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"659 -140 OFFCURVE",
+"482 -271 OFFCURVE",
+"0 -271 CURVE",
+"0 -451 LINE",
+"622 -451 OFFCURVE",
+"862 -255 OFFCURVE",
+"942 -74 CURVE",
+"719 -74 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = FE28;
+}

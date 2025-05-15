@@ -1,0 +1,128 @@
+{
+glyphname = tenge.smcp;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"391 843 LINE",
+"391 0 LINE",
+"591 0 LINE",
+"591 843 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 903 LINE",
+"40 743 LINE",
+"947 743 LINE",
+"947 903 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 1165 LINE",
+"40 1005 LINE",
+"947 1005 LINE",
+"947 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 988;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"476 1005 LINE",
+"476 0 LINE",
+"530 0 LINE",
+"530 1005 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"73 1005 LINE",
+"73 951 LINE",
+"955 951 LINE",
+"955 1005 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"73 1165 LINE",
+"73 1111 LINE",
+"955 1111 LINE",
+"955 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1027;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"368 813 LINE",
+"368 0 LINE",
+"691 0 LINE",
+"691 813 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 813 LINE",
+"30 553 LINE",
+"1034 553 LINE",
+"1034 813 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 1165 LINE",
+"30 905 LINE",
+"1034 905 LINE",
+"1034 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1065;
+}
+);
+}

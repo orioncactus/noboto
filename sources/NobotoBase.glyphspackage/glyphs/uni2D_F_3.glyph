@@ -1,0 +1,180 @@
+{
+glyphname = uni2DF3;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-596, 1170}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-856 1201 LINE",
+"-273 1201 LINE",
+"-273 1038 LINE",
+"-166 1038 LINE",
+"-166 1308 LINE",
+"-856 1308 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-664 1753 LINE",
+"-664 1201 LINE",
+"-532 1201 LINE",
+"-532 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-372 1753 LINE",
+"-372 1201 LINE",
+"-240 1201 LINE",
+"-240 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-956 1753 LINE",
+"-956 1201 LINE",
+"-824 1201 LINE",
+"-824 1753 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-571, 1170}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-874 1202 LINE",
+"-212 1202 LINE",
+"-212 1039 LINE",
+"-172 1039 LINE",
+"-172 1242 LINE",
+"-874 1242 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-590 1754 LINE",
+"-590 1202 LINE",
+"-550 1202 LINE",
+"-550 1754 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-282 1754 LINE",
+"-282 1202 LINE",
+"-242 1202 LINE",
+"-242 1754 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-898 1754 LINE",
+"-898 1202 LINE",
+"-858 1202 LINE",
+"-858 1754 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-615, 1170}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-872 1201 LINE",
+"-314 1201 LINE",
+"-314 1038 LINE",
+"-160 1038 LINE",
+"-149 1333 LINE",
+"-872 1333 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-703 1753 LINE",
+"-703 1201 LINE",
+"-538 1201 LINE",
+"-538 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-402 1753 LINE",
+"-402 1201 LINE",
+"-238 1201 LINE",
+"-238 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-1003 1753 LINE",
+"-1003 1201 LINE",
+"-839 1201 LINE",
+"-839 1753 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 2DF3;
+}

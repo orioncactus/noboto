@@ -1,0 +1,264 @@
+{
+glyphname = telephone;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"244 1456 LINE",
+"244 919 LINE",
+"339 919 LINE",
+"339 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"100 1456 LINE",
+"100 1373 LINE",
+"484 1373 LINE",
+"484 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"563 1456 LINE",
+"563 919 LINE",
+"658 919 LINE",
+"658 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"619 1456 LINE",
+"619 1373 LINE",
+"873 1373 LINE",
+"873 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"619 1002 LINE",
+"619 919 LINE",
+"873 919 LINE",
+"873 1002 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"619 1237 LINE",
+"619 1154 LINE",
+"843 1154 LINE",
+"843 1237 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"993 1456 LINE",
+"993 919 LINE",
+"1088 919 LINE",
+"1088 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1049 1002 LINE",
+"1049 919 LINE",
+"1303 919 LINE",
+"1303 1002 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1403;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"292 1456 LINE",
+"292 919 LINE",
+"348 919 LINE",
+"348 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"122 1456 LINE",
+"122 1399 LINE",
+"506 1399 LINE",
+"506 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"584 1456 LINE",
+"584 919 LINE",
+"640 919 LINE",
+"640 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"607 1456 LINE",
+"607 1399 LINE",
+"881 1399 LINE",
+"881 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"607 976 LINE",
+"607 919 LINE",
+"881 919 LINE",
+"881 976 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"607 1221 LINE",
+"607 1164 LINE",
+"841 1164 LINE",
+"841 1221 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"994 1456 LINE",
+"994 919 LINE",
+"1050 919 LINE",
+"1050 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1017 976 LINE",
+"1017 919 LINE",
+"1291 919 LINE",
+"1291 976 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1413;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"222 1456 LINE",
+"222 917 LINE",
+"382 917 LINE",
+"382 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 1456 LINE",
+"102 1340 LINE",
+"505 1340 LINE",
+"505 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"602 1456 LINE",
+"602 917 LINE",
+"762 917 LINE",
+"762 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 1456 LINE",
+"682 1340 LINE",
+"965 1340 LINE",
+"965 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 1033 LINE",
+"682 917 LINE",
+"965 917 LINE",
+"965 1033 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 1248 LINE",
+"682 1132 LINE",
+"924 1132 LINE",
+"924 1248 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1088 1456 LINE",
+"1088 917 LINE",
+"1248 917 LINE",
+"1248 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1168 1033 LINE",
+"1168 917 LINE",
+"1451 917 LINE",
+"1451 1033 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1553;
+}
+);
+unicode = 2121;
+}

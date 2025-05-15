@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniC8E0;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"475 639 LINE",
+"475 139 LINE",
+"805 139 LINE",
+"805 639 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1081 639 LINE",
+"1081 139 LINE",
+"1411 139 LINE",
+"1411 639 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 274 LINE",
+"74 8 LINE",
+"1812 8 LINE",
+"1812 274 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"766 1499 LINE",
+"766 1456 LINE SMOOTH",
+"766 1210 OFFCURVE",
+"612 950 OFFCURVE",
+"131 879 CURVE",
+"260 614 LINE",
+"809 711 OFFCURVE",
+"1044 1047 OFFCURVE",
+"1044 1456 CURVE SMOOTH",
+"1044 1499 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"836 1499 LINE",
+"836 1456 LINE SMOOTH",
+"836 1047 OFFCURVE",
+"1075 721 OFFCURVE",
+"1634 627 CURVE",
+"1761 889 LINE",
+"1268 958 OFFCURVE",
+"1114 1210 OFFCURVE",
+"1114 1456 CURVE SMOOTH",
+"1114 1499 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"217 1604 LINE",
+"217 1343 LINE",
+"1663 1343 LINE",
+"1663 1604 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"614 631 LINE",
+"614 139 LINE",
+"680 139 LINE",
+"680 631 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1200 631 LINE",
+"1200 139 LINE",
+"1266 139 LINE",
+"1266 631 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 174 LINE",
+"121 113 LINE",
+"1761 113 LINE",
+"1761 174 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"907 1460 LINE",
+"907 1300 LINE SMOOTH",
+"907 975 OFFCURVE",
+"432 719 OFFCURVE",
+"217 676 CURVE",
+"250 621 LINE",
+"496 684 OFFCURVE",
+"967 938 OFFCURVE",
+"967 1300 CURVE SMOOTH",
+"967 1460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"915 1460 LINE",
+"915 1300 LINE SMOOTH",
+"915 938 OFFCURVE",
+"1386 686 OFFCURVE",
+"1634 625 CURVE",
+"1667 680 LINE",
+"1452 721 OFFCURVE",
+"973 975 OFFCURVE",
+"973 1300 CURVE SMOOTH",
+"973 1460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"256 1483 LINE",
+"256 1421 LINE",
+"1624 1421 LINE",
+"1624 1483 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = C8E0;
+}

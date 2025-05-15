@@ -1,0 +1,172 @@
+{
+glyphname = X.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{552, 8}";
+},
+{
+name = bottom_dd;
+position = "{1114, -407}";
+},
+{
+name = cross;
+position = "{539, 594}";
+},
+{
+name = right;
+position = "{979, 0}";
+},
+{
+name = top;
+position = "{552, 1320}";
+},
+{
+name = top0315;
+position = "{1114, 1320}";
+},
+{
+name = top_dd;
+position = "{1114, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"46 1165 LINE",
+"439 587 LINE",
+"38 0 LINE",
+"275 0 LINE",
+"558 434 LINE",
+"843 0 LINE",
+"1081 0 LINE",
+"676 587 LINE",
+"1067 1165 LINE",
+"830 1165 LINE",
+"555 738 LINE",
+"282 1165 LINE"
+);
+}
+);
+width = 1114;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{532, 8}";
+},
+{
+name = bottom_dd;
+position = "{1055, -407}";
+},
+{
+name = cross;
+position = "{527, 598}";
+},
+{
+name = right;
+position = "{961, 0}";
+},
+{
+name = top;
+position = "{532, 1320}";
+},
+{
+name = top0315;
+position = "{1055, 1320}";
+},
+{
+name = top_dd;
+position = "{1055, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"62 1165 LINE",
+"494 593 LINE",
+"46 0 LINE",
+"111 0 LINE",
+"526 547 LINE",
+"943 0 LINE",
+"1009 0 LINE",
+"561 593 LINE",
+"992 1165 LINE",
+"924 1165 LINE",
+"526 638 LINE",
+"129 1165 LINE"
+);
+}
+);
+width = 1055;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{547, 8}";
+},
+{
+name = bottom_dd;
+position = "{1128, -407}";
+},
+{
+name = cross;
+position = "{466, 594}";
+},
+{
+name = right;
+position = "{1087, 0}";
+},
+{
+name = top;
+position = "{547, 1320}";
+},
+{
+name = top0315;
+position = "{1128, 1320}";
+},
+{
+name = top_dd;
+position = "{1128, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1 1165 LINE",
+"347 587 LINE",
+"-9 0 LINE",
+"361 0 LINE",
+"550 363 LINE",
+"749 0 LINE",
+"1130 0 LINE",
+"751 587 LINE",
+"1096 1165 LINE",
+"727 1165 LINE",
+"546 809 LINE",
+"368 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1128;
+}
+);
+}

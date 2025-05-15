@@ -1,0 +1,141 @@
+{
+glyphname = ogonekcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{0, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-176 -25 OFFCURVE",
+"-255 -135 OFFCURVE",
+"-255 -243 CURVE SMOOTH",
+"-255 -370 OFFCURVE",
+"-168 -437 OFFCURVE",
+"-58 -437 CURVE SMOOTH",
+"23 -437 OFFCURVE",
+"73 -413 OFFCURVE",
+"106 -393 CURVE",
+"93 -265 LINE",
+"73 -275 OFFCURVE",
+"37 -291 OFFCURVE",
+"-6 -291 CURVE SMOOTH",
+"-62 -291 OFFCURVE",
+"-82 -264 OFFCURVE",
+"-82 -220 CURVE SMOOTH",
+"-82 -134 OFFCURVE",
+"2 -63 OFFCURVE",
+"87 0 CURVE",
+"15 60 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{0, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-111 -53 OFFCURVE",
+"-213 -152 OFFCURVE",
+"-213 -246 CURVE",
+"-213 -347 OFFCURVE",
+"-155 -395 OFFCURVE",
+"-66 -395 CURVE SMOOTH",
+"-5 -395 OFFCURVE",
+"35 -371 OFFCURVE",
+"60 -351 CURVE",
+"44 -303 LINE",
+"20 -320 OFFCURVE",
+"-13 -341 OFFCURVE",
+"-66 -341 CURVE SMOOTH",
+"-139 -341 OFFCURVE",
+"-159 -295 OFFCURVE",
+"-159 -246 CURVE SMOOTH",
+"-159 -150 OFFCURVE",
+"-66 -75 OFFCURVE",
+"29 0 CURVE",
+"-14 20 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{0, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-184 -13 OFFCURVE",
+"-251 -106 OFFCURVE",
+"-251 -203 CURVE SMOOTH",
+"-251 -343 OFFCURVE",
+"-145 -417 OFFCURVE",
+"-13 -417 CURVE SMOOTH",
+"68 -417 OFFCURVE",
+"120 -393 OFFCURVE",
+"153 -373 CURVE",
+"117 -205 LINE",
+"100 -213 OFFCURVE",
+"80 -223 OFFCURVE",
+"45 -223 CURVE SMOOTH",
+"-1 -223 OFFCURVE",
+"-17 -196 OFFCURVE",
+"-17 -161 CURVE SMOOTH",
+"-17 -95 OFFCURVE",
+"27 -54 OFFCURVE",
+"131 0 CURVE",
+"-21 60 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0328;
+}

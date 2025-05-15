@@ -1,0 +1,117 @@
+{
+glyphname = Jstroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{512, -10}";
+},
+{
+name = top;
+position = "{866, 1601}";
+},
+{
+name = top0315;
+position = "{1224, 1601}";
+}
+);
+components = (
+{
+alignment = -1;
+name = J;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 405, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1224;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{512, -10}";
+},
+{
+name = top;
+position = "{902, 1582}";
+},
+{
+name = top0315;
+position = "{1235, 1582}";
+}
+);
+components = (
+{
+alignment = -1;
+name = J;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 500, 72}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1235;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{512, -10}";
+},
+{
+name = top;
+position = "{858, 1600}";
+},
+{
+name = top0315;
+position = "{1234, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = J;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 354, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1234;
+}
+);
+unicode = 0248;
+}

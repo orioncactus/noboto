@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniCE59;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"512 1366 LINE",
+"512 1305 LINE SMOOTH",
+"512 1110 OFFCURVE",
+"408 897 OFFCURVE",
+"78 809 CURVE",
+"229 553 LINE",
+"629 655 OFFCURVE",
+"782 967 OFFCURVE",
+"782 1305 CURVE SMOOTH",
+"782 1366 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"575 1366 LINE",
+"575 1305 LINE SMOOTH",
+"575 981 OFFCURVE",
+"731 682 OFFCURVE",
+"1130 584 CURVE",
+"1280 840 LINE",
+"950 920 OFFCURVE",
+"844 1122 OFFCURVE",
+"844 1305 CURVE SMOOTH",
+"844 1366 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"152 1546 LINE",
+"152 1290 LINE",
+"1204 1290 LINE",
+"1204 1546 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"512 1733 LINE",
+"512 1442 LINE",
+"844 1442 LINE",
+"844 1733 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1350 1729 LINE",
+"1350 551 LINE",
+"1681 551 LINE",
+"1681 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"356 479 LINE",
+"356 219 LINE",
+"1350 219 LINE",
+"1350 -195 LINE",
+"1681 -195 LINE",
+"1681 479 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"664 1364 LINE",
+"664 1276 LINE SMOOTH",
+"664 985 OFFCURVE",
+"420 752 OFFCURVE",
+"176 659 CURVE",
+"217 604 LINE",
+"471 711 OFFCURVE",
+"719 954 OFFCURVE",
+"719 1276 CURVE SMOOTH",
+"719 1364 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"670 1364 LINE",
+"670 1276 LINE SMOOTH",
+"670 971 OFFCURVE",
+"924 739 OFFCURVE",
+"1184 641 CURVE",
+"1219 696 LINE",
+"979 782 OFFCURVE",
+"727 1001 OFFCURVE",
+"727 1276 CURVE SMOOTH",
+"727 1364 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 1419 LINE",
+"205 1358 LINE",
+"1182 1358 LINE",
+"1182 1419 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"664 1681 LINE",
+"664 1370 LINE",
+"729 1370 LINE",
+"729 1681 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 1671 LINE",
+"1513 553 LINE",
+"1581 553 LINE",
+"1581 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"401 444 LINE",
+"401 385 LINE",
+"1513 385 LINE",
+"1513 -137 LINE",
+"1581 -137 LINE",
+"1581 444 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CE59;
+}

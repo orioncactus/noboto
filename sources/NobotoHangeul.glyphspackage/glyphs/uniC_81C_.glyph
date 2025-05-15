@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniC81C;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1419 1729 LINE",
+"1419 -193 LINE",
+"1733 -193 LINE",
+"1733 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"823 1090 LINE",
+"823 823 LINE",
+"1114 823 LINE",
+"1114 1090 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1030 1704 LINE",
+"1030 -113 LINE",
+"1337 -113 LINE",
+"1337 1704 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"385 1407 LINE",
+"385 1235 LINE SMOOTH",
+"385 920 OFFCURVE",
+"315 580 OFFCURVE",
+"25 393 CURVE",
+"219 152 LINE",
+"537 350 OFFCURVE",
+"631 797 OFFCURVE",
+"631 1235 CURVE SMOOTH",
+"631 1407 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"461 1407 LINE",
+"461 1235 LINE SMOOTH",
+"461 801 OFFCURVE",
+"549 385 OFFCURVE",
+"868 199 CURVE",
+"1059 436 LINE",
+"772 604 OFFCURVE",
+"705 922 OFFCURVE",
+"705 1235 CURVE SMOOTH",
+"705 1407 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"106 1552 LINE",
+"106 1288 LINE",
+"952 1288 LINE",
+"952 1552 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1569 1671 LINE",
+"1569 -137 LINE",
+"1636 -137 LINE",
+"1636 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"844 989 LINE",
+"844 930 LINE",
+"1241 930 LINE",
+"1241 989 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1210 1616 LINE",
+"1210 -33 LINE",
+"1276 -33 LINE",
+"1276 1616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"543 1405 LINE",
+"543 1128 LINE SMOOTH",
+"543 774 OFFCURVE",
+"350 438 OFFCURVE",
+"115 301 CURVE",
+"162 248 LINE",
+"403 401 OFFCURVE",
+"600 745 OFFCURVE",
+"600 1128 CURVE SMOOTH",
+"600 1405 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"551 1405 LINE",
+"551 1128 LINE SMOOTH",
+"551 772 OFFCURVE",
+"739 440 OFFCURVE",
+"979 291 CURVE",
+"1026 344 LINE",
+"793 479 OFFCURVE",
+"608 801 OFFCURVE",
+"608 1128 CURVE SMOOTH",
+"608 1405 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 1430 LINE",
+"145 1368 LINE",
+"991 1368 LINE",
+"991 1430 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = C81C;
+}

@@ -1,0 +1,120 @@
+{
+glyphname = iotastroke;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{337, 0}";
+},
+{
+name = top;
+position = "{337, 1290}";
+},
+{
+name = top0315;
+position = "{710, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = iota;
+transform = "{1, 0, 0, 1, 35, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -127, -154}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 710;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{336, 0}";
+},
+{
+name = top;
+position = "{336, 1290}";
+},
+{
+name = top0315;
+position = "{702, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = iota;
+transform = "{1, 0, 0, 1, 137, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -68, -133}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 702;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{389, 0}";
+},
+{
+name = top;
+position = "{389, 1290}";
+},
+{
+name = top0315;
+position = "{799, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = iota;
+transform = "{1, 0, 0, 1, 103, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -119, -177}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 799;
+}
+);
+unicode = 1D7C;
+}

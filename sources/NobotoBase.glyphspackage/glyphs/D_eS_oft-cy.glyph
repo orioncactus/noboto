@@ -1,0 +1,90 @@
+{
+glyphname = "DeSoft-cy";
+layers = (
+{
+components = (
+{
+name = "De-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1194 1456 LINE",
+"1194 1289 LINE",
+"1836 1289 LINE",
+"1836 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1866;
+},
+{
+components = (
+{
+name = "De-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1222 1456 LINE",
+"1222 1402 LINE",
+"1940 1402 LINE",
+"1940 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1940;
+},
+{
+components = (
+{
+name = "De-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1194 1456 LINE",
+"1194 1185 LINE",
+"1936 1185 LINE",
+"1936 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1936;
+}
+);
+unicode = A662;
+}

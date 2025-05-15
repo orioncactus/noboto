@@ -1,0 +1,76 @@
+{
+glyphname = "Elhook-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "El-cy";
+},
+{
+alignment = -1;
+name = cyrillichook;
+transform = "{1, 0, 0, 1, 1098, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1558;
+},
+{
+components = (
+{
+alignment = -1;
+name = "El-cy";
+},
+{
+alignment = -1;
+name = cyrillichook;
+transform = "{1, 0, 0, 1, 1047, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1357;
+},
+{
+components = (
+{
+alignment = -1;
+name = "El-cy";
+},
+{
+alignment = -1;
+name = cyrillichook;
+transform = "{1, 0, 0, 1, 1202, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1704;
+}
+);
+leftKerningGroup = "Lje-cy";
+unicode = 0512;
+}

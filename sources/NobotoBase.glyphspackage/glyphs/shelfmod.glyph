@@ -1,0 +1,129 @@
+{
+glyphname = shelfmod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"212 -334 LINE",
+"212 -457 LINE",
+"625 -457 LINE",
+"625 -334 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 -101 LINE",
+"80 -457 LINE",
+"231 -457 LINE",
+"231 -101 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"610 -101 LINE",
+"610 -457 LINE",
+"761 -457 LINE",
+"761 -101 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 841;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"116 -343 LINE",
+"116 -397 LINE",
+"662 -397 LINE",
+"662 -343 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 -51 LINE",
+"80 -397 LINE",
+"135 -397 LINE",
+"135 -51 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"647 -51 LINE",
+"647 -397 LINE",
+"701 -397 LINE",
+"701 -51 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 781;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"212 -256 LINE",
+"212 -446 LINE",
+"615 -446 LINE",
+"615 -256 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 -60 LINE",
+"80 -446 LINE",
+"281 -446 LINE",
+"281 -60 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 -60 LINE",
+"600 -446 LINE",
+"801 -446 LINE",
+"801 -60 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 881;
+}
+);
+unicode = 02FD;
+}

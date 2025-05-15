@@ -1,0 +1,90 @@
+{
+glyphname = Estroke;
+layers = (
+{
+components = (
+{
+name = E;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"836 1560 LINE",
+"386 -125 LINE",
+"526 -125 LINE",
+"975 1560 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1164;
+},
+{
+components = (
+{
+name = E;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"958 1581 LINE",
+"302 -125 LINE",
+"361 -125 LINE",
+"1017 1581 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1166;
+},
+{
+components = (
+{
+name = E;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"882 1581 LINE",
+"372 -125 LINE",
+"554 -125 LINE",
+"1064 1581 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1148;
+}
+);
+unicode = 0246;
+}

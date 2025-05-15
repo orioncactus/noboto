@@ -1,0 +1,123 @@
+{
+glyphname = dblverticallineabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-590, 1185}";
+},
+{
+name = mkmktop;
+position = "{-590, 1630}";
+},
+{
+name = parent_top;
+position = "{-591, 1355}";
+}
+);
+components = (
+{
+name = verticallinemod;
+transform = "{1, 0, 0, 1, -841, 0}";
+},
+{
+name = verticallinemod;
+transform = "{1, 0, 0, 1, -591, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = -3782;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-558, 1171}";
+},
+{
+name = mkmktop;
+position = "{-558, 1635}";
+},
+{
+name = parent_top;
+position = "{-558, 1355}";
+}
+);
+components = (
+{
+name = verticallinemod;
+transform = "{1, 0, 0, 1, -735, 0}";
+},
+{
+name = verticallinemod;
+transform = "{1, 0, 0, 1, -595, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-580, 1180}";
+},
+{
+name = mkmktop;
+position = "{-580, 1680}";
+},
+{
+name = parent_top;
+position = "{-578, 1358}";
+}
+);
+components = (
+{
+name = verticallinemod;
+transform = "{1, 0, 0, 1, -908, 0}";
+},
+{
+name = verticallinemod;
+transform = "{1, 0, 0, 1, -608, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 030E;
+}

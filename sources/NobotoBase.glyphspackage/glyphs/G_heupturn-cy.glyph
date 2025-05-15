@@ -1,0 +1,68 @@
+{
+glyphname = "Gheupturn-cy";
+layers = (
+{
+components = (
+{
+name = Gamma;
+transform = "{1, 0, 0, 1, -17, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"860 1789 LINE",
+"860 1296 LINE",
+"1060 1296 LINE",
+"1060 1789 LINE"
+);
+}
+);
+width = 1124;
+},
+{
+components = (
+{
+name = Gamma;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1001 1828 LINE",
+"1001 1401 LINE",
+"1055 1401 LINE",
+"1055 1828 LINE"
+);
+}
+);
+width = 1122;
+},
+{
+components = (
+{
+name = Gamma;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"784 1844 LINE",
+"784 1197 LINE",
+"1106 1197 LINE",
+"1106 1844 LINE"
+);
+}
+);
+width = 1142;
+}
+);
+rightKerningGroup = Gamma;
+unicode = 0490;
+}

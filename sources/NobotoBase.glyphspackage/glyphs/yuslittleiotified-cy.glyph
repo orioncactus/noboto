@@ -1,0 +1,89 @@
+{
+glyphname = "yuslittleiotified-cy";
+layers = (
+{
+components = (
+{
+name = "yuslittle-cy";
+transform = "{1, 0, 0, 1, 447, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 33, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"280 449 LINE",
+"280 288 LINE",
+"748 288 LINE",
+"748 449 LINE"
+);
+}
+);
+width = 1549;
+},
+{
+components = (
+{
+name = "yuslittle-cy";
+transform = "{1, 0, 0, 1, 447, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 33, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"231 449 LINE",
+"231 395 LINE",
+"698 395 LINE",
+"698 449 LINE"
+);
+}
+);
+width = 1537;
+},
+{
+components = (
+{
+name = "yuslittle-cy";
+transform = "{1, 0, 0, 1, 504, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, -22, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"168 459 LINE",
+"168 263 LINE",
+"890 263 LINE",
+"890 459 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1667;
+}
+);
+unicode = 0469;
+}

@@ -1,0 +1,206 @@
+{
+glyphname = "Izhitsa-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{629, 1544}";
+},
+{
+name = top0315;
+position = "{1297, 1544}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"552 0 LINE",
+"712 0 LINE",
+"1099 1156 LINE",
+"1135 1256 OFFCURVE",
+"1168 1293 OFFCURVE",
+"1234 1293 CURVE",
+"1247 1293 LINE",
+"1248 1474 LINE",
+"1198 1475 LINE",
+"1049 1475 OFFCURVE",
+"970 1389 OFFCURVE",
+"903 1179 CURVE SMOOTH",
+"656 394 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"21 1456 LINE",
+"530 0 LINE",
+"690 0 LINE",
+"587 395 LINE",
+"246 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1297;
+},
+{
+anchors = (
+{
+name = top;
+position = "{546, 1544}";
+},
+{
+name = top0315;
+position = "{1233, 1544}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"521 0 LINE",
+"572 0 LINE",
+"964 1204 LINE",
+"1030 1419 OFFCURVE",
+"1132 1429 OFFCURVE",
+"1209 1429 CURVE",
+"1219 1429 LINE",
+"1220 1476 LINE",
+"1211 1476 LINE",
+"1073 1476 OFFCURVE",
+"977 1416 OFFCURVE",
+"920 1228 CURVE",
+"568 142 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"35 1456 LINE",
+"507 0 LINE",
+"558 0 LINE",
+"511 142 LINE",
+"94 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 1233;
+},
+{
+anchors = (
+{
+name = top;
+position = "{660, 1600}";
+},
+{
+name = top0315;
+position = "{1324, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"600 0 LINE",
+"844 0 LINE",
+"1154 1088 LINE",
+"1167 1142 OFFCURVE",
+"1212 1195 OFFCURVE",
+"1266 1195 CURVE",
+"1301 1195 LINE",
+"1304 1473 LINE",
+"1268 1474 LINE",
+"1053 1474 OFFCURVE",
+"940 1331 OFFCURVE",
+"869 1101 CURVE SMOOTH",
+"677 390 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"8 1456 LINE",
+"485 0 LINE",
+"729 0 LINE",
+"651 395 LINE",
+"360 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1324;
+}
+);
+leftKerningGroup = V;
+rightKerningGroup = V;
+unicode = 0474;
+}

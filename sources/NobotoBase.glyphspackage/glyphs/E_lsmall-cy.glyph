@@ -1,0 +1,100 @@
+{
+glyphname = "Elsmall-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{642, 0}";
+},
+{
+name = top;
+position = "{642, 1290}";
+},
+{
+name = top0315;
+position = "{1191, 1290}";
+}
+);
+components = (
+{
+name = "el-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1191;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{617, 0}";
+},
+{
+name = top;
+position = "{617, 1290}";
+},
+{
+name = top0315;
+position = "{1122, 1290}";
+}
+);
+components = (
+{
+name = "el-cy";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1122;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{614, 0}";
+},
+{
+name = top;
+position = "{614, 1290}";
+},
+{
+name = top0315;
+position = "{1181, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "el-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1181;
+}
+);
+unicode = 1D2B;
+}

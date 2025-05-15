@@ -1,0 +1,120 @@
+{
+glyphname = Sswashtail;
+layers = (
+{
+components = (
+{
+name = S;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"376 -154 OFFCURVE",
+"575 -437 OFFCURVE",
+"867 -437 CURVE SMOOTH",
+"954 -437 OFFCURVE",
+"1020 -424 OFFCURVE",
+"1053 -410 CURVE",
+"1053 -250 LINE",
+"1014 -259 OFFCURVE",
+"974 -268 OFFCURVE",
+"919 -268 CURVE SMOOTH",
+"740 -268 OFFCURVE",
+"595 -168 OFFCURVE",
+"401 189 CURVE",
+"138 216 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1216;
+},
+{
+components = (
+{
+name = S;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"552 -284 OFFCURVE",
+"732 -437 OFFCURVE",
+"905 -437 CURVE SMOOTH",
+"952 -437 OFFCURVE",
+"984 -430 OFFCURVE",
+"1023 -417 CURVE",
+"1023 -362 LINE",
+"1002 -370 OFFCURVE",
+"948 -383 OFFCURVE",
+"905 -383 CURVE SMOOTH",
+"763 -383 OFFCURVE",
+"585 -225 OFFCURVE",
+"254 153 CURVE",
+"202 129 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1211;
+},
+{
+components = (
+{
+name = S;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"356 -144 OFFCURVE",
+"631 -437 OFFCURVE",
+"901 -437 CURVE SMOOTH",
+"979 -437 OFFCURVE",
+"1040 -424 OFFCURVE",
+"1073 -410 CURVE",
+"1073 -149 LINE",
+"1034 -158 OFFCURVE",
+"984 -163 OFFCURVE",
+"929 -163 CURVE SMOOTH",
+"750 -163 OFFCURVE",
+"570 26 OFFCURVE",
+"438 284 CURVE",
+"124 246 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1275;
+}
+);
+unicode = 2C7E;
+}

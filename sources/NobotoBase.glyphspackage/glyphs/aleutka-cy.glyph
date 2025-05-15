@@ -1,0 +1,162 @@
+{
+glyphname = "aleutka-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"602 1096 LINE",
+"494 979 LINE",
+"916 593 LINE",
+"1024 710 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"155 1082 LINE",
+"155 0 LINE",
+"355 0 LINE",
+"355 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"823 1082 LINE",
+"467 628 LINE",
+"257 628 LINE",
+"288 456 LINE",
+"560 456 LINE",
+"1064 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1097 0 LINE",
+"598 606 LINE",
+"457 486 LINE",
+"845 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1117;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"504 1062 LINE",
+"466 1024 LINE",
+"876 604 LINE",
+"915 642 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 1082 LINE",
+"171 0 LINE",
+"226 0 LINE",
+"226 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"863 1082 LINE",
+"434 582 LINE",
+"207 582 LINE",
+"204 529 LINE",
+"461 529 LINE",
+"941 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1004 0 LINE",
+"452 584 LINE",
+"420 533 LINE",
+"923 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1016;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"611 1060 LINE",
+"504 901 LINE",
+"1042 534 LINE",
+"1145 692 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"122 1082 LINE",
+"122 0 LINE",
+"444 0 LINE",
+"444 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"785 1082 LINE",
+"553 693 LINE",
+"359 693 LINE",
+"396 378 LINE",
+"719 378 LINE",
+"1146 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1158 0 LINE",
+"793 582 LINE",
+"520 441 LINE",
+"754 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1168;
+}
+);
+unicode = 051F;
+}

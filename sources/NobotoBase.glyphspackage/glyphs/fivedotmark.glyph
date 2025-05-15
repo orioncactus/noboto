@@ -1,0 +1,163 @@
+{
+glyphname = fivedotmark;
+layers = (
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 781, 735}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1145, 1135}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1509, 735}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1145, 335}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1145, 735}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 778;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 103;
+y = 0;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 1062;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1119;
+},
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 712, 701}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1162, 1147}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1612, 701}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1162, 253}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1162, 701}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 484;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 585;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1171;
+},
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 857, 717}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1289, 1098}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1720, 717}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1289, 336}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1289, 717}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 487;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 651;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1381;
+}
+);
+unicode = 2E2D;
+}

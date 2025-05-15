@@ -1,0 +1,181 @@
+{
+color = 0;
+glyphname = uniCF2D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1028 1501 LINE",
+"1028 1239 LINE",
+"1444 1239 LINE",
+"1444 1501 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1008 1098 LINE",
+"1008 834 LINE",
+"1423 834 LINE",
+"1423 1098 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1364 1729 LINE",
+"1364 657 LINE",
+"1696 657 LINE",
+"1696 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"401 590 LINE",
+"401 -176 LINE",
+"1696 -176 LINE",
+"1696 590 LINE",
+"1368 590 LINE",
+"1368 453 LINE",
+"729 453 LINE",
+"729 590 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"729 203 LINE",
+"1368 203 LINE",
+"1368 86 LINE",
+"729 86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"748 1653 LINE",
+"748 1503 LINE SMOOTH",
+"748 1202 OFFCURVE",
+"608 971 OFFCURVE",
+"90 829 CURVE",
+"217 573 LINE",
+"854 758 OFFCURVE",
+"1092 1102 OFFCURVE",
+"1092 1653 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"197 1653 LINE",
+"197 1393 LINE",
+"967 1393 LINE",
+"967 1653 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"799 1300 LINE",
+"98 1282 LINE",
+"141 1028 LINE",
+"799 1077 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"987 1343 LINE",
+"987 1282 LINE",
+"1534 1282 LINE",
+"1534 1343 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"967 999 LINE",
+"967 938 LINE",
+"1524 938 LINE",
+"1524 999 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 1671 LINE",
+"1513 676 LINE",
+"1581 676 LINE",
+"1581 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"449 571 LINE",
+"449 -109 LINE",
+"1581 -109 LINE",
+"1581 571 LINE",
+"1516 571 LINE",
+"1516 303 LINE",
+"516 303 LINE",
+"516 571 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"516 242 LINE",
+"1516 242 LINE",
+"1516 -47 LINE",
+"516 -47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"967 1559 LINE",
+"967 1544 LINE SMOOTH",
+"967 1155 OFFCURVE",
+"692 856 OFFCURVE",
+"190 702 CURVE",
+"221 645 LINE",
+"750 807 OFFCURVE",
+"1036 1137 OFFCURVE",
+"1036 1559 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 1559 LINE",
+"258 1497 LINE",
+"991 1497 LINE",
+"991 1559 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"930 1237 LINE",
+"170 1194 LINE",
+"188 1128 LINE",
+"930 1184 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CF2D;
+}

@@ -1,0 +1,93 @@
+{
+glyphname = bracketrightwithquill;
+layers = (
+{
+components = (
+{
+name = bracketright;
+transform = "{1, 0, 0, 1, 78, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"90 761 LINE",
+"90 601 LINE",
+"380 601 LINE",
+"380 761 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 648;
+},
+{
+components = (
+{
+name = bracketright;
+transform = "{1, 0, 0, 1, 108, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"101 704 LINE",
+"101 650 LINE",
+"362 650 LINE",
+"362 704 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 583;
+},
+{
+components = (
+{
+name = bracketright;
+transform = "{1, 0, 0, 1, 86, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"101 824 LINE",
+"101 579 LINE",
+"448 579 LINE",
+"448 824 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 671;
+}
+);
+unicode = 2046;
+}

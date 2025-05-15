@@ -1,0 +1,63 @@
+{
+glyphname = lowcircumflexmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, -92, -1612}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 776;
+},
+{
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, -72, -1604}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 664;
+},
+{
+components = (
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, -46, -1602}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 938;
+}
+);
+unicode = A788;
+}

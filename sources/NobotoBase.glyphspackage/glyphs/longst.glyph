@@ -1,0 +1,153 @@
+{
+glyphname = longst;
+layers = (
+{
+components = (
+{
+name = t;
+transform = "{1, 0, 0, 1, 587, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 1082 LINE",
+"60 932 LINE",
+"396 932 LINE",
+"396 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 1557 OFFCURVE",
+"229 1428 OFFCURVE",
+"229 1193 CURVE SMOOTH",
+"229 0 LINE",
+"429 0 LINE",
+"429 1193 LINE SMOOTH",
+"429 1320 OFFCURVE",
+"490 1397 OFFCURVE",
+"606 1397 CURVE SMOOTH",
+"665 1397 OFFCURVE",
+"751 1382 OFFCURVE",
+"790 1362 CURVE",
+"790 1245 LINE",
+"990 1245 LINE",
+"990 1454 LINE",
+"861 1517 OFFCURVE",
+"694 1557 OFFCURVE",
+"574 1557 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1273;
+},
+{
+components = (
+{
+name = t;
+transform = "{1, 0, 0, 1, 519, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"66 1082 LINE",
+"66 1027 LINE",
+"294 1027 LINE",
+"294 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 1557 OFFCURVE",
+"254 1443 OFFCURVE",
+"254 1236 CURVE SMOOTH",
+"254 0 LINE",
+"308 0 LINE",
+"308 1236 LINE SMOOTH",
+"308 1405 OFFCURVE",
+"395 1503 OFFCURVE",
+"537 1503 CURVE SMOOTH",
+"609 1503 OFFCURVE",
+"707 1481 OFFCURVE",
+"757 1452 CURVE",
+"757 1279 LINE",
+"812 1279 LINE",
+"812 1488 LINE",
+"738 1525 OFFCURVE",
+"636 1557 OFFCURVE",
+"536 1557 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1167;
+},
+{
+components = (
+{
+name = t;
+transform = "{1, 0, 0, 1, 644, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"18 1082 LINE",
+"18 848 LINE",
+"411 848 LINE",
+"411 1082 LINE {name = hr00;}"
+);
+},
+{
+closed = 1;
+nodes = (
+"331 1557 OFFCURVE",
+"176 1421 OFFCURVE",
+"176 1170 CURVE SMOOTH",
+"176 0 LINE",
+"498 0 LINE",
+"498 1170 LINE SMOOTH",
+"498 1252 OFFCURVE",
+"547 1297 OFFCURVE",
+"635 1297 CURVE SMOOTH",
+"714 1297 OFFCURVE",
+"776 1282 OFFCURVE",
+"800 1272 CURVE",
+"800 1243 LINE",
+"1122 1243 LINE",
+"1122 1449 LINE",
+"989 1494 OFFCURVE",
+"807 1557 OFFCURVE",
+"594 1557 CURVE SMOOTH"
+);
+}
+);
+width = 1344;
+}
+);
+}

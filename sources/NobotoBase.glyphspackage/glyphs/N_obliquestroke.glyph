@@ -1,0 +1,93 @@
+{
+glyphname = Nobliquestroke;
+layers = (
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 28, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 523 LINE",
+"20 398 LINE",
+"1509 797 LINE",
+"1509 922 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1529;
+},
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 55, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 540 LINE",
+"54 488 LINE",
+"1525 886 LINE",
+"1511 938 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1565;
+},
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 98, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 605 LINE",
+"20 427 LINE",
+"1624 855 LINE",
+"1624 1032 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1644;
+}
+);
+unicode = A7A4;
+}

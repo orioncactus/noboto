@@ -1,0 +1,90 @@
+{
+glyphname = righthalfringabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-640, 1110}";
+},
+{
+name = mkmktop;
+position = "{-640, 1548}";
+}
+);
+components = (
+{
+name = ringhalfright;
+transform = "{1, 0, 0, 1, -731, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-580, 1193}";
+},
+{
+name = mkmktop;
+position = "{-580, 1507}";
+}
+);
+components = (
+{
+name = ringhalfright;
+transform = "{1, 0, 0, 1, -710, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-625, 1135}";
+},
+{
+name = mkmktop;
+position = "{-625, 1567}";
+}
+);
+components = (
+{
+name = ringhalfright;
+transform = "{1, 0, 0, 1, -764, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0357;
+}

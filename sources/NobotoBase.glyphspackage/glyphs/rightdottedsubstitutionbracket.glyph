@@ -1,0 +1,153 @@
+{
+glyphname = rightdottedsubstitutionbracket;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"693 1098 LINE",
+"585 990 LINE",
+"216 1359 LINE",
+"324 1467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"693 1098 LINE",
+"693 651 LINE",
+"510 651 LINE",
+"510 1098 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 928 OFFCURVE",
+"119 880 OFFCURVE",
+"195 880 CURVE SMOOTH",
+"271 880 OFFCURVE",
+"311 928 OFFCURVE",
+"311 989 CURVE SMOOTH",
+"311 1051 OFFCURVE",
+"271 1100 OFFCURVE",
+"195 1100 CURVE SMOOTH",
+"119 1100 OFFCURVE",
+"80 1051 OFFCURVE",
+"80 989 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 773;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"599 1131 LINE",
+"562 1093 LINE",
+"226 1429 LINE",
+"264 1466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"599 1131 LINE",
+"599 651 LINE",
+"546 651 LINE",
+"546 1131 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 995 OFFCURVE",
+"104 971 OFFCURVE",
+"135 971 CURVE SMOOTH",
+"166 971 OFFCURVE",
+"191 995 OFFCURVE",
+"191 1026 CURVE SMOOTH",
+"191 1057 OFFCURVE",
+"166 1082 OFFCURVE",
+"135 1082 CURVE SMOOTH",
+"104 1082 OFFCURVE",
+"80 1057 OFFCURVE",
+"80 1026 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 668;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"837 1128 LINE",
+"681 970 LINE",
+"342 1309 LINE",
+"498 1467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"837 1128 LINE",
+"837 651 LINE",
+"614 651 LINE",
+"614 1128 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 854 OFFCURVE",
+"152 790 OFFCURVE",
+"259 790 CURVE SMOOTH",
+"366 790 OFFCURVE",
+"438 854 OFFCURVE",
+"438 939 CURVE SMOOTH",
+"438 1024 OFFCURVE",
+"366 1088 OFFCURVE",
+"259 1088 CURVE SMOOTH",
+"152 1088 OFFCURVE",
+"80 1024 OFFCURVE",
+"80 939 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 917;
+}
+);
+unicode = 2E05;
+}

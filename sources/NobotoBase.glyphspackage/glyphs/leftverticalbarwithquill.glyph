@@ -1,0 +1,99 @@
+{
+glyphname = leftverticalbarwithquill;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -5, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, 84, -133}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 593;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 953;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 19, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, 126, -154}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 594;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 861;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -51, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, 64, -153}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 593;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 964;
+}
+);
+unicode = 2E20;
+}

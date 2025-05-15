@@ -1,0 +1,78 @@
+{
+glyphname = Pstroke;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = P;
+transform = "{1, 0, 0, 1, 53, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -107, 270}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1352;
+},
+{
+components = (
+{
+alignment = -1;
+name = P;
+transform = "{1, 0, 0, 1, 40, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -68, 290}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1270;
+},
+{
+components = (
+{
+alignment = -1;
+name = P;
+transform = "{1, 0, 0, 1, 86, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -119, 226}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1416;
+}
+);
+unicode = 2C63;
+}

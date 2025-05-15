@@ -1,0 +1,150 @@
+{
+glyphname = ruble;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1116 567 OFFCURVE",
+"1297 731 OFFCURVE",
+"1297 1014 CURVE SMOOTH",
+"1297 1271 OFFCURVE",
+"1116 1456 OFFCURVE",
+"785 1456 CURVE SMOOTH",
+"238 1456 LINE",
+"238 0 LINE",
+"445 0 LINE",
+"445 1289 LINE",
+"785 1289 LINE SMOOTH",
+"1004 1289 OFFCURVE",
+"1090 1147 OFFCURVE",
+"1090 1012 CURVE SMOOTH",
+"1090 840 OFFCURVE",
+"995 733 OFFCURVE",
+"785 733 CURVE SMOOTH",
+"30 733 LINE",
+"30 567 LINE",
+"785 567 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 432 LINE",
+"30 265 LINE",
+"772 265 LINE",
+"772 432 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1369;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1006 615 OFFCURVE",
+"1165 774 OFFCURVE",
+"1165 1031 CURVE SMOOTH",
+"1165 1287 OFFCURVE",
+"1005 1456 OFFCURVE",
+"695 1456 CURVE SMOOTH",
+"240 1456 LINE",
+"240 0 LINE",
+"294 0 LINE",
+"294 1402 LINE",
+"695 1402 LINE SMOOTH",
+"989 1402 OFFCURVE",
+"1111 1235 OFFCURVE",
+"1111 1029 CURVE SMOOTH",
+"1111 831 OFFCURVE",
+"989 669 OFFCURVE",
+"695 669 CURVE SMOOTH",
+"40 669 LINE",
+"40 615 LINE",
+"695 615 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 455 LINE",
+"40 401 LINE",
+"694 401 LINE",
+"694 455 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1270;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1172 494 OFFCURVE",
+"1396 671 OFFCURVE",
+"1396 967 CURVE SMOOTH",
+"1396 1250 OFFCURVE",
+"1181 1456 OFFCURVE",
+"834 1456 CURVE SMOOTH",
+"260 1456 LINE",
+"260 0 LINE",
+"595 0 LINE",
+"595 1184 LINE",
+"835 1184 LINE SMOOTH",
+"983 1184 OFFCURVE",
+"1057 1087 OFFCURVE",
+"1057 965 CURVE SMOOTH",
+"1057 850 OFFCURVE",
+"998 765 OFFCURVE",
+"824 765 CURVE SMOOTH",
+"60 765 LINE",
+"60 494 LINE",
+"834 494 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"60 439 LINE",
+"60 169 LINE",
+"909 169 LINE",
+"909 439 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1473;
+}
+);
+unicode = 20BD;
+}

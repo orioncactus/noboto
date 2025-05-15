@@ -1,0 +1,177 @@
+{
+glyphname = rturned;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{234, 0}";
+},
+{
+name = top;
+position = "{234, 1290}";
+},
+{
+name = top0315;
+position = "{695, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"343 -20 OFFCURVE",
+"442 198 OFFCURVE",
+"442 454 CURVE",
+"388 422 LINE",
+"370 273 OFFCURVE",
+"287 169 OFFCURVE",
+"123 169 CURVE SMOOTH",
+"87 169 OFFCURVE",
+"63 171 OFFCURVE",
+"30 177 CURVE",
+"30 -6 LINE",
+"43 -12 OFFCURVE",
+"88 -20 OFFCURVE",
+"113 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"364 0 LINE",
+"558 0 LINE",
+"558 1082 LINE",
+"358 1082 LINE",
+"358 168 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 695;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{252, 0}";
+},
+{
+name = top;
+position = "{252, 1290}";
+},
+{
+name = top0315;
+position = "{685, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"376 -20 OFFCURVE",
+"506 201 OFFCURVE",
+"506 505 CURVE",
+"470 502 LINE",
+"470 247 OFFCURVE",
+"349 33 OFFCURVE",
+"106 33 CURVE SMOOTH",
+"81 33 OFFCURVE",
+"57 36 OFFCURVE",
+"36 39 CURVE",
+"30 -9 LINE",
+"47 -15 OFFCURVE",
+"73 -20 OFFCURVE",
+"106 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"459 0 LINE",
+"513 0 LINE",
+"513 1082 LINE",
+"459 1082 LINE",
+"459 188 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 685;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{228, 0}";
+},
+{
+name = top;
+position = "{228, 1290}";
+},
+{
+name = top0315;
+position = "{767, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"308 -20 OFFCURVE",
+"424 180 OFFCURVE",
+"424 470 CURVE",
+"364 510 LINE",
+"364 368 OFFCURVE",
+"295 297 OFFCURVE",
+"136 297 CURVE SMOOTH",
+"106 297 OFFCURVE",
+"55 302 OFFCURVE",
+"27 305 CURVE",
+"22 -8 LINE",
+"46 -16 OFFCURVE",
+"82 -20 OFFCURVE",
+"114 -20 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"363 0 LINE",
+"665 0 LINE",
+"665 1082 LINE",
+"343 1082 LINE",
+"343 268 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 767;
+}
+);
+unicode = 0279;
+}

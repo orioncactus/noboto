@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniB46D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"215 1327 LINE",
+"215 1077 LINE",
+"1184 1077 LINE",
+"1184 1327 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"485 813 LINE",
+"485 496 LINE",
+"817 496 LINE",
+"817 813 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1665 LINE",
+"215 1096 LINE",
+"557 1096 LINE",
+"557 1413 LINE",
+"1171 1413 LINE",
+"1171 1665 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1372 1729 LINE",
+"1372 496 LINE",
+"1706 496 LINE",
+"1706 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 444 LINE",
+"293 184 LINE",
+"1362 184 LINE",
+"1362 -190 LINE",
+"1706 -190 LINE",
+"1706 444 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1018 752 LINE",
+"1018 537 LINE",
+"1559 537 LINE",
+"1559 752 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"106 745 LINE",
+"473 748 OFFCURVE",
+"893 756 OFFCURVE",
+"1294 811 CURVE",
+"1280 1044 LINE",
+"887 1010 OFFCURVE",
+"444 1006 OFFCURVE",
+"70 1006 CURVE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 1167 LINE",
+"268 1106 LINE",
+"1104 1106 LINE",
+"1104 1167 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"649 862 LINE",
+"649 465 LINE",
+"717 465 LINE",
+"717 862 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"268 1595 LINE",
+"268 1133 LINE",
+"332 1133 LINE",
+"332 1532 LINE",
+"1102 1532 LINE",
+"1102 1595 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 449 LINE",
+"1554 449 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"373 369 LINE",
+"373 307 LINE",
+"1489 307 LINE",
+"1489 -152 LINE",
+"1554 -152 LINE",
+"1554 369 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1081 668 LINE",
+"1081 604 LINE",
+"1526 604 LINE",
+"1526 668 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 807 LINE",
+"457 807 OFFCURVE",
+"905 819 OFFCURVE",
+"1290 862 CURVE",
+"1278 924 LINE",
+"895 887 OFFCURVE",
+"453 883 OFFCURVE",
+"96 881 CURVE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B46D;
+}

@@ -1,0 +1,78 @@
+{
+glyphname = idotlessstroke;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = Ismall;
+transform = "{1, 0, 0, 1, -6, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -127, -160}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 682;
+},
+{
+components = (
+{
+alignment = -1;
+name = Ismall;
+transform = "{1, 0, 0, 1, 15, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -88, -133}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 627;
+},
+{
+components = (
+{
+alignment = -1;
+name = Ismall;
+transform = "{1, 0, 0, 1, -8, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -119, -177}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 761;
+}
+);
+unicode = 1D7B;
+}

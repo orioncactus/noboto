@@ -1,0 +1,144 @@
+{
+glyphname = ymod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"313 586 LINE SMOOTH",
+"290 516 OFFCURVE",
+"264 480 OFFCURVE",
+"194 480 CURVE SMOOTH",
+"165 480 OFFCURVE",
+"144 481 OFFCURVE",
+"137 482 CURVE",
+"137 339 LINE",
+"157 333 OFFCURVE",
+"189 327 OFFCURVE",
+"223 327 CURVE SMOOTH",
+"361 327 OFFCURVE",
+"434 434 OFFCURVE",
+"466 528 CURVE SMOOTH",
+"784 1451 LINE",
+"589 1451 LINE",
+"363 738 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"50 1451 LINE",
+"341 635 LINE",
+"485 687 LINE",
+"429 900 LINE",
+"255 1451 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 824;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"306 553 LINE SMOOTH",
+"260 439 OFFCURVE",
+"236 386 OFFCURVE",
+"137 386 CURVE SMOOTH",
+"127 386 OFFCURVE",
+"99 389 OFFCURVE",
+"87 393 CURVE",
+"81 340 LINE",
+"93 335 OFFCURVE",
+"121 332 OFFCURVE",
+"137 332 CURVE SMOOTH",
+"283 332 OFFCURVE",
+"323 455 OFFCURVE",
+"349 522 CURVE SMOOTH",
+"704 1456 LINE",
+"648 1456 LINE",
+"377 732 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 1456 LINE",
+"362 630 LINE",
+"399 663 LINE",
+"347 800 LINE",
+"100 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 744;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"306 617 LINE SMOOTH",
+"286 559 OFFCURVE",
+"256 538 OFFCURVE",
+"175 538 CURVE SMOOTH",
+"164 538 OFFCURVE",
+"154 538 OFFCURVE",
+"142 538 CURVE",
+"142 356 LINE",
+"184 345 OFFCURVE",
+"197 341 OFFCURVE",
+"243 341 CURVE SMOOTH",
+"421 341 OFFCURVE",
+"477 465 OFFCURVE",
+"505 545 CURVE SMOOTH",
+"822 1456 LINE",
+"567 1456 LINE",
+"364 782 LINE {name = hr01;}"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 1456 LINE",
+"326 632 LINE",
+"485 632 LINE",
+"420 1008 LINE",
+"295 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 862;
+}
+);
+unicode = 02B8;
+}

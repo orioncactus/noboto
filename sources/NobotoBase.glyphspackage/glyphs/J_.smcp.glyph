@@ -1,0 +1,160 @@
+{
+glyphname = J.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{458, -10}";
+},
+{
+name = bottom_dd;
+position = "{976, -407}";
+},
+{
+name = top;
+position = "{730, 1320}";
+},
+{
+name = top0315;
+position = "{976, 1320}";
+},
+{
+name = top_dd;
+position = "{976, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"649 216 OFFCURVE",
+"572 144 OFFCURVE",
+"458 144 CURVE SMOOTH",
+"329 144 OFFCURVE",
+"241 197 OFFCURVE",
+"241 332 CURVE",
+"40 332 LINE",
+"40 95 OFFCURVE",
+"220 -16 OFFCURVE",
+"458 -16 CURVE SMOOTH",
+"684 -16 OFFCURVE",
+"850 117 OFFCURVE",
+"850 339 CURVE",
+"850 1165 LINE",
+"649 1165 LINE",
+"649 339 LINE"
+);
+}
+);
+width = 976;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{448, -10}";
+},
+{
+name = bottom_dd;
+position = "{967, -407}";
+},
+{
+name = top;
+position = "{772, 1320}";
+},
+{
+name = top0315;
+position = "{967, 1320}";
+},
+{
+name = top_dd;
+position = "{967, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"747 150 OFFCURVE",
+"617 37 OFFCURVE",
+"448 37 CURVE SMOOTH",
+"243 37 OFFCURVE",
+"129 138 OFFCURVE",
+"129 321 CURVE",
+"75 321 LINE",
+"75 93 OFFCURVE",
+"226 -16 OFFCURVE",
+"448 -16 CURVE SMOOTH",
+"653 -16 OFFCURVE",
+"802 117 OFFCURVE",
+"802 335 CURVE",
+"802 1165 LINE",
+"747 1165 LINE",
+"747 335 LINE"
+);
+}
+);
+width = 967;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{474, -10}";
+},
+{
+name = bottom_dd;
+position = "{993, -407}";
+},
+{
+name = top;
+position = "{742, 1320}";
+},
+{
+name = top0315;
+position = "{993, 1320}";
+},
+{
+name = top_dd;
+position = "{993, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"581 293 OFFCURVE",
+"548 243 OFFCURVE",
+"474 243 CURVE SMOOTH",
+"389 243 OFFCURVE",
+"353 289 OFFCURVE",
+"353 388 CURVE",
+"30 388 LINE",
+"30 109 OFFCURVE",
+"206 -16 OFFCURVE",
+"474 -16 CURVE SMOOTH",
+"708 -16 OFFCURVE",
+"904 141 OFFCURVE",
+"904 415 CURVE",
+"904 1165 LINE",
+"581 1165 LINE",
+"581 415 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 993;
+}
+);
+}

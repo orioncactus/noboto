@@ -1,0 +1,50 @@
+/*
+Copyright (c) 2025 Kil Hyung-jin, with Reserved Font Name Noboto.
+https://github.com/orioncactus/noboto
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+@font-face {
+    font-family: "Noboto";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 900;
+    src: local("Noboto Black"), url("./woff2/Noboto-Black.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Noboto";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: local("Noboto Bold"), url("./woff2/Noboto-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Noboto";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: local("Noboto Medium"), url("./woff2/Noboto-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Noboto";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: local("Noboto Regular"), url("./woff2/Noboto-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Noboto";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src: local("Noboto Light"), url("./woff2/Noboto-Light.woff2") format("woff2");
+}
+@font-face {
+    font-family: "Noboto";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100;
+    src: local("Noboto Thin"), url("./woff2/Noboto-Thin.woff2") format("woff2");
+}

@@ -1,0 +1,158 @@
+{
+glyphname = carondotcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{-588, 1263}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-703 1545 OFFCURVE",
+"-664 1497 OFFCURVE",
+"-588 1497 CURVE SMOOTH",
+"-512 1497 OFFCURVE",
+"-472 1545 OFFCURVE",
+"-472 1606 CURVE SMOOTH",
+"-472 1668 OFFCURVE",
+"-512 1717 OFFCURVE",
+"-588 1717 CURVE SMOOTH",
+"-664 1717 OFFCURVE",
+"-703 1668 OFFCURVE",
+"-703 1606 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-904 1458 LINE",
+"-904 1437 LINE",
+"-650 1222 LINE",
+"-530 1222 LINE",
+"-272 1440 LINE",
+"-272 1458 LINE",
+"-444 1458 LINE",
+"-590 1332 LINE",
+"-736 1458 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{-562, 1323}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-617 1499 OFFCURVE",
+"-593 1475 OFFCURVE",
+"-562 1475 CURVE SMOOTH",
+"-531 1475 OFFCURVE",
+"-506 1499 OFFCURVE",
+"-506 1530 CURVE SMOOTH",
+"-506 1561 OFFCURVE",
+"-531 1586 OFFCURVE",
+"-562 1586 CURVE SMOOTH",
+"-593 1586 OFFCURVE",
+"-617 1561 OFFCURVE",
+"-617 1530 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-815 1475 LINE",
+"-815 1461 LINE",
+"-601 1292 LINE",
+"-522 1292 LINE",
+"-310 1459 LINE",
+"-310 1475 LINE",
+"-377 1475 LINE",
+"-561 1328 LINE",
+"-744 1475 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{-576, 1223}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-718 1563 OFFCURVE",
+"-661 1511 OFFCURVE",
+"-576 1511 CURVE SMOOTH",
+"-492 1511 OFFCURVE",
+"-435 1563 OFFCURVE",
+"-435 1631 CURVE SMOOTH",
+"-435 1698 OFFCURVE",
+"-492 1751 OFFCURVE",
+"-576 1751 CURVE SMOOTH",
+"-661 1751 OFFCURVE",
+"-718 1698 OFFCURVE",
+"-718 1631 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-978 1461 LINE",
+"-978 1447 LINE",
+"-688 1212 LINE",
+"-462 1212 LINE",
+"-174 1445 LINE",
+"-174 1461 LINE",
+"-448 1461 LINE",
+"-575 1352 LINE",
+"-702 1461 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+}

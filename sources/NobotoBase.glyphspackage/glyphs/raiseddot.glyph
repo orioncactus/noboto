@@ -1,0 +1,60 @@
+{
+glyphname = raiseddot;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -64, 500}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 403;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -67, 550}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 271;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -40, 480}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 518;
+}
+);
+unicode = 2E33;
+}

@@ -1,0 +1,63 @@
+{
+glyphname = "onethousand-roman";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = m;
+transform = "{1, 0, 0, 1, 3, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1794;
+},
+{
+components = (
+{
+alignment = -1;
+name = m;
+transform = "{1, 0, 0, 1, -4, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1828;
+},
+{
+components = (
+{
+alignment = -1;
+name = m;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1761;
+}
+);
+unicode = 217F;
+}

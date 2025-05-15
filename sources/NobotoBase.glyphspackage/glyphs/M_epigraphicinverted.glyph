@@ -1,0 +1,144 @@
+{
+glyphname = Mepigraphicinverted;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"433 0 LINE",
+"896 1171 LINE",
+"1358 0 LINE",
+"1560 0 LINE",
+"974 1456 LINE",
+"816 1456 LINE",
+"231 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"343 0 LINE",
+"373 900 LINE",
+"373 1456 LINE",
+"166 1456 LINE",
+"166 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1625 0 LINE",
+"1625 1456 LINE",
+"1418 1456 LINE",
+"1418 900 LINE",
+"1448 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1792;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"277 0 LINE",
+"876 1377 LINE",
+"1477 0 LINE",
+"1537 0 LINE",
+"898 1456 LINE",
+"855 1456 LINE",
+"216 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"254 0 LINE",
+"254 753 LINE",
+"254 1456 LINE",
+"200 1456 LINE",
+"200 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1556 0 LINE",
+"1556 1456 LINE",
+"1502 1456 LINE",
+"1502 753 LINE",
+"1502 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1756;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"556 0 LINE",
+"896 1013 LINE",
+"1236 0 LINE",
+"1513 0 LINE",
+"1008 1456 LINE",
+"784 1456 LINE",
+"279 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 0 LINE",
+"452 1116 LINE",
+"452 1456 LINE",
+"117 1456 LINE",
+"117 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1676 0 LINE",
+"1676 1456 LINE",
+"1340 1456 LINE",
+"1340 1116 LINE",
+"1392 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1795;
+}
+);
+unicode = A7FD;
+}

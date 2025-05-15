@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniBD2C;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"379 778 LINE",
+"379 362 LINE",
+"686 362 LINE",
+"686 778 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"125 1575 LINE",
+"125 662 LINE",
+"936 662 LINE",
+"936 1575 LINE",
+"631 1575 LINE",
+"631 1354 LINE",
+"434 1354 LINE",
+"434 1575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"434 1106 LINE",
+"631 1106 LINE",
+"631 918 LINE",
+"434 918 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"86 147 LINE",
+"313 147 OFFCURVE",
+"698 154 OFFCURVE",
+"995 221 CURVE",
+"973 459 LINE",
+"686 416 OFFCURVE",
+"287 412 OFFCURVE",
+"49 412 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1444 1729 LINE",
+"1444 -193 LINE",
+"1757 -193 LINE",
+"1757 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1243 983 LINE",
+"1243 719 LINE",
+"1534 719 LINE",
+"1534 983 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1044 1702 LINE",
+"1044 -115 LINE",
+"1352 -115 LINE",
+"1352 1702 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"555 766 LINE",
+"555 350 LINE",
+"621 350 LINE",
+"621 766 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 1495 LINE",
+"223 733 LINE",
+"952 733 LINE",
+"952 1495 LINE",
+"887 1495 LINE",
+"887 1202 LINE",
+"291 1202 LINE",
+"291 1495 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 1141 LINE",
+"887 1141 LINE",
+"887 793 LINE",
+"291 793 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 291 LINE",
+"369 291 OFFCURVE",
+"764 295 OFFCURVE",
+"1075 350 CURVE",
+"1069 406 LINE",
+"768 360 OFFCURVE",
+"356 356 OFFCURVE",
+"100 356 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1530 1671 LINE",
+"1530 -137 LINE",
+"1597 -137 LINE",
+"1597 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1198 885 LINE",
+"1198 825 LINE",
+"1559 825 LINE",
+"1559 885 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1161 1622 LINE",
+"1161 -27 LINE",
+"1227 -27 LINE",
+"1227 1622 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BD2C;
+}

@@ -1,0 +1,90 @@
+{
+glyphname = Astroke;
+layers = (
+{
+components = (
+{
+name = A;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1186 1560 LINE",
+"-164 -125 LINE",
+"6 -125 LINE",
+"1355 1560 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1349;
+},
+{
+components = (
+{
+name = A;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1158 1581 LINE",
+"-198 -125 LINE",
+"-130 -125 LINE",
+"1226 1581 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1223;
+},
+{
+components = (
+{
+name = A;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1232 1481 LINE",
+"-218 -225 LINE",
+"-6 -225 LINE",
+"1444 1481 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1390;
+}
+);
+unicode = 023A;
+}

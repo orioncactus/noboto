@@ -1,0 +1,120 @@
+{
+glyphname = Uhorn;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{697, -10}";
+},
+{
+name = top;
+position = "{697, 1612}";
+},
+{
+name = top0315;
+position = "{1431, 1612}";
+}
+);
+components = (
+{
+name = U;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1406 1343 OFFCURVE",
+"1351 1241 OFFCURVE",
+"1147 1241 CURVE",
+"1147 1099 LINE",
+"1457 1099 OFFCURVE",
+"1576 1250 OFFCURVE",
+"1576 1537 CURVE",
+"1406 1537 LINE"
+);
+}
+);
+width = 1431;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{651, 0}";
+},
+{
+name = top;
+position = "{665, 1612}";
+},
+{
+name = top0315;
+position = "{1365, 1612}";
+}
+);
+components = (
+{
+name = U;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1414 1356 OFFCURVE",
+"1364 1248 OFFCURVE",
+"1154 1248 CURVE",
+"1154 1194 LINE",
+"1387 1194 OFFCURVE",
+"1468 1319 OFFCURVE",
+"1468 1551 CURVE",
+"1414 1551 LINE"
+);
+}
+);
+width = 1365;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{723, -10}";
+},
+{
+name = top;
+position = "{723, 1612}";
+},
+{
+name = top0315;
+position = "{1470, 1612}";
+}
+);
+components = (
+{
+name = U;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1436 1343 OFFCURVE",
+"1425 1223 OFFCURVE",
+"1209 1223 CURVE",
+"1209 1059 LINE",
+"1544 1059 OFFCURVE",
+"1637 1235 OFFCURVE",
+"1637 1537 CURVE",
+"1436 1537 LINE"
+);
+}
+);
+width = 1470;
+}
+);
+unicode = 01AF;
+}

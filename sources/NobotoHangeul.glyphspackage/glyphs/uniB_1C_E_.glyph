@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniB1CE;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1036 489 LINE",
+"1036 233 LINE",
+"1354 233 LINE",
+"1354 -195 LINE",
+"1688 -195 LINE",
+"1688 489 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 489 LINE",
+"301 233 LINE",
+"635 233 LINE",
+"635 -195 LINE",
+"969 -195 LINE",
+"969 489 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"213 1645 LINE",
+"213 1145 LINE",
+"551 1145 LINE",
+"551 1645 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"213 1266 LINE",
+"213 1006 LINE",
+"1192 1006 LINE",
+"1192 1266 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"524 1083 LINE",
+"524 735 LINE",
+"868 735 LINE",
+"868 1083 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 582 LINE",
+"463 582 OFFCURVE",
+"891 582 OFFCURVE",
+"1294 659 CURVE",
+"1272 897 LINE",
+"883 844 OFFCURVE",
+"432 846 OFFCURVE",
+"94 846 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1352 1729 LINE",
+"1352 561 LINE",
+"1688 561 LINE",
+"1688 1729 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"999 453 LINE",
+"999 389 LINE",
+"1491 389 LINE",
+"1491 -145 LINE",
+"1559 -145 LINE",
+"1559 453 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 453 LINE",
+"324 389 LINE",
+"831 389 LINE",
+"831 -145 LINE",
+"899 -145 LINE",
+"899 453 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"272 1536 LINE",
+"272 1028 LINE",
+"338 1028 LINE",
+"338 1536 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"272 1079 LINE",
+"272 1018 LINE",
+"1147 1018 LINE",
+"1147 1079 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"670 1032 LINE",
+"670 719 LINE",
+"737 719 LINE",
+"737 1032 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 666 LINE",
+"481 670 OFFCURVE",
+"938 696 OFFCURVE",
+"1307 735 CURVE",
+"1298 795 LINE",
+"930 762 OFFCURVE",
+"479 739 OFFCURVE",
+"104 735 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 571 LINE",
+"1554 571 LINE",
+"1554 1669 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B1CE;
+}

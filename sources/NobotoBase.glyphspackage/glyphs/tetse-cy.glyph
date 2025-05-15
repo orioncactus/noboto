@@ -1,0 +1,77 @@
+{
+glyphname = "tetse-cy";
+layers = (
+{
+components = (
+{
+name = "tse-cy";
+transform = "{1, 0, 0, 1, 145, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"32 1083 LINE",
+"32 923 LINE",
+"740 923 LINE",
+"740 1083 LINE"
+);
+}
+);
+width = 1380;
+},
+{
+components = (
+{
+name = "tse-cy";
+transform = "{1, 0, 0, 1, 181, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"26 1082 LINE",
+"26 1028 LINE",
+"734 1028 LINE",
+"734 1082 LINE"
+);
+}
+);
+width = 1305;
+},
+{
+components = (
+{
+name = "tse-cy";
+transform = "{1, 0, 0, 1, 157, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 1082 LINE",
+"50 821 LINE",
+"757 821 LINE",
+"757 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1417;
+}
+);
+unicode = 04B5;
+}

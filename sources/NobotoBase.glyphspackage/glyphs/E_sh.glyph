@@ -1,0 +1,99 @@
+{
+glyphname = Esh;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{584, 10}";
+},
+{
+name = top;
+position = "{584, 1612}";
+},
+{
+name = top0315;
+position = "{1175, 1612}";
+}
+);
+components = (
+{
+name = Sigma;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1175;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{553, 10}";
+},
+{
+name = top;
+position = "{553, 1612}";
+},
+{
+name = top0315;
+position = "{1121, 1612}";
+}
+);
+components = (
+{
+name = Sigma;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{591, 10}";
+},
+{
+name = top;
+position = "{591, 1600}";
+},
+{
+name = top0315;
+position = "{1157, 1600}";
+}
+);
+components = (
+{
+name = Sigma;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1157;
+}
+);
+unicode = 01A9;
+}

@@ -1,0 +1,76 @@
+{
+glyphname = qstrokethroughdescender;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = q;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 448, -900}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1257;
+},
+{
+components = (
+{
+alignment = -1;
+name = q;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 522, -910}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1237;
+},
+{
+components = (
+{
+alignment = -1;
+name = q;
+transform = "{1, 0, 0, 1, 1, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 381, -920}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1241;
+}
+);
+unicode = A757;
+}

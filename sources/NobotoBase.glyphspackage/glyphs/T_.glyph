@@ -1,0 +1,195 @@
+{
+glyphname = T;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{614, 0}";
+},
+{
+name = bottom_dd;
+position = "{1222, -407}";
+},
+{
+name = cross;
+position = "{619, 897}";
+},
+{
+name = right;
+position = "{710, 0}";
+},
+{
+name = top;
+position = "{612, 1600}";
+},
+{
+name = top0315;
+position = "{1222, 1600}";
+},
+{
+name = top_dd;
+position = "{1222, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"509 1456 LINE",
+"509 0 LINE",
+"715 0 LINE",
+"715 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"49 1456 LINE",
+"49 1289 LINE",
+"1176 1289 LINE",
+"1176 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1222;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{612, 0}";
+},
+{
+name = bottom_dd;
+position = "{1224, -407}";
+},
+{
+name = cross;
+position = "{600, 872}";
+},
+{
+name = right;
+position = "{639, 0}";
+},
+{
+name = top;
+position = "{609, 1604}";
+},
+{
+name = top0315;
+position = "{1224, 1604}";
+},
+{
+name = top_dd;
+position = "{1224, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"585 1456 LINE",
+"585 0 LINE",
+"639 0 LINE",
+"639 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"55 1456 LINE",
+"55 1402 LINE",
+"1169 1402 LINE",
+"1169 1456 LINE"
+);
+}
+);
+width = 1224;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{634, 10}";
+},
+{
+name = bottom_dd;
+position = "{1284, -407}";
+},
+{
+name = cross;
+position = "{606, 814}";
+},
+{
+name = right;
+position = "{764, 0}";
+},
+{
+name = top;
+position = "{634, 1600}";
+},
+{
+name = top0315;
+position = "{1284, 1600}";
+},
+{
+name = top_dd;
+position = "{1284, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"470 1456 LINE",
+"470 0 LINE",
+"805 0 LINE",
+"805 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"38 1456 LINE",
+"38 1185 LINE",
+"1245 1185 LINE",
+"1245 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1200;
+}
+);
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1284;
+}
+);
+leftKerningGroup = T;
+rightKerningGroup = T;
+unicode = 0054;
+}

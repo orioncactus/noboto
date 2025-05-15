@@ -1,0 +1,105 @@
+{
+glyphname = hypodiastole;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"157 89 OFFCURVE",
+"215 47 OFFCURVE",
+"215 -38 CURVE SMOOTH",
+"215 -118 OFFCURVE",
+"157 -158 OFFCURVE",
+"80 -158 CURVE",
+"80 -309 LINE",
+"238 -309 OFFCURVE",
+"367 -224 OFFCURVE",
+"367 -38 CURVE SMOOTH",
+"367 148 OFFCURVE",
+"238 240 OFFCURVE",
+"80 240 CURVE",
+"80 89 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 447;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"207 177 OFFCURVE",
+"294 95 OFFCURVE",
+"294 -38 CURVE SMOOTH",
+"294 -178 OFFCURVE",
+"207 -245 OFFCURVE",
+"80 -245 CURVE",
+"80 -299 LINE",
+"238 -299 OFFCURVE",
+"347 -204 OFFCURVE",
+"347 -38 CURVE SMOOTH",
+"347 132 OFFCURVE",
+"238 230 OFFCURVE",
+"80 230 CURVE",
+"80 177 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 427;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"157 69 OFFCURVE",
+"185 38 OFFCURVE",
+"185 -38 CURVE SMOOTH",
+"185 -102 OFFCURVE",
+"157 -138 OFFCURVE",
+"80 -138 CURVE",
+"80 -319 LINE",
+"238 -319 OFFCURVE",
+"377 -241 OFFCURVE",
+"377 -38 CURVE SMOOTH",
+"377 168 OFFCURVE",
+"238 250 OFFCURVE",
+"80 250 CURVE",
+"80 69 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 457;
+}
+);
+unicode = 2E12;
+}

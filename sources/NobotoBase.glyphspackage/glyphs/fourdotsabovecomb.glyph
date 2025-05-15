@@ -1,0 +1,114 @@
+{
+glyphname = fourdotsabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-598, 1170}";
+}
+);
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -1500, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -1057, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -637, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -227, 1300}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-573, 1170}";
+}
+);
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -1332, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -948, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -579, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -219, 1300}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-590, 1170}";
+}
+);
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -1610, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -1126, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -646, 1300}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -168, 1300}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 20DC;
+}

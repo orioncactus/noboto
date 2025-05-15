@@ -1,0 +1,72 @@
+{
+glyphname = twoasterisksvertical;
+layers = (
+{
+components = (
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 52, 0}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 52, -1030}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 988;
+},
+{
+components = (
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 50, 0}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 50, -1059}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 962;
+},
+{
+components = (
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 53, 0}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 53, -1010}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1019;
+}
+);
+unicode = 2051;
+}

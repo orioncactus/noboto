@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniADED;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"272 1663 LINE",
+"272 1403 LINE",
+"1479 1403 LINE",
+"1479 1663 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 1030 LINE",
+"74 770 LINE",
+"1812 770 LINE",
+"1812 1030 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1290 1663 LINE",
+"1290 1503 LINE SMOOTH",
+"1290 1337 OFFCURVE",
+"1290 1165 OFFCURVE",
+"1233 924 CURVE",
+"1559 895 LINE",
+"1616 1141 OFFCURVE",
+"1616 1333 OFFCURVE",
+"1616 1503 CURVE SMOOTH",
+"1616 1663 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"262 610 LINE",
+"262 -176 LINE",
+"1606 -176 LINE",
+"1606 610 LINE",
+"1278 610 LINE",
+"1278 453 LINE",
+"590 453 LINE",
+"590 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"590 205 LINE",
+"1278 205 LINE",
+"1278 80 LINE",
+"590 80 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"504 899 LINE",
+"504 551 LINE",
+"834 551 LINE",
+"834 899 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1047 899 LINE",
+"1047 551 LINE",
+"1376 551 LINE",
+"1376 899 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"338 1585 LINE",
+"338 1526 LINE",
+"1520 1526 LINE",
+"1520 1585 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 932 LINE",
+"121 870 LINE",
+"1761 870 LINE",
+"1761 932 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1462 1585 LINE",
+"1462 1468 LINE SMOOTH",
+"1462 1331 OFFCURVE",
+"1462 1155 OFFCURVE",
+"1401 905 CURVE",
+"1464 891 LINE",
+"1528 1145 OFFCURVE",
+"1528 1329 OFFCURVE",
+"1528 1468 CURVE SMOOTH",
+"1528 1585 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"352 610 LINE",
+"352 -106 LINE",
+"1532 -106 LINE",
+"1532 610 LINE",
+"1464 610 LINE",
+"1464 332 LINE",
+"420 332 LINE",
+"420 610 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 270 LINE",
+"1464 270 LINE",
+"1464 -45 LINE",
+"420 -45 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"659 891 LINE",
+"659 514 LINE",
+"725 514 LINE",
+"725 891 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1157 891 LINE",
+"1157 514 LINE",
+"1223 514 LINE",
+"1223 891 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = ADED;
+}

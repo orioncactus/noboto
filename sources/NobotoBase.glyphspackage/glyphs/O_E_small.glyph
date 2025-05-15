@@ -1,0 +1,297 @@
+{
+glyphname = OEsmall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{946, 0}";
+},
+{
+name = top;
+position = "{946, 1290}";
+},
+{
+name = top0315;
+position = "{1727, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1007 158 LINE",
+"1007 0 LINE",
+"1640 0 LINE",
+"1640 158 LINE {name = hr00;}"
+);
+},
+{
+closed = 1;
+nodes = (
+"854 1082 LINE",
+"854 0 LINE",
+"1054 0 LINE",
+"1054 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1007 627 LINE",
+"1007 468 LINE",
+"1553 468 LINE",
+"1553 627 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1007 1082 LINE",
+"1007 924 LINE",
+"1640 924 LINE",
+"1640 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"736 -20 OFFCURVE",
+"838 0 OFFCURVE",
+"988 0 CURVE",
+"988 158 LINE",
+"837 158 OFFCURVE",
+"750 140 OFFCURVE",
+"620 140 CURVE SMOOTH",
+"421 140 OFFCURVE",
+"325 319 OFFCURVE",
+"325 530 CURVE",
+"325 551 LINE",
+"325 760 OFFCURVE",
+"421 942 OFFCURVE",
+"618 942 CURVE SMOOTH",
+"750 942 OFFCURVE",
+"837 924 OFFCURVE",
+"990 924 CURVE",
+"990 1082 LINE",
+"837 1082 OFFCURVE",
+"736 1102 OFFCURVE",
+"618 1102 CURVE SMOOTH",
+"314 1102 OFFCURVE",
+"125 864 OFFCURVE",
+"125 551 CURVE",
+"125 530 LINE",
+"125 217 OFFCURVE",
+"314 -20 OFFCURVE",
+"620 -20 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.779,
+0.6,
+1
+);
+};
+width = 1727;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{884, 0}";
+},
+{
+name = top;
+position = "{884, 1290}";
+},
+{
+name = top0315;
+position = "{1649, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"877 54 LINE",
+"877 0 LINE",
+"1573 0 LINE",
+"1573 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"853 1082 LINE",
+"853 0 LINE",
+"907 0 LINE",
+"907 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"877 583 LINE",
+"877 529 LINE",
+"1486 529 LINE",
+"1486 583 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"877 1082 LINE",
+"877 1028 LINE",
+"1573 1028 LINE",
+"1573 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"674 -20 OFFCURVE",
+"814 0 OFFCURVE",
+"904 0 CURVE",
+"904 54 LINE",
+"812 54 OFFCURVE",
+"666 34 OFFCURVE",
+"585 34 CURVE SMOOTH",
+"319 34 OFFCURVE",
+"164 261 OFFCURVE",
+"164 520 CURVE",
+"164 562 LINE SMOOTH",
+"164 815 OFFCURVE",
+"319 1048 OFFCURVE",
+"583 1048 CURVE SMOOTH",
+"663 1048 OFFCURVE",
+"832 1028 OFFCURVE",
+"904 1028 CURVE",
+"904 1082 LINE",
+"832 1082 OFFCURVE",
+"674 1102 OFFCURVE",
+"583 1102 CURVE SMOOTH",
+"303 1102 OFFCURVE",
+"110 879 OFFCURVE",
+"110 562 CURVE",
+"110 520 LINE SMOOTH",
+"110 203 OFFCURVE",
+"303 -20 OFFCURVE",
+"585 -20 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1649;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{843, 0}";
+},
+{
+name = top;
+position = "{843, 1290}";
+},
+{
+name = top0315;
+position = "{1660, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"945 258 LINE",
+"945 0 LINE",
+"1558 0 LINE",
+"1558 258 LINE {name = hr00;}"
+);
+},
+{
+closed = 1;
+nodes = (
+"744 1082 LINE",
+"744 0 LINE",
+"1066 0 LINE",
+"1066 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"945 672 LINE",
+"945 413 LINE",
+"1472 413 LINE",
+"1472 672 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"945 1082 LINE",
+"945 824 LINE",
+"1558 824 LINE",
+"1558 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"700 -20 OFFCURVE",
+"755 0 OFFCURVE",
+"958 0 CURVE",
+"958 258 LINE",
+"755 258 OFFCURVE",
+"675 240 OFFCURVE",
+"578 240 CURVE SMOOTH",
+"427 240 OFFCURVE",
+"380 367 OFFCURVE",
+"380 530 CURVE",
+"380 551 LINE",
+"380 709 OFFCURVE",
+"428 842 OFFCURVE",
+"576 842 CURVE SMOOTH",
+"676 842 OFFCURVE",
+"755 824 OFFCURVE",
+"958 824 CURVE",
+"958 1082 LINE",
+"757 1082 OFFCURVE",
+"701 1102 OFFCURVE",
+"576 1102 CURVE SMOOTH",
+"242 1102 OFFCURVE",
+"58 867 OFFCURVE",
+"58 551 CURVE",
+"58 530 LINE",
+"58 214 OFFCURVE",
+"242 -20 OFFCURVE",
+"578 -20 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1660;
+}
+);
+unicode = 0276;
+}

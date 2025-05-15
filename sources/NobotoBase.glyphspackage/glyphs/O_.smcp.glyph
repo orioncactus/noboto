@@ -1,0 +1,275 @@
+{
+glyphname = O.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{635, 0}";
+},
+{
+name = bottom_dd;
+position = "{1216, -407}";
+},
+{
+name = tonos;
+position = "{130, 1163}";
+},
+{
+name = top;
+position = "{609, 1320}";
+},
+{
+name = top0315;
+position = "{1216, 1320}";
+},
+{
+name = top_dd;
+position = "{1216, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1121 966 OFFCURVE",
+"917 1181 OFFCURVE",
+"607 1181 CURVE SMOOTH",
+"305 1181 OFFCURVE",
+"94 966 OFFCURVE",
+"94 611 CURVE",
+"94 553 LINE",
+"94 198 OFFCURVE",
+"307 -16 OFFCURVE",
+"609 -16 CURVE SMOOTH",
+"918 -16 OFFCURVE",
+"1121 198 OFFCURVE",
+"1121 553 CURVE",
+"1121 611 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"923 290 OFFCURVE",
+"809 147 OFFCURVE",
+"609 147 CURVE SMOOTH",
+"418 147 OFFCURVE",
+"292 290 OFFCURVE",
+"292 553 CURVE SMOOTH",
+"292 613 LINE SMOOTH",
+"292 875 OFFCURVE",
+"416 1017 OFFCURVE",
+"607 1017 CURVE SMOOTH",
+"806 1017 OFFCURVE",
+"923 875 OFFCURVE",
+"923 613 CURVE",
+"923 553 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 721;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 444;
+}
+);
+};
+width = 1216;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{590, -1}";
+},
+{
+name = bottom_dd;
+position = "{1176, -407}";
+},
+{
+name = tonos;
+position = "{139, 1163}";
+},
+{
+name = top;
+position = "{583, 1320}";
+},
+{
+name = top0315;
+position = "{1176, 1320}";
+},
+{
+name = top_dd;
+position = "{1176, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1061 973 OFFCURVE",
+"875 1181 OFFCURVE",
+"587 1181 CURVE SMOOTH",
+"298 1181 OFFCURVE",
+"114 973 OFFCURVE",
+"114 662 CURVE",
+"114 502 LINE",
+"114 191 OFFCURVE",
+"300 -16 OFFCURVE",
+"588 -16 CURVE SMOOTH",
+"877 -16 OFFCURVE",
+"1061 191 OFFCURVE",
+"1061 502 CURVE",
+"1061 662 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1008 226 OFFCURVE",
+"855 38 OFFCURVE",
+"588 38 CURVE SMOOTH",
+"324 38 OFFCURVE",
+"168 226 OFFCURVE",
+"168 502 CURVE SMOOTH",
+"168 664 LINE SMOOTH",
+"168 938 OFFCURVE",
+"322 1126 OFFCURVE",
+"587 1126 CURVE SMOOTH",
+"853 1126 OFFCURVE",
+"1008 938 OFFCURVE",
+"1008 664 CURVE",
+"1008 502 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 721;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 444;
+}
+);
+};
+width = 1176;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{599, 0}";
+},
+{
+name = bottom_dd;
+position = "{1216, -407}";
+},
+{
+name = tonos;
+position = "{80, 1163}";
+},
+{
+name = top;
+position = "{604, 1320}";
+},
+{
+name = top0315;
+position = "{1216, 1320}";
+},
+{
+name = top_dd;
+position = "{1216, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1162 958 OFFCURVE",
+"929 1181 OFFCURVE",
+"607 1181 CURVE SMOOTH",
+"280 1181 OFFCURVE",
+"53 958 OFFCURVE",
+"53 602 CURVE",
+"53 562 LINE",
+"53 206 OFFCURVE",
+"282 -16 OFFCURVE",
+"609 -16 CURVE SMOOTH",
+"931 -16 OFFCURVE",
+"1162 206 OFFCURVE",
+"1162 562 CURVE",
+"1162 602 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"838 362 OFFCURVE",
+"752 240 OFFCURVE",
+"609 240 CURVE SMOOTH",
+"456 240 OFFCURVE",
+"377 362 OFFCURVE",
+"377 562 CURVE SMOOTH",
+"377 603 LINE SMOOTH",
+"377 807 OFFCURVE",
+"454 924 OFFCURVE",
+"607 924 CURVE SMOOTH",
+"752 924 OFFCURVE",
+"838 807 OFFCURVE",
+"838 603 CURVE",
+"838 562 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 721;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 444;
+}
+);
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1216;
+}
+);
+}

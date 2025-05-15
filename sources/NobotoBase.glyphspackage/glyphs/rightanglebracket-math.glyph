@@ -1,0 +1,81 @@
+{
+glyphname = "rightanglebracket-math";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"682 676 LINE",
+"282 -322 LINE",
+"110 -246 LINE",
+"472 676 LINE",
+"110 1596 LINE",
+"282 1674 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 732;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"569 676 LINE",
+"169 -322 LINE",
+"120 -300 LINE",
+"511 676 LINE",
+"120 1652 LINE",
+"169 1674 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 669;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"742 676 LINE",
+"342 -322 LINE",
+"90 -216 LINE",
+"452 676 LINE",
+"90 1566 LINE",
+"342 1674 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 832;
+}
+);
+unicode = 27E9;
+}

@@ -1,0 +1,299 @@
+{
+color = 0;
+glyphname = uniBF30;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"68 1659 LINE",
+"68 768 LINE",
+"561 768 LINE",
+"561 1659 LINE",
+"334 1659 LINE",
+"334 1470 LINE",
+"293 1470 LINE",
+"293 1659 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 1217 LINE",
+"334 1217 LINE",
+"334 1032 LINE",
+"293 1032 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"608 1659 LINE",
+"608 764 LINE",
+"1090 764 LINE",
+"1090 1659 LINE",
+"868 1659 LINE",
+"868 1468 LINE",
+"827 1468 LINE",
+"827 1659 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"827 1214 LINE",
+"868 1214 LINE",
+"868 1024 LINE",
+"827 1024 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1180 1698 LINE",
+"1180 758 LINE",
+"1438 758 LINE",
+"1438 1698 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"979 1538 LINE",
+"979 1284 LINE",
+"1346 1284 LINE",
+"1346 1538 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1495 1729 LINE",
+"1495 762 LINE",
+"1755 762 LINE",
+"1755 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"981 1169 LINE",
+"981 913 LINE",
+"1348 913 LINE",
+"1348 1169 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"268 684 LINE",
+"268 434 LINE",
+"639 434 LINE",
+"639 356 LINE",
+"270 356 LINE",
+"270 -49 LINE",
+"592 -49 LINE",
+"592 139 LINE",
+"961 139 LINE",
+"961 684 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1223 684 LINE",
+"1223 481 LINE SMOOTH",
+"1223 289 OFFCURVE",
+"1151 111 OFFCURVE",
+"928 18 CURVE",
+"1106 -223 LINE",
+"1382 -106 OFFCURVE",
+"1475 166 OFFCURVE",
+"1475 481 CURVE SMOOTH",
+"1475 684 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1300 684 LINE",
+"1300 481 LINE SMOOTH",
+"1300 182 OFFCURVE",
+"1395 -84 OFFCURVE",
+"1657 -197 CURVE",
+"1833 43 LINE",
+"1622 137 OFFCURVE",
+"1548 303 OFFCURVE",
+"1548 481 CURVE SMOOTH",
+"1548 684 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 55 LINE",
+"270 -193 LINE",
+"395 -193 LINE SMOOTH",
+"686 -193 OFFCURVE",
+"829 -193 OFFCURVE",
+"1004 -166 CURVE",
+"977 82 LINE",
+"807 55 OFFCURVE",
+"674 55 OFFCURVE",
+"395 55 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"160 1530 LINE",
+"160 754 LINE",
+"557 754 LINE",
+"557 1530 LINE",
+"494 1530 LINE",
+"494 1210 LINE",
+"223 1210 LINE",
+"223 1530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 1147 LINE",
+"494 1147 LINE",
+"494 813 LINE",
+"223 813 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"672 1530 LINE",
+"672 754 LINE",
+"1071 754 LINE",
+"1071 1530 LINE",
+"1008 1530 LINE",
+"1008 1210 LINE",
+"739 1210 LINE",
+"739 1530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"739 1147 LINE",
+"1008 1147 LINE",
+"1008 813 LINE",
+"739 813 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1268 1634 LINE",
+"1268 678 LINE",
+"1333 678 LINE",
+"1333 1634 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1036 1380 LINE",
+"1036 1317 LINE",
+"1305 1317 LINE",
+"1305 1380 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1563 1669 LINE",
+"1563 664 LINE",
+"1630 664 LINE",
+"1630 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1034 1053 LINE",
+"1034 991 LINE",
+"1303 991 LINE",
+"1303 1053 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 586 LINE",
+"369 526 LINE",
+"872 526 LINE",
+"872 276 LINE",
+"373 276 LINE",
+"373 -102 LINE",
+"440 -102 LINE",
+"440 213 LINE",
+"940 213 LINE",
+"940 586 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1354 606 LINE",
+"1354 438 LINE SMOOTH",
+"1354 213 OFFCURVE",
+"1223 0 OFFCURVE",
+"1006 -88 CURVE",
+"1047 -141 LINE",
+"1276 -39 OFFCURVE",
+"1411 188 OFFCURVE",
+"1411 438 CURVE SMOOTH",
+"1411 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1360 606 LINE",
+"1360 430 LINE SMOOTH",
+"1360 190 OFFCURVE",
+"1479 -33 OFFCURVE",
+"1708 -135 CURVE",
+"1749 -80 LINE",
+"1534 6 OFFCURVE",
+"1415 215 OFFCURVE",
+"1415 430 CURVE SMOOTH",
+"1415 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"373 -61 LINE",
+"373 -125 LINE",
+"457 -125 LINE SMOOTH",
+"700 -125 OFFCURVE",
+"821 -121 OFFCURVE",
+"983 -82 CURVE",
+"969 -20 LINE",
+"817 -59 OFFCURVE",
+"696 -61 OFFCURVE",
+"457 -61 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BF30;
+}

@@ -1,0 +1,35 @@
+{
+glyphname = braceright.alt.uc;
+layers = (
+{
+components = (
+{
+name = braceright.alt;
+transform = "{1, 0, 0, 1, 0, 168}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 713;
+},
+{
+components = (
+{
+name = braceright.alt;
+transform = "{1, 0, 0, 1, 0, 168}";
+}
+);
+layerId = master01;
+width = 642;
+},
+{
+components = (
+{
+name = braceright.alt;
+transform = "{1, 0, 0, 1, 0, 168}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 814;
+}
+);
+}

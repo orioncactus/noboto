@@ -1,0 +1,163 @@
+{
+color = 0;
+glyphname = uniAC2D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1407 1729 LINE",
+"1407 696 LINE",
+"1720 696 LINE",
+"1720 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1214 1327 LINE",
+"1214 1065 LINE",
+"1489 1065 LINE",
+"1489 1327 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"987 1694 LINE",
+"987 707 LINE",
+"1294 707 LINE",
+"1294 1694 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"565 1618 LINE",
+"565 1499 LINE SMOOTH",
+"565 1200 OFFCURVE",
+"434 1001 OFFCURVE",
+"51 856 CURVE",
+"209 616 LINE",
+"698 811 OFFCURVE",
+"897 1124 OFFCURVE",
+"897 1618 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"150 1618 LINE",
+"150 1358 LINE",
+"690 1358 LINE",
+"690 1618 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"395 621 LINE",
+"395 -166 LINE",
+"1720 -166 LINE",
+"1720 621 LINE",
+"1395 621 LINE",
+"1395 475 LINE",
+"723 475 LINE",
+"723 621 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"723 223 LINE",
+"1395 223 LINE",
+"1395 90 LINE",
+"723 90 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1561 1669 LINE",
+"1561 684 LINE",
+"1626 684 LINE",
+"1626 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1202 1194 LINE",
+"1202 1133 LINE",
+"1599 1133 LINE",
+"1599 1194 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1165 1634 LINE",
+"1165 696 LINE",
+"1233 696 LINE",
+"1233 1634 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"842 1536 LINE",
+"842 1526 LINE SMOOTH",
+"842 1153 OFFCURVE",
+"588 852 OFFCURVE",
+"160 682 CURVE",
+"199 627 LINE",
+"649 811 OFFCURVE",
+"911 1135 OFFCURVE",
+"911 1536 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"219 1536 LINE",
+"219 1477 LINE",
+"877 1477 LINE",
+"877 1536 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"485 594 LINE",
+"485 -109 LINE",
+"1626 -109 LINE",
+"1626 594 LINE",
+"1563 594 LINE",
+"1563 326 LINE",
+"553 326 LINE",
+"553 594 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"553 264 LINE",
+"1563 264 LINE",
+"1563 -47 LINE",
+"553 -47 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = AC2D;
+}

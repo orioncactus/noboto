@@ -1,0 +1,51 @@
+{
+glyphname = "Ghemiddlehook-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = Gamma;
+},
+{
+alignment = -1;
+name = largerighthook;
+transform = "{1, 0, 0, 1, 443, 1}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1257;
+},
+{
+components = (
+{
+alignment = -1;
+name = Gamma;
+},
+{
+alignment = -1;
+name = largerighthook;
+transform = "{1, 0, 0, 1, 335, -15}";
+}
+);
+layerId = master01;
+width = 1120;
+},
+{
+components = (
+{
+alignment = -1;
+name = Gamma;
+},
+{
+alignment = -1;
+name = largerighthook;
+transform = "{1, 0, 0, 1, 411, 1}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1282;
+}
+);
+unicode = 0494;
+}

@@ -1,0 +1,133 @@
+{
+glyphname = "Komide-cy";
+layers = (
+{
+anchors = (
+{
+name = cross;
+position = "{954, 1199}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"266 890 OFFCURVE",
+"90 709 OFFCURVE",
+"90 449 CURVE",
+"90 191 OFFCURVE",
+"266 0 OFFCURVE",
+"586 0 CURVE",
+"1144 0 LINE",
+"1144 1456 LINE",
+"935 1456 LINE",
+"935 166 LINE",
+"586 166 LINE",
+"381 166 OFFCURVE",
+"298 307 OFFCURVE",
+"298 451 CURVE",
+"298 594 OFFCURVE",
+"381 723 OFFCURVE",
+"586 723 CURVE",
+"981 723 LINE",
+"981 890 LINE",
+"586 890 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1292;
+},
+{
+anchors = (
+{
+name = cross;
+position = "{954, 1199}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"222 808 OFFCURVE",
+"63 636 OFFCURVE",
+"63 404 CURVE",
+"63 172 OFFCURVE",
+"223 0 OFFCURVE",
+"534 0 CURVE",
+"958 0 LINE",
+"958 1456 LINE",
+"904 1456 LINE",
+"904 54 LINE",
+"534 54 LINE",
+"239 54 OFFCURVE",
+"118 222 OFFCURVE",
+"118 406 CURVE",
+"118 582 OFFCURVE",
+"239 754 OFFCURVE",
+"534 754 CURVE",
+"945 754 LINE",
+"945 808 LINE",
+"534 808 LINE"
+);
+}
+);
+width = 1077;
+},
+{
+anchors = (
+{
+name = cross;
+position = "{948, 1199}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"292 986 OFFCURVE",
+"68 777 OFFCURVE",
+"68 493 CURVE",
+"68 207 OFFCURVE",
+"292 0 OFFCURVE",
+"641 0 CURVE",
+"1176 0 LINE",
+"1176 1456 LINE",
+"841 1456 LINE",
+"841 270 LINE",
+"641 270 LINE",
+"485 270 OFFCURVE",
+"404 375 OFFCURVE",
+"404 495 CURVE",
+"404 610 OFFCURVE",
+"485 716 OFFCURVE",
+"641 716 CURVE",
+"963 716 LINE",
+"963 986 LINE",
+"641 986 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1278;
+}
+);
+unicode = "0500,0501";
+}

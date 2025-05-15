@@ -1,0 +1,81 @@
+{
+glyphname = tironiansignet;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"529 921 LINE",
+"529 -416 LINE",
+"729 -416 LINE",
+"729 1082 LINE",
+"40 1082 LINE",
+"40 921 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 899;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"726 1027 LINE",
+"726 -416 LINE",
+"780 -416 LINE",
+"780 1082 LINE",
+"40 1082 LINE",
+"40 1027 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 980;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"599 822 LINE",
+"599 -417 LINE",
+"921 -417 LINE",
+"921 1082 LINE",
+"96 1082 LINE",
+"96 822 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1032;
+}
+);
+unicode = 204A;
+}

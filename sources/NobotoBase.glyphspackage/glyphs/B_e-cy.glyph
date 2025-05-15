@@ -1,0 +1,49 @@
+{
+glyphname = "Be-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = Gamma;
+transform = "{1, 0, 0, 1, -17, 0}";
+},
+{
+alignment = -1;
+name = "Softsign-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1292;
+},
+{
+components = (
+{
+alignment = -1;
+name = Gamma;
+},
+{
+alignment = -1;
+name = "Softsign-cy";
+}
+);
+layerId = master01;
+width = 1280;
+},
+{
+components = (
+{
+alignment = -1;
+name = Gamma;
+},
+{
+alignment = -1;
+name = "Softsign-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1280;
+}
+);
+unicode = 0411;
+}

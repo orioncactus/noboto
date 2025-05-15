@@ -1,0 +1,90 @@
+{
+glyphname = xxbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-541, 0}";
+}
+);
+components = (
+{
+name = xcomb;
+transform = "{1, 0, 0, 0.77, -330, -1477}";
+},
+{
+name = xcomb;
+transform = "{1, 0, 0, 0.77, 270, -1477}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{261, 0}";
+}
+);
+components = (
+{
+name = xcomb;
+transform = "{1, 0, 0, 0.77, -330, -1477}";
+},
+{
+name = xcomb;
+transform = "{1, 0, 0, 0.77, 270, -1477}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-577, 0}";
+}
+);
+components = (
+{
+name = xcomb;
+transform = "{1, 0, 0, 0.75, -301, -1450}";
+},
+{
+name = xcomb;
+transform = "{1, 0, 0, 0.75, 299, -1450}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1AB5;
+}

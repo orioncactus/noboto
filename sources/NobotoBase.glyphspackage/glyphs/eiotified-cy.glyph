@@ -1,0 +1,89 @@
+{
+glyphname = "eiotified-cy";
+layers = (
+{
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 436, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"281 618 LINE",
+"281 458 LINE",
+"1160 458 LINE",
+"1160 618 LINE"
+);
+}
+);
+width = 1530;
+},
+{
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 442, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 588 LINE",
+"200 534 LINE",
+"1100 534 LINE",
+"1100 588 LINE"
+);
+}
+);
+width = 1518;
+},
+{
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 485, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, -22, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"291 640 LINE",
+"291 449 LINE",
+"1154 449 LINE",
+"1154 640 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1551;
+}
+);
+unicode = 0465;
+}

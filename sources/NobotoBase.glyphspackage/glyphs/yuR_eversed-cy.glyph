@@ -1,0 +1,103 @@
+{
+glyphname = "yuReversed-cy";
+layers = (
+{
+components = (
+{
+name = o;
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 1296, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"981 629 LINE",
+"981 469 LINE",
+"1571 469 LINE",
+"1571 629 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1786;
+},
+{
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, 10, 0}";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 1224, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1009 557 LINE",
+"1009 503 LINE",
+"1448 503 LINE",
+"1448 557 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1629;
+},
+{
+components = (
+{
+name = o;
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 1079, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"880 682 LINE",
+"880 421 LINE",
+"1469 421 LINE",
+"1469 682 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1631;
+}
+);
+unicode = A655;
+}

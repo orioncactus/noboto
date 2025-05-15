@@ -1,0 +1,95 @@
+{
+glyphname = "Zhedescender-cy";
+layers = (
+{
+anchors = (
+{
+name = top0315;
+position = "{1872, 1612}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Zhe-cy";
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 1649, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1972;
+},
+{
+anchors = (
+{
+name = top0315;
+position = "{1745, 1612}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Zhe-cy";
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 1492, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1793;
+},
+{
+anchors = (
+{
+name = top0315;
+position = "{2107, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Zhe-cy";
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 1847, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 2269;
+}
+);
+leftKerningGroup = X;
+rightKerningGroup = X;
+unicode = 0496;
+}

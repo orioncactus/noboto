@@ -1,0 +1,70 @@
+{
+glyphname = "Tetse-cy";
+layers = (
+{
+components = (
+{
+name = "Tse-cy";
+transform = "{1, 0, 0, 1, 252, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"56 1456 LINE",
+"56 1296 LINE",
+"1010 1296 LINE",
+"1010 1456 LINE"
+);
+}
+);
+width = 1850;
+},
+{
+components = (
+{
+name = "Tse-cy";
+transform = "{1, 0, 0, 1, 256, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"18 1455 LINE",
+"18 1401 LINE",
+"962 1401 LINE",
+"962 1455 LINE"
+);
+}
+);
+width = 1720;
+},
+{
+components = (
+{
+name = "Tse-cy";
+transform = "{1, 0, 0, 1, 249, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"27 1456 LINE",
+"27 1195 LINE",
+"990 1195 LINE",
+"990 1456 LINE"
+);
+}
+);
+width = 1827;
+}
+);
+leftKerningGroup = T;
+unicode = 04B4;
+}

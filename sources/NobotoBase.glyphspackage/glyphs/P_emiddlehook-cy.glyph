@@ -1,0 +1,52 @@
+{
+glyphname = "Pemiddlehook-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = Pi;
+},
+{
+alignment = -1;
+name = largerighthook;
+transform = "{1, 0, 0, 1, 1281, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 2099;
+},
+{
+components = (
+{
+alignment = -1;
+name = Pi;
+transform = "{1, 0, 0, 1, -21, 0}";
+},
+{
+alignment = -1;
+name = largerighthook;
+transform = "{1, 0, 0, 1, 1281, 0}";
+}
+);
+layerId = master01;
+width = 2079;
+},
+{
+components = (
+{
+alignment = -1;
+name = Pi;
+},
+{
+alignment = -1;
+name = largerighthook;
+transform = "{1, 0, 0, 1, 1284, -2}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 2155;
+}
+);
+unicode = 04A6;
+}

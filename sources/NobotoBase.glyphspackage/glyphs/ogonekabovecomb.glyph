@@ -1,0 +1,81 @@
+{
+glyphname = ogonekabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-508, 993}";
+}
+);
+components = (
+{
+alignment = -1;
+name = ogonek;
+transform = "{-1, 0, 0, -1, -280, 1066}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-513, 1052}";
+}
+);
+components = (
+{
+alignment = -1;
+name = ogonek;
+transform = "{-1, 0, 0, -1, -306, 1074}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-578, 967}";
+}
+);
+components = (
+{
+alignment = -1;
+name = ogonek;
+transform = "{-1, 0, 0, -1, -348, 1044}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1DCE;
+}

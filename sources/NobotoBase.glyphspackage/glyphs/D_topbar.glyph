@@ -1,0 +1,144 @@
+{
+glyphname = Dtopbar;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1133 1456 LINE",
+"235 1456 LINE",
+"235 1289 LINE",
+"925 1289 LINE",
+"925 869 LINE",
+"576 869 LINE SMOOTH",
+"256 869 OFFCURVE",
+"79 699 OFFCURVE",
+"79 439 CURVE SMOOTH",
+"79 181 OFFCURVE",
+"256 0 OFFCURVE",
+"576 0 CURVE SMOOTH",
+"1133 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"576 166 LINE SMOOTH",
+"371 166 OFFCURVE",
+"287 297 OFFCURVE",
+"287 441 CURVE SMOOTH",
+"287 584 OFFCURVE",
+"371 702 OFFCURVE",
+"576 702 CURVE SMOOTH",
+"925 702 LINE",
+"925 166 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1292;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"999 1456 LINE",
+"137 1456 LINE",
+"137 1402 LINE",
+"945 1402 LINE",
+"945 788 LINE",
+"576 788 LINE SMOOTH",
+"264 788 OFFCURVE",
+"105 626 OFFCURVE",
+"105 394 CURVE SMOOTH",
+"105 162 OFFCURVE",
+"265 0 OFFCURVE",
+"576 0 CURVE SMOOTH",
+"999 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"576 54 LINE SMOOTH",
+"280 54 OFFCURVE",
+"160 212 OFFCURVE",
+"160 396 CURVE SMOOTH",
+"160 572 OFFCURVE",
+"280 734 OFFCURVE",
+"576 734 CURVE SMOOTH",
+"945 734 LINE",
+"945 54 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1199;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1185 1456 LINE",
+"211 1456 LINE",
+"211 1185 LINE",
+"850 1185 LINE",
+"850 955 LINE",
+"650 955 LINE SMOOTH",
+"300 955 OFFCURVE",
+"77 767 OFFCURVE",
+"77 483 CURVE SMOOTH",
+"77 197 OFFCURVE",
+"300 0 OFFCURVE",
+"650 0 CURVE SMOOTH",
+"1185 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 270 LINE SMOOTH",
+"494 270 OFFCURVE",
+"412 365 OFFCURVE",
+"412 485 CURVE SMOOTH",
+"412 600 OFFCURVE",
+"494 685 OFFCURVE",
+"650 685 CURVE SMOOTH",
+"850 685 LINE",
+"850 270 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1280;
+}
+);
+unicode = 018B;
+}

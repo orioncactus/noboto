@@ -1,0 +1,72 @@
+{
+glyphname = twoemdash;
+layers = (
+{
+components = (
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, -90, 0}";
+},
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, 1246, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 3032;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, -82, 0}";
+},
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, 1254, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 3030;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, -61, 0}";
+},
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, 1274, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2992;
+}
+);
+unicode = 2E3A;
+}

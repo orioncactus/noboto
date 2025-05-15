@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniD281;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"229 1096 LINE",
+"229 862 LINE",
+"1190 862 LINE",
+"1190 1096 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"229 1663 LINE",
+"229 1012 LINE",
+"561 1012 LINE",
+"561 1430 LINE",
+"1178 1430 LINE",
+"1178 1663 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"467 1374 LINE",
+"467 1151 LINE",
+"1139 1151 LINE",
+"1139 1374 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"528 705 LINE",
+"528 336 LINE",
+"860 336 LINE",
+"860 705 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1366 1729 LINE",
+"1366 467 LINE",
+"1696 467 LINE",
+"1696 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 518 LINE",
+"461 518 OFFCURVE",
+"887 520 OFFCURVE",
+"1300 594 CURVE",
+"1280 825 LINE",
+"885 776 OFFCURVE",
+"430 778 OFFCURVE",
+"80 778 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 391 LINE",
+"324 133 LINE",
+"1366 133 LINE",
+"1366 -195 LINE",
+"1696 -195 LINE",
+"1696 391 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"309 1006 LINE",
+"309 944 LINE",
+"1174 944 LINE",
+"1174 1006 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"309 1579 LINE",
+"309 995 LINE",
+"375 995 LINE",
+"375 1518 LINE",
+"1159 1518 LINE",
+"1159 1579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"352 1300 LINE",
+"352 1239 LINE",
+"1122 1239 LINE",
+"1122 1300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"684 735 LINE",
+"684 385 LINE",
+"752 385 LINE",
+"752 735 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1497 1671 LINE",
+"1497 526 LINE",
+"1563 526 LINE",
+"1563 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"117 680 LINE",
+"471 680 OFFCURVE",
+"936 686 OFFCURVE",
+"1356 748 CURVE",
+"1348 803 LINE",
+"936 750 OFFCURVE",
+"469 743 OFFCURVE",
+"102 743 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"383 406 LINE",
+"383 344 LINE",
+"1497 344 LINE",
+"1497 -137 LINE",
+"1563 -137 LINE",
+"1563 406 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = D281;
+}

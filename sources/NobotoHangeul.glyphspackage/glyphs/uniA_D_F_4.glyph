@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniADF4;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"272 1659 LINE",
+"272 1399 LINE",
+"1479 1399 LINE",
+"1479 1659 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 1012 LINE",
+"74 752 LINE",
+"1812 752 LINE",
+"1812 1012 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1290 1659 LINE",
+"1290 1499 LINE SMOOTH",
+"1290 1333 OFFCURVE",
+"1290 1161 OFFCURVE",
+"1233 920 CURVE",
+"1559 891 LINE",
+"1616 1137 OFFCURVE",
+"1616 1329 OFFCURVE",
+"1616 1499 CURVE SMOOTH",
+"1616 1659 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"475 881 LINE",
+"475 504 LINE",
+"803 504 LINE",
+"803 881 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1077 881 LINE",
+"1077 504 LINE",
+"1405 504 LINE",
+"1405 881 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"274 559 LINE",
+"274 307 LINE",
+"1272 307 LINE",
+"1272 -195 LINE",
+"1597 -195 LINE",
+"1597 559 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1368 211 LINE",
+"248 184 LINE",
+"279 -59 LINE",
+"1368 -4 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"338 1579 LINE",
+"338 1520 LINE",
+"1520 1520 LINE",
+"1520 1579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 932 LINE",
+"121 870 LINE",
+"1761 870 LINE",
+"1761 932 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1462 1579 LINE",
+"1462 1462 LINE SMOOTH",
+"1462 1325 OFFCURVE",
+"1462 1149 OFFCURVE",
+"1401 899 CURVE",
+"1464 885 LINE",
+"1528 1139 OFFCURVE",
+"1528 1323 OFFCURVE",
+"1528 1462 CURVE SMOOTH",
+"1528 1579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 920 LINE",
+"600 467 LINE",
+"668 467 LINE",
+"668 920 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1214 920 LINE",
+"1214 467 LINE",
+"1282 467 LINE",
+"1282 920 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"326 516 LINE",
+"326 455 LINE",
+"1479 455 LINE",
+"1479 -137 LINE",
+"1546 -137 LINE",
+"1546 516 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1516 233 LINE",
+"274 184 LINE",
+"291 119 LINE",
+"1516 178 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = ADF4;
+}

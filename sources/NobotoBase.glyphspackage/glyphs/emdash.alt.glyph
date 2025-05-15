@@ -1,0 +1,35 @@
+{
+glyphname = emdash.alt;
+layers = (
+{
+components = (
+{
+name = endash.alt;
+transform = "{2, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 2048;
+},
+{
+components = (
+{
+name = endash.alt;
+transform = "{2, 0, 0, 1, 0, 0}";
+}
+);
+layerId = master01;
+width = 2048;
+},
+{
+components = (
+{
+name = endash.alt;
+transform = "{2, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 2048;
+}
+);
+}

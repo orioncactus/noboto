@@ -1,0 +1,60 @@
+{
+glyphname = threeeighths;
+layers = (
+{
+components = (
+{
+name = three.sup;
+transform = "{1, 0, 0, 1, 34, 660}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 421, 0}";
+},
+{
+name = eight.sup;
+transform = "{1, 0, 0, 1, 948, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1750;
+},
+{
+components = (
+{
+name = three.sup;
+transform = "{1, 0, 0, 1, 76, 660}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 421, 0}";
+},
+{
+name = eight.sup;
+transform = "{1, 0, 0, 1, 949, 0}";
+}
+);
+layerId = master01;
+width = 1761;
+},
+{
+components = (
+{
+name = three.sup;
+transform = "{1, 0, 0, 1, 20, 660}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 429, 0}";
+},
+{
+name = eight.sup;
+transform = "{1, 0, 0, 1, 977, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1769;
+}
+);
+unicode = 215C;
+}

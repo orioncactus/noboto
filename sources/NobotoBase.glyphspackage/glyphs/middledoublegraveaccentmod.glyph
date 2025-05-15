@@ -1,0 +1,78 @@
+{
+glyphname = middledoublegraveaccentmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 3, -1017}";
+},
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 383, -1017}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 955;
+},
+{
+components = (
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, -18, -1038}";
+},
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 182, -1038}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 681;
+},
+{
+components = (
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 11, -1020}";
+},
+{
+alignment = -1;
+name = grave;
+transform = "{1, 0, 0, 1, 511, -1020}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1207;
+}
+);
+unicode = 02F5;
+}

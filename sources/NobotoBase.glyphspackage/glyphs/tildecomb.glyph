@@ -1,0 +1,117 @@
+{
+glyphname = tildecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-7, 1256}";
+},
+{
+name = _top;
+position = "{-7, 1256}";
+},
+{
+name = mkmktop;
+position = "{-7, 1606}";
+},
+{
+name = parent_top;
+position = "{0, 1377}";
+}
+);
+components = (
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -485, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{11, 1260}";
+},
+{
+name = _top;
+position = "{11, 1260}";
+},
+{
+name = mkmktop;
+position = "{11, 1510}";
+},
+{
+name = parent_top;
+position = "{0, 1379}";
+}
+);
+components = (
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -410, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-26, 1256}";
+},
+{
+name = _top;
+position = "{-26, 1256}";
+},
+{
+name = mkmktop;
+position = "{-26, 1676}";
+},
+{
+name = parent_top;
+position = "{0, 1398}";
+}
+);
+components = (
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -498, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0303;
+}

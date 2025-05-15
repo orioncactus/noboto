@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniCF5B;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"266 84 LINE",
+"266 -176 LINE",
+"1634 -176 LINE",
+"1634 84 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 479 LINE",
+"266 -106 LINE",
+"594 -106 LINE",
+"594 221 LINE",
+"1622 221 LINE",
+"1622 479 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"283 1683 LINE",
+"283 1415 LINE",
+"1489 1415 LINE",
+"1489 1683 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 842 LINE",
+"74 586 LINE",
+"1802 586 LINE",
+"1802 842 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"680 1026 LINE",
+"680 649 LINE",
+"1010 649 LINE",
+"1010 1026 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1298 1683 LINE",
+"1298 1599 LINE SMOOTH",
+"1298 1473 OFFCURVE",
+"1298 1255 OFFCURVE",
+"1247 944 CURVE",
+"1587 909 LINE",
+"1642 1231 OFFCURVE",
+"1642 1466 OFFCURVE",
+"1642 1599 CURVE SMOOTH",
+"1642 1683 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1391 1343 LINE",
+"221 1325 LINE",
+"258 1069 LINE",
+"1391 1112 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"299 -55 LINE",
+"299 -115 LINE",
+"1556 -115 LINE",
+"1556 -55 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"299 424 LINE",
+"299 -72 LINE",
+"367 -72 LINE",
+"367 362 LINE",
+"1534 362 LINE",
+"1534 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"307 1571 LINE",
+"307 1509 LINE",
+"1489 1509 LINE",
+"1489 1571 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 737 LINE",
+"96 676 LINE",
+"1737 676 LINE",
+"1737 737 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"819 1057 LINE",
+"819 707 LINE",
+"887 707 LINE",
+"887 1057 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1450 1571 LINE",
+"1450 1399 LINE SMOOTH",
+"1450 1233 OFFCURVE",
+"1450 1073 OFFCURVE",
+"1397 856 CURVE",
+"1464 846 LINE",
+"1516 1065 OFFCURVE",
+"1516 1229 OFFCURVE",
+"1516 1399 CURVE SMOOTH",
+"1516 1571 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1282 LINE",
+"260 1231 LINE",
+"279 1159 LINE",
+"1489 1229 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CF5B;
+}

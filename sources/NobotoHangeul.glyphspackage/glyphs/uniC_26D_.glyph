@@ -1,0 +1,163 @@
+{
+color = 0;
+glyphname = uniC26D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"553 713 LINE",
+"553 346 LINE",
+"885 346 LINE",
+"885 713 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1364 1729 LINE",
+"1364 506 LINE",
+"1696 506 LINE",
+"1696 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 618 LINE",
+"453 618 OFFCURVE",
+"891 625 OFFCURVE",
+"1296 702 CURVE",
+"1276 932 LINE",
+"879 881 OFFCURVE",
+"420 879 OFFCURVE",
+"78 879 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"330 430 LINE",
+"330 172 LINE",
+"1364 172 LINE",
+"1364 -195 LINE",
+"1696 -195 LINE",
+"1696 430 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"549 1659 LINE",
+"549 1593 LINE SMOOTH",
+"549 1423 OFFCURVE",
+"449 1253 OFFCURVE",
+"131 1188 CURVE",
+"274 936 LINE",
+"664 1022 OFFCURVE",
+"811 1286 OFFCURVE",
+"811 1593 CURVE SMOOTH",
+"811 1659 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"631 1659 LINE",
+"631 1593 LINE SMOOTH",
+"631 1303 OFFCURVE",
+"776 1049 OFFCURVE",
+"1151 969 CURVE",
+"1292 1217 LINE",
+"993 1280 OFFCURVE",
+"893 1438 OFFCURVE",
+"893 1593 CURVE SMOOTH",
+"893 1659 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"692 784 LINE",
+"692 395 LINE",
+"760 395 LINE",
+"760 784 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1487 1669 LINE",
+"1487 535 LINE",
+"1554 535 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 752 LINE",
+"473 752 OFFCURVE",
+"930 752 OFFCURVE",
+"1348 819 CURVE",
+"1341 872 LINE",
+"934 817 OFFCURVE",
+"469 817 OFFCURVE",
+"123 817 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 422 LINE",
+"389 360 LINE",
+"1487 360 LINE",
+"1487 -137 LINE",
+"1554 -137 LINE",
+"1554 422 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"692 1624 LINE",
+"692 1511 LINE SMOOTH",
+"692 1280 OFFCURVE",
+"465 1094 OFFCURVE",
+"227 1024 CURVE",
+"262 969 LINE",
+"518 1051 OFFCURVE",
+"750 1249 OFFCURVE",
+"750 1511 CURVE SMOOTH",
+"750 1624 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"702 1624 LINE",
+"702 1511 LINE SMOOTH",
+"702 1260 OFFCURVE",
+"940 1083 OFFCURVE",
+"1198 1008 CURVE",
+"1231 1063 LINE",
+"993 1126 OFFCURVE",
+"760 1290 OFFCURVE",
+"760 1511 CURVE SMOOTH",
+"760 1624 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = C26D;
+}

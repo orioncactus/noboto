@@ -1,0 +1,126 @@
+{
+glyphname = Tonesix;
+layers = (
+{
+components = (
+{
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 102, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"262 1456 OFFCURVE",
+"99 1251 OFFCURVE",
+"99 1251 CURVE",
+"99 1251 OFFCURVE",
+"99 1171 OFFCURVE",
+"99 1171 CURVE",
+"99 1171 OFFCURVE",
+"262 967 OFFCURVE",
+"262 967 CURVE",
+"310 967 LINE",
+"311 1456 LINE",
+"262 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1211;
+}
+);
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1394;
+},
+{
+components = (
+{
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"203 1456 OFFCURVE",
+"90 1231 OFFCURVE",
+"90 1231 CURVE",
+"90 1231 OFFCURVE",
+"90 1191 OFFCURVE",
+"90 1191 CURVE",
+"90 1191 OFFCURVE",
+"203 967 OFFCURVE",
+"203 967 CURVE",
+"231 967 LINE",
+"232 1456 LINE",
+"203 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1202;
+},
+{
+components = (
+{
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 133, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"250 1456 OFFCURVE",
+"58 1291 OFFCURVE",
+"58 1291 CURVE",
+"58 1291 OFFCURVE",
+"58 1131 OFFCURVE",
+"58 1131 CURVE",
+"58 1131 OFFCURVE",
+"250 967 OFFCURVE",
+"250 967 CURVE",
+"298 967 LINE",
+"299 1456 LINE",
+"250 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1411;
+}
+);
+unicode = 0184;
+}

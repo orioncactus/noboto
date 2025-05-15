@@ -1,0 +1,91 @@
+{
+glyphname = interrobang;
+layers = (
+{
+components = (
+{
+name = question;
+transform = "{1, 0, 0, 1, -25, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"311 1635 LINE",
+"326 411 LINE",
+"506 411 LINE",
+"521 1635 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 923;
+},
+{
+components = (
+{
+name = question;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"395 1636 LINE",
+"395 400 LINE",
+"449 400 LINE",
+"449 1636 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 893;
+},
+{
+components = (
+{
+name = question;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"234 1696 LINE",
+"274 461 LINE",
+"537 461 LINE",
+"577 1696 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1036;
+}
+);
+unicode = 203D;
+}

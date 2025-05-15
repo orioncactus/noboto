@@ -1,0 +1,47 @@
+{
+glyphname = semicolon.uc;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -35, 1062}";
+},
+{
+name = comma;
+transform = "{1, 0, 0, 1, 15, 186}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 441;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -22, 1160}";
+},
+{
+name = comma;
+transform = "{1, 0, 0, 1, -12, 198}";
+}
+);
+layerId = master01;
+width = 364;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -13, 969}";
+},
+{
+name = comma;
+transform = "{1, 0, 0, 1, 24, 171}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 573;
+}
+);
+}

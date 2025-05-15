@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniD2CB;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"70 752 LINE",
+"70 496 LINE",
+"1808 496 LINE",
+"1808 752 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 1071 LINE",
+"279 823 LINE",
+"1636 823 LINE",
+"1636 1071 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 1677 LINE",
+"279 930 LINE",
+"606 930 LINE",
+"606 1430 LINE",
+"1618 1430 LINE",
+"1618 1677 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"514 1370 LINE",
+"514 1133 LINE",
+"1579 1133 LINE",
+"1579 1370 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"768 432 LINE",
+"768 410 LINE SMOOTH",
+"768 268 OFFCURVE",
+"643 98 OFFCURVE",
+"174 59 CURVE",
+"283 -188 LINE",
+"819 -135 OFFCURVE",
+"1047 104 OFFCURVE",
+"1047 410 CURVE SMOOTH",
+"1047 432 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"827 432 LINE",
+"827 410 LINE SMOOTH",
+"827 104 OFFCURVE",
+"1055 -135 OFFCURVE",
+"1593 -188 CURVE",
+"1700 59 LINE",
+"1231 98 OFFCURVE",
+"1106 268 OFFCURVE",
+"1106 410 CURVE SMOOTH",
+"1106 432 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 707 LINE",
+"121 645 LINE",
+"1753 645 LINE",
+"1753 707 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"350 985 LINE",
+"350 926 LINE",
+"1542 926 LINE",
+"1542 985 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"350 1602 LINE",
+"350 956 LINE",
+"418 956 LINE",
+"418 1540 LINE",
+"1538 1540 LINE",
+"1538 1602 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"393 1303 LINE",
+"393 1241 LINE",
+"1483 1241 LINE",
+"1483 1303 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"903 508 LINE",
+"903 442 LINE SMOOTH",
+"903 150 OFFCURVE",
+"520 -25 OFFCURVE",
+"266 -72 CURVE",
+"297 -129 LINE",
+"575 -68 OFFCURVE",
+"963 113 OFFCURVE",
+"963 442 CURVE SMOOTH",
+"963 508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"913 508 LINE",
+"913 442 LINE SMOOTH",
+"913 113 OFFCURVE",
+"1298 -68 OFFCURVE",
+"1577 -129 CURVE",
+"1610 -72 LINE",
+"1354 -25 OFFCURVE",
+"971 150 OFFCURVE",
+"971 442 CURVE SMOOTH",
+"971 508 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = D2CB;
+}

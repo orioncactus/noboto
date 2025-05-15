@@ -1,0 +1,93 @@
+{
+glyphname = BBarredmod;
+layers = (
+{
+components = (
+{
+name = Bmod;
+transform = "{1, 0, 0, 1, 120, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 1285 LINE",
+"20 1132 LINE",
+"1135 1132 LINE",
+"1135 1285 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1165;
+},
+{
+components = (
+{
+name = Bmod;
+transform = "{1, 0, 0, 1, 120, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1230 LINE",
+"40 1176 LINE",
+"1028 1176 LINE",
+"1028 1230 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1068;
+},
+{
+components = (
+{
+name = Bmod;
+transform = "{1, 0, 0, 1, 164, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1283 LINE",
+"40 1117 LINE",
+"1205 1117 LINE",
+"1205 1283 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1245;
+}
+);
+unicode = 1D2F;
+}

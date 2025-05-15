@@ -1,0 +1,86 @@
+{
+glyphname = "yusbigiotified-cy";
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = "yusbig-cy";
+transform = "{1, 0, 0, 1, 506, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"260 606 LINE",
+"260 446 LINE",
+"1278 446 LINE",
+"1278 606 LINE"
+);
+}
+);
+width = 2024;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = "yusbig-cy";
+transform = "{1, 0, 0, 1, 406, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"189 585 LINE",
+"189 530 LINE",
+"972 530 LINE",
+"972 585 LINE"
+);
+}
+);
+width = 1796;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = "yusbig-cy";
+transform = "{1, 0, 0, 1, 577, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"223 617 LINE",
+"223 384 LINE",
+"1211 384 LINE",
+"1211 617 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 2074;
+}
+);
+unicode = 046D;
+}

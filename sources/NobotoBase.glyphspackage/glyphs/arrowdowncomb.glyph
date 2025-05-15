@@ -1,0 +1,147 @@
+{
+glyphname = arrowdowncomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-588, 1170}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-649 1280 LINE",
+"-526 1280 LINE",
+"-526 1805 LINE",
+"-649 1805 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-588 1156 LINE",
+"-510 1252 LINE",
+"-890 1631 LINE",
+"-890 1457 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-661 1257 LINE",
+"-588 1156 LINE",
+"-286 1457 LINE",
+"-286 1631 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-562, 1170}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-592 1235 LINE",
+"-538 1235 LINE",
+"-538 1805 LINE",
+"-592 1805 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-562 1171 LINE",
+"-536 1220 LINE",
+"-864 1548 LINE",
+"-864 1472 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-588 1222 LINE",
+"-562 1171 LINE",
+"-260 1472 LINE",
+"-260 1549 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-576, 1170}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-677 1287 LINE",
+"-474 1287 LINE",
+"-474 1899 LINE",
+"-677 1899 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-576 1163 LINE",
+"-498 1319 LINE",
+"-878 1698 LINE",
+"-878 1464 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-649 1324 LINE",
+"-576 1163 LINE",
+"-274 1464 LINE",
+"-274 1698 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1AB3;
+}

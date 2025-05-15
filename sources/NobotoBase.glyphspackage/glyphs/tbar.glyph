@@ -1,0 +1,45 @@
+{
+glyphname = tbar;
+layers = (
+{
+components = (
+{
+name = t;
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 335, 120}";
+}
+);
+layerId = master01;
+width = 648;
+},
+{
+components = (
+{
+name = t;
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 303, 141}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 672;
+},
+{
+components = (
+{
+name = t;
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 327, 71}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 700;
+}
+);
+unicode = 0167;
+}

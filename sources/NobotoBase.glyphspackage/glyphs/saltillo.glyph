@@ -1,0 +1,81 @@
+{
+glyphname = saltillo;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 1260 LINE",
+"80 1125 LINE",
+"100 666 LINE",
+"210 666 LINE",
+"230 1125 LINE",
+"230 1260 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 310;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"80 1260 LINE",
+"80 1185 LINE",
+"90 666 LINE",
+"123 666 LINE",
+"133 1185 LINE",
+"133 1260 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 213;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 1260 LINE",
+"80 1095 LINE",
+"125 646 LINE",
+"295 646 LINE",
+"341 1095 LINE",
+"341 1260 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 421;
+}
+);
+unicode = A78C;
+}

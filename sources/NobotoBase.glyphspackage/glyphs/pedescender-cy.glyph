@@ -1,0 +1,117 @@
+{
+glyphname = "pedescender-cy";
+layers = (
+{
+anchors = (
+{
+name = top0315;
+position = "{1189, 1269}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1034 159 LINE",
+"1034 1082 LINE",
+"155 1082 LINE",
+"155 0 LINE",
+"355 0 LINE",
+"355 921 LINE",
+"834 921 LINE",
+"834 0 LINE",
+"1008 0 LINE",
+"1008 -360 LINE",
+"1208 -360 LINE",
+"1208 159 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1260;
+},
+{
+anchors = (
+{
+name = top0315;
+position = "{1121, 1269}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"950 95 LINE",
+"950 1082 LINE",
+"172 1082 LINE",
+"172 0 LINE",
+"226 0 LINE",
+"226 1027 LINE",
+"895 1027 LINE",
+"895 0 LINE",
+"949 0 LINE",
+"949 -352 LINE",
+"1003 -352 LINE",
+"1003 95 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1082;
+},
+{
+anchors = (
+{
+name = top0315;
+position = "{1153, 1269}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1059 223 LINE",
+"1059 1082 LINE",
+"96 1082 LINE",
+"96 0 LINE",
+"418 0 LINE",
+"418 822 LINE",
+"736 822 LINE",
+"736 0 LINE",
+"975 0 LINE",
+"975 -356 LINE",
+"1297 -356 LINE",
+"1297 223 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1358;
+}
+);
+unicode = 0525;
+}

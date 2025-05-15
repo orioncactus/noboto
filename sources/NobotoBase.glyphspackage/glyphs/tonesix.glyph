@@ -1,0 +1,111 @@
+{
+glyphname = tonesix;
+layers = (
+{
+components = (
+{
+name = b;
+transform = "{1, 0, 0, 1, 126, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"263 1536 OFFCURVE",
+"100 1331 OFFCURVE",
+"100 1331 CURVE",
+"100 1251 LINE",
+"100 1251 OFFCURVE",
+"263 1047 OFFCURVE",
+"263 1047 CURVE",
+"311 1047 LINE",
+"311 1536 LINE",
+"263 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1279;
+},
+{
+components = (
+{
+name = b;
+transform = "{1, 0, 0, 1, 13, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"183 1536 OFFCURVE",
+"70 1311 OFFCURVE",
+"70 1311 CURVE",
+"70 1271 LINE",
+"70 1271 OFFCURVE",
+"183 1047 OFFCURVE",
+"183 1047 CURVE",
+"211 1047 LINE",
+"211 1536 LINE",
+"183 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1112;
+},
+{
+components = (
+{
+name = b;
+transform = "{1, 0, 0, 1, 130, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"232 1536 OFFCURVE",
+"40 1371 OFFCURVE",
+"40 1371 CURVE",
+"40 1211 LINE",
+"40 1211 OFFCURVE",
+"232 1047 OFFCURVE",
+"232 1047 CURVE",
+"280 1047 LINE",
+"280 1536 LINE",
+"232 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1283;
+}
+);
+unicode = 0185;
+}

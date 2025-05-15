@@ -1,0 +1,93 @@
+{
+glyphname = alphabarred;
+layers = (
+{
+components = (
+{
+name = alpha;
+transform = "{1, 0, 0, 1, 115, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 635 LINE",
+"20 475 LINE",
+"1362 475 LINE",
+"1362 635 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1382;
+},
+{
+components = (
+{
+name = alpha;
+transform = "{1, 0, 0, 1, 111, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 573 LINE",
+"40 519 LINE",
+"1253 519 LINE",
+"1253 573 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1300;
+},
+{
+components = (
+{
+name = alpha;
+transform = "{1, 0, 0, 1, 100, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 647 LINE",
+"40 456 LINE",
+"1260 456 LINE",
+"1260 647 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1300;
+}
+);
+unicode = AB30;
+}

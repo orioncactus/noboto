@@ -1,0 +1,93 @@
+{
+glyphname = kip;
+layers = (
+{
+components = (
+{
+name = K.alt;
+transform = "{1, 0, 0, 1, 83, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 815 LINE",
+"30 655 LINE",
+"1372 655 LINE",
+"1372 815 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1411;
+},
+{
+components = (
+{
+name = K.alt;
+transform = "{1, 0, 0, 1, 40, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 764 LINE",
+"40 711 LINE",
+"935 711 LINE",
+"935 764 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1340;
+},
+{
+components = (
+{
+name = K.alt;
+transform = "{1, 0, 0, 1, 118, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 876 LINE",
+"40 594 LINE",
+"1437 594 LINE",
+"1437 876 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1502;
+}
+);
+unicode = 20AD;
+}

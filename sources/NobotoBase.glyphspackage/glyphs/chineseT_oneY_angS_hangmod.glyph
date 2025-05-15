@@ -1,0 +1,93 @@
+{
+glyphname = chineseToneYangShangmod;
+layers = (
+{
+components = (
+{
+name = chineseToneYinPingmod;
+transform = "{1, 0, 0, 1, 0, 1337}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"113 861 LINE",
+"113 754 LINE",
+"512 754 LINE",
+"512 861 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 592;
+},
+{
+components = (
+{
+name = chineseToneYinPingmod;
+transform = "{1, 0, 0, 1, 7, 1338}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"128 872 LINE",
+"128 832 LINE",
+"497 832 LINE",
+"497 872 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 549;
+},
+{
+components = (
+{
+name = chineseToneYinPingmod;
+transform = "{1, 0, 0, 1, 0, 1339}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"118 863 LINE",
+"118 731 LINE",
+"535 731 LINE",
+"535 863 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 615;
+}
+);
+unicode = A703;
+}

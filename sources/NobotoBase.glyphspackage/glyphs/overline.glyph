@@ -1,0 +1,60 @@
+{
+glyphname = overline;
+layers = (
+{
+components = (
+{
+name = underscore;
+transform = "{1, 0, 0, 1, 15, 1742}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 964;
+},
+{
+components = (
+{
+name = underscore;
+transform = "{1, 0, 0, 1, 1, 1660}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 846;
+},
+{
+components = (
+{
+name = underscore;
+transform = "{1, 0, 0, 1, 0, 1757}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 908;
+}
+);
+unicode = 203E;
+}

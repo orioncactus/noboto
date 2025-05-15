@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniBBD6;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"283 1659 LINE",
+"283 989 LINE",
+"1602 989 LINE",
+"1602 1659 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1262 1407 LINE",
+"1262 1241 LINE",
+"623 1241 LINE",
+"623 1407 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 877 LINE",
+"74 618 LINE",
+"1802 618 LINE",
+"1802 877 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"766 422 LINE",
+"766 381 LINE SMOOTH",
+"766 254 OFFCURVE",
+"645 96 OFFCURVE",
+"186 59 CURVE",
+"291 -186 LINE",
+"823 -139 OFFCURVE",
+"1047 92 OFFCURVE",
+"1047 381 CURVE SMOOTH",
+"1047 422 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"831 422 LINE",
+"831 381 LINE SMOOTH",
+"831 92 OFFCURVE",
+"1055 -139 OFFCURVE",
+"1587 -186 CURVE",
+"1694 59 LINE",
+"1233 96 OFFCURVE",
+"1112 254 OFFCURVE",
+"1112 381 CURVE SMOOTH",
+"1112 422 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"260 500 LINE",
+"260 242 LINE",
+"1618 242 LINE",
+"1618 500 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"315 1618 LINE",
+"315 1012 LINE",
+"1522 1012 LINE",
+"1522 1618 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1458 1554 LINE",
+"1458 1075 LINE",
+"379 1075 LINE",
+"379 1554 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 772 LINE",
+"96 709 LINE",
+"1737 709 LINE",
+"1737 772 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"889 424 LINE",
+"889 401 LINE SMOOTH",
+"889 119 OFFCURVE",
+"481 -35 OFFCURVE",
+"221 -70 CURVE",
+"250 -127 LINE",
+"537 -78 OFFCURVE",
+"948 80 OFFCURVE",
+"948 401 CURVE SMOOTH",
+"948 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"897 424 LINE",
+"897 401 LINE SMOOTH",
+"897 80 OFFCURVE",
+"1309 -78 OFFCURVE",
+"1595 -127 CURVE",
+"1622 -70 LINE",
+"1364 -35 OFFCURVE",
+"956 119 OFFCURVE",
+"956 401 CURVE SMOOTH",
+"956 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"307 442 LINE",
+"307 383 LINE",
+"1536 383 LINE",
+"1536 442 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BBD6;
+}

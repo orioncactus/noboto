@@ -1,0 +1,122 @@
+{
+glyphname = "dje-cy";
+layers = (
+{
+components = (
+{
+name = h;
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -171, 560}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"796 -89 LINE SMOOTH",
+"796 -206 OFFCURVE",
+"749 -277 OFFCURVE",
+"670 -277 CURVE SMOOTH",
+"653 -277 OFFCURVE",
+"592 -272 OFFCURVE",
+"572 -264 CURVE",
+"557 -420 LINE",
+"596 -433 OFFCURVE",
+"629 -437 OFFCURVE",
+"670 -437 CURVE SMOOTH",
+"874 -437 OFFCURVE",
+"996 -314 OFFCURVE",
+"996 -89 CURVE SMOOTH",
+"996 458 LINE",
+"796 458 LINE"
+);
+}
+);
+width = 1129;
+},
+{
+components = (
+{
+name = h;
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -137, 540}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"900 -89 LINE SMOOTH",
+"900 -277 OFFCURVE",
+"816 -383 OFFCURVE",
+"668 -383 CURVE SMOOTH",
+"624 -383 OFFCURVE",
+"573 -373 OFFCURVE",
+"549 -365 CURVE",
+"536 -417 LINE",
+"581 -430 OFFCURVE",
+"620 -437 OFFCURVE",
+"668 -437 CURVE SMOOTH",
+"847 -437 OFFCURVE",
+"954 -314 OFFCURVE",
+"954 -89 CURVE SMOOTH",
+"954 414 LINE",
+"900 414 LINE"
+);
+}
+);
+width = 1121;
+},
+{
+components = (
+{
+name = h;
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -202, 533}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"733 -15 LINE SMOOTH",
+"733 -122 OFFCURVE",
+"691 -177 OFFCURVE",
+"615 -177 CURVE SMOOTH",
+"572 -177 OFFCURVE",
+"548 -173 OFFCURVE",
+"515 -165 CURVE",
+"501 -420 LINE",
+"556 -433 OFFCURVE",
+"601 -437 OFFCURVE",
+"656 -437 CURVE SMOOTH",
+"905 -437 OFFCURVE",
+"1056 -288 OFFCURVE",
+"1056 -15 CURVE SMOOTH",
+"1056 476 LINE",
+"733 476 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1153;
+}
+);
+unicode = 0452;
+}

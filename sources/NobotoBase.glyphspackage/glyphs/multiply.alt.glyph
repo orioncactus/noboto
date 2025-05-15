@@ -1,0 +1,47 @@
+{
+glyphname = multiply.alt;
+layers = (
+{
+components = (
+{
+name = minus.alt;
+transform = "{0.87681, -0.87681, 0.70711, 0.70711, -313, 705}";
+},
+{
+name = minus.alt;
+transform = "{0.87681, 0.87681, -0.70711, 0.70711, 464, -382}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1240;
+},
+{
+components = (
+{
+name = minus.alt;
+transform = "{0.87681, -0.87681, 0.70711, 0.70711, -318, 670}";
+},
+{
+name = minus.alt;
+transform = "{0.87681, 0.87681, -0.70711, 0.70711, 460, -348}";
+}
+);
+layerId = master01;
+width = 1161;
+},
+{
+components = (
+{
+name = minus.alt;
+transform = "{0.87681, -0.87681, 0.70711, 0.70711, -307, 752}";
+},
+{
+name = minus.alt;
+transform = "{0.87681, 0.87681, -0.70711, 0.70711, 472, -430}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1348;
+}
+);
+}

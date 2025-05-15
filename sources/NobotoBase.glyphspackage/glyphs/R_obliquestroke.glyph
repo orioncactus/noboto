@@ -1,0 +1,93 @@
+{
+glyphname = Robliquestroke;
+layers = (
+{
+components = (
+{
+name = R;
+transform = "{1, 0, 0, 1, 36, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 883 LINE",
+"20 758 LINE",
+"1368 1121 LINE",
+"1368 1246 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1388;
+},
+{
+components = (
+{
+name = R;
+transform = "{1, 0, 0, 1, 65, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 900 LINE",
+"54 848 LINE",
+"1401 1202 LINE",
+"1387 1254 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1441;
+},
+{
+components = (
+{
+name = R;
+transform = "{1, 0, 0, 1, 88, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 885 LINE",
+"20 717 LINE",
+"1445 1096 LINE",
+"1445 1263 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1465;
+}
+);
+unicode = A7A6;
+}

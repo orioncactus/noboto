@@ -1,0 +1,187 @@
+{
+color = 0;
+glyphname = uniAE53;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"297 94 LINE",
+"297 -166 LINE",
+"1677 -166 LINE",
+"1677 94 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"297 559 LINE",
+"297 -27 LINE",
+"627 -27 LINE",
+"627 301 LINE",
+"1671 301 LINE",
+"1671 559 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 1626 LINE",
+"131 1348 LINE",
+"575 1348 LINE",
+"575 1626 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"334 1626 LINE",
+"334 1569 LINE SMOOTH",
+"334 1221 OFFCURVE",
+"268 1077 OFFCURVE",
+"39 901 CURVE",
+"276 692 LINE",
+"586 936 OFFCURVE",
+"662 1204 OFFCURVE",
+"662 1626 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"729 1626 LINE",
+"729 1348 LINE",
+"1079 1348 LINE",
+"1079 1626 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"889 1626 LINE",
+"889 1577 LINE SMOOTH",
+"889 1192 OFFCURVE",
+"827 1038 OFFCURVE",
+"612 836 CURVE",
+"879 647 LINE",
+"1153 907 OFFCURVE",
+"1217 1182 OFFCURVE",
+"1217 1626 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1337 1729 LINE",
+"1337 637 LINE",
+"1661 637 LINE",
+"1661 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1405 1325 LINE",
+"1405 1053 LINE",
+"1839 1053 LINE",
+"1839 1325 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"381 -47 LINE",
+"381 -109 LINE",
+"1526 -109 LINE",
+"1526 -47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"381 485 LINE",
+"381 -90 LINE",
+"449 -90 LINE",
+"449 424 LINE",
+"1507 424 LINE",
+"1507 485 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 1530 LINE",
+"139 1473 LINE",
+"584 1473 LINE",
+"584 1530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"551 1530 LINE",
+"551 1528 LINE",
+"551 1206 OFFCURVE",
+"410 971 OFFCURVE",
+"125 786 CURVE",
+"178 741 LINE",
+"469 940 OFFCURVE",
+"614 1196 OFFCURVE",
+"614 1530 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 1530 LINE",
+"682 1473 LINE",
+"1090 1473 LINE",
+"1090 1530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1047 1530 LINE",
+"1047 1528 LINE",
+"1047 1206 OFFCURVE",
+"932 891 OFFCURVE",
+"633 662 CURVE",
+"688 618 LINE",
+"995 868 OFFCURVE",
+"1110 1196 OFFCURVE",
+"1110 1530 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1419 1669 LINE",
+"1419 588 LINE",
+"1487 588 LINE",
+"1487 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1442 1151 LINE",
+"1442 1090 LINE",
+"1784 1090 LINE",
+"1784 1151 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = AE53;
+}

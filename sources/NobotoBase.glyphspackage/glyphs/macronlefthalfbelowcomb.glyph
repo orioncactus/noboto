@@ -1,0 +1,81 @@
+{
+glyphname = macronlefthalfbelowcomb;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = uniFE24;
+transform = "{1, 0, 0, 1, 0, -1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+components = (
+{
+alignment = -1;
+name = uniFE24;
+transform = "{1, 0, 0, 1, 0, -1646}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = -190;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+components = (
+{
+alignment = -1;
+name = uniFE24;
+transform = "{1, 0, 0, 1, 0, -1610}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = -152;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = FE2B;
+}

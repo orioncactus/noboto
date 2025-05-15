@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniB07D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"346 504 LINE",
+"346 242 LINE",
+"1348 242 LINE",
+"1348 -195 LINE",
+"1679 -195 LINE",
+"1679 504 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1348 1726 LINE",
+"1348 580 LINE",
+"1679 580 LINE",
+"1679 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"365 1604 LINE",
+"365 1548 LINE SMOOTH",
+"365 1202 OFFCURVE",
+"301 1040 OFFCURVE",
+"59 858 CURVE",
+"272 653 LINE",
+"596 907 OFFCURVE",
+"670 1178 OFFCURVE",
+"670 1604 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"154 1604 LINE",
+"154 1341 LINE",
+"520 1341 LINE",
+"520 1604 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"909 1604 LINE",
+"909 1559 LINE SMOOTH",
+"909 1176 OFFCURVE",
+"852 1004 OFFCURVE",
+"623 795 CURVE",
+"860 610 LINE",
+"1151 879 OFFCURVE",
+"1212 1163 OFFCURVE",
+"1212 1604 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"731 1604 LINE",
+"731 1341 LINE",
+"1051 1341 LINE",
+"1051 1604 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"401 510 LINE",
+"401 449 LINE",
+"1513 449 LINE",
+"1513 -135 LINE",
+"1581 -135 LINE",
+"1581 510 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 1671 LINE",
+"1513 600 LINE",
+"1581 600 LINE",
+"1581 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"590 1532 LINE",
+"590 1528 LINE",
+"590 1208 OFFCURVE",
+"451 981 OFFCURVE",
+"166 801 CURVE",
+"215 754 LINE",
+"510 948 OFFCURVE",
+"655 1198 OFFCURVE",
+"655 1532 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"182 1532 LINE",
+"182 1473 LINE",
+"627 1473 LINE",
+"627 1532 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1112 1532 LINE",
+"1112 1530 LINE",
+"1112 1208 OFFCURVE",
+"997 907 OFFCURVE",
+"702 684 CURVE",
+"754 637 LINE",
+"1063 883 OFFCURVE",
+"1176 1200 OFFCURVE",
+"1176 1532 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"731 1532 LINE",
+"731 1473 LINE",
+"1139 1473 LINE",
+"1139 1532 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B07D;
+}

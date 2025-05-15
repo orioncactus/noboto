@@ -1,0 +1,93 @@
+{
+glyphname = invertedinterrobang;
+layers = (
+{
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 968, 1457}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"436 1046 LINE",
+"421 -178 LINE",
+"631 -178 LINE",
+"616 1046 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 973;
+},
+{
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 894, 1457}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"445 1057 LINE",
+"445 -180 LINE",
+"499 -180 LINE",
+"499 1057 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 893;
+},
+{
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 1036, 1456}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"528 995 LINE",
+"488 -270 LINE",
+"831 -270 LINE",
+"791 995 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1036;
+}
+);
+unicode = 2E18;
+}

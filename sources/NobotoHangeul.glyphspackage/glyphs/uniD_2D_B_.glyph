@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniD2DB;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1352 1731 LINE",
+"1352 514 LINE",
+"1690 514 LINE",
+"1690 1731 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1665 LINE",
+"215 967 LINE",
+"559 967 LINE",
+"559 1423 LINE",
+"1188 1423 LINE",
+"1188 1665 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 1372 LINE",
+"291 1155 LINE",
+"1155 1155 LINE",
+"1155 1372 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1098 LINE",
+"215 856 LINE",
+"1202 856 LINE",
+"1202 1098 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 504 LINE",
+"489 504 OFFCURVE",
+"905 508 OFFCURVE",
+"1298 563 CURVE",
+"1272 801 LINE",
+"895 766 OFFCURVE",
+"465 766 OFFCURVE",
+"96 766 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"330 86 LINE",
+"330 -172 LINE",
+"1708 -172 LINE",
+"1708 86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"330 449 LINE",
+"330 -129 LINE",
+"674 -129 LINE",
+"674 203 LINE",
+"1696 203 LINE",
+"1696 449 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 551 LINE",
+"1554 551 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 1565 LINE",
+"279 950 LINE",
+"344 950 LINE",
+"344 1503 LINE",
+"1137 1503 LINE",
+"1137 1565 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"299 1282 LINE",
+"299 1223 LINE",
+"1108 1223 LINE",
+"1108 1282 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 989 LINE",
+"279 928 LINE",
+"1153 928 LINE",
+"1153 989 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"133 637 LINE",
+"502 641 OFFCURVE",
+"940 659 OFFCURVE",
+"1317 690 CURVE",
+"1313 754 LINE",
+"932 729 OFFCURVE",
+"502 715 OFFCURVE",
+"119 713 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 -53 LINE",
+"420 -117 LINE",
+"1604 -117 LINE",
+"1604 -53 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 451 LINE",
+"420 -100 LINE",
+"487 -100 LINE",
+"487 387 LINE",
+"1585 387 LINE",
+"1585 451 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = D2DB;
+}

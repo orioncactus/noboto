@@ -1,0 +1,36 @@
+{
+glyphname = bracketright.alt;
+layers = (
+{
+components = (
+{
+name = bracketleft.alt;
+transform = "{-1, 0, 0, 1, 713, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 713;
+},
+{
+components = (
+{
+name = bracketleft.alt;
+transform = "{-1, 0, 0, 1, 642, 0}";
+}
+);
+layerId = master01;
+width = 642;
+},
+{
+components = (
+{
+name = bracketleft.alt;
+transform = "{-1, 0, 0, 1, 814, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 814;
+}
+);
+leftKerningGroup = bracketright;
+}

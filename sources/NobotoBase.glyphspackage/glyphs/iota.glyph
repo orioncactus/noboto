@@ -1,0 +1,177 @@
+{
+glyphname = iota;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{305, 1269}";
+},
+{
+name = top0315;
+position = "{675, 1269}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"198 277 LINE",
+"198 60 OFFCURVE",
+"314 -13 OFFCURVE",
+"451 -13 CURVE SMOOTH",
+"521 -13 OFFCURVE",
+"568 -1 OFFCURVE",
+"597 8 CURVE",
+"597 167 LINE",
+"582 163 OFFCURVE",
+"542 155 OFFCURVE",
+"512 155 CURVE SMOOTH",
+"453 155 OFFCURVE",
+"398 172 OFFCURVE",
+"398 276 CURVE",
+"398 1082 LINE",
+"198 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 659;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1005;
+}
+);
+};
+width = 675;
+},
+{
+anchors = (
+{
+name = top;
+position = "{196, 1269}";
+},
+{
+name = top0315;
+position = "{565, 1269}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"170 271 LINE",
+"170 54 OFFCURVE",
+"253 -8 OFFCURVE",
+"391 -8 CURVE SMOOTH",
+"419 -8 OFFCURVE",
+"475 -6 OFFCURVE",
+"504 4 CURVE",
+"495 55 LINE",
+"458 50 OFFCURVE",
+"429 46 OFFCURVE",
+"388 46 CURVE SMOOTH",
+"301 46 OFFCURVE",
+"225 81 OFFCURVE",
+"225 271 CURVE",
+"225 1082 LINE",
+"170 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 659;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1005;
+}
+);
+};
+width = 565;
+},
+{
+anchors = (
+{
+name = top;
+position = "{295, 1268}";
+},
+{
+name = top0315;
+position = "{696, 1268}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"117 320 LINE",
+"117 85 OFFCURVE",
+"240 -11 OFFCURVE",
+"448 -11 CURVE SMOOTH",
+"519 -11 OFFCURVE",
+"578 -1 OFFCURVE",
+"633 18 CURVE",
+"633 259 LINE",
+"611 255 OFFCURVE",
+"586 253 OFFCURVE",
+"549 253 CURVE SMOOTH",
+"469 253 OFFCURVE",
+"439 276 OFFCURVE",
+"439 362 CURVE",
+"440 1082 LINE",
+"117 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 659;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1005;
+}
+);
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 696;
+}
+);
+unicode = 03B9;
+}

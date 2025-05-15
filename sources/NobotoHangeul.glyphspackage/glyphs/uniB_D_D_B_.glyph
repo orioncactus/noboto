@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniBDDB;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"330 84 LINE",
+"330 -170 LINE",
+"1708 -170 LINE",
+"1708 84 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"330 500 LINE",
+"330 -96 LINE",
+"674 -96 LINE",
+"674 246 LINE",
+"1696 246 LINE",
+"1696 500 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"551 770 LINE",
+"551 403 LINE",
+"883 403 LINE",
+"883 770 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1356 1729 LINE",
+"1356 561 LINE",
+"1688 561 LINE",
+"1688 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"133 649 LINE",
+"481 649 OFFCURVE",
+"899 655 OFFCURVE",
+"1294 715 CURVE",
+"1272 948 LINE",
+"893 909 OFFCURVE",
+"453 909 OFFCURVE",
+"96 909 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1645 LINE",
+"215 1001 LINE",
+"1182 1001 LINE",
+"1182 1645 LINE",
+"848 1645 LINE",
+"848 1548 LINE",
+"549 1548 LINE",
+"549 1645 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"549 1315 LINE",
+"848 1315 LINE",
+"848 1243 LINE",
+"549 1243 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"420 -55 LINE",
+"420 -115 LINE",
+"1604 -115 LINE",
+"1604 -55 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 449 LINE",
+"420 -86 LINE",
+"487 -86 LINE",
+"487 387 LINE",
+"1585 387 LINE",
+"1585 449 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"674 752 LINE",
+"674 401 LINE",
+"741 401 LINE",
+"741 752 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1487 1669 LINE",
+"1487 543 LINE",
+"1554 543 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"125 709 LINE",
+"489 711 OFFCURVE",
+"940 723 OFFCURVE",
+"1335 764 CURVE",
+"1329 821 LINE",
+"934 786 OFFCURVE",
+"487 780 OFFCURVE",
+"113 778 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 1583 LINE",
+"303 989 LINE",
+"1108 989 LINE",
+"1108 1583 LINE",
+"1042 1583 LINE",
+"1042 1352 LINE",
+"371 1352 LINE",
+"371 1583 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"371 1290 LINE",
+"1042 1290 LINE",
+"1042 1051 LINE",
+"371 1051 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BDDB;
+}

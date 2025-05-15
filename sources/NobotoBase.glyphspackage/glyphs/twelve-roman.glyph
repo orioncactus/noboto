@@ -1,0 +1,91 @@
+{
+glyphname = "twelve-roman";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = x;
+transform = "{1, 0, 0, 1, 5, 0}";
+},
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 1025, 0}";
+},
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 1531, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2042;
+},
+{
+components = (
+{
+alignment = -1;
+name = x;
+},
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 978, 0}";
+},
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 1400, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1825;
+},
+{
+components = (
+{
+alignment = -1;
+name = x;
+},
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 1051, 0}";
+},
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 1608, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2164;
+}
+);
+unicode = 217B;
+}

@@ -1,0 +1,90 @@
+{
+glyphname = pcomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-587, 945}";
+}
+);
+components = (
+{
+alignment = -1;
+name = uni0369;
+transform = "{-1, 0, 0, -1, -1165, 2950}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 958;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-562, 944}";
+}
+);
+components = (
+{
+alignment = -1;
+name = uni0369;
+transform = "{-1, 0, 0, -1, -1125, 2951}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-576, 950}";
+}
+);
+components = (
+{
+alignment = -1;
+name = uni0369;
+transform = "{-1, 0, 0, -1, -1153, 2950}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1DEE;
+}

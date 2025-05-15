@@ -1,0 +1,105 @@
+{
+glyphname = "cwi-kayahli";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"990 673 OFFCURVE",
+"801 828 OFFCURVE",
+"547 828 CURVE SMOOTH",
+"292 828 OFFCURVE",
+"103 673 OFFCURVE",
+"20 499 CURVE",
+"181 499 LINE",
+"241 583 OFFCURVE",
+"332 691 OFFCURVE",
+"547 691 CURVE SMOOTH",
+"740 691 OFFCURVE",
+"852 583 OFFCURVE",
+"912 499 CURVE",
+"1072 499 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1092;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"881 637 OFFCURVE",
+"757 779 OFFCURVE",
+"495 779 CURVE SMOOTH",
+"233 779 OFFCURVE",
+"108 637 OFFCURVE",
+"30 491 CURVE",
+"84 491 LINE",
+"152 596 OFFCURVE",
+"239 723 OFFCURVE",
+"495 723 CURVE SMOOTH",
+"746 723 OFFCURVE",
+"837 594 OFFCURVE",
+"905 491 CURVE",
+"959 491 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 989;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1084 653 OFFCURVE",
+"956 869 OFFCURVE",
+"587 869 CURVE SMOOTH",
+"217 869 OFFCURVE",
+"90 653 OFFCURVE",
+"30 454 CURVE",
+"246 454 LINE",
+"279 527 OFFCURVE",
+"322 671 OFFCURVE",
+"587 671 CURVE SMOOTH",
+"851 671 OFFCURVE",
+"902 527 OFFCURVE",
+"928 454 CURVE",
+"1144 454 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1175;
+}
+);
+unicode = A92E;
+}

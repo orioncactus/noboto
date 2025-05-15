@@ -1,0 +1,81 @@
+{
+glyphname = "kavykacomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-590, 1170}";
+}
+);
+components = (
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, -1019, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-563, 1170}";
+}
+);
+components = (
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, -988, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-577, 1170}";
+}
+);
+components = (
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, -1037, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = A67C;
+}

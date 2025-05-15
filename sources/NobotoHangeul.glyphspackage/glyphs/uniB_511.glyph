@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniB511;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"330 61 LINE",
+"330 -182 LINE",
+"1726 -182 LINE",
+"1726 61 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"330 635 LINE",
+"330 -102 LINE",
+"678 -102 LINE",
+"678 393 LINE",
+"1696 393 LINE",
+"1696 635 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"520 340 LINE",
+"520 121 LINE",
+"1679 121 LINE",
+"1679 340 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 1309 LINE",
+"211 1059 LINE",
+"1190 1059 LINE",
+"1190 1309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 1665 LINE",
+"211 1096 LINE",
+"551 1096 LINE",
+"551 1415 LINE",
+"1176 1415 LINE",
+"1176 1665 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1352 1729 LINE",
+"1352 713 LINE",
+"1688 713 LINE",
+"1688 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"141 700 LINE",
+"498 705 OFFCURVE",
+"915 717 OFFCURVE",
+"1294 760 CURVE",
+"1274 999 LINE",
+"899 973 OFFCURVE",
+"471 967 OFFCURVE",
+"98 965 CURVE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"412 -57 LINE",
+"412 -119 LINE",
+"1620 -119 LINE",
+"1620 -57 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 547 LINE",
+"412 -82 LINE",
+"477 -82 LINE",
+"477 487 LINE",
+"1575 487 LINE",
+"1575 547 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"438 246 LINE",
+"438 184 LINE",
+"1546 184 LINE",
+"1546 246 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 1126 LINE",
+"291 1063 LINE",
+"1126 1063 LINE",
+"1126 1126 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 1579 LINE",
+"291 1090 LINE",
+"356 1090 LINE",
+"356 1518 LINE",
+"1110 1518 LINE",
+"1110 1579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 655 LINE",
+"1554 655 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 741 LINE",
+"473 743 OFFCURVE",
+"934 768 OFFCURVE",
+"1311 813 CURVE",
+"1300 874 LINE",
+"922 836 OFFCURVE",
+"469 817 OFFCURVE",
+"102 815 CURVE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B511;
+}

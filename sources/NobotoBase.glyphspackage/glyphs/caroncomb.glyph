@@ -1,0 +1,144 @@
+{
+glyphname = caroncomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{6, 1290}";
+},
+{
+name = _top;
+position = "{6, 1290}";
+},
+{
+name = mkmktop;
+position = "{6, 1635}";
+},
+{
+name = parent_top;
+position = "{0, 1395}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-61 1252 LINE",
+"-308 1527 LINE",
+"-308 1538 LINE",
+"-146 1538 LINE",
+"-1 1371 LINE",
+"145 1538 LINE",
+"308 1538 LINE",
+"308 1528 LINE",
+"59 1252 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-3, 1290}";
+},
+{
+name = _top;
+position = "{-3, 1290}";
+},
+{
+name = mkmktop;
+position = "{-3, 1540}";
+},
+{
+name = parent_top;
+position = "{0, 1390}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-22 1264 LINE",
+"-252 1503 LINE",
+"-252 1517 LINE",
+"-188 1517 LINE",
+"-3 1321 LINE",
+"184 1517 LINE",
+"252 1517 LINE",
+"252 1507 LINE",
+"18 1264 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-8, 1290}";
+},
+{
+name = _top;
+position = "{-8, 1290}";
+},
+{
+name = mkmktop;
+position = "{-8, 1650}";
+},
+{
+name = parent_top;
+position = "{0, 1389}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-95 1242 LINE",
+"-409 1519 LINE",
+"-409 1536 LINE",
+"-160 1536 LINE",
+"-3 1400 LINE",
+"155 1536 LINE",
+"409 1536 LINE",
+"409 1523 LINE",
+"90 1242 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 030C;
+}

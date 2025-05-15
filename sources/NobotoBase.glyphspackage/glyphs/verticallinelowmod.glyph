@@ -1,0 +1,75 @@
+{
+glyphname = verticallinelowmod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 -81 LINE",
+"50 -489 LINE",
+"200 -489 LINE",
+"200 -81 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 250;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"80 -141 LINE",
+"80 -540 LINE",
+"133 -540 LINE",
+"133 -141 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 213;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 -119 LINE",
+"80 -550 LINE",
+"279 -550 LINE",
+"279 -119 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 359;
+}
+);
+unicode = 02CC;
+}

@@ -1,0 +1,175 @@
+{
+glyphname = T.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{532, 3}";
+},
+{
+name = bottom_dd;
+position = "{1064, -407}";
+},
+{
+name = cross;
+position = "{529, 690}";
+},
+{
+name = right;
+position = "{623, 0}";
+},
+{
+name = top;
+position = "{531, 1320}";
+},
+{
+name = top0315;
+position = "{1064, 1320}";
+},
+{
+name = top_dd;
+position = "{1064, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"431 1165 LINE",
+"431 0 LINE",
+"630 0 LINE",
+"630 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 1165 LINE",
+"40 1004 LINE",
+"1023 1004 LINE",
+"1023 1165 LINE"
+);
+}
+);
+width = 1064;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{526, 0}";
+},
+{
+name = bottom_dd;
+position = "{1052, -407}";
+},
+{
+name = cross;
+position = "{517, 700}";
+},
+{
+name = right;
+position = "{553, 0}";
+},
+{
+name = top;
+position = "{524, 1320}";
+},
+{
+name = top0315;
+position = "{1052, 1320}";
+},
+{
+name = top_dd;
+position = "{1052, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"499 1165 LINE",
+"499 0 LINE",
+"553 0 LINE",
+"553 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"46 1165 LINE",
+"46 1110 LINE",
+"1005 1110 LINE",
+"1005 1165 LINE"
+);
+}
+);
+width = 1052;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{552, 13}";
+},
+{
+name = bottom_dd;
+position = "{1121, -407}";
+},
+{
+name = cross;
+position = "{516, 608}";
+},
+{
+name = right;
+position = "{677, 0}";
+},
+{
+name = top;
+position = "{553, 1320}";
+},
+{
+name = top0315;
+position = "{1121, 1320}";
+},
+{
+name = top_dd;
+position = "{1121, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"393 1165 LINE",
+"393 0 LINE",
+"717 0 LINE",
+"717 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 1165 LINE",
+"30 905 LINE",
+"1090 905 LINE",
+"1090 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1121;
+}
+);
+}

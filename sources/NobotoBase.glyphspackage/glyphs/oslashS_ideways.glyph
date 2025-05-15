@@ -1,0 +1,93 @@
+{
+glyphname = oslashSideways;
+layers = (
+{
+components = (
+{
+name = oSideways;
+transform = "{1, 0, 0, 1, 52, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 804 LINE",
+"1382 141 LINE",
+"1382 271 LINE",
+"40 934 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1422;
+},
+{
+components = (
+{
+name = oSideways;
+transform = "{1, 0, 0, 1, 39, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 826 LINE",
+"1384 163 LINE",
+"1384 226 LINE",
+"20 889 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1404;
+},
+{
+components = (
+{
+name = oSideways;
+transform = "{1, 0, 0, 1, 86, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 782 LINE",
+"1394 119 LINE",
+"1394 291 LINE",
+"30 954 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1424;
+}
+);
+unicode = 1D13;
+}

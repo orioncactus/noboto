@@ -1,0 +1,146 @@
+{
+glyphname = "kaverticalstroke-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"153 0 LINE",
+"353 0 LINE",
+"353 1082 LINE",
+"153 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"446 269 LINE",
+"605 269 LINE",
+"605 836 LINE",
+"446 836 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"639 628 LINE",
+"255 628 LINE",
+"286 456 LINE",
+"719 456 LINE",
+"1132 1082 LINE",
+"892 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"914 0 LINE",
+"1166 0 LINE",
+"758 627 LINE",
+"630 486 LINE"
+);
+}
+);
+width = 1160;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"171 0 LINE",
+"226 0 LINE",
+"226 1082 LINE",
+"171 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"398 250 LINE",
+"453 250 LINE",
+"453 850 LINE",
+"398 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"564 582 LINE",
+"207 582 LINE",
+"204 529 LINE",
+"592 529 LINE",
+"960 1082 LINE",
+"882 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"942 0 LINE",
+"1024 0 LINE",
+"583 584 LINE",
+"551 533 LINE"
+);
+}
+);
+width = 1063;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"122 0 LINE",
+"444 0 LINE",
+"444 1082 LINE",
+"122 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"518 215 LINE",
+"667 215 LINE",
+"667 876 LINE",
+"518 876 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"716 693 LINE",
+"359 693 LINE",
+"396 378 LINE",
+"867 378 LINE",
+"1248 1082 LINE",
+"837 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"845 0 LINE",
+"1259 0 LINE",
+"965 582 LINE",
+"693 441 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1261;
+}
+);
+unicode = 049D;
+}

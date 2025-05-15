@@ -1,0 +1,90 @@
+{
+glyphname = voicingmod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 -130 LINE",
+"80 -140 LINE",
+"334 -416 LINE",
+"454 -416 LINE",
+"712 -140 LINE",
+"712 -130 LINE",
+"540 -130 LINE",
+"394 -296 LINE",
+"248 -130 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 792;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"84 -162 LINE",
+"84 -173 LINE",
+"304 -425 LINE",
+"363 -425 LINE",
+"581 -175 LINE",
+"581 -162 LINE",
+"528 -162 LINE",
+"334 -379 LINE",
+"141 -162 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 665;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 -132 LINE",
+"60 -141 LINE",
+"380 -426 LINE",
+"586 -426 LINE",
+"904 -143 LINE",
+"904 -132 LINE",
+"630 -132 LINE",
+"483 -266 LINE",
+"336 -132 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 964;
+}
+);
+unicode = 02EC;
+}

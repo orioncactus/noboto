@@ -1,0 +1,153 @@
+{
+glyphname = Jsmall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{454, 0}";
+},
+{
+name = top;
+position = "{758, 1290}";
+},
+{
+name = top0315;
+position = "{991, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"659 227 OFFCURVE",
+"571 141 OFFCURVE",
+"455 141 CURVE SMOOTH",
+"318 141 OFFCURVE",
+"232 204 OFFCURVE",
+"232 338 CURVE",
+"32 338 LINE",
+"32 99 OFFCURVE",
+"203 -17 OFFCURVE",
+"455 -17 CURVE SMOOTH",
+"686 -17 OFFCURVE",
+"858 125 OFFCURVE",
+"858 355 CURVE SMOOTH",
+"858 1082 LINE",
+"659 1082 LINE",
+"659 355 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 991;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{421, 0}";
+},
+{
+name = top;
+position = "{744, 1290}";
+},
+{
+name = top0315;
+position = "{942, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"718 149 OFFCURVE",
+"588 38 OFFCURVE",
+"420 38 CURVE SMOOTH",
+"216 38 OFFCURVE",
+"102 123 OFFCURVE",
+"102 320 CURVE",
+"48 320 LINE",
+"48 94 OFFCURVE",
+"199 -17 OFFCURVE",
+"420 -17 CURVE SMOOTH",
+"622 -17 OFFCURVE",
+"774 119 OFFCURVE",
+"774 337 CURVE SMOOTH",
+"774 1082 LINE",
+"718 1082 LINE",
+"718 337 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 942;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{488, 0}";
+},
+{
+name = top;
+position = "{788, 1290}";
+},
+{
+name = top0315;
+position = "{1039, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"622 298 OFFCURVE",
+"565 238 OFFCURVE",
+"488 238 CURVE SMOOTH",
+"415 238 OFFCURVE",
+"339 279 OFFCURVE",
+"339 383 CURVE",
+"16 383 LINE",
+"16 116 OFFCURVE",
+"208 -21 OFFCURVE",
+"488 -21 CURVE SMOOTH",
+"754 -21 OFFCURVE",
+"945 144 OFFCURVE",
+"945 399 CURVE",
+"945 1082 LINE",
+"622 1082 LINE",
+"622 399 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1039;
+}
+);
+unicode = 1D0A;
+}

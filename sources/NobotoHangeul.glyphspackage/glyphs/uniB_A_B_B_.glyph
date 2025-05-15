@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniBABB;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"281 1655 LINE",
+"281 975 LINE",
+"1593 975 LINE",
+"1593 1655 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1268 1399 LINE",
+"1268 1231 LINE",
+"604 1231 LINE",
+"604 1399 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"72 836 LINE",
+"72 578 LINE",
+"1810 578 LINE",
+"1810 836 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"774 1030 LINE",
+"774 760 LINE",
+"1104 760 LINE",
+"1104 1030 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"772 508 LINE",
+"772 485 LINE SMOOTH",
+"772 315 OFFCURVE",
+"643 117 OFFCURVE",
+"176 66 CURVE",
+"293 -188 LINE",
+"829 -121 OFFCURVE",
+"1055 152 OFFCURVE",
+"1055 485 CURVE SMOOTH",
+"1055 508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"825 508 LINE",
+"825 485 LINE SMOOTH",
+"825 152 OFFCURVE",
+"1051 -121 OFFCURVE",
+"1587 -188 CURVE",
+"1704 66 LINE",
+"1237 117 OFFCURVE",
+"1108 315 OFFCURVE",
+"1108 485 CURVE SMOOTH",
+"1108 508 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"340 1591 LINE",
+"340 1004 LINE",
+"1540 1004 LINE",
+"1540 1591 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1475 1532 LINE",
+"1475 1065 LINE",
+"406 1065 LINE",
+"406 1532 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 737 LINE",
+"121 678 LINE",
+"1753 678 LINE",
+"1753 737 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"907 1038 LINE",
+"907 688 LINE",
+"973 688 LINE",
+"973 1038 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"903 530 LINE",
+"903 449 LINE SMOOTH",
+"903 156 OFFCURVE",
+"520 -18 OFFCURVE",
+"266 -66 CURVE",
+"297 -123 LINE",
+"575 -61 OFFCURVE",
+"963 119 OFFCURVE",
+"963 449 CURVE SMOOTH",
+"963 530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"913 530 LINE",
+"913 449 LINE SMOOTH",
+"913 119 OFFCURVE",
+"1298 -61 OFFCURVE",
+"1577 -123 CURVE",
+"1610 -66 LINE",
+"1354 -18 OFFCURVE",
+"971 156 OFFCURVE",
+"971 449 CURVE SMOOTH",
+"971 530 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BABB;
+}

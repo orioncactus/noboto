@@ -1,0 +1,67 @@
+{
+glyphname = "Ertick-cy";
+layers = (
+{
+components = (
+{
+name = P;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"765 879 LINE",
+"1140 470 LINE",
+"1257 578 LINE",
+"882 987 LINE"
+);
+}
+);
+width = 1310;
+},
+{
+components = (
+{
+name = P;
+transform = "{1, 0, 0, 1, -7, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"743 859 LINE",
+"1044 506 LINE",
+"1085 541 LINE",
+"784 894 LINE"
+);
+}
+);
+width = 1281;
+},
+{
+components = (
+{
+name = P;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"659 923 LINE",
+"1118 404 LINE",
+"1214 488 LINE",
+"755 1008 LINE"
+);
+}
+);
+width = 1281;
+}
+);
+unicode = 048E;
+}

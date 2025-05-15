@@ -1,0 +1,60 @@
+{
+glyphname = chineseToneYinShangmod;
+layers = (
+{
+components = (
+{
+name = chineseToneYinPingmod;
+transform = "{1, 0, 0, 1, 0, 1337}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 592;
+},
+{
+components = (
+{
+name = chineseToneYinPingmod;
+transform = "{1, 0, 0, 1, 0, 1338}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 570;
+},
+{
+components = (
+{
+name = chineseToneYinPingmod;
+transform = "{1, 0, 0, 1, 0, 1339}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 615;
+}
+);
+unicode = A702;
+}

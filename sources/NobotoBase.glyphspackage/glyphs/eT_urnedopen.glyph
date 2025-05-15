@@ -1,0 +1,99 @@
+{
+glyphname = eTurnedopen;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{523, 0}";
+},
+{
+name = top;
+position = "{523, 1290}";
+},
+{
+name = top0315;
+position = "{1041, 1290}";
+}
+);
+components = (
+{
+name = "ze-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1041;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{529, 0}";
+},
+{
+name = top;
+position = "{529, 1290}";
+},
+{
+name = top0315;
+position = "{1035, 1290}";
+}
+);
+components = (
+{
+name = "ze-cy";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1035;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{533, 0}";
+},
+{
+name = top;
+position = "{533, 1290}";
+},
+{
+name = top0315;
+position = "{1057, 1290}";
+}
+);
+components = (
+{
+name = "ze-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1057;
+}
+);
+unicode = 1D08;
+}

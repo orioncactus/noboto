@@ -1,0 +1,107 @@
+{
+glyphname = "cheabkhasian-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{709, -3}";
+}
+);
+components = (
+{
+name = e;
+transform = "{1, 0, 0, 1, 109, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-40 637 OFFCURVE",
+"83 500 OFFCURVE",
+"325 500 CURVE",
+"325 641 LINE",
+"180 641 OFFCURVE",
+"119 728 OFFCURVE",
+"119 857 CURVE",
+"-40 857 LINE"
+);
+}
+);
+width = 1215;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{690, 0}";
+}
+);
+components = (
+{
+name = e;
+transform = "{1, 0, 0, 1, 140, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"14 676 OFFCURVE",
+"120 581 OFFCURVE",
+"296 581 CURVE",
+"296 635 LINE",
+"146 635 OFFCURVE",
+"69 713 OFFCURVE",
+"69 852 CURVE",
+"14 852 LINE"
+);
+}
+);
+width = 1203;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{721, 13}";
+}
+);
+components = (
+{
+name = e;
+transform = "{1, 0, 0, 1, 163, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-79 601 OFFCURVE",
+"72 439 OFFCURVE",
+"333 439 CURVE",
+"333 643 LINE",
+"187 643 OFFCURVE",
+"111 726 OFFCURVE",
+"111 864 CURVE",
+"-79 864 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1228;
+}
+);
+unicode = 04BD;
+}

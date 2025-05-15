@@ -1,0 +1,153 @@
+{
+glyphname = rbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-553, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-606 -127 LINE",
+"-704 -127 LINE",
+"-704 -550 LINE",
+"-572 -550 LINE",
+"-572 -255 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-411 -123 OFFCURVE",
+"-427 -121 OFFCURVE",
+"-446 -121 CURVE SMOOTH",
+"-578 -121 OFFCURVE",
+"-637 -234 OFFCURVE",
+"-637 -389 CURVE",
+"-585 -388 LINE",
+"-585 -285 OFFCURVE",
+"-546 -232 OFFCURVE",
+"-462 -232 CURVE SMOOTH",
+"-439 -232 OFFCURVE",
+"-419 -237 OFFCURVE",
+"-402 -247 CURVE",
+"-402 -126 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-466, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-544 -127 LINE",
+"-584 -127 LINE",
+"-584 -550 LINE",
+"-544 -550 LINE",
+"-544 -254 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-354 -117 OFFCURVE",
+"-370 -116 OFFCURVE",
+"-381 -116 CURVE SMOOTH",
+"-511 -116 OFFCURVE",
+"-584 -217 OFFCURVE",
+"-584 -354 CURVE",
+"-548 -358 LINE",
+"-548 -252 OFFCURVE",
+"-513 -156 OFFCURVE",
+"-381 -156 CURVE SMOOTH",
+"-367 -156 OFFCURVE",
+"-356 -156 OFFCURVE",
+"-348 -157 CURVE",
+"-348 -118 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-534, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-549 -127 LINE",
+"-693 -127 LINE",
+"-693 -550 LINE",
+"-528 -550 LINE",
+"-528 -261 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-390 -123 OFFCURVE",
+"-406 -121 OFFCURVE",
+"-423 -121 CURVE SMOOTH",
+"-526 -121 OFFCURVE",
+"-600 -234 OFFCURVE",
+"-600 -389 CURVE",
+"-551 -388 LINE",
+"-551 -311 OFFCURVE",
+"-505 -282 OFFCURVE",
+"-438 -282 CURVE SMOOTH",
+"-408 -282 OFFCURVE",
+"-391 -288 OFFCURVE",
+"-375 -294 CURVE",
+"-375 -127 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1DCA;
+}

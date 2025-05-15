@@ -1,0 +1,90 @@
+{
+glyphname = mill;
+layers = (
+{
+components = (
+{
+name = m;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1037 1281 LINE",
+"473 -125 LINE",
+"648 -125 LINE",
+"1211 1281 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1791;
+},
+{
+components = (
+{
+name = m;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1227 1281 LINE",
+"663 -125 LINE",
+"722 -125 LINE",
+"1285 1281 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1836;
+},
+{
+components = (
+{
+name = m;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"967 1281 LINE",
+"403 -125 LINE",
+"628 -125 LINE",
+"1191 1281 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1767;
+}
+);
+unicode = 20A5;
+}

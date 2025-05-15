@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniB4BC;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"307 508 LINE",
+"307 256 LINE",
+"1350 256 LINE",
+"1350 -190 LINE",
+"1690 -190 LINE",
+"1690 508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1542 176 LINE",
+"283 147 LINE",
+"309 -98 LINE",
+"1542 -41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1358 1729 LINE",
+"1358 571 LINE",
+"1690 571 LINE",
+"1690 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"524 721 LINE",
+"524 354 LINE",
+"856 354 LINE",
+"856 721 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 631 LINE",
+"475 633 OFFCURVE",
+"893 641 OFFCURVE",
+"1296 698 CURVE",
+"1282 934 LINE",
+"891 897 OFFCURVE",
+"446 893 OFFCURVE",
+"76 893 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 1253 LINE",
+"211 995 LINE",
+"1190 995 LINE",
+"1190 1253 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 1630 LINE",
+"211 1069 LINE",
+"543 1069 LINE",
+"543 1370 LINE",
+"1176 1370 LINE",
+"1176 1630 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"369 455 LINE",
+"369 391 LINE",
+"1491 391 LINE",
+"1491 -143 LINE",
+"1556 -143 LINE",
+"1556 455 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1542 182 LINE",
+"313 139 LINE",
+"332 70 LINE",
+"1542 127 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1487 1671 LINE",
+"1487 553 LINE",
+"1554 553 LINE",
+"1554 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"668 799 LINE",
+"668 412 LINE",
+"733 412 LINE",
+"733 799 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"143 754 LINE",
+"485 756 OFFCURVE",
+"938 762 OFFCURVE",
+"1339 811 CURVE",
+"1333 868 LINE",
+"936 827 OFFCURVE",
+"481 823 OFFCURVE",
+"129 823 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"311 1094 LINE",
+"311 1034 LINE",
+"1157 1034 LINE",
+"1157 1094 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"311 1583 LINE",
+"311 1073 LINE",
+"373 1073 LINE",
+"373 1526 LINE",
+"1145 1526 LINE",
+"1145 1583 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B4BC;
+}

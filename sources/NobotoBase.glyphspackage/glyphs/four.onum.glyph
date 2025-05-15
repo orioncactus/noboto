@@ -1,0 +1,107 @@
+{
+glyphname = four.onum;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"295 159 LINE",
+"763 847 LINE",
+"929 1165 LINE",
+"775 1165 LINE",
+"62 115 LINE",
+"62 -1 LINE",
+"1184 -1 LINE",
+"1184 159 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"787 1165 LINE",
+"787 -330 LINE",
+"987 -330 LINE",
+"987 1165 LINE"
+);
+}
+);
+width = 1232;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"144 53 LINE",
+"869 1024 LINE",
+"967 1165 LINE",
+"911 1165 LINE",
+"62 35 LINE",
+"62 -1 LINE",
+"1184 -1 LINE",
+"1184 53 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"933 1165 LINE",
+"933 -330 LINE",
+"987 -330 LINE",
+"987 1165 LINE"
+);
+}
+);
+width = 1225;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"349 261 LINE",
+"629 691 LINE",
+"904 1164 LINE",
+"650 1164 LINE",
+"38 207 LINE",
+"56 -1 LINE",
+"1125 -1 LINE",
+"1125 261 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 1164 LINE",
+"650 -292 LINE",
+"972 -292 LINE",
+"972 1164 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 651;
+}
+);
+};
+width = 1183;
+}
+);
+}

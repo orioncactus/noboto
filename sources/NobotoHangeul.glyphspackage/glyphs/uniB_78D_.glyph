@@ -1,0 +1,159 @@
+{
+color = 0;
+glyphname = uniB78D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1266 1726 LINE",
+"1266 664 LINE",
+"1595 664 LINE",
+"1595 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1505 1329 LINE",
+"1505 1061 LINE",
+"1835 1061 LINE",
+"1835 1329 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 590 LINE",
+"324 -176 LINE",
+"1595 -176 LINE",
+"1595 590 LINE",
+"1270 590 LINE",
+"1270 453 LINE",
+"651 453 LINE",
+"651 590 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"651 203 LINE",
+"1270 203 LINE",
+"1270 86 LINE",
+"651 86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"133 942 LINE",
+"133 680 LINE",
+"301 680 LINE SMOOTH",
+"705 680 OFFCURVE",
+"944 688 OFFCURVE",
+"1194 737 CURVE",
+"1163 999 LINE",
+"918 950 OFFCURVE",
+"694 942 OFFCURVE",
+"301 942 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"131 1647 LINE",
+"131 1386 LINE",
+"690 1386 LINE",
+"690 1288 LINE",
+"133 1288 LINE",
+"133 770 LINE",
+"461 770 LINE",
+"461 1044 LINE",
+"1016 1044 LINE",
+"1016 1647 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1436 1669 LINE",
+"1436 674 LINE",
+"1503 674 LINE",
+"1503 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1477 1194 LINE",
+"1477 1133 LINE",
+"1800 1133 LINE",
+"1800 1194 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"408 586 LINE",
+"408 -109 LINE",
+"1503 -109 LINE",
+"1503 586 LINE",
+"1436 586 LINE",
+"1436 305 LINE",
+"473 305 LINE",
+"473 586 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"473 244 LINE",
+"1436 244 LINE",
+"1436 -47 LINE",
+"473 -47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 797 LINE",
+"215 735 LINE",
+"346 735 LINE SMOOTH",
+"649 735 OFFCURVE",
+"897 748 OFFCURVE",
+"1217 797 CURVE",
+"1210 860 LINE",
+"895 809 OFFCURVE",
+"645 797 OFFCURVE",
+"346 797 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"209 1573 LINE",
+"209 1511 LINE",
+"944 1511 LINE",
+"944 1204 LINE",
+"215 1204 LINE",
+"215 766 LINE",
+"279 766 LINE",
+"279 1143 LINE",
+"1010 1143 LINE",
+"1010 1573 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B78D;
+}

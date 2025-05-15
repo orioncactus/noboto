@@ -1,0 +1,105 @@
+{
+glyphname = "YatIotified-cy";
+layers = (
+{
+components = (
+{
+name = I;
+transform = "{1, 0, 0, 1, -10, 0}";
+},
+{
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 355, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"236 1237 LINE",
+"236 1071 LINE",
+"1078 1071 LINE",
+"1078 1237 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1647;
+},
+{
+components = (
+{
+name = I;
+transform = "{1, 0, 0, 1, -40, 0}";
+},
+{
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 160, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"218 1182 LINE",
+"218 1128 LINE",
+"805 1128 LINE",
+"805 1182 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1311;
+},
+{
+components = (
+{
+name = I;
+transform = "{1, 0, 0, 1, -21, 0}";
+},
+{
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 429, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"240 1333 LINE",
+"240 1067 LINE",
+"1182 1067 LINE",
+"1182 1333 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1709;
+}
+);
+unicode = A652;
+}

@@ -1,0 +1,91 @@
+{
+glyphname = chilowleftserif;
+layers = (
+{
+components = (
+{
+name = "chi-latin";
+transform = "{1, 0, 0, 1, 4, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"419 -416 LINE",
+"419 -256 LINE",
+"20 -256 LINE",
+"20 -416 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1025;
+},
+{
+components = (
+{
+name = "chi-latin";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"201 -416 LINE",
+"201 -363 LINE",
+"10 -363 LINE",
+"10 -416 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 979;
+},
+{
+components = (
+{
+name = "chi-latin";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"501 -417 LINE",
+"501 -226 LINE",
+"-8 -226 LINE",
+"-8 -417 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1057;
+}
+);
+unicode = AB55;
+}

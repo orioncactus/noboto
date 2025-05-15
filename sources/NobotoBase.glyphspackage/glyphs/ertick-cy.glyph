@@ -1,0 +1,75 @@
+{
+glyphname = "ertick-cy";
+layers = (
+{
+components = (
+{
+name = p;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"614 289 LINE",
+"953 -87 LINE",
+"1070 22 LINE",
+"731 398 LINE"
+);
+}
+);
+width = 1163;
+},
+{
+components = (
+{
+name = p;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"668 250 LINE",
+"918 -96 LINE",
+"962 -63 LINE",
+"713 282 LINE"
+);
+}
+);
+width = 1151;
+},
+{
+components = (
+{
+name = p;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"566 409 LINE",
+"966 -85 LINE",
+"1066 -3 LINE",
+"665 491 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1151;
+}
+);
+rightKerningGroup = b;
+unicode = 048F;
+}

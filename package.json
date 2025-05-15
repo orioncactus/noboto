@@ -1,0 +1,14 @@
+{
+  "name": "noboto-repo",
+  "version": "1.0.0",
+  "repository": "https://github.com/orioncactus/noboto",
+  "author": "Kil Hyung-jin <orioncactus@gmail.com>",
+  "license": "OFL-1.1",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "packageManager": "yarn@3.3.1"
+}

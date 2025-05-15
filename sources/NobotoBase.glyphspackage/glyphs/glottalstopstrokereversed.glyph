@@ -1,0 +1,117 @@
+{
+glyphname = glottalstopstrokereversed;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{572, 0}";
+},
+{
+name = top;
+position = "{572, 1633}";
+},
+{
+name = top0315;
+position = "{1076, 1633}";
+}
+);
+components = (
+{
+alignment = -1;
+name = glottalstopreversed;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 100, -500}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1076;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{549, 0}";
+},
+{
+name = top;
+position = "{549, 1633}";
+},
+{
+name = top0315;
+position = "{1032, 1633}";
+}
+);
+components = (
+{
+alignment = -1;
+name = glottalstopreversed;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 147, -490}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1032;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{558, 0}";
+},
+{
+name = top;
+position = "{558, 1633}";
+},
+{
+name = top0315;
+position = "{1066, 1633}";
+}
+);
+components = (
+{
+alignment = -1;
+name = glottalstopreversed;
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, 52, -520}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1066;
+}
+);
+unicode = 02A2;
+}

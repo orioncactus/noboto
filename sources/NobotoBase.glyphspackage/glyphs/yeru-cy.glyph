@@ -1,0 +1,85 @@
+{
+glyphname = "yeru-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{786, 1269}";
+},
+{
+name = top0315;
+position = "{1602, 1269}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "softsign-cy";
+},
+{
+alignment = -1;
+name = idotless;
+transform = "{1, 0, 0, 1, 1064, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1602;
+},
+{
+anchors = (
+{
+name = top;
+position = "{804, 1269}";
+},
+{
+name = top0315;
+position = "{1486, 1269}";
+}
+);
+components = (
+{
+name = "softsign-cy";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 1080, 0}";
+}
+);
+layerId = master01;
+width = 1486;
+},
+{
+anchors = (
+{
+name = top;
+position = "{879, 1290}";
+},
+{
+name = top0315;
+position = "{1730, 1290}";
+}
+);
+components = (
+{
+name = "softsign-cy";
+},
+{
+name = idotless;
+transform = "{1, 0, 0, 1, 1153, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1730;
+}
+);
+unicode = 044B;
+}

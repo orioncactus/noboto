@@ -1,0 +1,71 @@
+{
+glyphname = "Kabashkir-cy";
+layers = (
+{
+components = (
+{
+name = K.alt;
+transform = "{1, 0, 0, 1, 362, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"66 1456 LINE",
+"66 1296 LINE",
+"596 1296 LINE",
+"596 1456 LINE"
+);
+}
+);
+width = 1681;
+},
+{
+components = (
+{
+name = K.alt;
+transform = "{1, 0, 0, 1, 395, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"94 1456 LINE",
+"94 1402 LINE",
+"644 1402 LINE",
+"644 1456 LINE"
+);
+}
+);
+width = 1632;
+},
+{
+components = (
+{
+name = K.alt;
+transform = "{1, 0, 0, 1, 386, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"27 1456 LINE",
+"27 1195 LINE",
+"616 1195 LINE",
+"616 1456 LINE"
+);
+}
+);
+width = 1695;
+}
+);
+leftKerningGroup = T;
+rightKerningGroup = K;
+unicode = 04A0;
+}

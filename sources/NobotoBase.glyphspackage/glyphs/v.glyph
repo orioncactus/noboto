@@ -1,0 +1,212 @@
+{
+glyphname = v;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{506, 10}";
+},
+{
+name = bottom_dd;
+position = "{994, -407}";
+},
+{
+name = top;
+position = "{506, 1280}";
+},
+{
+name = top0315;
+position = "{994, 1280}";
+},
+{
+name = top_dd;
+position = "{994, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"439 0 LINE",
+"572 0 LINE",
+"957 1082 LINE",
+"753 1082 LINE",
+"469 176 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"32 1082 LINE",
+"421 0 LINE",
+"553 0 LINE",
+"531 171 LINE",
+"236 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 994;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{489, 10}";
+},
+{
+name = bottom_dd;
+position = "{978, -407}";
+},
+{
+name = top;
+position = "{494, 1280}";
+},
+{
+name = top0315;
+position = "{978, 1280}";
+},
+{
+name = top_dd;
+position = "{978, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"465 0 LINE",
+"516 0 LINE",
+"937 1082 LINE",
+"879 1082 LINE",
+"481 64 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"43 1082 LINE",
+"463 0 LINE",
+"515 0 LINE",
+"499 63 LINE",
+"101 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+};
+width = 978;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{525, 10}";
+},
+{
+name = bottom_dd;
+position = "{1051, -407}";
+},
+{
+name = top;
+position = "{526, 1280}";
+},
+{
+name = top0315;
+position = "{1051, 1280}";
+},
+{
+name = top_dd;
+position = "{1051, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"483 0 LINE",
+"685 0 LINE",
+"1042 1082 LINE",
+"704 1082 LINE",
+"483 231 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"6 1082 LINE",
+"363 0 LINE",
+"565 0 LINE",
+"565 231 LINE",
+"345 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 901;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 555;
+}
+);
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1051;
+}
+);
+leftKerningGroup = v;
+rightKerningGroup = v;
+unicode = 0076;
+}

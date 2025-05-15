@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniB2A6;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"293 1274 LINE",
+"293 1014 LINE",
+"1624 1014 LINE",
+"1624 1274 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 1675 LINE",
+"293 1137 LINE",
+"625 1137 LINE",
+"625 1675 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"76 913 LINE",
+"76 653 LINE",
+"1815 653 LINE",
+"1815 913 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"766 463 LINE",
+"766 420 LINE SMOOTH",
+"766 281 OFFCURVE",
+"641 104 OFFCURVE",
+"184 61 CURVE",
+"301 -186 LINE",
+"825 -131 OFFCURVE",
+"1047 117 OFFCURVE",
+"1047 420 CURVE SMOOTH",
+"1047 463 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"831 463 LINE",
+"831 420 LINE SMOOTH",
+"831 117 OFFCURVE",
+"1053 -131 OFFCURVE",
+"1577 -186 CURVE",
+"1696 61 LINE",
+"1237 104 OFFCURVE",
+"1112 281 OFFCURVE",
+"1112 420 CURVE SMOOTH",
+"1112 463 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"260 551 LINE",
+"260 295 LINE",
+"1618 295 LINE",
+"1618 551 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"360 1130 LINE",
+"360 1069 LINE",
+"1563 1069 LINE",
+"1563 1130 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 1628 LINE",
+"360 1090 LINE",
+"426 1090 LINE",
+"426 1628 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 821 LINE",
+"121 760 LINE",
+"1753 760 LINE",
+"1753 821 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"909 467 LINE",
+"909 444 LINE SMOOTH",
+"909 145 OFFCURVE",
+"514 -25 OFFCURVE",
+"256 -70 CURVE",
+"285 -127 LINE",
+"569 -68 OFFCURVE",
+"967 106 OFFCURVE",
+"967 444 CURVE SMOOTH",
+"967 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"915 467 LINE",
+"915 444 LINE SMOOTH",
+"915 106 OFFCURVE",
+"1315 -68 OFFCURVE",
+"1599 -127 CURVE",
+"1628 -70 LINE",
+"1370 -25 OFFCURVE",
+"975 145 OFFCURVE",
+"975 444 CURVE SMOOTH",
+"975 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"326 508 LINE",
+"326 446 LINE",
+"1556 446 LINE",
+"1556 508 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B2A6;
+}

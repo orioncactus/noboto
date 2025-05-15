@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniCF65;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"78 874 LINE",
+"78 614 LINE",
+"1806 614 LINE",
+"1806 874 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"688 1053 LINE",
+"688 707 LINE",
+"1018 707 LINE",
+"1018 1053 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"264 1700 LINE",
+"264 1442 LINE",
+"1470 1442 LINE",
+"1470 1700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1294 1700 LINE",
+"1294 1532 LINE SMOOTH",
+"1294 1366 OFFCURVE",
+"1294 1190 OFFCURVE",
+"1253 954 CURVE",
+"1579 934 LINE",
+"1622 1178 OFFCURVE",
+"1622 1364 OFFCURVE",
+"1622 1532 CURVE SMOOTH",
+"1622 1700 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1399 1378 LINE",
+"209 1360 LINE",
+"248 1096 LINE",
+"1399 1141 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"266 537 LINE",
+"266 -176 LINE",
+"1602 -176 LINE",
+"1602 537 LINE",
+"1276 537 LINE",
+"1276 426 LINE",
+"592 426 LINE",
+"592 537 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"592 180 LINE",
+"1276 180 LINE",
+"1276 82 LINE",
+"592 82 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 786 LINE",
+"121 727 LINE",
+"1753 727 LINE",
+"1753 786 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"844 1081 LINE",
+"844 748 LINE",
+"911 748 LINE",
+"911 1081 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 1597 LINE",
+"324 1536 LINE",
+"1507 1536 LINE",
+"1507 1597 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1468 1597 LINE",
+"1468 1473 LINE SMOOTH",
+"1468 1331 OFFCURVE",
+"1468 1161 OFFCURVE",
+"1417 920 CURVE",
+"1485 913 LINE",
+"1534 1153 OFFCURVE",
+"1534 1331 OFFCURVE",
+"1534 1473 CURVE SMOOTH",
+"1534 1597 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1481 1298 LINE",
+"285 1249 LINE",
+"301 1182 LINE",
+"1481 1243 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"344 580 LINE",
+"344 -109 LINE",
+"1532 -109 LINE",
+"1532 580 LINE",
+"1464 580 LINE",
+"1464 322 LINE",
+"412 322 LINE",
+"412 580 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 260 LINE",
+"1464 260 LINE",
+"1464 -47 LINE",
+"412 -47 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CF65;
+}

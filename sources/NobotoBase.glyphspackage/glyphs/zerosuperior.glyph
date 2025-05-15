@@ -1,0 +1,60 @@
+{
+glyphname = zerosuperior;
+layers = (
+{
+components = (
+{
+name = zero.sup;
+transform = "{1, 0, 0, 1, 0, 667}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 754;
+},
+{
+components = (
+{
+name = zero.sup;
+transform = "{1, 0, 0, 1, 0, 664}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 728;
+},
+{
+components = (
+{
+name = zero.sup;
+transform = "{1, 0, 0, 1, 0, 667}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 766;
+}
+);
+unicode = 2070;
+}

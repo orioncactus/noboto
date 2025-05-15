@@ -1,0 +1,76 @@
+{
+glyphname = "enghe-cy";
+layers = (
+{
+components = (
+{
+name = "en-cy";
+transform = "{1, 0, 0, 1, -12, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"919 1082 LINE",
+"919 921 LINE",
+"1380 921 LINE",
+"1380 1082 LINE"
+);
+}
+);
+width = 1455;
+},
+{
+components = (
+{
+name = "en-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"931 1082 LINE",
+"930 1027 LINE",
+"1435 1027 LINE",
+"1435 1082 LINE"
+);
+}
+);
+width = 1505;
+},
+{
+components = (
+{
+name = "en-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"978 1082 LINE",
+"974 822 LINE",
+"1388 822 LINE",
+"1388 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1443;
+}
+);
+leftKerningGroup = m;
+unicode = 04A5;
+}

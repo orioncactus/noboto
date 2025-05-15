@@ -1,0 +1,96 @@
+{
+glyphname = onetenth;
+layers = (
+{
+components = (
+{
+name = one.sup;
+transform = "{1, 0, 0, 1, 12, 664}";
+},
+{
+name = zero.sup;
+transform = "{1, 0, 0, 1, 1390, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 322, 0}";
+},
+{
+name = one.sup;
+transform = "{1, 0, 0, 1, 855, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2297;
+},
+{
+components = (
+{
+name = one.sup;
+transform = "{1, 0, 0, 1, 60, 664}";
+},
+{
+name = zero.sup;
+transform = "{1, 0, 0, 1, 1220, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 320, 0}";
+},
+{
+name = one.sup;
+transform = "{1, 0, 0, 1, 803, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2076;
+},
+{
+components = (
+{
+name = one.sup;
+transform = "{1, 0, 0, 1, 29, 664}";
+},
+{
+name = zero.sup;
+transform = "{1, 0, 0, 1, 1421, 0}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 348, 0}";
+},
+{
+name = one.sup;
+transform = "{1, 0, 0, 1, 859, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2285;
+}
+);
+unicode = 2152;
+}

@@ -1,0 +1,284 @@
+{
+glyphname = m;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{895, 10}";
+},
+{
+name = bottom_dd;
+position = "{1791, -407}";
+},
+{
+name = marktop;
+position = "{910, 1290}";
+},
+{
+name = top;
+position = "{910, 1290}";
+},
+{
+name = top0315;
+position = "{1791, 1290}";
+},
+{
+name = top_dd;
+position = "{1791, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"326 1082 LINE",
+"137 1082 LINE",
+"137 0 LINE",
+"337 0 LINE",
+"337 869 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"296 778 OFFCURVE",
+"360 937 OFFCURVE",
+"571 937 CURVE SMOOTH",
+"708 937 OFFCURVE",
+"795 872 OFFCURVE",
+"795 711 CURVE",
+"795 0 LINE",
+"995 0 LINE",
+"995 721 LINE",
+"995 992 OFFCURVE",
+"845 1102 OFFCURVE",
+"645 1102 CURVE SMOOTH",
+"350 1102 OFFCURVE",
+"203 880 OFFCURVE",
+"203 576 CURVE",
+"296 578 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"993 824 OFFCURVE",
+"1077 937 OFFCURVE",
+"1230 937 CURVE SMOOTH",
+"1367 937 OFFCURVE",
+"1454 887 OFFCURVE",
+"1454 714 CURVE SMOOTH",
+"1454 0 LINE",
+"1654 0 LINE",
+"1654 712 LINE SMOOTH",
+"1654 984 OFFCURVE",
+"1523 1102 OFFCURVE",
+"1290 1102 CURVE SMOOTH",
+"1009 1102 OFFCURVE",
+"859 878 OFFCURVE",
+"859 637 CURVE",
+"993 681 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1791;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{918, 10}";
+},
+{
+name = bottom_dd;
+position = "{1836, -407}";
+},
+{
+name = marktop;
+position = "{916, 1290}";
+},
+{
+name = top;
+position = "{916, 1290}";
+},
+{
+name = top0315;
+position = "{1836, 1290}";
+},
+{
+name = top_dd;
+position = "{1836, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"216 1082 LINE",
+"161 1082 LINE",
+"161 0 LINE",
+"216 0 LINE",
+"216 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"218 763 OFFCURVE",
+"324 1049 OFFCURVE",
+"596 1049 CURVE SMOOTH",
+"768 1049 OFFCURVE",
+"892 979 OFFCURVE",
+"892 720 CURVE SMOOTH",
+"892 0 LINE",
+"946 0 LINE",
+"946 720 LINE SMOOTH",
+"946 993 OFFCURVE",
+"818 1102 OFFCURVE",
+"599 1102 CURVE SMOOTH",
+"364 1102 OFFCURVE",
+"207 904 OFFCURVE",
+"180 691 CURVE",
+"209 634 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"956 836 OFFCURVE",
+"1075 1046 OFFCURVE",
+"1330 1049 CURVE SMOOTH",
+"1502 1051 OFFCURVE",
+"1626 975 OFFCURVE",
+"1626 700 CURVE SMOOTH",
+"1626 0 LINE",
+"1680 0 LINE",
+"1680 700 LINE SMOOTH",
+"1680 987 OFFCURVE",
+"1552 1102 OFFCURVE",
+"1333 1102 CURVE SMOOTH",
+"1098 1102 OFFCURVE",
+"936 936 OFFCURVE",
+"909 753 CURVE",
+"946 720 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1836;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{905, 10}";
+},
+{
+name = bottom_dd;
+position = "{1767, -407}";
+},
+{
+name = marktop;
+position = "{904, 1290}";
+},
+{
+name = top;
+position = "{904, 1290}";
+},
+{
+name = top0315;
+position = "{1767, 1290}";
+},
+{
+name = top_dd;
+position = "{1767, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"404 1082 LINE",
+"102 1082 LINE",
+"102 0 LINE",
+"424 0 LINE",
+"424 853 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"383 729 OFFCURVE",
+"452 842 OFFCURVE",
+"581 842 CURVE SMOOTH",
+"670 842 OFFCURVE",
+"722 816 OFFCURVE",
+"722 679 CURVE",
+"722 0 LINE",
+"1044 0 LINE",
+"1044 722 LINE",
+"1044 992 OFFCURVE",
+"914 1102 OFFCURVE",
+"724 1102 CURVE SMOOTH",
+"450 1102 OFFCURVE",
+"304 880 OFFCURVE",
+"304 576 CURVE",
+"383 578 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1010 729 OFFCURVE",
+"1072 842 OFFCURVE",
+"1202 842 CURVE SMOOTH",
+"1289 842 OFFCURVE",
+"1342 815 OFFCURVE",
+"1342 681 CURVE SMOOTH",
+"1342 0 LINE",
+"1665 0 LINE",
+"1665 681 LINE SMOOTH",
+"1665 995 OFFCURVE",
+"1526 1102 OFFCURVE",
+"1324 1102 CURVE SMOOTH",
+"1050 1102 OFFCURVE",
+"911 880 OFFCURVE",
+"911 576 CURVE",
+"1010 578 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1767;
+}
+);
+leftKerningGroup = m;
+rightKerningGroup = h;
+unicode = 006D;
+}

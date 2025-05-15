@@ -1,0 +1,111 @@
+{
+glyphname = "Iota-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"167 270 LINE SMOOTH",
+"167 53 OFFCURVE",
+"286 -20 OFFCURVE",
+"428 -20 CURVE SMOOTH",
+"498 -20 OFFCURVE",
+"545 -8 OFFCURVE",
+"574 1 CURVE",
+"574 160 LINE",
+"559 156 OFFCURVE",
+"519 148 OFFCURVE",
+"489 148 CURVE SMOOTH",
+"430 148 OFFCURVE",
+"375 165 OFFCURVE",
+"375 269 CURVE",
+"375 1456 LINE",
+"167 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 657;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"238 279 LINE SMOOTH",
+"238 62 OFFCURVE",
+"321 -21 OFFCURVE",
+"459 -21 CURVE SMOOTH",
+"495 -21 OFFCURVE",
+"536 -20 OFFCURVE",
+"573 -7 CURVE",
+"563 42 LINE",
+"526 37 OFFCURVE",
+"497 33 OFFCURVE",
+"456 33 CURVE SMOOTH",
+"369 33 OFFCURVE",
+"293 89 OFFCURVE",
+"293 279 CURVE SMOOTH",
+"293 1456 LINE",
+"238 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 648;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"166 311 LINE",
+"166 76 OFFCURVE",
+"289 -20 OFFCURVE",
+"497 -20 CURVE SMOOTH",
+"568 -20 OFFCURVE",
+"627 -10 OFFCURVE",
+"682 9 CURVE",
+"682 250 LINE",
+"660 246 OFFCURVE",
+"635 244 OFFCURVE",
+"598 244 CURVE SMOOTH",
+"518 244 OFFCURVE",
+"488 267 OFFCURVE",
+"488 353 CURVE",
+"488 1536 LINE",
+"166 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 700;
+}
+);
+unicode = A646;
+}

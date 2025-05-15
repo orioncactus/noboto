@@ -1,0 +1,159 @@
+{
+glyphname = "asterisk-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"476 1312 LINE",
+"608 1082 LINE",
+"870 1082 LINE",
+"738 853 LINE",
+"870 627 LINE",
+"608 627 LINE",
+"476 397 LINE",
+"343 627 LINE",
+"80 627 LINE",
+"212 853 LINE",
+"80 1082 LINE",
+"343 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"413 745 LINE",
+"476 637 LINE",
+"540 745 LINE",
+"663 745 LINE",
+"601 853 LINE",
+"663 962 LINE",
+"540 962 LINE",
+"476 1072 LINE",
+"413 962 LINE",
+"290 962 LINE",
+"350 853 LINE",
+"290 745 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 457;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 950;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"476 1312 LINE",
+"608 1082 LINE",
+"870 1082 LINE",
+"738 853 LINE",
+"870 627 LINE",
+"608 627 LINE",
+"476 397 LINE",
+"343 627 LINE",
+"80 627 LINE",
+"212 853 LINE",
+"80 1082 LINE",
+"343 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"377 682 LINE",
+"476 512 LINE",
+"577 682 LINE",
+"771 682 LINE",
+"673 853 LINE",
+"771 1025 LINE",
+"577 1025 LINE",
+"476 1198 LINE",
+"377 1025 LINE",
+"183 1025 LINE",
+"278 853 LINE",
+"183 682 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 950;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"476 1312 LINE",
+"608 1082 LINE",
+"870 1082 LINE",
+"738 853 LINE",
+"870 627 LINE",
+"608 627 LINE",
+"476 397 LINE",
+"343 627 LINE",
+"80 627 LINE",
+"212 853 LINE",
+"80 1082 LINE",
+"343 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"413 745 LINE",
+"476 637 LINE",
+"540 745 LINE",
+"663 745 LINE",
+"601 853 LINE",
+"663 962 LINE",
+"540 962 LINE",
+"476 1072 LINE",
+"413 962 LINE",
+"290 962 LINE",
+"350 853 LINE",
+"290 745 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 950;
+}
+);
+unicode = A673;
+}

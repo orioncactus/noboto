@@ -1,0 +1,69 @@
+{
+glyphname = leftDoubleParen;
+layers = (
+{
+components = (
+{
+name = parenleft;
+},
+{
+name = parenleft;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1111;
+},
+{
+components = (
+{
+name = parenleft;
+},
+{
+name = parenleft;
+transform = "{1, 0, 0, 1, 200, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 881;
+},
+{
+components = (
+{
+name = parenleft;
+},
+{
+name = parenleft;
+transform = "{1, 0, 0, 1, 420, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1142;
+}
+);
+unicode = 2E28;
+}

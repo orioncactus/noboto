@@ -1,0 +1,146 @@
+{
+glyphname = "yuslittle-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"604 1082 LINE",
+"453 1082 LINE",
+"13 0 LINE",
+"217 0 LINE",
+"516 757 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1067 0 LINE",
+"624 1082 LINE",
+"473 1082 LINE",
+"557 757 LINE",
+"863 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"246 449 LINE",
+"246 289 LINE",
+"845 289 LINE",
+"845 449 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"442 410 LINE",
+"442 0 LINE",
+"641 0 LINE",
+"641 410 LINE"
+);
+}
+);
+width = 1098;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"549 1082 LINE",
+"498 1082 LINE",
+"36 0 LINE",
+"95 0 LINE",
+"468 853 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1010 0 LINE",
+"549 1082 LINE",
+"497 1082 LINE",
+"577 853 LINE",
+"952 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"244 449 LINE",
+"244 395 LINE",
+"802 395 LINE",
+"802 449 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"500 427 LINE",
+"500 0 LINE",
+"554 0 LINE",
+"554 427 LINE"
+);
+}
+);
+width = 1067;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"642 1082 LINE",
+"403 1082 LINE",
+"5 0 LINE",
+"334 0 LINE",
+"540 635 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1143 0 LINE",
+"746 1082 LINE",
+"507 1082 LINE",
+"607 635 LINE",
+"815 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"190 460 LINE",
+"190 262 LINE",
+"963 262 LINE",
+"963 460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"473 350 LINE",
+"473 0 LINE",
+"661 0 LINE",
+"661 350 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1163;
+}
+);
+unicode = 0467;
+}

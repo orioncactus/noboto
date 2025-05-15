@@ -1,0 +1,123 @@
+{
+glyphname = dasia;
+layers = (
+{
+anchors = (
+{
+name = _tonos;
+position = "{400, 1455}";
+},
+{
+name = _top;
+position = "{225, 1182}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"95 1297 OFFCURVE",
+"160 1198 OFFCURVE",
+"278 1135 CURVE",
+"356 1195 LINE",
+"302 1256 OFFCURVE",
+"275 1322 OFFCURVE",
+"275 1419 CURVE SMOOTH",
+"275 1496 LINE",
+"95 1496 LINE",
+"95 1413 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 522;
+},
+{
+anchors = (
+{
+name = _tonos;
+position = "{270, 1454}";
+},
+{
+name = _top;
+position = "{150, 1182}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"80 1279 OFFCURVE",
+"133 1190 OFFCURVE",
+"217 1154 CURVE",
+"243 1195 LINE",
+"170 1239 OFFCURVE",
+"138 1298 OFFCURVE",
+"138 1384 CURVE SMOOTH",
+"138 1482 LINE",
+"80 1482 LINE",
+"80 1378 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 323;
+},
+{
+anchors = (
+{
+name = _tonos;
+position = "{400, 1455}";
+},
+{
+name = _top;
+position = "{283, 1182}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"123 1270 OFFCURVE",
+"193 1177 OFFCURVE",
+"284 1135 CURVE",
+"369 1231 LINE",
+"311 1267 OFFCURVE",
+"293 1327 OFFCURVE",
+"293 1402 CURVE SMOOTH",
+"293 1495 LINE",
+"123 1495 LINE",
+"123 1396 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 451;
+}
+);
+unicode = 1FFE;
+}

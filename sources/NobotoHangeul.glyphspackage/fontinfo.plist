@@ -1,0 +1,867 @@
+{
+.appVersion = "3413";
+copyright = "© 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.";
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 0;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = trademark;
+value = "Source is a trademark of Adobe in the United States and/or other countries.";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+}
+);
+date = "2022-05-08 14:24:37 +0000";
+designer = "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)";
+familyName = NobotoHangeul;
+fontMaster = (
+{
+alignmentZones = (
+"{-416, -20}"
+);
+ascender = 2146;
+capHeight = 1456;
+custom = Extra;
+customParameters = (
+{
+name = typoAscender;
+value = 2146;
+},
+{
+name = typoDescender;
+value = -555;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2146;
+},
+{
+name = winDescent;
+value = 555;
+},
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -150;
+}
+);
+descender = -555;
+guideLines = (
+{
+position = "{0, 512}";
+}
+);
+iconName = Light;
+id = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+name = ExtraLight;
+weight = Light;
+weightValue = 250;
+xHeight = 1082;
+},
+{
+alignmentZones = (
+"{-416, -20}"
+);
+ascender = 2146;
+capHeight = 1456;
+custom = Heavy;
+customParameters = (
+{
+name = typoAscender;
+value = 2146;
+},
+{
+name = typoDescender;
+value = -555;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1900;
+},
+{
+name = hheaDescender;
+value = -500;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2146;
+},
+{
+name = winDescent;
+value = 555;
+},
+{
+name = underlineThickness;
+value = 100;
+},
+{
+name = underlinePosition;
+value = -150;
+}
+);
+descender = -555;
+guideLines = (
+{
+position = "{0, 512}";
+}
+);
+iconName = Bold;
+id = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+weightValue = 900;
+xHeight = 1082;
+}
+);
+instances = (
+{
+interpolationWeight = 250;
+instanceInterpolations = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = 1;
+};
+name = Thin;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 354;
+instanceInterpolations = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = 0.84;
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = 0.16;
+};
+name = Light;
+weightClass = Light;
+},
+{
+exports = 0;
+interpolationWeight = 458;
+instanceInterpolations = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = 0.68;
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = 0.32;
+};
+name = Normal;
+},
+{
+interpolationWeight = 503.5;
+instanceInterpolations = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = 0.61;
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = 0.39;
+};
+name = Regular;
+},
+{
+interpolationWeight = 614;
+instanceInterpolations = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = 0.44;
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = 0.56;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 757;
+instanceInterpolations = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = 0.22;
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = 0.78;
+};
+name = Bold;
+weightClass = Bold;
+},
+{
+interpolationWeight = 900;
+instanceInterpolations = {
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = 1;
+};
+name = Black;
+weightClass = Black;
+}
+);
+kerning = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = {
+"@MMK_L_A" = {
+"@MMK_R_A2" = -22.528;
+"@MMK_R_C2" = -22.528;
+"@MMK_R_U2" = -40.96;
+"@MMK_R_Y2" = -22.528;
+"@MMK_R_a2" = 67.584;
+"@MMK_R_f2" = -22.528;
+"@MMK_R_question2" = -40.96;
+"@MMK_R_quotedbl2" = -92.16;
+"@MMK_R_quoteright2" = -120.832;
+"@MMK_R_u" = -22.528;
+"@MMK_R_uni02BB_2" = -122.88;
+};
+"@MMK_L_Alpha" = {
+"@MMK_R_Alpha2" = -22.528;
+"@MMK_R_Theta2" = -22.528;
+"@MMK_R_question2" = -40.96;
+"@MMK_R_quotedbl2" = -92.16;
+"@MMK_R_quoteright2" = -120.832;
+"@MMK_R_uni02BB_2" = -122.88;
+};
+"@MMK_L_C" = {
+"@MMK_R_C2" = -49.152;
+"@MMK_R_U2" = -22.528;
+"@MMK_R_guillemotleft2" = -22.528;
+"@MMK_R_hyphen2" = -40.96;
+"@MMK_R_u" = -22.528;
+"@MMK_R_y2" = -22.528;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -22.528;
+"@MMK_R_Y2" = -45.056;
+};
+"@MMK_L_E" = {
+"@MMK_R_c2" = -22.528;
+"@MMK_R_y2" = -22.528;
+};
+"@MMK_L_Theta" = {
+"@MMK_R_Alpha2" = -22.528;
+};
+"@MMK_L_U" = {
+"@MMK_R_A2" = -45.056;
+"@MMK_R_Y2" = -22.528;
+"@MMK_R_comma2" = -18.432;
+};
+"@MMK_L_Uhorn" = {
+"@MMK_R_a2" = -45.056;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -22.528;
+"@MMK_R_C2" = -22.528;
+"@MMK_R_U2" = -22.528;
+"@MMK_R_a2" = -135.168;
+"@MMK_R_c2" = -69.632;
+"@MMK_R_colon2" = -36.864;
+"@MMK_R_comma2" = -167.936;
+"@MMK_R_guillemotleft2" = -92.16;
+"@MMK_R_guillemotright2" = -55.296;
+"@MMK_R_hyphen2" = -131.07201;
+"@MMK_R_m" = -90.112;
+"@MMK_R_quoteright2" = 43.008;
+"@MMK_R_u" = -67.584;
+"@MMK_R_y2" = -22.528;
+};
+"@MMK_L_a" = {
+"@MMK_R_Y2" = -45.056;
+"@MMK_R_question2" = 6.144;
+"@MMK_R_quoteright2" = -18.432;
+};
+"@MMK_L_b" = {
+"@MMK_R_Y2" = -86.016;
+"@MMK_R_a2" = -36.864;
+"@MMK_R_comma2" = -22.528;
+"@MMK_R_hyphen2" = 22.528;
+"@MMK_R_question2" = 6.144;
+"@MMK_R_quotedbl2" = -90.112;
+"@MMK_R_quoteright2" = -40.96;
+"@MMK_R_uni02BB_2" = -49.152;
+};
+"@MMK_L_c" = {
+"@MMK_R_Y2" = -45.056;
+"@MMK_R_a2" = -22.528;
+"@MMK_R_c2" = -36.864;
+"@MMK_R_guillemotleft2" = -22.528;
+"@MMK_R_hyphen2" = -20.48;
+"@MMK_R_y2" = 22.528;
+};
+"@MMK_L_colon" = {
+"@MMK_R_Y2" = -40.96;
+};
+"@MMK_L_comma" = {
+"@MMK_R_U2" = -30.72;
+"@MMK_R_Y2" = -174.08;
+"@MMK_R_c2" = -26.624;
+"@MMK_R_omicron2" = -26.624;
+"@MMK_R_quotedbl2" = -159.744;
+"@MMK_R_quoteright2" = -165.888;
+"@MMK_R_uni02BB_2" = -120.832;
+"@MMK_R_uni0422" = -221.18401;
+"@MMK_R_uni0435_2" = -26.624;
+"@MMK_R_uni0442" = -73.728;
+"@MMK_R_y2" = -45.056;
+};
+"@MMK_L_e" = {
+"@MMK_R_Y2" = -40.96;
+"@MMK_R_a2" = -36.864;
+"@MMK_R_guillemotleft2" = 20.48;
+"@MMK_R_hyphen2" = 22.528;
+"@MMK_R_quoteright2" = -22.528;
+"@MMK_R_y2" = 30.72;
+};
+"@MMK_L_exclam" = {
+"@MMK_R_quoteright2" = -38.912;
+};
+"@MMK_L_f" = {
+"@MMK_R_Y2" = 157.696;
+"@MMK_R_a2" = -45.056;
+"@MMK_R_c2" = -22.528;
+"@MMK_R_comma2" = -88.064;
+"@MMK_R_exclam2" = 49.152;
+"@MMK_R_hyphen2" = -22.528;
+"@MMK_R_parenright" = 135.168;
+"@MMK_R_question2" = 67.584;
+"@MMK_R_quotedbl2" = 90.112;
+"@MMK_R_quoteright2" = 94.208;
+"@MMK_R_uni02BB_2" = 94.208;
+};
+"@MMK_L_guillemotleft" = {
+"@MMK_R_Y2" = -55.296;
+"@MMK_R_uni0422" = -90.112;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_guillemotright" = {
+"@MMK_R_Y2" = -92.16;
+"@MMK_R_uni0417" = -45.056;
+"@MMK_R_uni0422" = -86.016;
+"@MMK_R_uni0442" = -90.112;
+};
+"@MMK_L_h" = {
+"@MMK_R_Y2" = -18.432;
+"@MMK_R_quoteright2" = -45.056;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Y2" = -131.07201;
+"@MMK_R_uni0417" = -45.056;
+"@MMK_R_uni0422" = -90.112;
+"@MMK_R_uni0442" = -67.584;
+};
+"@MMK_L_iota" = {
+"@MMK_R_omicron2" = -22.528;
+"@MMK_R_quoteright2" = -45.056;
+};
+"@MMK_L_ohorn" = {
+"@MMK_R_parenright" = 45.056;
+"@MMK_R_quotedbl2" = -12.288;
+"@MMK_R_quoteright2" = 45.056;
+"@MMK_R_uni02BB_2" = -6.144;
+};
+"@MMK_L_omicron" = {
+"@MMK_R_comma2" = -22.528;
+"@MMK_R_hyphen2" = 22.528;
+"@MMK_R_question2" = 6.144;
+"@MMK_R_quotedbl2" = -90.112;
+"@MMK_R_quoteright2" = -40.96;
+"@MMK_R_uni02BB_2" = -49.152;
+};
+"@MMK_L_q" = {
+"@MMK_R_Y2" = -67.584;
+};
+"@MMK_L_question" = {
+"@MMK_R_quoteright2" = -24.576;
+};
+"@MMK_L_quotedbl" = {
+"@MMK_R_A2" = -92.16;
+"@MMK_R_Alpha2" = -92.16;
+"@MMK_R_c2" = -90.112;
+"@MMK_R_comma2" = -227.328;
+"@MMK_R_omicron2" = -90.112;
+"@MMK_R_uni0435_2" = -90.112;
+};
+"@MMK_L_quoteright" = {
+"@MMK_R_A2" = -92.16;
+"@MMK_R_Alpha2" = -92.16;
+"@MMK_R_a2" = -178.17599;
+"@MMK_R_c2" = -178.17599;
+"@MMK_R_comma2" = -264.19199;
+"@MMK_R_f2" = -45.056;
+"@MMK_R_m" = -45.056;
+"@MMK_R_omicron2" = -178.17599;
+"@MMK_R_uni0432_2" = -45.056;
+"@MMK_R_uni0435_2" = -178.17599;
+};
+"@MMK_L_uhorn" = {
+"@MMK_R_a2" = -22.528;
+"@MMK_R_f2" = 24.576;
+"@MMK_R_i" = 8.192;
+"@MMK_R_parenright" = 112.64;
+"@MMK_R_question2" = -6.144;
+"@MMK_R_quotedbl2" = 90.112;
+"@MMK_R_quoteright2" = 45.056;
+"@MMK_R_uni02BB_2" = 90.112;
+"@MMK_R_y2" = 22.528;
+};
+"@MMK_L_uni02BB" = {
+"@MMK_R_A2" = -120.832;
+"@MMK_R_Alpha2" = -120.832;
+"@MMK_R_Y2" = 43.008;
+"@MMK_R_a2" = -112.64;
+"@MMK_R_c2" = -90.112;
+"@MMK_R_comma2" = -116.736;
+"@MMK_R_f2" = -22.528;
+"@MMK_R_omicron2" = -90.112;
+"@MMK_R_uni0435_2" = -90.112;
+};
+"@MMK_L_uni0401" = {
+"@MMK_R_uni0417" = -45.056;
+"@MMK_R_uni0435_2" = -22.528;
+"@MMK_R_uni0442" = -45.056;
+};
+"@MMK_L_uni0411" = {
+"@MMK_R_quoteright2" = -45.056;
+"@MMK_R_uni02BB_2" = -22.528;
+"@MMK_R_uni0417" = -45.056;
+"@MMK_R_uni0422" = -45.056;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_uni0414" = {
+"@MMK_R_colon2" = 45.056;
+"@MMK_R_comma2" = 45.056;
+"@MMK_R_hyphen2" = -22.528;
+"@MMK_R_parenright" = 45.056;
+"@MMK_R_question2" = -22.528;
+"@MMK_R_uni0401_2" = -22.528;
+"@MMK_R_uni041E_2" = -22.528;
+"@MMK_R_uni0422" = -45.056;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_uni0416" = {
+"@MMK_R_guillemotleft2" = -22.528;
+"@MMK_R_hyphen2" = -45.056;
+"@MMK_R_parenright" = 45.056;
+"@MMK_R_uni041E_2" = -22.528;
+"@MMK_R_uni0442" = -67.584;
+};
+"@MMK_L_uni041E" = {
+"@MMK_R_A2" = -22.528;
+"@MMK_R_Y2" = -45.056;
+"@MMK_R_uni0417" = -47.104;
+"@MMK_R_uni0422" = -45.056;
+};
+"@MMK_L_uni042A" = {
+"@MMK_R_question2" = -45.056;
+"@MMK_R_quotedbl2" = -223.23199;
+"@MMK_R_quoteright2" = -178.17599;
+"@MMK_R_uni02BB_2" = -178.17599;
+"@MMK_R_uni0417" = -45.056;
+"@MMK_R_uni0422" = -270.336;
+"@MMK_R_uni0442" = -45.056;
+};
+"@MMK_L_uni0432" = {
+"@MMK_R_uni0442" = -45.056;
+};
+"@MMK_L_uni0434" = {
+"@MMK_R_colon2" = 45.056;
+"@MMK_R_comma2" = 45.056;
+"@MMK_R_parenright" = 45.056;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_uni0435" = {
+"@MMK_R_guillemotleft2" = 20.48;
+"@MMK_R_hyphen2" = 22.528;
+"@MMK_R_quoteright2" = -22.528;
+"@MMK_R_uni0422" = -45.056;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_uni0436" = {
+"@MMK_R_guillemotleft2" = -22.528;
+"@MMK_R_guillemotright2" = -45.056;
+"@MMK_R_hyphen2" = -45.056;
+"@MMK_R_uni0435_2" = -22.528;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_uni0438" = {
+"@MMK_R_uni0422" = -45.056;
+};
+"@MMK_L_uni043E" = {
+"@MMK_R_comma2" = -22.528;
+"@MMK_R_hyphen2" = 22.528;
+"@MMK_R_question2" = 6.144;
+"@MMK_R_quotedbl2" = -90.112;
+"@MMK_R_quoteright2" = -40.96;
+"@MMK_R_uni02BB_2" = -49.152;
+"@MMK_R_uni0422" = -126.976;
+"@MMK_R_uni0442" = -22.528;
+};
+"@MMK_L_uni044A" = {
+"@MMK_R_question2" = -45.056;
+"@MMK_R_quotedbl2" = -180.224;
+"@MMK_R_quoteright2" = -180.224;
+"@MMK_R_uni02BB_2" = -178.17599;
+"@MMK_R_uni0442" = -180.224;
+};
+"@MMK_L_y" = {
+"@MMK_R_a2" = -45.056;
+"@MMK_R_comma2" = -32.768;
+};
+};
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = {
+"@MMK_L_A" = {
+"@MMK_R_A2" = -14.336;
+"@MMK_R_C2" = -38.912;
+"@MMK_R_U2" = -43.008;
+"@MMK_R_Y2" = -59.392;
+"@MMK_R_a2" = 16.384;
+"@MMK_R_f2" = -38.912;
+"@MMK_R_question2" = -102.4;
+"@MMK_R_quotedbl2" = -188.416;
+"@MMK_R_quoteright2" = -153.60001;
+"@MMK_R_u" = -14.336;
+"@MMK_R_uni02BB_2" = -212.992;
+};
+"@MMK_L_Alpha" = {
+"@MMK_R_Alpha2" = -14.336;
+"@MMK_R_Theta2" = -38.912;
+"@MMK_R_question2" = -102.4;
+"@MMK_R_quotedbl2" = -188.416;
+"@MMK_R_quoteright2" = -153.60001;
+"@MMK_R_uni02BB_2" = -212.992;
+};
+"@MMK_L_C" = {
+"@MMK_R_C2" = -102.4;
+"@MMK_R_U2" = -59.392;
+"@MMK_R_guillemotleft2" = -59.392;
+"@MMK_R_hyphen2" = -102.4;
+"@MMK_R_u" = -38.912;
+"@MMK_R_y2" = -59.392;
+};
+"@MMK_L_D" = {
+"@MMK_R_A2" = -38.912;
+"@MMK_R_Y2" = -61.44;
+};
+"@MMK_L_E" = {
+"@MMK_R_c2" = -38.912;
+"@MMK_R_y2" = -38.912;
+};
+"@MMK_L_Theta" = {
+"@MMK_R_Alpha2" = -38.912;
+};
+"@MMK_L_U" = {
+"@MMK_R_A2" = -40.96;
+"@MMK_R_Y2" = -59.392;
+"@MMK_R_comma2" = -79.872;
+};
+"@MMK_L_Uhorn" = {
+"@MMK_R_a2" = -61.44;
+};
+"@MMK_L_Y" = {
+"@MMK_R_A2" = -59.392;
+"@MMK_R_C2" = -59.392;
+"@MMK_R_U2" = -38.912;
+"@MMK_R_a2" = -196.608;
+"@MMK_R_c2" = -147.45599;
+"@MMK_R_colon2" = -102.4;
+"@MMK_R_comma2" = -280.57599;
+"@MMK_R_guillemotleft2" = -188.416;
+"@MMK_R_guillemotright2" = -143.36;
+"@MMK_R_hyphen2" = -196.608;
+"@MMK_R_m" = -108.544;
+"@MMK_R_quoteright2" = -30.72;
+"@MMK_R_u" = -104.448;
+"@MMK_R_y2" = -59.392;
+};
+"@MMK_L_a" = {
+"@MMK_R_Y2" = -81.92;
+"@MMK_R_question2" = -94.208;
+"@MMK_R_quoteright2" = -79.872;
+};
+"@MMK_L_b" = {
+"@MMK_R_Y2" = -149.504;
+"@MMK_R_a2" = -43.008;
+"@MMK_R_comma2" = -38.912;
+"@MMK_R_hyphen2" = -14.336;
+"@MMK_R_question2" = -94.208;
+"@MMK_R_quotedbl2" = -51.2;
+"@MMK_R_quoteright2" = -102.4;
+"@MMK_R_uni02BB_2" = -20.48;
+};
+"@MMK_L_c" = {
+"@MMK_R_Y2" = -81.92;
+"@MMK_R_a2" = -38.912;
+"@MMK_R_c2" = -81.92;
+"@MMK_R_guillemotleft2" = -59.392;
+"@MMK_R_hyphen2" = -100.352;
+"@MMK_R_y2" = -14.336;
+};
+"@MMK_L_colon" = {
+"@MMK_R_Y2" = -102.4;
+};
+"@MMK_L_comma" = {
+"@MMK_R_U2" = -81.92;
+"@MMK_R_Y2" = -282.62399;
+"@MMK_R_c2" = -40.96;
+"@MMK_R_omicron2" = -40.96;
+"@MMK_R_quotedbl2" = -315.392;
+"@MMK_R_quoteright2" = -350.20801;
+"@MMK_R_uni02BB_2" = -305.15201;
+"@MMK_R_uni0422" = -247.808;
+"@MMK_R_uni0435_2" = -40.96;
+"@MMK_R_uni0442" = -165.888;
+"@MMK_R_y2" = -61.44;
+};
+"@MMK_L_e" = {
+"@MMK_R_Y2" = -102.4;
+"@MMK_R_a2" = -43.008;
+"@MMK_R_guillemotleft2" = -53.248;
+"@MMK_R_hyphen2" = 8.192;
+"@MMK_R_quoteright2" = -38.912;
+"@MMK_R_y2" = -32.768;
+};
+"@MMK_L_exclam" = {
+"@MMK_R_quoteright2" = -141.312;
+};
+"@MMK_L_f" = {
+"@MMK_R_Y2" = 88.064;
+"@MMK_R_a2" = -61.44;
+"@MMK_R_c2" = -38.912;
+"@MMK_R_comma2" = -169.98399;
+"@MMK_R_exclam2" = -8.192;
+"@MMK_R_hyphen2" = -59.392;
+"@MMK_R_parenright" = 65.536;
+"@MMK_R_question2" = 34.816;
+"@MMK_R_quotedbl2" = 77.824;
+"@MMK_R_quoteright2" = 38.912;
+"@MMK_R_uni02BB_2" = 38.912;
+};
+"@MMK_L_guillemotleft" = {
+"@MMK_R_Y2" = -143.36;
+"@MMK_R_uni0422" = -108.544;
+"@MMK_R_uni0442" = -59.392;
+};
+"@MMK_L_guillemotright" = {
+"@MMK_R_Y2" = -188.416;
+"@MMK_R_uni0417" = -61.44;
+"@MMK_R_uni0422" = -149.504;
+"@MMK_R_uni0442" = -67.584;
+};
+"@MMK_L_h" = {
+"@MMK_R_Y2" = -79.872;
+"@MMK_R_quoteright2" = -61.44;
+};
+"@MMK_L_hyphen" = {
+"@MMK_R_Y2" = -196.608;
+"@MMK_R_uni0417" = -61.44;
+"@MMK_R_uni0422" = -149.504;
+"@MMK_R_uni0442" = -63.488;
+};
+"@MMK_L_iota" = {
+"@MMK_R_omicron2" = -34.816;
+"@MMK_R_quoteright2" = -102.4;
+};
+"@MMK_L_ohorn" = {
+"@MMK_R_parenright" = 30.72;
+"@MMK_R_quotedbl2" = 59.392;
+"@MMK_R_quoteright2" = 12.288;
+"@MMK_R_uni02BB_2" = 40.96;
+};
+"@MMK_L_omicron" = {
+"@MMK_R_comma2" = -38.912;
+"@MMK_R_hyphen2" = -14.336;
+"@MMK_R_question2" = -94.208;
+"@MMK_R_quotedbl2" = -51.2;
+"@MMK_R_quoteright2" = -102.4;
+"@MMK_R_uni02BB_2" = -20.48;
+};
+"@MMK_L_q" = {
+"@MMK_R_Y2" = -86.016;
+};
+"@MMK_L_question" = {
+"@MMK_R_quoteright2" = -100.352;
+};
+"@MMK_L_quotedbl" = {
+"@MMK_R_A2" = -188.416;
+"@MMK_R_Alpha2" = -188.416;
+"@MMK_R_c2" = -51.2;
+"@MMK_R_comma2" = -329.728;
+"@MMK_R_omicron2" = -51.2;
+"@MMK_R_uni0435_2" = -51.2;
+};
+"@MMK_L_quoteright" = {
+"@MMK_R_A2" = -208.896;
+"@MMK_R_Alpha2" = -208.896;
+"@MMK_R_a2" = -124.928;
+"@MMK_R_c2" = -96.256;
+"@MMK_R_comma2" = -374.784;
+"@MMK_R_f2" = -40.96;
+"@MMK_R_m" = -20.48;
+"@MMK_R_omicron2" = -96.256;
+"@MMK_R_uni0432_2" = -20.48;
+"@MMK_R_uni0435_2" = -96.256;
+};
+"@MMK_L_uhorn" = {
+"@MMK_R_a2" = -38.912;
+"@MMK_R_f2" = 67.584;
+"@MMK_R_i" = 45.056;
+"@MMK_R_parenright" = 100.352;
+"@MMK_R_question2" = 40.96;
+"@MMK_R_quotedbl2" = 120.832;
+"@MMK_R_quoteright2" = 53.248;
+"@MMK_R_uni02BB_2" = 98.304;
+"@MMK_R_y2" = 8.192;
+};
+"@MMK_L_uni02BB" = {
+"@MMK_R_A2" = -153.60001;
+"@MMK_R_Alpha2" = -153.60001;
+"@MMK_R_Y2" = -30.72;
+"@MMK_R_a2" = -90.112;
+"@MMK_R_c2" = -67.584;
+"@MMK_R_comma2" = -303.104;
+"@MMK_R_f2" = -59.392;
+"@MMK_R_omicron2" = -67.584;
+"@MMK_R_uni0435_2" = -67.584;
+};
+"@MMK_L_uni0401" = {
+"@MMK_R_uni0417" = -81.92;
+"@MMK_R_uni0435_2" = -38.912;
+"@MMK_R_uni0442" = -81.92;
+};
+"@MMK_L_uni0411" = {
+"@MMK_R_quoteright2" = -61.44;
+"@MMK_R_uni02BB_2" = -59.392;
+"@MMK_R_uni0417" = -61.44;
+"@MMK_R_uni0422" = -81.92;
+"@MMK_R_uni0442" = -38.912;
+};
+"@MMK_L_uni0414" = {
+"@MMK_R_colon2" = 30.72;
+"@MMK_R_comma2" = 30.72;
+"@MMK_R_hyphen2" = -38.912;
+"@MMK_R_parenright" = 30.72;
+"@MMK_R_question2" = -59.392;
+"@MMK_R_uni0401_2" = -28.672;
+"@MMK_R_uni041E_2" = -38.912;
+"@MMK_R_uni0422" = -61.44;
+"@MMK_R_uni0442" = -38.912;
+};
+"@MMK_L_uni0416" = {
+"@MMK_R_guillemotleft2" = -79.872;
+"@MMK_R_hyphen2" = -102.4;
+"@MMK_R_parenright" = -8.192;
+"@MMK_R_uni041E_2" = -38.912;
+"@MMK_R_uni0442" = -86.016;
+};
+"@MMK_L_uni041E" = {
+"@MMK_R_A2" = -38.912;
+"@MMK_R_Y2" = -61.44;
+"@MMK_R_uni0417" = -141.312;
+"@MMK_R_uni0422" = -81.92;
+};
+"@MMK_L_uni042A" = {
+"@MMK_R_question2" = -102.4;
+"@MMK_R_quotedbl2" = -172.032;
+"@MMK_R_quoteright2" = -124.928;
+"@MMK_R_uni02BB_2" = -124.928;
+"@MMK_R_uni0417" = -81.92;
+"@MMK_R_uni0422" = -253.952;
+"@MMK_R_uni0442" = -61.44;
+};
+"@MMK_L_uni0432" = {
+"@MMK_R_uni0442" = -81.92;
+};
+"@MMK_L_uni0434" = {
+"@MMK_R_colon2" = 30.72;
+"@MMK_R_comma2" = 30.72;
+"@MMK_R_parenright" = 30.72;
+"@MMK_R_uni0442" = -59.392;
+};
+"@MMK_L_uni0435" = {
+"@MMK_R_guillemotleft2" = -53.248;
+"@MMK_R_hyphen2" = 8.192;
+"@MMK_R_quoteright2" = -38.912;
+"@MMK_R_uni0422" = -81.92;
+"@MMK_R_uni0442" = -38.912;
+};
+"@MMK_L_uni0436" = {
+"@MMK_R_guillemotleft2" = -59.392;
+"@MMK_R_guillemotright2" = -61.44;
+"@MMK_R_hyphen2" = -81.92;
+"@MMK_R_uni0435_2" = -79.872;
+"@MMK_R_uni0442" = -79.872;
+};
+"@MMK_L_uni0438" = {
+"@MMK_R_uni0422" = -61.44;
+};
+"@MMK_L_uni043E" = {
+"@MMK_R_comma2" = -38.912;
+"@MMK_R_hyphen2" = -14.336;
+"@MMK_R_question2" = -94.208;
+"@MMK_R_quotedbl2" = -51.2;
+"@MMK_R_quoteright2" = -102.4;
+"@MMK_R_uni02BB_2" = -20.48;
+"@MMK_R_uni0422" = -153.60001;
+"@MMK_R_uni0442" = -79.872;
+};
+"@MMK_L_uni044A" = {
+"@MMK_R_question2" = -61.44;
+"@MMK_R_quotedbl2" = -202.752;
+"@MMK_R_quoteright2" = -159.744;
+"@MMK_R_uni02BB_2" = -124.928;
+"@MMK_R_uni0442" = -159.744;
+};
+"@MMK_L_y" = {
+"@MMK_R_a2" = -61.44;
+"@MMK_R_comma2" = -159.744;
+};
+};
+};
+manufacturer = Adobe;
+manufacturerURL = "http://www.adobe.com/type/";
+unitsPerEm = 2048;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"35A15426-DDB1-4AC4-90C4-1762146010E5" = {
+HH = 33;
+HV = 37;
+OH = 35;
+OV = 39;
+nV = 33;
+oH = 33;
+oV = 38;
+tH = 31;
+};
+"99E75090-8A73-42EE-982D-99D4C12EA1BB" = {
+HH = 155;
+HV = 179;
+OH = 154;
+OV = 183;
+nV = 178;
+oH = 144;
+oV = 182;
+tH = 136;
+};
+};
+};
+versionMajor = 2;
+versionMinor = 4;
+}

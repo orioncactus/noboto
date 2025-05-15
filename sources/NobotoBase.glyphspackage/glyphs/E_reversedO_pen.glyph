@@ -1,0 +1,57 @@
+{
+glyphname = EreversedOpen;
+layers = (
+{
+components = (
+{
+name = "Ze-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1215;
+},
+{
+components = (
+{
+name = "Ze-cy";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1221;
+},
+{
+components = (
+{
+name = "Ze-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1281;
+}
+);
+unicode = A7AB;
+}

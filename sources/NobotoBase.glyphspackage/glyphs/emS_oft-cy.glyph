@@ -1,0 +1,91 @@
+{
+glyphname = "emSoft-cy";
+layers = (
+{
+components = (
+{
+name = "em-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1186 1082 LINE",
+"1186 921 LINE",
+"1828 921 LINE",
+"1828 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1838;
+},
+{
+components = (
+{
+name = "em-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1294 1082 LINE",
+"1294 1027 LINE",
+"1810 1027 LINE",
+"1810 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1810;
+},
+{
+components = (
+{
+name = "em-cy";
+transform = "{1, 0, 0, 1, -20, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1133 1082 LINE",
+"1133 822 LINE",
+"1875 822 LINE",
+"1875 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1885;
+}
+);
+unicode = A667;
+}

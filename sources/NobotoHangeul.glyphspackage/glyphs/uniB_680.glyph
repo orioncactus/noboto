@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniB680;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"197 1583 LINE",
+"197 772 LINE",
+"539 772 LINE",
+"539 1319 LINE",
+"889 1319 LINE",
+"889 1583 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"197 944 LINE",
+"197 672 LINE",
+"326 672 LINE SMOOTH",
+"592 672 OFFCURVE",
+"741 672 OFFCURVE",
+"920 698 CURVE",
+"897 969 LINE",
+"721 944 OFFCURVE",
+"582 944 OFFCURVE",
+"326 944 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1006 1583 LINE",
+"1006 836 LINE",
+"1346 836 LINE",
+"1346 1315 LINE",
+"1696 1315 LINE",
+"1696 1583 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1006 928 LINE",
+"1006 668 LINE",
+"1698 668 LINE",
+"1698 928 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 279 LINE",
+"74 23 LINE",
+"1812 23 LINE",
+"1812 279 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"453 596 LINE",
+"453 172 LINE",
+"791 172 LINE",
+"791 596 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1079 596 LINE",
+"1079 172 LINE",
+"1419 172 LINE",
+"1419 596 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"252 1485 LINE",
+"252 715 LINE",
+"319 715 LINE",
+"319 1423 LINE",
+"842 1423 LINE",
+"842 1485 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"252 756 LINE",
+"252 692 LINE",
+"338 692 LINE SMOOTH",
+"451 692 OFFCURVE",
+"645 700 OFFCURVE",
+"893 750 CURVE",
+"879 813 LINE",
+"645 764 OFFCURVE",
+"442 756 OFFCURVE",
+"338 756 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"950 1489 LINE",
+"950 735 LINE",
+"1014 735 LINE",
+"1014 1427 LINE",
+"1563 1427 LINE",
+"1563 1489 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"950 766 LINE",
+"950 705 LINE",
+"1599 705 LINE",
+"1599 766 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 168 LINE",
+"96 104 LINE",
+"1737 104 LINE",
+"1737 168 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 592 LINE",
+"600 131 LINE",
+"666 131 LINE",
+"666 592 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1186 592 LINE",
+"1186 131 LINE",
+"1253 131 LINE",
+"1253 592 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B680;
+}

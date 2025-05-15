@@ -1,0 +1,177 @@
+{
+glyphname = kgreenlandic;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{594, 10}";
+},
+{
+name = top;
+position = "{594, 1290}";
+},
+{
+name = top0315;
+position = "{1146, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"153 1082 LINE",
+"153 0 LINE",
+"353 0 LINE",
+"353 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"821 1082 LINE",
+"435 628 LINE",
+"255 628 LINE",
+"286 456 LINE",
+"526 456 LINE",
+"1062 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1095 0 LINE",
+"555 627 LINE",
+"427 486 LINE",
+"843 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1146;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{558, 10}";
+},
+{
+name = top;
+position = "{558, 1290}";
+},
+{
+name = top0315;
+position = "{1084, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"171 1082 LINE",
+"171 0 LINE",
+"226 0 LINE",
+"226 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"893 1082 LINE",
+"404 582 LINE",
+"207 582 LINE",
+"204 529 LINE",
+"431 529 LINE",
+"962 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1025 0 LINE",
+"422 584 LINE",
+"390 533 LINE",
+"954 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1084;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{600, 10}";
+},
+{
+name = top;
+position = "{600, 1290}";
+},
+{
+name = top0315;
+position = "{1232, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"122 1082 LINE",
+"122 0 LINE",
+"444 0 LINE",
+"444 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"776 1082 LINE",
+"533 693 LINE",
+"359 693 LINE",
+"396 378 LINE",
+"704 378 LINE",
+"1187 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1198 0 LINE",
+"823 582 LINE",
+"530 441 LINE",
+"784 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1232;
+}
+);
+unicode = 0138;
+}

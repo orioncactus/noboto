@@ -1,0 +1,34 @@
+{
+glyphname = Dcroat;
+layers = (
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = master01;
+width = 1340;
+},
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1344;
+},
+{
+components = (
+{
+name = Eth;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1327;
+}
+);
+rightKerningGroup = D;
+unicode = 0110;
+}

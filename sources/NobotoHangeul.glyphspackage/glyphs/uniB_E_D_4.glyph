@@ -1,0 +1,179 @@
+{
+color = 0;
+glyphname = uniBED4;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1425 1726 LINE",
+"1425 319 LINE",
+"1749 319 LINE",
+"1749 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"94 1581 LINE",
+"94 592 LINE",
+"684 592 LINE",
+"684 1581 LINE",
+"420 1581 LINE",
+"420 1317 LINE",
+"360 1317 LINE",
+"360 1581 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"360 1067 LINE",
+"420 1067 LINE",
+"420 850 LINE",
+"360 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"741 1581 LINE",
+"741 592 LINE",
+"1321 592 LINE",
+"1321 1581 LINE",
+"1059 1581 LINE",
+"1059 1317 LINE",
+"1004 1317 LINE",
+"1004 1581 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1004 1067 LINE",
+"1059 1067 LINE",
+"1059 850 LINE",
+"1004 850 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1255 1223 LINE",
+"1255 961 LINE",
+"1528 961 LINE",
+"1528 1223 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"371 96 LINE",
+"371 -166 LINE",
+"1796 -166 LINE",
+"1796 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"371 459 LINE",
+"371 43 LINE",
+"700 43 LINE",
+"700 459 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1534 1671 LINE",
+"1534 311 LINE",
+"1602 311 LINE",
+"1602 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"184 1540 LINE",
+"184 670 LINE",
+"637 670 LINE",
+"637 1540 LINE",
+"571 1540 LINE",
+"571 1184 LINE",
+"252 1184 LINE",
+"252 1540 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"252 1124 LINE",
+"571 1124 LINE",
+"571 731 LINE",
+"252 731 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"786 1540 LINE",
+"786 670 LINE",
+"1225 670 LINE",
+"1225 1540 LINE",
+"1159 1540 LINE",
+"1159 1184 LINE",
+"854 1184 LINE",
+"854 1540 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"854 1124 LINE",
+"1159 1124 LINE",
+"1159 731 LINE",
+"854 731 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1190 1135 LINE",
+"1190 1075 LINE",
+"1561 1075 LINE",
+"1561 1135 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"424 -27 LINE",
+"424 -88 LINE",
+"1655 -88 LINE",
+"1655 -27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"424 465 LINE",
+"424 -45 LINE",
+"492 -45 LINE",
+"492 465 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BED4;
+}

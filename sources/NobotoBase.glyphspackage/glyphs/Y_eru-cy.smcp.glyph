@@ -1,0 +1,104 @@
+{
+glyphname = "Yeru-cy.smcp";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{767, 1320}";
+},
+{
+name = top0315;
+position = "{1543, 1320}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Softsign-cy.smcp";
+},
+{
+alignment = -1;
+name = I.smcp;
+transform = "{1, 0, 0, 1, 1062, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1543;
+},
+{
+anchors = (
+{
+name = top;
+position = "{656, 1320}";
+},
+{
+name = top0315;
+position = "{1326, 1320}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Softsign-cy.smcp";
+},
+{
+alignment = -1;
+name = I.smcp;
+transform = "{1, 0, 0, 1, 899, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1326;
+},
+{
+anchors = (
+{
+name = top;
+position = "{805, 1320}";
+},
+{
+name = top0315;
+position = "{1614, 1320}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Softsign-cy.smcp";
+},
+{
+alignment = -1;
+name = I.smcp;
+transform = "{1, 0, 0, 1, 1096, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1614;
+}
+);
+}

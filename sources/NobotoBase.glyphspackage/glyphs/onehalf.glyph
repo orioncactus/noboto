@@ -1,0 +1,102 @@
+{
+glyphname = onehalf;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 236, 8}";
+},
+{
+alignment = -1;
+name = one.sup;
+transform = "{1, 0, 0, 1, -47, 664}";
+},
+{
+alignment = -1;
+name = two.sup;
+transform = "{1, 0, 0, 1, 804, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 2079;
+}
+);
+};
+width = 1598;
+},
+{
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 233, 8}";
+},
+{
+alignment = -1;
+name = one.sup;
+transform = "{1, 0, 0, 1, -10, 664}";
+},
+{
+alignment = -1;
+name = two.sup;
+transform = "{1, 0, 0, 1, 741, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 2079;
+}
+);
+};
+width = 1508;
+},
+{
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 248, 8}";
+},
+{
+alignment = -1;
+name = one.sup;
+transform = "{1, 0, 0, 1, -54, 672}";
+},
+{
+alignment = -1;
+name = two.sup;
+transform = "{1, 0, 0, 1, 776, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 2079;
+}
+);
+};
+width = 1544;
+}
+);
+unicode = 00BD;
+}

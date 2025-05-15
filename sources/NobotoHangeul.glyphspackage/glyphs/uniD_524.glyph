@@ -1,0 +1,171 @@
+{
+color = 0;
+glyphname = uniD524;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1362 1726 LINE",
+"1362 303 LINE",
+"1694 303 LINE",
+"1694 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 117 LINE",
+"369 -143 LINE",
+"1726 -143 LINE",
+"1726 117 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 393 LINE",
+"369 6 LINE",
+"707 6 LINE",
+"707 393 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"123 471 LINE",
+"479 471 OFFCURVE",
+"897 477 OFFCURVE",
+"1298 535 CURVE",
+"1276 776 LINE",
+"891 737 OFFCURVE",
+"449 737 OFFCURVE",
+"84 737 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"154 1614 LINE",
+"154 1362 LINE",
+"1227 1362 LINE",
+"1227 1614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"172 1110 LINE",
+"172 860 LINE",
+"1206 860 LINE",
+"1206 1110 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 1481 LINE",
+"293 1036 LINE",
+"610 1036 LINE",
+"610 1481 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"770 1481 LINE",
+"770 1036 LINE",
+"1087 1036 LINE",
+"1087 1481 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1505 1667 LINE",
+"1505 326 LINE",
+"1571 326 LINE",
+"1571 1667 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"446 -27 LINE",
+"446 -88 LINE",
+"1638 -88 LINE",
+"1638 -27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"446 403 LINE",
+"446 -68 LINE",
+"514 -68 LINE",
+"514 403 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 582 LINE",
+"487 584 OFFCURVE",
+"936 596 OFFCURVE",
+"1325 651 CURVE",
+"1321 711 LINE",
+"940 664 OFFCURVE",
+"483 651 OFFCURVE",
+"129 649 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"227 1518 LINE",
+"227 1456 LINE",
+"1196 1456 LINE",
+"1196 1518 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"227 979 LINE",
+"227 918 LINE",
+"1196 918 LINE",
+"1196 979 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"444 1481 LINE",
+"444 952 LINE",
+"512 952 LINE",
+"512 1481 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"893 1481 LINE",
+"893 952 LINE",
+"961 952 LINE",
+"961 1481 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = D524;
+}

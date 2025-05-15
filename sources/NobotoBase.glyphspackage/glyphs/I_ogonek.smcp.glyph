@@ -1,0 +1,128 @@
+{
+glyphname = Iogonek.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{246, -437}";
+},
+{
+name = bottom_dd;
+position = "{492, -407}";
+},
+{
+name = parent_top;
+position = "{246, 1320}";
+},
+{
+name = top;
+position = "{246, 1320}";
+},
+{
+name = top0315;
+position = "{492, 1320}";
+},
+{
+name = top_dd;
+position = "{492, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I.smcp;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, -44, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 492;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{230, -395}";
+},
+{
+name = bottom_dd;
+position = "{460, -407}";
+},
+{
+name = parent_top;
+position = "{230, 1320}";
+},
+{
+name = top;
+position = "{230, 1320}";
+},
+{
+name = top0315;
+position = "{460, 1320}";
+},
+{
+name = top_dd;
+position = "{460, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I.smcp;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, -56, 0}";
+}
+);
+layerId = master01;
+width = 460;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{273, -417}";
+},
+{
+name = bottom_dd;
+position = "{540, -407}";
+},
+{
+name = parent_top;
+position = "{271, 1320}";
+},
+{
+name = top;
+position = "{271, 1320}";
+},
+{
+name = top0315;
+position = "{540, 1320}";
+},
+{
+name = top_dd;
+position = "{540, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = I.smcp;
+},
+{
+alignment = -1;
+name = ogonek;
+transform = "{1, 0, 0, 1, 21, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 540;
+}
+);
+}

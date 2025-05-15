@@ -1,0 +1,90 @@
+{
+glyphname = twostroke;
+layers = (
+{
+components = (
+{
+name = two;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"288 805 LINE",
+"288 645 LINE",
+"1080 645 LINE",
+"1080 805 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1161;
+},
+{
+components = (
+{
+name = two;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"387 735 LINE",
+"387 681 LINE",
+"1024 681 LINE",
+"1024 735 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1121;
+},
+{
+components = (
+{
+name = two;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"259 842 LINE",
+"259 651 LINE",
+"1170 651 LINE",
+"1170 842 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1250;
+}
+);
+unicode = 01BB;
+}

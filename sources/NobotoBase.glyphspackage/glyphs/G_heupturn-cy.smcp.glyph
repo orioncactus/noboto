@@ -1,0 +1,89 @@
+{
+glyphname = "Gheupturn-cy.smcp";
+layers = (
+{
+components = (
+{
+name = Gamma.smcp;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"703 1476 LINE",
+"703 1004 LINE",
+"903 1004 LINE",
+"903 1476 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 943;
+},
+{
+components = (
+{
+name = Gamma.smcp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"833 1476 LINE",
+"833 1110 LINE",
+"887 1110 LINE",
+"887 1476 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 947;
+},
+{
+components = (
+{
+name = Gamma.smcp;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"627 1476 LINE",
+"627 905 LINE",
+"949 905 LINE",
+"949 1476 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 974;
+}
+);
+}

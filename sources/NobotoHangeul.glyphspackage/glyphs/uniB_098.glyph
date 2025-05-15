@@ -1,0 +1,103 @@
+{
+color = 0;
+glyphname = uniB098;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1509 1024 LINE",
+"1509 754 LINE",
+"1839 754 LINE",
+"1839 1024 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1262 1731 LINE",
+"1262 -190 LINE",
+"1593 -190 LINE",
+"1593 1731 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 1548 LINE",
+"121 352 LINE",
+"451 352 LINE",
+"451 1548 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 541 LINE",
+"121 268 LINE",
+"293 268 LINE SMOOTH",
+"571 268 OFFCURVE",
+"887 285 OFFCURVE",
+"1200 350 CURVE",
+"1167 618 LINE",
+"862 559 OFFCURVE",
+"561 541 OFFCURVE",
+"293 541 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1462 911 LINE",
+"1462 850 LINE",
+"1810 850 LINE",
+"1810 911 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1415 1671 LINE",
+"1415 -137 LINE",
+"1483 -137 LINE",
+"1483 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 1489 LINE",
+"211 373 LINE",
+"276 373 LINE",
+"276 1489 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 397 LINE",
+"211 338 LINE",
+"342 338 LINE SMOOTH",
+"625 338 OFFCURVE",
+"889 358 OFFCURVE",
+"1206 422 CURVE",
+"1194 483 LINE",
+"887 418 OFFCURVE",
+"618 397 OFFCURVE",
+"342 397 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B098;
+}

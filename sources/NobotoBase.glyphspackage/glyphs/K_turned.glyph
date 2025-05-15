@@ -1,0 +1,135 @@
+{
+glyphname = Kturned;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"284 0 LINE",
+"760 538 LINE",
+"1016 824 LINE",
+"980 1041 LINE",
+"635 681 LINE",
+"35 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-9 1456 LINE",
+"638 590 LINE",
+"762 753 LINE",
+"239 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 0 LINE",
+"1117 1456 LINE",
+"909 1456 LINE",
+"909 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1283;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"202 0 LINE",
+"808 609 LINE",
+"1060 855 LINE",
+"1068 925 LINE",
+"775 655 LINE",
+"124 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 1456 LINE",
+"797 624 LINE",
+"830 671 LINE",
+"144 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1100 0 LINE",
+"1100 1456 LINE",
+"1046 1456 LINE",
+"1046 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1300;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"398 0 LINE",
+"730 457 LINE",
+"946 777 LINE",
+"885 1099 LINE",
+"553 738 LINE",
+"-15 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-20 1456 LINE",
+"513 599 LINE",
+"769 800 LINE",
+"377 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1190 0 LINE",
+"1190 1456 LINE",
+"855 1456 LINE",
+"855 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1307;
+}
+);
+unicode = A7B0;
+}

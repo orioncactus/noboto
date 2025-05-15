@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniB920;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1470 1729 LINE",
+"1470 -193 LINE",
+"1784 -193 LINE",
+"1784 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1079 1706 LINE",
+"1079 -121 LINE",
+"1386 -121 LINE",
+"1386 1706 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"801 424 LINE",
+"801 182 LINE",
+"1169 182 LINE",
+"1169 424 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"389 590 LINE",
+"389 -55 LINE",
+"700 -55 LINE",
+"700 590 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"150 1636 LINE",
+"150 1399 LINE",
+"592 1399 LINE",
+"592 1335 LINE",
+"152 1335 LINE",
+"152 969 LINE",
+"489 969 LINE",
+"489 1112 LINE",
+"930 1112 LINE",
+"930 1636 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"152 1047 LINE",
+"152 805 LINE",
+"948 805 LINE",
+"948 1047 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"76 465 LINE",
+"344 463 OFFCURVE",
+"723 469 OFFCURVE",
+"1022 516 CURVE",
+"999 756 LINE",
+"719 729 OFFCURVE",
+"317 729 OFFCURVE",
+"41 729 CURVE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1530 1671 LINE",
+"1530 -137 LINE",
+"1597 -137 LINE",
+"1597 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1210 1620 LINE",
+"1210 -29 LINE",
+"1276 -29 LINE",
+"1276 1620 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"840 457 LINE",
+"840 395 LINE",
+"1264 395 LINE",
+"1264 457 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"547 666 LINE",
+"547 16 LINE",
+"614 16 LINE",
+"614 666 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1536 LINE",
+"215 1479 LINE",
+"895 1479 LINE",
+"895 1257 LINE",
+"221 1257 LINE",
+"221 936 LINE",
+"285 936 LINE",
+"285 1196 LINE",
+"961 1196 LINE",
+"961 1536 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221 965 LINE",
+"221 901 LINE",
+"991 901 LINE",
+"991 965 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 621 LINE",
+"367 621 OFFCURVE",
+"768 625 OFFCURVE",
+"1094 682 CURVE",
+"1087 735 LINE",
+"774 688 OFFCURVE",
+"356 686 OFFCURVE",
+"88 686 CURVE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B920;
+}

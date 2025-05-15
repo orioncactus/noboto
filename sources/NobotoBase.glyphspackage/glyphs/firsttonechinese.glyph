@@ -1,0 +1,41 @@
+{
+glyphname = firsttonechinese;
+layers = (
+{
+components = (
+{
+name = macron;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 953;
+},
+{
+components = (
+{
+name = macron;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 811;
+},
+{
+components = (
+{
+name = macron;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1053;
+}
+);
+unicode = 02C9;
+}

@@ -1,0 +1,78 @@
+{
+glyphname = uptackabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-588, 1170}";
+}
+);
+components = (
+{
+name = uptackmod;
+transform = "{1, 0, 0, 1, -872, 990}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-563, 1170}";
+}
+);
+components = (
+{
+name = uptackmod;
+transform = "{1, 0, 0, 1, -847, 1000}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-578, 1170}";
+}
+);
+components = (
+{
+name = uptackmod;
+transform = "{1, 0, 0, 1, -908, 1050}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1DF5;
+}

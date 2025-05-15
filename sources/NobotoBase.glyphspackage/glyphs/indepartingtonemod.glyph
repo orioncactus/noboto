@@ -1,0 +1,102 @@
+{
+glyphname = indepartingtonemod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"254 160 LINE",
+"254 0 LINE",
+"704 0 LINE",
+"704 160 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 908 LINE",
+"137 0 LINE",
+"337 0 LINE",
+"337 908 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 744;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"224 54 LINE",
+"224 0 LINE",
+"797 0 LINE",
+"797 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 908 LINE",
+"200 0 LINE",
+"254 0 LINE",
+"254 908 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 837;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"323 260 LINE",
+"323 0 LINE",
+"834 0 LINE",
+"834 260 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"122 908 LINE",
+"122 0 LINE",
+"444 0 LINE",
+"444 908 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 898;
+}
+);
+unicode = 02EA;
+}

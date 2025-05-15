@@ -1,0 +1,63 @@
+{
+glyphname = macronlowmod;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -74, -1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 823;
+},
+{
+components = (
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -12, -1600}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 787;
+},
+{
+components = (
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -77, -1630}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 893;
+}
+);
+unicode = 02CD;
+}

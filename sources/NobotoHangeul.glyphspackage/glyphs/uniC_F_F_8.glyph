@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniCFF8;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1348 205 LINE",
+"215 176 LINE",
+"248 -88 LINE",
+"1348 -31 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"244 567 LINE",
+"244 303 LINE",
+"1278 303 LINE",
+"1278 -188 LINE",
+"1616 -188 LINE",
+"1616 567 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"76 952 LINE",
+"76 688 LINE",
+"1804 688 LINE",
+"1804 952 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"772 887 LINE",
+"772 453 LINE",
+"1112 453 LINE",
+"1112 887 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"272 1683 LINE",
+"272 1417 LINE",
+"1411 1417 LINE",
+"1411 1683 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1296 1683 LINE",
+"1296 1681 LINE",
+"1296 1589 OFFCURVE",
+"1296 1317 OFFCURVE",
+"1262 907 CURVE",
+"1602 868 LINE",
+"1645 1288 OFFCURVE",
+"1642 1585 OFFCURVE",
+"1642 1681 CURVE",
+"1642 1683 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1438 1321 LINE",
+"211 1303 LINE",
+"252 1051 LINE",
+"1438 1083 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1493 188 LINE",
+"270 141 LINE",
+"289 74 LINE",
+"1493 131 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"317 467 LINE",
+"317 403 LINE",
+"1468 403 LINE",
+"1468 -147 LINE",
+"1536 -147 LINE",
+"1536 467 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 813 LINE",
+"96 752 LINE",
+"1737 752 LINE",
+"1737 813 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"881 786 LINE",
+"881 428 LINE",
+"948 428 LINE",
+"948 786 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 1571 LINE",
+"315 1509 LINE",
+"1468 1509 LINE",
+"1468 1571 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1444 1571 LINE",
+"1444 1427 LINE SMOOTH",
+"1444 1255 OFFCURVE",
+"1444 1055 OFFCURVE",
+"1376 774 CURVE",
+"1448 770 LINE",
+"1511 1053 OFFCURVE",
+"1511 1257 OFFCURVE",
+"1511 1427 CURVE SMOOTH",
+"1511 1571 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1481 1219 LINE",
+"268 1165 LINE",
+"289 1096 LINE",
+"1481 1165 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CFF8;
+}

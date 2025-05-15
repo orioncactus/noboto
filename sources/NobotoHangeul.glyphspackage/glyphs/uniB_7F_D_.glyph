@@ -1,0 +1,159 @@
+{
+color = 0;
+glyphname = uniB7FD;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1364 1726 LINE",
+"1364 655 LINE",
+"1696 655 LINE",
+"1696 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1096 1374 LINE",
+"1096 1112 LINE",
+"1425 1112 LINE",
+"1425 1374 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"391 584 LINE",
+"391 -176 LINE",
+"1696 -176 LINE",
+"1696 584 LINE",
+"1368 584 LINE",
+"1368 453 LINE",
+"717 453 LINE",
+"717 584 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"717 203 LINE",
+"1368 203 LINE",
+"1368 86 LINE",
+"717 86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"141 946 LINE",
+"141 684 LINE",
+"305 684 LINE SMOOTH",
+"672 684 OFFCURVE",
+"905 688 OFFCURVE",
+"1161 727 CURVE",
+"1139 991 LINE",
+"889 950 OFFCURVE",
+"666 946 OFFCURVE",
+"305 946 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 1661 LINE",
+"139 1401 LINE",
+"690 1401 LINE",
+"690 1296 LINE",
+"141 1296 LINE",
+"141 694 LINE",
+"469 694 LINE",
+"469 1055 LINE",
+"1016 1055 LINE",
+"1016 1661 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1513 1669 LINE",
+"1513 684 LINE",
+"1581 684 LINE",
+"1581 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1120 1266 LINE",
+"1120 1204 LINE",
+"1565 1204 LINE",
+"1565 1266 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"440 586 LINE",
+"440 -109 LINE",
+"1581 -109 LINE",
+"1581 586 LINE",
+"1516 586 LINE",
+"1516 309 LINE",
+"508 309 LINE",
+"508 586 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"508 248 LINE",
+"1516 248 LINE",
+"1516 -47 LINE",
+"508 -47 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 809 LINE",
+"205 748 LINE",
+"330 748 LINE SMOOTH",
+"618 748 OFFCURVE",
+"854 758 OFFCURVE",
+"1161 807 CURVE",
+"1153 868 LINE",
+"852 819 OFFCURVE",
+"614 809 OFFCURVE",
+"330 809 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 1587 LINE",
+"199 1528 LINE",
+"918 1528 LINE",
+"918 1210 LINE",
+"205 1210 LINE",
+"205 782 LINE",
+"270 782 LINE",
+"270 1149 LINE",
+"983 1149 LINE",
+"983 1587 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B7FD;
+}

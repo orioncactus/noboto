@@ -1,0 +1,89 @@
+{
+glyphname = Theta.smcp;
+layers = (
+{
+components = (
+{
+name = O.smcp;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"380 662 LINE",
+"380 501 LINE",
+"848 501 LINE",
+"848 662 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1216;
+},
+{
+components = (
+{
+name = O.smcp;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"309 614 LINE",
+"309 560 LINE",
+"900 560 LINE",
+"900 614 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1176;
+},
+{
+components = (
+{
+name = O.smcp;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"443 699 LINE",
+"443 439 LINE",
+"780 439 LINE",
+"780 699 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1216;
+}
+);
+}

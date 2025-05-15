@@ -1,0 +1,102 @@
+{
+glyphname = Pismall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{596, 0}";
+},
+{
+name = top;
+position = "{596, 1290}";
+},
+{
+name = top0315;
+position = "{1189, 1290}";
+}
+);
+components = (
+{
+name = "pe-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1189;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{564, 0}";
+},
+{
+name = top;
+position = "{564, 1290}";
+},
+{
+name = top0315;
+position = "{1122, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "pe-cy";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1122;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{603, 0}";
+},
+{
+name = top;
+position = "{603, 1290}";
+},
+{
+name = top0315;
+position = "{1207, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "pe-cy";
+transform = "{1, 0, 0, 1, 26, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1207;
+}
+);
+unicode = 1D28;
+}

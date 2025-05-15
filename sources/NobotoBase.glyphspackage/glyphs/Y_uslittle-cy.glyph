@@ -1,0 +1,156 @@
+{
+glyphname = "Yuslittle-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"694 1456 LINE",
+"564 1456 LINE",
+"41 0 LINE",
+"254 0 LINE",
+"702 1300 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1260 0 LINE",
+"747 1456 LINE",
+"617 1456 LINE",
+"606 1308 LINE",
+"1047 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"295 606 LINE",
+"295 433 LINE",
+"1002 433 LINE",
+"1002 606 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"544 552 LINE",
+"544 0 LINE",
+"747 0 LINE",
+"747 552 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1236;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"630 1456 LINE",
+"578 1456 LINE",
+"34 0 LINE",
+"93 0 LINE",
+"581 1304 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1189 0 LINE",
+"644 1456 LINE",
+"593 1456 LINE",
+"642 1304 LINE",
+"1130 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"260 562 LINE",
+"260 508 LINE",
+"962 508 LINE",
+"962 562 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"578 540 LINE",
+"578 0 LINE",
+"632 0 LINE",
+"632 540 LINE"
+);
+}
+);
+width = 1224;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"696 1456 LINE",
+"515 1456 LINE",
+"6 0 LINE",
+"359 0 LINE",
+"791 1340 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1385 0 LINE",
+"875 1456 LINE",
+"694 1456 LINE",
+"594 1350 LINE",
+"1032 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"268 636 LINE",
+"268 414 LINE",
+"1071 414 LINE",
+"1071 636 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"556 521 LINE",
+"556 0 LINE",
+"823 0 LINE",
+"823 521 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1397;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 0466;
+}

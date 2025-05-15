@@ -1,0 +1,120 @@
+{
+glyphname = "tseReversed-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1069 0 LINE",
+"1069 1082 LINE",
+"869 1082 LINE",
+"869 160 LINE",
+"390 160 LINE",
+"390 1082 LINE",
+"190 1082 LINE",
+"190 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"255 -321 LINE",
+"255 0 LINE",
+"399 0 LINE",
+"399 160 LINE",
+"57 160 LINE",
+"77 -321 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1224;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"953 0 LINE",
+"953 1082 LINE",
+"899 1082 LINE",
+"899 54 LINE",
+"230 54 LINE",
+"230 1082 LINE",
+"175 1082 LINE",
+"175 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"138 -321 LINE",
+"138 0 LINE",
+"253 0 LINE",
+"253 54 LINE",
+"84 54 LINE",
+"84 -321 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1123;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1161 0 LINE",
+"1161 1082 LINE",
+"839 1082 LINE",
+"839 260 LINE",
+"521 260 LINE",
+"521 1082 LINE",
+"198 1082 LINE",
+"198 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"347 -321 LINE",
+"347 0 LINE",
+"462 0 LINE",
+"462 258 LINE",
+"25 258 LINE",
+"45 -321 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1257;
+}
+);
+unicode = A661;
+}

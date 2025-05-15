@@ -1,0 +1,83 @@
+{
+glyphname = seven.sup;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"58 789 LINE",
+"58 653 LINE",
+"504 653 LINE",
+"158 0 LINE",
+"336 0 LINE",
+"682 694 LINE",
+"682 789 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 754;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"66 789 LINE",
+"66 739 LINE",
+"583 739 LINE",
+"201 0 LINE",
+"257 0 LINE",
+"641 757 LINE",
+"641 789 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 728;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"49 789 LINE",
+"49 613 LINE",
+"465 613 LINE",
+"138 0 LINE",
+"368 0 LINE",
+"694 667 LINE",
+"694 789 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 766;
+}
+);
+}

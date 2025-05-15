@@ -1,0 +1,93 @@
+{
+glyphname = ubarshortrightleg;
+layers = (
+{
+components = (
+{
+name = ushortrightleg;
+transform = "{1, 0, 0, 1, 82, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 645 LINE",
+"20 485 LINE",
+"1279 485 LINE",
+"1279 645 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1299;
+},
+{
+components = (
+{
+name = ushortrightleg;
+transform = "{1, 0, 0, 1, 69, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 563 LINE",
+"40 509 LINE",
+"1223 509 LINE",
+"1223 563 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1263;
+},
+{
+components = (
+{
+name = ushortrightleg;
+transform = "{1, 0, 0, 1, 62, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 717 LINE",
+"40 526 LINE",
+"1230 526 LINE",
+"1230 717 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1270;
+}
+);
+unicode = AB4F;
+}

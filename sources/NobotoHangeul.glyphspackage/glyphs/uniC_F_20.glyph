@@ -1,0 +1,173 @@
+{
+color = 0;
+glyphname = uniCF20;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1014 1384 LINE",
+"1014 1122 LINE",
+"1430 1122 LINE",
+"1430 1384 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"993 930 LINE",
+"993 668 LINE",
+"1409 668 LINE",
+"1409 930 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"748 1587 LINE",
+"748 1450 LINE SMOOTH",
+"748 1116 OFFCURVE",
+"627 877 OFFCURVE",
+"88 713 CURVE",
+"215 457 LINE",
+"877 668 OFFCURVE",
+"1087 1022 OFFCURVE",
+"1087 1587 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"197 1587 LINE",
+"197 1325 LINE",
+"967 1325 LINE",
+"967 1587 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"799 1208 LINE",
+"98 1190 LINE",
+"141 936 LINE",
+"799 985 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1364 1729 LINE",
+"1364 313 LINE",
+"1696 313 LINE",
+"1696 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 96 LINE",
+"412 -166 LINE",
+"1743 -166 LINE",
+"1743 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 446 LINE",
+"412 -84 LINE",
+"743 -84 LINE",
+"743 446 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"983 1282 LINE",
+"983 1223 LINE",
+"1530 1223 LINE",
+"1530 1282 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"965 874 LINE",
+"965 813 LINE",
+"1520 813 LINE",
+"1520 874 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"967 1518 LINE",
+"967 1505 LINE SMOOTH",
+"967 1104 OFFCURVE",
+"713 774 OFFCURVE",
+"190 596 CURVE",
+"221 537 LINE",
+"772 729 OFFCURVE",
+"1036 1087 OFFCURVE",
+"1036 1518 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 1518 LINE",
+"258 1456 LINE",
+"991 1456 LINE",
+"991 1518 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"930 1182 LINE",
+"170 1137 LINE",
+"188 1071 LINE",
+"930 1128 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1513 1669 LINE",
+"1513 319 LINE",
+"1581 319 LINE",
+"1581 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"483 -27 LINE",
+"483 -88 LINE",
+"1628 -88 LINE",
+"1628 -27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"483 457 LINE",
+"483 -43 LINE",
+"551 -43 LINE",
+"551 457 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CF20;
+}

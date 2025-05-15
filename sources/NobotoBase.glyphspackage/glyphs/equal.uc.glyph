@@ -1,0 +1,35 @@
+{
+glyphname = equal.uc;
+layers = (
+{
+components = (
+{
+name = equal;
+transform = "{1, 0, 0, 1, 0, 39}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1122;
+},
+{
+components = (
+{
+name = equal;
+transform = "{1, 0, 0, 1, 0, 61}";
+}
+);
+layerId = master01;
+width = 1142;
+},
+{
+components = (
+{
+name = equal;
+transform = "{1, 0, 0, 1, 0, 95}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1191;
+}
+);
+}

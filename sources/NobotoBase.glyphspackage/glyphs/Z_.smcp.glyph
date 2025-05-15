@@ -1,0 +1,184 @@
+{
+glyphname = Z.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{534, 10}";
+},
+{
+name = bottom_dd;
+position = "{1060, -407}";
+},
+{
+name = top;
+position = "{534, 1320}";
+},
+{
+name = top0315;
+position = "{1060, 1320}";
+},
+{
+name = top_dd;
+position = "{1060, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"139 160 LINE",
+"139 0 LINE",
+"995 0 LINE",
+"995 160 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"971 1165 LINE",
+"844 1165 LINE",
+"71 131 LINE",
+"71 0 LINE",
+"200 0 LINE",
+"971 1038 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"77 1165 LINE",
+"77 1004 LINE",
+"892 1004 LINE",
+"892 1165 LINE"
+);
+}
+);
+width = 1060;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{524, 10}";
+},
+{
+name = bottom_dd;
+position = "{1053, -407}";
+},
+{
+name = top;
+position = "{524, 1320}";
+},
+{
+name = top0315;
+position = "{1053, 1320}";
+},
+{
+name = top_dd;
+position = "{1053, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"98 54 LINE",
+"98 0 LINE",
+"972 0 LINE",
+"972 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"944 1165 LINE",
+"906 1165 LINE",
+"80 46 LINE",
+"80 0 LINE",
+"116 0 LINE",
+"944 1123 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 1165 LINE",
+"113 1111 LINE",
+"919 1111 LINE",
+"919 1165 LINE"
+);
+}
+);
+width = 1053;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{551, 10}";
+},
+{
+name = bottom_dd;
+position = "{1078, -407}";
+},
+{
+name = top;
+position = "{551, 1320}";
+},
+{
+name = top0315;
+position = "{1078, 1320}";
+},
+{
+name = top_dd;
+position = "{1078, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"124 259 LINE",
+"124 0 LINE",
+"1041 0 LINE",
+"1041 259 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1038 1165 LINE",
+"812 1165 LINE",
+"54 161 LINE",
+"54 0 LINE",
+"292 0 LINE",
+"1038 1008 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"48 1165 LINE",
+"48 905 LINE",
+"937 905 LINE",
+"937 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1078;
+}
+);
+}

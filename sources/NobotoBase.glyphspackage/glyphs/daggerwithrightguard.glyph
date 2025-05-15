@@ -1,0 +1,102 @@
+{
+glyphname = daggerwithrightguard;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"170 1456 LINE",
+"170 0 LINE",
+"370 0 LINE",
+"370 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"278 1082 LINE",
+"278 921 LINE",
+"768 921 LINE",
+"768 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 848;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 1456 LINE",
+"200 0 LINE",
+"254 0 LINE",
+"254 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"225 1082 LINE",
+"225 1024 LINE",
+"715 1024 LINE",
+"715 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 755;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"122 1456 LINE",
+"122 0 LINE",
+"444 0 LINE",
+"444 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"191 1082 LINE",
+"191 812 LINE",
+"780 812 LINE",
+"780 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 860;
+}
+);
+unicode = 2E37;
+}

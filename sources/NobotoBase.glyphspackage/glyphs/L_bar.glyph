@@ -1,0 +1,120 @@
+{
+glyphname = Lbar;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{619, 10}";
+},
+{
+name = top;
+position = "{328, 1600}";
+},
+{
+name = top0315;
+position = "{1174, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = L;
+transform = "{1, 0, 0, 1, 66, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -117, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1174;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{625, 10}";
+},
+{
+name = top;
+position = "{332, 1549}";
+},
+{
+name = top0315;
+position = "{1164, 1549}";
+}
+);
+components = (
+{
+alignment = -1;
+name = L;
+transform = "{1, 0, 0, 1, 107, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -68, 72}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1164;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{595, 10}";
+},
+{
+name = top;
+position = "{366, 1600}";
+},
+{
+name = top0315;
+position = "{1202, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = L;
+transform = "{1, 0, 0, 1, 92, 0}";
+},
+{
+alignment = -1;
+name = crossbar;
+transform = "{1, 0, 0, 1, -119, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1202;
+}
+);
+unicode = 023D;
+}

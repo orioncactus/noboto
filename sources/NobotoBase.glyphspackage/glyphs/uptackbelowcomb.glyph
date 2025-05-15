@@ -1,0 +1,90 @@
+{
+glyphname = uptackbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-590, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-590, -429}";
+}
+);
+components = (
+{
+name = uptackmod;
+transform = "{1, 0, 0, 1, -872, -600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-563, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-563, -429}";
+}
+);
+components = (
+{
+name = uptackmod;
+transform = "{1, 0, 0, 1, -847, -601}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-578, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-578, -492}";
+}
+);
+components = (
+{
+name = uptackmod;
+transform = "{1, 0, 0, 1, -908, -640}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 031D;
+}

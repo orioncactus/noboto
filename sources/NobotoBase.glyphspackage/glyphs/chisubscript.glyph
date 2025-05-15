@@ -1,0 +1,81 @@
+{
+glyphname = chisubscript;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = chimod;
+transform = "{1, 0, 0, 1, 20, -855}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 949;
+},
+{
+components = (
+{
+alignment = -1;
+name = chimod;
+transform = "{1, 0, 0, 1, 0, -854}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 602;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 836;
+},
+{
+components = (
+{
+alignment = -1;
+name = chimod;
+transform = "{1, 0, 0, 1, 0, -853}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 601;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 894;
+}
+);
+unicode = 1D6A;
+}

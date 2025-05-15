@@ -1,0 +1,47 @@
+{
+glyphname = quotedblleft.alt;
+layers = (
+{
+components = (
+{
+name = quoteleft.alt;
+transform = "{1, 0, 0, 1, 16, 0}";
+},
+{
+name = quoteleft.alt;
+transform = "{1, 0, 0, 1, 360, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 911;
+},
+{
+components = (
+{
+name = quoteleft.alt;
+transform = "{1, 0, 0, 1, 44, 0}";
+},
+{
+name = quoteleft.alt;
+transform = "{1, 0, 0, 1, 277, 0}";
+}
+);
+layerId = master01;
+width = 628;
+},
+{
+components = (
+{
+name = quoteleft.alt;
+},
+{
+name = quoteleft.alt;
+transform = "{1, 0, 0, 1, 464, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1214;
+}
+);
+leftKerningGroup = quotedbl;
+}

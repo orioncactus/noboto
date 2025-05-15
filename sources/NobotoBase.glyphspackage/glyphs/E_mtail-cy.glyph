@@ -1,0 +1,118 @@
+{
+glyphname = "Emtail-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1792, -407}";
+},
+{
+name = top0315;
+position = "{1792, 1600}";
+},
+{
+name = top_dd;
+position = "{1792, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = M;
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1488, -72}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1892;
+},
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1756, -407}";
+},
+{
+name = top0315;
+position = "{1756, 1612}";
+},
+{
+name = top_dd;
+position = "{1756, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = M;
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1374, -25}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1679;
+},
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1795, -407}";
+},
+{
+name = top0315;
+position = "{1795, 1600}";
+},
+{
+name = top_dd;
+position = "{1795, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = M;
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1500, -35}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1966;
+}
+);
+rightKerningGroup = H;
+unicode = 04CD;
+}

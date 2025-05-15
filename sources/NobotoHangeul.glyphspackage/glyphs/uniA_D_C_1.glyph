@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniADC1;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"516 852 LINE",
+"516 428 LINE",
+"848 428 LINE",
+"848 852 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1368 1729 LINE",
+"1368 561 LINE",
+"1698 561 LINE",
+"1698 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 1645 LINE",
+"223 1384 LINE",
+"1030 1384 LINE",
+"1030 1645 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"813 1645 LINE",
+"813 1526 LINE SMOOTH",
+"813 1401 OFFCURVE",
+"813 1239 OFFCURVE",
+"764 1010 CURVE",
+"1090 985 LINE",
+"1141 1214 OFFCURVE",
+"1141 1399 OFFCURVE",
+"1141 1526 CURVE SMOOTH",
+"1141 1645 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"342 487 LINE",
+"342 227 LINE",
+"1368 227 LINE",
+"1368 -195 LINE",
+"1698 -195 LINE",
+"1698 487 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"104 750 LINE",
+"444 754 OFFCURVE",
+"899 764 OFFCURVE",
+"1313 842 CURVE",
+"1294 1075 LINE",
+"885 1016 OFFCURVE",
+"410 1010 OFFCURVE",
+"66 1010 CURVE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"672 913 LINE",
+"672 479 LINE",
+"739 479 LINE",
+"739 913 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1487 1671 LINE",
+"1487 621 LINE",
+"1554 621 LINE",
+"1554 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"295 1569 LINE",
+"295 1507 LINE",
+"1065 1507 LINE",
+"1065 1569 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1034 1569 LINE",
+"1034 1452 LINE SMOOTH",
+"1034 1325 OFFCURVE",
+"1034 1163 OFFCURVE",
+"987 936 CURVE",
+"1055 932 LINE",
+"1100 1155 OFFCURVE",
+"1100 1321 OFFCURVE",
+"1100 1452 CURVE SMOOTH",
+"1100 1569 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"373 506 LINE",
+"373 444 LINE",
+"1487 444 LINE",
+"1487 -147 LINE",
+"1554 -147 LINE",
+"1554 506 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 864 LINE",
+"459 864 OFFCURVE",
+"911 870 OFFCURVE",
+"1315 936 CURVE",
+"1309 989 LINE",
+"913 934 OFFCURVE",
+"453 930 OFFCURVE",
+"109 930 CURVE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = ADC1;
+}

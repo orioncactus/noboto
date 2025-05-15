@@ -1,0 +1,37 @@
+{
+glyphname = emdash;
+layers = (
+{
+components = (
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, -122, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1603;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, -152, 0}";
+}
+);
+layerId = master01;
+width = 1561;
+},
+{
+components = (
+{
+name = minus;
+transform = "{1.6, 0, 0, 1, -129, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1548;
+}
+);
+leftKerningGroup = hyphen;
+unicode = 2014;
+}

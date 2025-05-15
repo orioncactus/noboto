@@ -1,0 +1,128 @@
+{
+glyphname = "te-cy";
+layers = (
+{
+anchors = (
+{
+name = right;
+position = "{591, 0}";
+},
+{
+name = top;
+position = "{489, 1269}";
+},
+{
+name = top0315;
+position = "{987, 1269}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"391 1082 LINE",
+"391 0 LINE",
+"591 0 LINE",
+"591 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 1082 LINE",
+"40 924 LINE",
+"947 924 LINE",
+"947 1082 LINE"
+);
+}
+);
+width = 987;
+},
+{
+anchors = (
+{
+name = right;
+position = "{499, 0}";
+},
+{
+name = top;
+position = "{470, 1269}";
+},
+{
+name = top0315;
+position = "{962, 1269}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"443 1082 LINE",
+"443 0 LINE",
+"497 0 LINE",
+"497 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 1082 LINE",
+"40 1027 LINE",
+"922 1027 LINE",
+"922 1082 LINE"
+);
+}
+);
+width = 962;
+},
+{
+anchors = (
+{
+name = right;
+position = "{689, 0}";
+},
+{
+name = top;
+position = "{541, 1269}";
+},
+{
+name = top0315;
+position = "{1064, 1269}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"366 1082 LINE",
+"366 0 LINE",
+"689 0 LINE",
+"689 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"28 1082 LINE",
+"28 824 LINE",
+"1032 824 LINE",
+"1032 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1064;
+}
+);
+unicode = 0442;
+}

@@ -1,0 +1,76 @@
+{
+glyphname = "Kadescender-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = K.alt;
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 1066, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1448;
+},
+{
+components = (
+{
+alignment = -1;
+name = K.alt;
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 998, -35}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1304;
+},
+{
+components = (
+{
+alignment = -1;
+name = K.alt;
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 1082, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1550;
+}
+);
+rightKerningGroup = K;
+unicode = 049A;
+}

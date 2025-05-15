@@ -1,0 +1,90 @@
+{
+glyphname = Cstroke;
+layers = (
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"966 1560 LINE",
+"316 -125 LINE",
+"456 -125 LINE",
+"1105 1560 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1334;
+},
+{
+components = (
+{
+name = C;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"948 1581 LINE",
+"292 -125 LINE",
+"351 -125 LINE",
+"1007 1581 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1327;
+},
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"842 1581 LINE",
+"292 -125 LINE",
+"474 -125 LINE",
+"1024 1581 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1343;
+}
+);
+unicode = 023B;
+}

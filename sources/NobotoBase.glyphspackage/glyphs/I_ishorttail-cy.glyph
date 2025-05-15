@@ -1,0 +1,120 @@
+{
+glyphname = "Iishorttail-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{733, 1896}";
+},
+{
+name = top0315;
+position = "{1462, 1612}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Ii-cy";
+},
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 304, 322}";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1160, -72}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1564;
+},
+{
+anchors = (
+{
+name = top;
+position = "{736, 1838}";
+},
+{
+name = top0315;
+position = "{1449, 1612}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Ii-cy";
+},
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 309, 324}";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1067, -25}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1372;
+},
+{
+anchors = (
+{
+name = top;
+position = "{708, 1914}";
+},
+{
+name = top0315;
+position = "{1424, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Ii-cy";
+},
+{
+alignment = -1;
+name = breve;
+transform = "{1, 0, 0, 1, 248, 310}";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1137, -35}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1603;
+}
+);
+unicode = 048A;
+}

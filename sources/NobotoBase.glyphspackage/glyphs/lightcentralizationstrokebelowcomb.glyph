@@ -1,0 +1,93 @@
+{
+glyphname = lightcentralizationstrokebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{-240, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-299 149 LINE",
+"-666 -435 LINE",
+"-555 -504 LINE",
+"-189 80 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-192, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-221 0 LINE",
+"-480 -369 LINE",
+"-435 -399 LINE",
+"-167 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-272, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-363 153 LINE",
+"-697 -379 LINE",
+"-544 -458 LINE",
+"-219 65 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1AB9;
+}

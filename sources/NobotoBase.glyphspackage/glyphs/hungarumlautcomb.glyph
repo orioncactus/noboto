@@ -1,0 +1,120 @@
+{
+glyphname = hungarumlautcomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-72, 1290}";
+},
+{
+name = mkmktop;
+position = "{-72, 1620}";
+},
+{
+name = parent_top;
+position = "{0, 1388}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -541, 0}";
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -141, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-63, 1290}";
+},
+{
+name = mkmktop;
+position = "{-63, 1600}";
+},
+{
+name = parent_top;
+position = "{0, 1383}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -354, 0}";
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -154, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-75, 1290}";
+},
+{
+name = mkmktop;
+position = "{-75, 1640}";
+},
+{
+name = parent_top;
+position = "{0, 1379}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -614, 0}";
+},
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -114, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 030B;
+}

@@ -1,0 +1,90 @@
+{
+glyphname = dtopbar;
+layers = (
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"319 1536 LINE",
+"319 1376 LINE",
+"876 1376 LINE",
+"876 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1159;
+},
+{
+components = (
+{
+name = d;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"224 1536 LINE",
+"224 1482 LINE",
+"931 1482 LINE",
+"931 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+},
+{
+components = (
+{
+name = d;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"247 1536 LINE",
+"247 1345 LINE",
+"928 1345 LINE",
+"928 1536 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1153;
+}
+);
+unicode = 018C;
+}

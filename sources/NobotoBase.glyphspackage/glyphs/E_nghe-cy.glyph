@@ -1,0 +1,67 @@
+{
+glyphname = "Enghe-cy";
+layers = (
+{
+components = (
+{
+name = H;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1151 1456 LINE",
+"1279 1296 LINE",
+"1911 1296 LINE",
+"1911 1456 LINE"
+);
+}
+);
+width = 1985;
+},
+{
+components = (
+{
+name = H;
+transform = "{1, 0, 0, 1, -5, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1199 1456 LINE",
+"1233 1402 LINE",
+"2043 1402 LINE",
+"2043 1456 LINE"
+);
+}
+);
+width = 2128;
+},
+{
+components = (
+{
+name = H;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1042 1456 LINE",
+"1324 1196 LINE",
+"1948 1196 LINE",
+"1948 1456 LINE"
+);
+}
+);
+width = 2030;
+}
+);
+unicode = 04A4;
+}

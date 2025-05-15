@@ -1,0 +1,81 @@
+{
+glyphname = doublebrevebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom_dd;
+position = "{0, -40}";
+}
+);
+components = (
+{
+alignment = -1;
+name = uni035D;
+transform = "{1, 0, 0, 1, 0, -1590}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom_dd;
+position = "{0, -40}";
+}
+);
+components = (
+{
+alignment = -1;
+name = uni035D;
+transform = "{1, 0, 0, 1, 0, -1600}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom_dd;
+position = "{0, -30}";
+}
+);
+components = (
+{
+alignment = -1;
+name = uni035D;
+transform = "{1, 0, 0, 1, 0, -1630}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 035C;
+}

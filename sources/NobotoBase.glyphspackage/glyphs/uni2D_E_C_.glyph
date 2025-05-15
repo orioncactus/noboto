@@ -1,0 +1,78 @@
+{
+glyphname = uni2DEC;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-578, 944}";
+}
+);
+components = (
+{
+name = dcomb;
+transform = "{-1, 0, 0, -1, -1155, 2946}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-563, 944}";
+}
+);
+components = (
+{
+name = dcomb;
+transform = "{-1, 0, 0, -1, -1125, 2950}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-578, 944}";
+}
+);
+components = (
+{
+name = dcomb;
+transform = "{-1, 0, 0, -1, -1154, 2953}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 2DEC;
+}

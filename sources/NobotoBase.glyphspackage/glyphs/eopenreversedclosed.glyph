@@ -1,0 +1,264 @@
+{
+glyphname = eopenreversedclosed;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{552, 0}";
+},
+{
+name = rhotichook;
+position = "{760, 637}";
+},
+{
+name = top;
+position = "{552, 1290}";
+},
+{
+name = top0315;
+position = "{1075, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"813 516 OFFCURVE",
+"957 638 OFFCURVE",
+"957 786 CURVE",
+"957 991 OFFCURVE",
+"804 1101 OFFCURVE",
+"553 1101 CURVE SMOOTH",
+"326 1101 OFFCURVE",
+"98 984 OFFCURVE",
+"98 556 CURVE",
+"297 556 LINE",
+"297 847 OFFCURVE",
+"411 943 OFFCURVE",
+"553 943 CURVE SMOOTH",
+"701 943 OFFCURVE",
+"757 865 OFFCURVE",
+"757 785 CURVE",
+"757 695 OFFCURVE",
+"710 635 OFFCURVE",
+"566 635 CURVE SMOOTH",
+"457 635 LINE",
+"457 516 LINE",
+"582 516 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"457 470 LINE",
+"566 470 LINE SMOOTH",
+"710 470 OFFCURVE",
+"776 422 OFFCURVE",
+"776 306 CURVE SMOOTH",
+"776 217 OFFCURVE",
+"701 137 OFFCURVE",
+"553 137 CURVE SMOOTH",
+"392 137 OFFCURVE",
+"297 262 OFFCURVE",
+"297 557 CURVE",
+"98 557 LINE",
+"98 90 OFFCURVE",
+"340 -20 OFFCURVE",
+"553 -20 CURVE SMOOTH",
+"804 -20 OFFCURVE",
+"977 101 OFFCURVE",
+"977 306 CURVE SMOOTH",
+"977 487 OFFCURVE",
+"838 588 OFFCURVE",
+"582 588 CURVE SMOOTH",
+"457 588 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1075;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{530, 0}";
+},
+{
+name = rhotichook;
+position = "{787, 646}";
+},
+{
+name = top;
+position = "{530, 1290}";
+},
+{
+name = top0315;
+position = "{1014, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"748 531 OFFCURVE",
+"879 653 OFFCURVE",
+"879 802 CURVE",
+"879 995 OFFCURVE",
+"733 1102 OFFCURVE",
+"530 1102 CURVE SMOOTH",
+"291 1102 OFFCURVE",
+"87 939 OFFCURVE",
+"87 554 CURVE",
+"142 554 LINE",
+"142 885 OFFCURVE",
+"318 1048 OFFCURVE",
+"530 1048 CURVE SMOOTH",
+"730 1048 OFFCURVE",
+"824 942 OFFCURVE",
+"824 805 CURVE",
+"824 668 OFFCURVE",
+"734 580 OFFCURVE",
+"491 580 CURVE SMOOTH",
+"346 580 LINE",
+"346 531 LINE",
+"495 531 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"346 525 LINE",
+"491 525 LINE SMOOTH",
+"726 525 OFFCURVE",
+"843 455 OFFCURVE",
+"843 287 CURVE SMOOTH",
+"843 132 OFFCURVE",
+"724 38 OFFCURVE",
+"530 38 CURVE SMOOTH",
+"294 38 OFFCURVE",
+"142 223 OFFCURVE",
+"142 555 CURVE",
+"87 555 LINE",
+"87 137 OFFCURVE",
+"304 -17 OFFCURVE",
+"530 -17 CURVE SMOOTH",
+"734 -17 OFFCURVE",
+"898 96 OFFCURVE",
+"898 290 CURVE SMOOTH",
+"898 471 OFFCURVE",
+"771 572 OFFCURVE",
+"495 572 CURVE SMOOTH",
+"346 572 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1014;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{544, 0}";
+},
+{
+name = rhotichook;
+position = "{837, 644}";
+},
+{
+name = top;
+position = "{544, 1290}";
+},
+{
+name = top0315;
+position = "{1120, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"862 516 OFFCURVE",
+"1007 638 OFFCURVE",
+"1007 786 CURVE",
+"1007 991 OFFCURVE",
+"824 1101 OFFCURVE",
+"543 1101 CURVE SMOOTH",
+"300 1101 OFFCURVE",
+"55 952 OFFCURVE",
+"55 542 CURVE",
+"377 542 LINE",
+"377 806 OFFCURVE",
+"480 861 OFFCURVE",
+"563 861 CURVE SMOOTH",
+"662 861 OFFCURVE",
+"685 806 OFFCURVE",
+"685 755 CURVE",
+"685 694 OFFCURVE",
+"648 652 OFFCURVE",
+"557 652 CURVE SMOOTH",
+"522 652 LINE",
+"522 516 LINE",
+"632 516 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"522 456 LINE",
+"557 456 LINE SMOOTH",
+"654 456 OFFCURVE",
+"705 421 OFFCURVE",
+"705 336 CURVE SMOOTH",
+"705 279 OFFCURVE",
+"670 220 OFFCURVE",
+"564 220 CURVE SMOOTH",
+"455 220 OFFCURVE",
+"377 288 OFFCURVE",
+"377 543 CURVE",
+"55 543 LINE",
+"55 107 OFFCURVE",
+"317 -20 OFFCURVE",
+"543 -20 CURVE SMOOTH",
+"825 -20 OFFCURVE",
+"1026 101 OFFCURVE",
+"1026 306 CURVE SMOOTH",
+"1026 487 OFFCURVE",
+"887 588 OFFCURVE",
+"632 588 CURVE SMOOTH",
+"522 588 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1120;
+}
+);
+unicode = 025E;
+}

@@ -1,0 +1,192 @@
+{
+glyphname = "oBinocular-cy";
+layers = (
+{
+components = (
+{
+name = dotnosp;
+transform = "{1, 0, 0, 1, 1084, -829}";
+},
+{
+name = dotnosp;
+transform = "{1, 0, 0, 1, 1384, -829}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"92 217 OFFCURVE",
+"281 -20 OFFCURVE",
+"647 -20 CURVE SMOOTH",
+"1013 -20 OFFCURVE",
+"1201 217 OFFCURVE",
+"1201 530 CURVE SMOOTH",
+"1201 551 LINE SMOOTH",
+"1201 864 OFFCURVE",
+"1013 1102 OFFCURVE",
+"645 1102 CURVE SMOOTH",
+"281 1102 OFFCURVE",
+"92 864 OFFCURVE",
+"92 551 CURVE SMOOTH",
+"92 530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"292 760 OFFCURVE",
+"388 942 OFFCURVE",
+"645 942 CURVE SMOOTH",
+"904 942 OFFCURVE",
+"1001 760 OFFCURVE",
+"1001 551 CURVE SMOOTH",
+"1001 530 LINE SMOOTH",
+"1001 319 OFFCURVE",
+"904 140 OFFCURVE",
+"647 140 CURVE SMOOTH",
+"388 140 OFFCURVE",
+"292 319 OFFCURVE",
+"292 530 CURVE SMOOTH",
+"292 551 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1293;
+},
+{
+components = (
+{
+name = dotnosp;
+transform = "{1, 0, 0, 1, 946, -879}";
+},
+{
+name = dotnosp;
+transform = "{1, 0, 0, 1, 1304, -879}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"90 203 OFFCURVE",
+"283 -21 OFFCURVE",
+"565 -21 CURVE SMOOTH",
+"846 -21 OFFCURVE",
+"1037 203 OFFCURVE",
+"1037 520 CURVE SMOOTH",
+"1037 562 LINE SMOOTH",
+"1037 879 OFFCURVE",
+"846 1102 OFFCURVE",
+"563 1102 CURVE SMOOTH",
+"283 1102 OFFCURVE",
+"90 879 OFFCURVE",
+"90 562 CURVE SMOOTH",
+"90 520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"144 815 OFFCURVE",
+"299 1048 OFFCURVE",
+"563 1048 CURVE SMOOTH",
+"828 1048 OFFCURVE",
+"983 815 OFFCURVE",
+"983 562 CURVE SMOOTH",
+"983 520 LINE SMOOTH",
+"983 261 OFFCURVE",
+"828 33 OFFCURVE",
+"565 33 CURVE SMOOTH",
+"299 33 OFFCURVE",
+"144 261 OFFCURVE",
+"144 520 CURVE SMOOTH",
+"144 562 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1127;
+},
+{
+components = (
+{
+name = dotnosp;
+transform = "{1, 0, 0, 1, 1174, -821}";
+},
+{
+name = dotnosp;
+transform = "{1, 0, 0, 1, 1572, -821}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"58 194 OFFCURVE",
+"362 -20 OFFCURVE",
+"798 -20 CURVE SMOOTH",
+"1233 -20 OFFCURVE",
+"1536 194 OFFCURVE",
+"1536 530 CURVE SMOOTH",
+"1536 551 LINE SMOOTH",
+"1536 887 OFFCURVE",
+"1233 1102 OFFCURVE",
+"796 1102 CURVE SMOOTH",
+"362 1102 OFFCURVE",
+"58 887 OFFCURVE",
+"58 551 CURVE SMOOTH",
+"58 530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"380 749 OFFCURVE",
+"548 842 OFFCURVE",
+"796 842 CURVE SMOOTH",
+"1047 842 OFFCURVE",
+"1214 749 OFFCURVE",
+"1214 551 CURVE SMOOTH",
+"1214 530 LINE SMOOTH",
+"1214 327 OFFCURVE",
+"1046 240 OFFCURVE",
+"798 240 CURVE SMOOTH",
+"547 240 OFFCURVE",
+"380 327 OFFCURVE",
+"380 530 CURVE SMOOTH",
+"380 551 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1594;
+}
+);
+unicode = A66B;
+}

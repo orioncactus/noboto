@@ -1,0 +1,76 @@
+{
+glyphname = "YeruBackYer-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1341, 0}";
+},
+{
+alignment = -1;
+name = "YerNeutral-cy";
+transform = "{1, 0, 0, 1, -113, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1891;
+},
+{
+components = (
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1486, 0}";
+},
+{
+alignment = -1;
+name = "YerNeutral-cy";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1980;
+},
+{
+components = (
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1507, 0}";
+},
+{
+alignment = -1;
+name = "YerNeutral-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2094;
+}
+);
+unicode = A650;
+}

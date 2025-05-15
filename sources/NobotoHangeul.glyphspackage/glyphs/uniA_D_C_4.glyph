@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniADC4;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"559 811 LINE",
+"559 369 LINE",
+"889 369 LINE",
+"889 811 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 709 LINE",
+"444 711 OFFCURVE",
+"893 717 OFFCURVE",
+"1315 801 CURVE",
+"1294 1030 LINE",
+"883 973 OFFCURVE",
+"410 969 OFFCURVE",
+"63 969 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"225 1616 LINE",
+"225 1356 LINE",
+"1032 1356 LINE",
+"1032 1616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"838 1616 LINE",
+"838 1497 LINE SMOOTH",
+"838 1366 OFFCURVE",
+"838 1200 OFFCURVE",
+"793 967 CURVE",
+"1118 940 LINE",
+"1165 1180 OFFCURVE",
+"1165 1364 OFFCURVE",
+"1165 1497 CURVE SMOOTH",
+"1165 1616 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1368 1729 LINE",
+"1368 295 LINE",
+"1698 295 LINE",
+"1698 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 96 LINE",
+"303 -166 LINE",
+"1739 -166 LINE",
+"1739 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 430 LINE",
+"303 14 LINE",
+"633 14 LINE",
+"633 430 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"723 842 LINE",
+"723 389 LINE",
+"791 389 LINE",
+"791 842 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 815 LINE",
+"469 815 OFFCURVE",
+"922 821 OFFCURVE",
+"1323 887 CURVE",
+"1315 940 LINE",
+"924 885 OFFCURVE",
+"465 881 OFFCURVE",
+"123 881 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"299 1532 LINE",
+"299 1473 LINE",
+"1069 1473 LINE",
+"1069 1532 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1053 1532 LINE",
+"1053 1499 LINE SMOOTH",
+"1053 1403 OFFCURVE",
+"1053 1194 OFFCURVE",
+"1004 883 CURVE",
+"1069 879 LINE",
+"1116 1186 OFFCURVE",
+"1116 1405 OFFCURVE",
+"1116 1499 CURVE SMOOTH",
+"1116 1532 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1487 1671 LINE",
+"1487 311 LINE",
+"1554 311 LINE",
+"1554 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 -27 LINE",
+"410 -88 LINE",
+"1618 -88 LINE",
+"1618 -27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 449 LINE",
+"410 -51 LINE",
+"475 -51 LINE",
+"475 449 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = ADC4;
+}

@@ -1,0 +1,150 @@
+{
+glyphname = "Zhwe-cy";
+layers = (
+{
+components = (
+{
+name = "Ze-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1270 1456 LINE",
+"1270 0 LINE",
+"1478 0 LINE",
+"1478 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2114 1456 LINE",
+"1618 819 LINE",
+"761 819 LINE",
+"795 650 LINE",
+"1743 650 LINE",
+"2372 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2413 0 LINE",
+"1743 857 LINE",
+"1627 677 LINE",
+"2159 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2401;
+},
+{
+components = (
+{
+name = "Ze-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1300 1456 LINE",
+"1300 0 LINE",
+"1354 0 LINE",
+"1354 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2210 1456 LINE",
+"1592 764 LINE",
+"760 764 LINE",
+"752 711 LINE",
+"1620 711 LINE",
+"2281 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2327 0 LINE",
+"1608 761 LINE",
+"1574 714 LINE",
+"2256 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 2398;
+},
+{
+components = (
+{
+name = "Ze-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1282 1456 LINE",
+"1282 0 LINE",
+"1617 0 LINE",
+"1617 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2057 1456 LINE",
+"1753 893 LINE",
+"812 893 LINE",
+"853 576 LINE",
+"1928 576 LINE",
+"2463 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"2512 0 LINE",
+"1993 872 LINE",
+"1753 637 LINE",
+"2115 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2474;
+}
+);
+unicode = A684;
+}

@@ -1,0 +1,93 @@
+{
+glyphname = acutebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-613, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-612, -390}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -932, -1630}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-551, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-551, -371}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -821, -1620}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-613, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-613, -390}";
+}
+);
+components = (
+{
+alignment = -1;
+name = acute;
+transform = "{1, 0, 0, 1, -950, -1612}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0317;
+}

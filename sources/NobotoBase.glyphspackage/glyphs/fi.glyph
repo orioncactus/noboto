@@ -1,0 +1,149 @@
+{
+glyphname = fi;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"397 1173 LINE",
+"397 1313 OFFCURVE",
+"458 1381 OFFCURVE",
+"616 1381 CURVE SMOOTH",
+"709 1381 OFFCURVE",
+"794 1354 OFFCURVE",
+"852 1331 CURVE",
+"886 1496 LINE",
+"788 1530 OFFCURVE",
+"699 1557 OFFCURVE",
+"601 1557 CURVE SMOOTH",
+"351 1557 OFFCURVE",
+"197 1421 OFFCURVE",
+"197 1173 CURVE",
+"197 0 LINE",
+"397 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"28 1082 LINE",
+"28 932 LINE",
+"611 932 LINE",
+"611 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"783 1082 LINE",
+"783 0 LINE",
+"983 0 LINE",
+"983 1082 LINE"
+);
+}
+);
+width = 1142;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"308 1216 LINE",
+"308 1398 OFFCURVE",
+"412 1503 OFFCURVE",
+"578 1503 CURVE SMOOTH",
+"695 1503 OFFCURVE",
+"757 1484 OFFCURVE",
+"837 1448 CURVE",
+"845 1500 LINE",
+"754 1543 OFFCURVE",
+"660 1557 OFFCURVE",
+"577 1557 CURVE SMOOTH",
+"377 1557 OFFCURVE",
+"254 1436 OFFCURVE",
+"254 1216 CURVE",
+"254 0 LINE",
+"308 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"66 1082 LINE",
+"66 1027 LINE",
+"594 1027 LINE",
+"594 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"830 1082 LINE",
+"830 0 LINE",
+"884 0 LINE",
+"884 1082 LINE"
+);
+}
+);
+width = 1067;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"499 1110 LINE",
+"499 1218 OFFCURVE",
+"569 1277 OFFCURVE",
+"695 1277 CURVE SMOOTH",
+"820 1277 OFFCURVE",
+"898 1254 OFFCURVE",
+"975 1233 CURVE",
+"1020 1499 LINE",
+"901 1533 OFFCURVE",
+"794 1557 OFFCURVE",
+"675 1557 CURVE SMOOTH",
+"359 1557 OFFCURVE",
+"176 1400 OFFCURVE",
+"176 1110 CURVE",
+"176 0 LINE",
+"499 0 LINE {name = hr00;}"
+);
+},
+{
+closed = 1;
+nodes = (
+"18 1082 LINE",
+"18 848 LINE",
+"711 848 LINE",
+"711 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"845 1082 LINE",
+"845 0 LINE",
+"1168 0 LINE",
+"1168 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1285;
+}
+);
+unicode = FB01;
+}

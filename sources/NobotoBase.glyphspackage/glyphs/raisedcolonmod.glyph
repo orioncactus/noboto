@@ -1,0 +1,72 @@
+{
+glyphname = raisedcolonmod;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -84, 400}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -84, 1276}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 363;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -27, 400}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -22, 1362}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 356;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 380}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 1178}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 598;
+}
+);
+unicode = 02F8;
+}

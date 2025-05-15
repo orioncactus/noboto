@@ -1,0 +1,48 @@
+{
+glyphname = greaterequal;
+layers = (
+{
+components = (
+{
+name = greater;
+transform = "{1, 0, 0, 0.9, 0, 117}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, -34, -645}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1073;
+},
+{
+components = (
+{
+name = greater;
+transform = "{1, 0, 0, 1.004, 0, 93}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 1, -58, -720}";
+}
+);
+layerId = master01;
+width = 1053;
+},
+{
+components = (
+{
+name = greater;
+transform = "{1, 0, 0, 0.81, 0, 216}";
+},
+{
+name = minus;
+transform = "{1, 0, 0, 0.91, -24, -525}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1053;
+}
+);
+unicode = 2265;
+}

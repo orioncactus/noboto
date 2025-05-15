@@ -1,0 +1,176 @@
+{
+glyphname = a_rhotichookmod;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{501, 0}";
+},
+{
+name = bottom_dd;
+position = "{1118, -407}";
+},
+{
+name = markbottom;
+position = "{501, 0}";
+},
+{
+name = ogonek;
+position = "{974, 0}";
+},
+{
+name = rhalfring;
+position = "{700, 1290}";
+},
+{
+name = top;
+position = "{582, 1290}";
+},
+{
+name = top0315;
+position = "{1488, 1290}";
+},
+{
+name = top_dd;
+position = "{1118, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = a;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1077, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1488;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{507, 0}";
+},
+{
+name = bottom_dd;
+position = "{1081, -407}";
+},
+{
+name = markbottom;
+position = "{507, 0}";
+},
+{
+name = ogonek;
+position = "{933, 0}";
+},
+{
+name = rhalfring;
+position = "{700, 1263}";
+},
+{
+name = top;
+position = "{577, 1292}";
+},
+{
+name = top0315;
+position = "{1421, 1292}";
+},
+{
+name = top_dd;
+position = "{1081, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = a;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1062, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1421;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{467, 22}";
+},
+{
+name = bottom_dd;
+position = "{1091, -407}";
+},
+{
+name = markbottom;
+position = "{467, 22}";
+},
+{
+name = ogonek;
+position = "{985, 0}";
+},
+{
+name = rhalfring;
+position = "{691, 1290}";
+},
+{
+name = top;
+position = "{540, 1290}";
+},
+{
+name = top0315;
+position = "{1534, 1290}";
+},
+{
+name = top_dd;
+position = "{1091, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = a;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1035, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1534;
+}
+);
+}

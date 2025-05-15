@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniB080;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1348 1720 LINE",
+"1348 334 LINE",
+"1679 334 LINE",
+"1679 1720 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 96 LINE",
+"358 -166 LINE",
+"1726 -166 LINE",
+"1726 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 453 LINE",
+"358 -78 LINE",
+"690 -78 LINE",
+"690 453 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"369 1579 LINE",
+"369 1524 LINE SMOOTH",
+"369 1157 OFFCURVE",
+"303 981 OFFCURVE",
+"53 782 CURVE",
+"266 580 LINE",
+"598 844 OFFCURVE",
+"674 1135 OFFCURVE",
+"674 1579 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"154 1579 LINE",
+"154 1317 LINE",
+"520 1317 LINE",
+"520 1579 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"913 1579 LINE",
+"913 1532 LINE SMOOTH",
+"913 1130 OFFCURVE",
+"866 932 OFFCURVE",
+"608 705 CURVE",
+"834 506 LINE",
+"1165 801 OFFCURVE",
+"1217 1110 OFFCURVE",
+"1217 1579 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"735 1579 LINE",
+"735 1317 LINE",
+"1055 1317 LINE",
+"1055 1579 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1513 1669 LINE",
+"1513 356 LINE",
+"1581 356 LINE",
+"1581 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"444 -27 LINE",
+"444 -88 LINE",
+"1636 -88 LINE",
+"1636 -27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"444 442 LINE",
+"444 -57 LINE",
+"512 -57 LINE",
+"512 442 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"588 1507 LINE",
+"588 1503 LINE",
+"588 1184 OFFCURVE",
+"469 913 OFFCURVE",
+"180 707 CURVE",
+"231 659 LINE",
+"530 885 OFFCURVE",
+"653 1176 OFFCURVE",
+"653 1507 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"180 1507 LINE",
+"180 1446 LINE",
+"625 1446 LINE",
+"625 1507 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1114 1507 LINE",
+"1114 1503 LINE",
+"1114 1182 OFFCURVE",
+"1008 848 OFFCURVE",
+"705 606 CURVE",
+"758 561 LINE",
+"1071 825 OFFCURVE",
+"1178 1174 OFFCURVE",
+"1178 1507 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"733 1507 LINE",
+"733 1446 LINE",
+"1151 1446 LINE",
+"1151 1507 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B080;
+}

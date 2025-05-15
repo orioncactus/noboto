@@ -1,0 +1,105 @@
+{
+glyphname = Kstrokediagonalstroke;
+layers = (
+{
+components = (
+{
+name = K;
+transform = "{1, 0, 0, 1, 70, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -127, 470}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"618 285 LINE",
+"732 171 LINE",
+"1186 625 LINE",
+"1072 739 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1353;
+},
+{
+components = (
+{
+name = K;
+transform = "{1, 0, 0, 1, 105, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -68, 440}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"706 264 LINE",
+"744 225 LINE",
+"1165 635 LINE",
+"1127 674 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1405;
+},
+{
+components = (
+{
+name = K;
+transform = "{1, 0, 0, 1, 91, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -119, 500}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"658 287 LINE",
+"755 123 LINE",
+"1341 470 LINE",
+"1244 634 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1415;
+}
+);
+unicode = A744;
+}

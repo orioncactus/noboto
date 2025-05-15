@@ -1,0 +1,159 @@
+{
+glyphname = epsilonLunateSymbol;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"352 160 OFFCURVE",
+"292 337 OFFCURVE",
+"292 520 CURVE SMOOTH",
+"292 562 LINE SMOOTH",
+"292 743 OFFCURVE",
+"355 922 OFFCURVE",
+"579 922 CURVE SMOOTH",
+"884 922 LINE",
+"884 1082 LINE",
+"579 1082 LINE SMOOTH",
+"249 1083 OFFCURVE",
+"92 850 OFFCURVE",
+"92 562 CURVE SMOOTH",
+"92 520 LINE SMOOTH",
+"92 232 OFFCURVE",
+"247 0 OFFCURVE",
+"578 0 CURVE SMOOTH",
+"885 0 LINE",
+"885 160 LINE",
+"578 160 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 620 LINE",
+"139 460 LINE",
+"689 460 LINE",
+"689 620 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 925;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"265 54 OFFCURVE",
+"144 249 OFFCURVE",
+"144 520 CURVE SMOOTH",
+"144 562 LINE SMOOTH",
+"144 831 OFFCURVE",
+"265 1028 OFFCURVE",
+"530 1028 CURVE SMOOTH",
+"836 1028 LINE",
+"836 1082 LINE",
+"530 1082 LINE SMOOTH",
+"251 1082 OFFCURVE",
+"90 879 OFFCURVE",
+"90 562 CURVE SMOOTH",
+"90 520 LINE SMOOTH",
+"90 203 OFFCURVE",
+"251 0 OFFCURVE",
+"532 0 CURVE SMOOTH",
+"836 0 LINE",
+"836 54 LINE",
+"532 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"130 570 LINE",
+"130 516 LINE",
+"720 516 LINE",
+"720 570 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 836;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 881;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"417 240 OFFCURVE",
+"380 373 OFFCURVE",
+"380 529 CURVE SMOOTH",
+"380 552 LINE SMOOTH",
+"380 712 OFFCURVE",
+"416 842 OFFCURVE",
+"567 842 CURVE SMOOTH",
+"862 842 LINE",
+"862 1102 LINE",
+"567 1102 LINE SMOOTH",
+"231 1102 OFFCURVE",
+"57 865 OFFCURVE",
+"57 552 CURVE SMOOTH",
+"57 529 LINE SMOOTH",
+"57 216 OFFCURVE",
+"231 -20 OFFCURVE",
+"565 -20 CURVE SMOOTH",
+"862 -20 LINE",
+"862 240 LINE",
+"565 240 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"285 654 LINE",
+"285 431 LINE",
+"738 431 LINE",
+"738 654 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 902;
+}
+);
+unicode = 03F5;
+}

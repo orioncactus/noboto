@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniBC01;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"172 1640 LINE",
+"172 821 LINE",
+"1124 821 LINE",
+"1124 1640 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"791 1389 LINE",
+"791 1075 LINE",
+"504 1075 LINE",
+"504 1389 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1339 1729 LINE",
+"1339 772 LINE",
+"1686 772 LINE",
+"1686 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 688 LINE",
+"293 436 LINE",
+"637 436 LINE",
+"637 360 LINE",
+"295 360 LINE",
+"295 -4 LINE",
+"629 -4 LINE",
+"629 139 LINE",
+"971 139 LINE",
+"971 688 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"295 55 LINE",
+"295 -193 LINE",
+"432 -193 LINE SMOOTH",
+"702 -193 OFFCURVE",
+"889 -190 OFFCURVE",
+"1106 -156 CURVE",
+"1083 90 LINE",
+"870 57 OFFCURVE",
+"694 55 OFFCURVE",
+"432 55 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1034 688 LINE",
+"1034 428 LINE",
+"1339 428 LINE",
+"1339 -195 LINE",
+"1686 -195 LINE",
+"1686 688 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"195 1550 LINE",
+"195 831 LINE",
+"1004 831 LINE",
+"1004 1550 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"938 1491 LINE",
+"938 889 LINE",
+"260 889 LINE",
+"260 1491 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 721 LINE",
+"1554 721 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"348 592 LINE",
+"348 530 LINE",
+"862 530 LINE",
+"862 287 LINE",
+"354 287 LINE",
+"354 -84 LINE",
+"420 -84 LINE",
+"420 221 LINE",
+"928 221 LINE",
+"928 592 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 -61 LINE",
+"354 -125 LINE",
+"449 -125 LINE SMOOTH",
+"678 -125 OFFCURVE",
+"840 -121 OFFCURVE",
+"1063 -84 CURVE",
+"1055 -23 LINE",
+"840 -59 OFFCURVE",
+"676 -61 OFFCURVE",
+"449 -61 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1012 592 LINE",
+"1012 530 LINE",
+"1489 530 LINE",
+"1489 -131 LINE",
+"1554 -131 LINE",
+"1554 592 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BC01;
+}

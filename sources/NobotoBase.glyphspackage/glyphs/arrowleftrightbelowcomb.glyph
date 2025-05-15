@@ -1,0 +1,213 @@
+{
+glyphname = arrowleftrightbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-587, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-587, -552}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-903 -278 LINE",
+"-903 -379 LINE",
+"-266 -379 LINE",
+"-266 -278 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-922 -272 LINE",
+"-990 -329 LINE",
+"-779 -551 LINE",
+"-657 -551 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-990 -329 LINE",
+"-919 -382 LINE",
+"-657 -107 LINE",
+"-779 -107 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-185 -329 LINE",
+"-253 -272 LINE",
+"-518 -551 LINE",
+"-396 -551 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-256 -382 LINE",
+"-185 -329 LINE",
+"-396 -107 LINE",
+"-518 -107 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-562, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-562, -552}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-941 -295 LINE",
+"-941 -337 LINE",
+"-184 -337 LINE",
+"-184 -295 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-951 -293 LINE",
+"-986 -314 LINE",
+"-775 -552 LINE",
+"-722 -552 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-986 -314 LINE",
+"-950 -334 LINE",
+"-721 -75 LINE",
+"-775 -75 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-138 -314 LINE",
+"-173 -293 LINE",
+"-402 -552 LINE",
+"-349 -552 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-174 -334 LINE",
+"-138 -314 LINE",
+"-349 -75 LINE",
+"-403 -75 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-577, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-577, -551}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-963 -276 LINE",
+"-963 -414 LINE",
+"-205 -414 LINE",
+"-205 -276 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-940 -292 LINE",
+"-1049 -345 LINE",
+"-839 -551 LINE",
+"-675 -551 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-1049 -345 LINE",
+"-937 -395 LINE",
+"-675 -140 LINE",
+"-839 -140 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-104 -345 LINE",
+"-213 -292 LINE",
+"-478 -551 LINE",
+"-314 -551 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-216 -395 LINE",
+"-104 -345 LINE",
+"-314 -140 LINE",
+"-478 -140 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 034D;
+}

@@ -1,0 +1,144 @@
+{
+glyphname = "fiftyearlyform-roman";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 686 LINE",
+"681 0 LINE",
+"836 0 LINE",
+"790 164 LINE",
+"205 820 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"664 1456 LINE",
+"664 130 LINE",
+"864 130 LINE",
+"864 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1337 820 LINE",
+"739 164 LINE",
+"697 0 LINE",
+"852 0 LINE",
+"1473 676 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1533;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"20 737 LINE",
+"655 0 LINE",
+"691 0 LINE",
+"687 43 LINE",
+"61 773 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 1456 LINE",
+"650 30 LINE",
+"704 30 LINE",
+"704 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1294 773 LINE",
+"668 43 LINE",
+"664 0 LINE",
+"700 0 LINE",
+"1335 737 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 677;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1355;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"60 656 LINE",
+"719 0 LINE",
+"956 0 LINE",
+"832 343 LINE",
+"294 904 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"719 1456 LINE",
+"719 0 LINE",
+"1041 0 LINE",
+"1041 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1466 904 LINE",
+"928 343 LINE",
+"804 0 LINE",
+"1041 0 LINE",
+"1700 656 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1760;
+}
+);
+unicode = 2186;
+}

@@ -1,0 +1,81 @@
+{
+glyphname = rightverticalbarwithquill;
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 447, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -67, -133}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 952;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 426, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -68, -154}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 861;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, 487, 0}";
+},
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -99, -153}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 593;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 963;
+}
+);
+unicode = 2E21;
+}

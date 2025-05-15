@@ -1,0 +1,204 @@
+{
+glyphname = Cuatrillocomma;
+layers = (
+{
+components = (
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 873, -37}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"274 493 LINE",
+"693 1156 LINE",
+"859 1456 LINE",
+"697 1456 LINE",
+"50 449 LINE",
+"50 333 LINE",
+"1127 333 LINE",
+"1127 493 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"709 1456 LINE",
+"709 410 LINE",
+"909 410 LINE",
+"909 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"709 328 LINE SMOOTH",
+"709 192 OFFCURVE",
+"639 146 OFFCURVE",
+"532 146 CURVE SMOOTH",
+"515 146 OFFCURVE",
+"488 148 OFFCURVE",
+"468 154 CURVE",
+"468 -3 LINE",
+"499 -13 OFFCURVE",
+"550 -20 OFFCURVE",
+"584 -20 CURVE SMOOTH",
+"775 -20 OFFCURVE",
+"909 103 OFFCURVE",
+"909 328 CURVE SMOOTH",
+"909 499 LINE",
+"709 499 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1307;
+},
+{
+components = (
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 767, 150}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"166 451 LINE",
+"704 1253 LINE",
+"827 1456 LINE",
+"777 1456 LINE",
+"82 427 LINE",
+"82 397 LINE",
+"1094 397 LINE",
+"1094 451 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"788 1456 LINE",
+"788 380 LINE",
+"842 380 LINE",
+"842 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"788 328 LINE SMOOTH",
+"788 141 OFFCURVE",
+"705 34 OFFCURVE",
+"557 34 CURVE SMOOTH",
+"520 34 OFFCURVE",
+"479 44 OFFCURVE",
+"458 52 CURVE",
+"445 0 LINE",
+"484 -13 OFFCURVE",
+"516 -20 OFFCURVE",
+"557 -20 CURVE SMOOTH",
+"736 -20 OFFCURVE",
+"842 103 OFFCURVE",
+"842 328 CURVE SMOOTH",
+"842 399 LINE",
+"788 399 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 1094;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1134;
+},
+{
+components = (
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, 937, -97}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"369 569 LINE",
+"629 983 LINE",
+"904 1456 LINE",
+"650 1456 LINE",
+"58 515 LINE",
+"76 307 LINE",
+"1165 307 LINE",
+"1165 569 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 1456 LINE",
+"650 331 LINE",
+"972 331 LINE",
+"972 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 307 LINE SMOOTH",
+"650 259 OFFCURVE",
+"593 243 OFFCURVE",
+"487 243 CURVE SMOOTH",
+"434 243 OFFCURVE",
+"388 250 OFFCURVE",
+"355 255 CURVE",
+"355 0 LINE",
+"410 -13 OFFCURVE",
+"488 -20 OFFCURVE",
+"594 -20 CURVE SMOOTH",
+"787 -20 OFFCURVE",
+"972 28 OFFCURVE",
+"972 322 CURVE SMOOTH",
+"972 534 LINE",
+"650 534 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1344;
+}
+);
+unicode = A72E;
+}

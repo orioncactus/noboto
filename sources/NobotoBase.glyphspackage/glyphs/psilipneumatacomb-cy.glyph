@@ -1,0 +1,99 @@
+{
+glyphname = "psilipneumatacomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-482, 1280}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-358 1622 LINE",
+"-548 1622 LINE",
+"-547 1482 LINE",
+"-605 1367 LINE",
+"-524 1299 LINE",
+"-358 1500 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-518, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-437 1642 LINE",
+"-534 1642 LINE",
+"-534 1503 LINE",
+"-598 1377 LINE",
+"-562 1349 LINE",
+"-437 1500 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-477, 1280}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-353 1652 LINE",
+"-542 1652 LINE",
+"-541 1482 LINE",
+"-600 1377 LINE",
+"-518 1309 LINE",
+"-353 1500 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0486;
+}

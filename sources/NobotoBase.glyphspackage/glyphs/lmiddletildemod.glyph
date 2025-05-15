@@ -1,0 +1,141 @@
+{
+glyphname = lmiddletildemod;
+layers = (
+{
+components = (
+{
+name = "shindagesh-hb";
+transform = "{1, 0, 0, 1, 126, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"494 1324 OFFCURVE",
+"460 1288 OFFCURVE",
+"419 1288 CURVE SMOOTH",
+"342 1288 OFFCURVE",
+"297 1357 OFFCURVE",
+"215 1357 CURVE SMOOTH",
+"123 1357 OFFCURVE",
+"60 1274 OFFCURVE",
+"60 1184 CURVE",
+"141 1164 LINE",
+"141 1209 OFFCURVE",
+"174 1246 OFFCURVE",
+"215 1246 CURVE SMOOTH",
+"296 1246 OFFCURVE",
+"319 1177 OFFCURVE",
+"419 1177 CURVE SMOOTH",
+"510 1177 OFFCURVE",
+"575 1254 OFFCURVE",
+"575 1345 CURVE",
+"494 1370 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 635;
+},
+{
+components = (
+{
+name = "shindagesh-hb";
+transform = "{1, 0, 0, 1, 132, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"472 1274 OFFCURVE",
+"432 1232 OFFCURVE",
+"383 1232 CURVE SMOOTH",
+"300 1232 OFFCURVE",
+"273 1324 OFFCURVE",
+"170 1324 CURVE SMOOTH",
+"97 1324 OFFCURVE",
+"40 1273 OFFCURVE",
+"40 1191 CURVE",
+"81 1184 LINE",
+"81 1246 OFFCURVE",
+"121 1284 OFFCURVE",
+"170 1284 CURVE SMOOTH",
+"258 1284 OFFCURVE",
+"276 1191 OFFCURVE",
+"383 1191 CURVE SMOOTH",
+"455 1191 OFFCURVE",
+"513 1247 OFFCURVE",
+"513 1329 CURVE",
+"472 1336 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 553;
+},
+{
+components = (
+{
+name = "shindagesh-hb";
+transform = "{1, 0, 0, 1, 115, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"481 1379 OFFCURVE",
+"454 1342 OFFCURVE",
+"422 1342 CURVE SMOOTH",
+"344 1342 OFFCURVE",
+"277 1404 OFFCURVE",
+"194 1404 CURVE SMOOTH",
+"103 1404 OFFCURVE",
+"40 1322 OFFCURVE",
+"40 1231 CURVE",
+"166 1194 LINE",
+"166 1239 OFFCURVE",
+"192 1276 OFFCURVE",
+"225 1276 CURVE SMOOTH",
+"306 1276 OFFCURVE",
+"353 1214 OFFCURVE",
+"452 1214 CURVE SMOOTH",
+"544 1214 OFFCURVE",
+"607 1294 OFFCURVE",
+"607 1386 CURVE",
+"481 1424 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 647;
+}
+);
+unicode = AB5E;
+}

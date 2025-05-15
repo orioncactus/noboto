@@ -1,0 +1,90 @@
+{
+glyphname = Zdescender;
+layers = (
+{
+components = (
+{
+name = Z;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"942 166 LINE",
+"942 -358 LINE",
+"1148 -358 LINE",
+"1148 166 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1227;
+},
+{
+components = (
+{
+name = Z;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1075 54 LINE",
+"1075 -349 LINE",
+"1130 -349 LINE",
+"1130 54 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1224;
+},
+{
+components = (
+{
+name = Z;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"860 270 LINE",
+"860 -358 LINE",
+"1195 -358 LINE",
+"1195 270 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1247;
+}
+);
+unicode = 2C6B;
+}

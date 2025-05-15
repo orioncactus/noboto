@@ -1,0 +1,113 @@
+{
+glyphname = "Tse-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1091 171 LINE",
+"1091 0 LINE",
+"1234 0 LINE",
+"1234 -351 LINE",
+"1420 -351 LINE",
+"1440 171 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1285 0 LINE",
+"1285 1456 LINE",
+"1077 1456 LINE",
+"1077 166 LINE",
+"383 166 LINE",
+"383 1456 LINE",
+"174 1456 LINE",
+"174 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1506;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1157 54 LINE",
+"1157 0 LINE",
+"1301 0 LINE",
+"1301 -351 LINE",
+"1355 -351 LINE",
+"1355 54 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1222 0 LINE",
+"1222 1456 LINE",
+"1168 1456 LINE",
+"1168 54 LINE",
+"238 54 LINE",
+"238 1456 LINE",
+"184 1456 LINE",
+"184 0 LINE"
+);
+}
+);
+width = 1426;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1076 267 LINE",
+"1076 0 LINE",
+"1188 0 LINE",
+"1188 -351 LINE",
+"1503 -351 LINE",
+"1523 267 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1308 0 LINE",
+"1308 1456 LINE",
+"972 1456 LINE",
+"972 270 LINE",
+"430 270 LINE",
+"430 1456 LINE",
+"96 1456 LINE",
+"96 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1572;
+}
+);
+rightKerningGroup = H;
+unicode = 0426;
+}

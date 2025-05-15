@@ -1,0 +1,87 @@
+{
+glyphname = "rightflattenedparenthesis-math";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"207 -366 LINE",
+"481 -92 LINE",
+"481 1454 LINE",
+"207 1728 LINE",
+"80 1602 LINE",
+"301 1381 LINE",
+"301 -19 LINE",
+"80 -240 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 651;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"162 -337 LINE",
+"378 -24 LINE",
+"378 1376 LINE",
+"162 1689 LINE",
+"120 1659 LINE",
+"325 1358 LINE",
+"325 -6 LINE",
+"120 -307 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 578;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"277 -446 LINE",
+"551 -172 LINE",
+"551 1534 LINE",
+"277 1808 LINE",
+"90 1622 LINE",
+"278 1431 LINE",
+"278 -69 LINE",
+"90 -260 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 673;
+}
+);
+unicode = 27EF;
+}

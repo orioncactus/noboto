@@ -1,0 +1,92 @@
+{
+glyphname = "Kabashkir-cy.smcp";
+layers = (
+{
+components = (
+{
+name = "Ka-cy.smcp";
+transform = "{1, 0, 0, 1, 236, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1005 LINE",
+"481 1005 LINE",
+"481 1165 LINE",
+"40 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1341;
+},
+{
+components = (
+{
+name = "Ka-cy.smcp";
+transform = "{1, 0, 0, 1, 207, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"0 1111 LINE",
+"398 1111 LINE",
+"398 1165 LINE",
+"0 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1283;
+},
+{
+components = (
+{
+name = "Ka-cy.smcp";
+transform = "{1, 0, 0, 1, 334, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 905 LINE",
+"521 905 LINE",
+"521 1165 LINE",
+"30 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1482;
+}
+);
+}

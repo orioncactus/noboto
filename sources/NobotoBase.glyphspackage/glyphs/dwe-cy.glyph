@@ -1,0 +1,171 @@
+{
+glyphname = "dwe-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"317 674 LINE SMOOTH",
+"305 359 OFFCURVE",
+"222 265 OFFCURVE",
+"132 160 CURVE",
+"92 160 LINE",
+"87 0 LINE",
+"185 0 LINE",
+"349 95 OFFCURVE",
+"501 265 OFFCURVE",
+"517 674 CURVE SMOOTH",
+"544 1379 LINE",
+"344 1379 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"381 901 LINE",
+"843 901 LINE",
+"843 0 LINE",
+"1043 0 LINE",
+"1043 1082 LINE",
+"381 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"45 -319 LINE",
+"246 -319 LINE",
+"246 0 LINE",
+"988 0 LINE",
+"988 -319 LINE",
+"1188 -319 LINE",
+"1188 160 LINE",
+"45 160 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1250;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"341 706 LINE SMOOTH",
+"319 282 OFFCURVE",
+"194 139 OFFCURVE",
+"131 54 CURVE",
+"108 54 LINE",
+"108 0 LINE",
+"148 0 LINE",
+"248 98 OFFCURVE",
+"373 286 OFFCURVE",
+"395 706 CURVE SMOOTH",
+"424 1265 LINE",
+"370 1265 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"393 1028 LINE",
+"888 1028 LINE",
+"888 0 LINE",
+"942 0 LINE",
+"942 1082 LINE",
+"393 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"59 -318 LINE",
+"103 -318 LINE",
+"103 0 LINE",
+"974 0 LINE",
+"974 -318 LINE",
+"1028 -318 LINE",
+"1028 54 LINE",
+"59 54 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1112;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"288 741 LINE SMOOTH",
+"285 536 OFFCURVE",
+"277 421 OFFCURVE",
+"124 260 CURVE",
+"96 260 LINE",
+"102 0 LINE",
+"145 0 LINE",
+"392 52 OFFCURVE",
+"604 251 OFFCURVE",
+"610 741 CURVE SMOOTH",
+"619 1444 LINE",
+"297 1444 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 822 LINE",
+"804 822 LINE",
+"804 0 LINE",
+"1125 0 LINE",
+"1125 1082 LINE",
+"386 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"29 -328 LINE",
+"359 -328 LINE",
+"359 0 LINE",
+"963 0 LINE",
+"963 -328 LINE",
+"1285 -328 LINE",
+"1285 260 LINE",
+"29 260 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1310;
+}
+);
+unicode = A681;
+}

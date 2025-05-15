@@ -1,0 +1,76 @@
+{
+glyphname = "Eltail-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "El-cy";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1150, -72}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1554;
+},
+{
+components = (
+{
+alignment = -1;
+name = "El-cy";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1051, -25}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1356;
+},
+{
+components = (
+{
+alignment = -1;
+name = "El-cy";
+},
+{
+alignment = -1;
+name = comma;
+transform = "{1, 0, 0, 1, 1151, -35}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1617;
+}
+);
+leftKerningGroup = "Lje-cy";
+unicode = 04C5;
+}

@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniBBC9;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"238 653 LINE",
+"238 408 LINE",
+"578 408 LINE",
+"578 342 LINE",
+"240 342 LINE",
+"240 -33 LINE",
+"586 -33 LINE",
+"586 123 LINE",
+"922 123 LINE",
+"922 653 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"240 51 LINE",
+"240 -193 LINE",
+"377 -193 LINE SMOOTH",
+"692 -193 OFFCURVE",
+"864 -188 OFFCURVE",
+"1059 -154 CURVE",
+"1034 88 LINE",
+"844 55 OFFCURVE",
+"686 51 OFFCURVE",
+"377 51 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"993 653 LINE",
+"993 397 LINE",
+"1298 397 LINE",
+"1298 -197 LINE",
+"1642 -197 LINE",
+"1642 653 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"281 1681 LINE",
+"281 1059 LINE",
+"1599 1059 LINE",
+"1599 1681 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1260 1425 LINE",
+"1260 1313 LINE",
+"621 1313 LINE",
+"621 1425 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"74 985 LINE",
+"74 727 LINE",
+"1812 727 LINE",
+"1812 985 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"287 592 LINE",
+"287 530 LINE",
+"834 530 LINE",
+"834 285 LINE",
+"293 285 LINE",
+"293 -113 LINE",
+"358 -113 LINE",
+"358 219 LINE",
+"899 219 LINE",
+"899 592 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 -61 LINE",
+"293 -125 LINE",
+"393 -125 LINE SMOOTH",
+"692 -125 OFFCURVE",
+"840 -119 OFFCURVE",
+"1036 -80 CURVE",
+"1026 -16 LINE",
+"838 -57 OFFCURVE",
+"688 -61 OFFCURVE",
+"393 -61 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"979 592 LINE",
+"979 530 LINE",
+"1487 530 LINE",
+"1487 -131 LINE",
+"1554 -131 LINE",
+"1554 592 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"315 1636 LINE",
+"315 1071 LINE",
+"1522 1071 LINE",
+"1522 1636 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1458 1575 LINE",
+"1458 1133 LINE",
+"379 1133 LINE",
+"379 1575 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"96 874 LINE",
+"96 811 LINE",
+"1737 811 LINE",
+"1737 874 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BBC9;
+}

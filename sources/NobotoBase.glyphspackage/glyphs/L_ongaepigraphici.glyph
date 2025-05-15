@@ -1,0 +1,75 @@
+{
+glyphname = Longaepigraphici;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"177 1536 LINE",
+"177 0 LINE",
+"385 0 LINE",
+"385 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 560;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"240 1536 LINE",
+"240 0 LINE",
+"294 0 LINE",
+"294 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 534;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"139 1536 LINE",
+"139 0 LINE",
+"473 0 LINE",
+"473 1536 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 612;
+}
+);
+unicode = A7FE;
+}

@@ -1,0 +1,120 @@
+{
+glyphname = naira;
+layers = (
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 83, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 945 LINE",
+"30 785 LINE",
+"1602 785 LINE",
+"1602 945 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"30 645 LINE",
+"30 485 LINE",
+"1602 485 LINE",
+"1602 645 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1632;
+},
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 40, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 889 LINE",
+"40 835 LINE",
+"1489 835 LINE",
+"1489 889 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 589 LINE",
+"40 535 LINE",
+"1489 535 LINE",
+"1489 589 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1529;
+},
+{
+components = (
+{
+name = N;
+transform = "{1, 0, 0, 1, 119, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 1003 LINE",
+"40 843 LINE",
+"1640 843 LINE",
+"1640 1003 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 673 LINE",
+"40 513 LINE",
+"1640 513 LINE",
+"1640 673 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1680;
+}
+);
+unicode = 20A6;
+}

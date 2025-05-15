@@ -1,0 +1,75 @@
+{
+glyphname = "lowernumeral-greek";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 -64 LINE",
+"80 -416 LINE",
+"264 -416 LINE",
+"390 -64 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 470;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"204 -79 LINE",
+"80 -517 LINE",
+"135 -517 LINE",
+"254 -79 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 334;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"301 -98 LINE",
+"80 -444 LINE",
+"381 -444 LINE",
+"462 -98 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 542;
+}
+);
+unicode = 0375;
+}

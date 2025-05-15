@@ -1,0 +1,22 @@
+{
+    "name": "noboto",
+    "version": "1.0.0",
+    "author": "Kil Hyung-jin <orioncactus@gmail.com>",
+    "license": "OFL-1.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/orioncactus/noboto",
+        "directory": "packages/noboto"
+    },
+    "bugs": {
+        "url": "https://github.com/orioncactus/noboto/issues"
+    },
+    "homepage": "https://github.com/orioncactus/noboto",
+    "scripts": {
+        "subset": "NODE_ENV=production node ./subset.js",
+        "publish": "yarn npm publish --access public"
+    },
+    "devDependencies": {
+        "subset-utils": "workspace:^"
+    }
+}

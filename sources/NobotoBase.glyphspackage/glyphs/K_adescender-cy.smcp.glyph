@@ -1,0 +1,89 @@
+{
+glyphname = "Kadescender-cy.smcp";
+layers = (
+{
+components = (
+{
+name = "Ka-cy.smcp";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1110 159 LINE",
+"930 159 LINE",
+"930 -341 LINE",
+"1110 -341 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.779,
+0.6,
+1
+);
+};
+width = 1150;
+},
+{
+components = (
+{
+name = "Ka-cy.smcp";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1033 54 LINE",
+"979 54 LINE",
+"979 -331 LINE",
+"1033 -331 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1103;
+},
+{
+components = (
+{
+name = "Ka-cy.smcp";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1220 260 LINE",
+"960 260 LINE",
+"960 -331 LINE",
+"1220 -331 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1240;
+}
+);
+}

@@ -1,0 +1,163 @@
+{
+color = 0;
+glyphname = uniCEE6;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1362 1729 LINE",
+"1362 637 LINE",
+"1706 637 LINE",
+"1706 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1094 1309 LINE",
+"1094 1040 LINE",
+"1421 1040 LINE",
+"1421 1309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"752 1647 LINE",
+"752 1489 LINE SMOOTH",
+"752 1194 OFFCURVE",
+"637 971 OFFCURVE",
+"84 834 CURVE",
+"199 571 LINE",
+"874 752 OFFCURVE",
+"1100 1081 OFFCURVE",
+"1100 1647 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"188 1647 LINE",
+"188 1386 LINE",
+"956 1386 LINE",
+"956 1647 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"254 565 LINE",
+"254 305 LINE",
+"610 305 LINE",
+"610 -190 LINE",
+"944 -190 LINE",
+"944 565 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"924 1292 LINE",
+"90 1276 LINE",
+"125 1018 LINE",
+"924 1079 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1012 565 LINE",
+"1012 305 LINE",
+"1370 305 LINE",
+"1370 -190 LINE",
+"1702 -190 LINE",
+"1702 565 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 588 LINE",
+"1554 588 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1010 1159 LINE",
+"1010 1098 LINE",
+"1528 1098 LINE",
+"1528 1159 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"938 1546 LINE",
+"938 1530 LINE SMOOTH",
+"938 1135 OFFCURVE",
+"608 823 OFFCURVE",
+"166 664 CURVE",
+"199 600 LINE",
+"672 774 OFFCURVE",
+"1016 1114 OFFCURVE",
+"1016 1546 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 1546 LINE",
+"223 1487 LINE",
+"995 1487 LINE",
+"995 1546 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"324 506 LINE",
+"324 442 LINE",
+"831 442 LINE",
+"831 -139 LINE",
+"899 -139 LINE",
+"899 506 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"887 1227 LINE",
+"137 1182 LINE",
+"158 1108 LINE",
+"887 1171 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1004 506 LINE",
+"1004 442 LINE",
+"1489 442 LINE",
+"1489 -139 LINE",
+"1554 -139 LINE",
+"1554 506 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = CEE6;
+}

@@ -1,0 +1,75 @@
+{
+glyphname = primeReversed;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"80 1562 LINE",
+"268 1210 LINE",
+"390 1210 LINE",
+"264 1562 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 470;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"54 1552 LINE",
+"290 1230 LINE",
+"364 1230 LINE",
+"139 1552 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 401;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"69 1562 LINE",
+"355 1210 LINE",
+"617 1210 LINE",
+"412 1562 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 668;
+}
+);
+unicode = 2035;
+}

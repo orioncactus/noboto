@@ -1,0 +1,60 @@
+{
+glyphname = upancora;
+layers = (
+{
+components = (
+{
+name = downancora;
+transform = "{-1, 0, 0, -1, 1337, 1539}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1337;
+},
+{
+components = (
+{
+name = downancora;
+transform = "{-1, 0, 0, -1, 1280, 1499}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1280;
+},
+{
+components = (
+{
+name = downancora;
+transform = "{-1, 0, 0, -1, 1406, 1561}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1406;
+}
+);
+unicode = 2E15;
+}

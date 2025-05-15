@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniBD9D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"485 920 LINE",
+"485 498 LINE",
+"817 498 LINE",
+"817 920 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"287 444 LINE",
+"287 186 LINE",
+"1362 186 LINE",
+"1362 -190 LINE",
+"1706 -190 LINE",
+"1706 444 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1372 1729 LINE",
+"1372 496 LINE",
+"1706 496 LINE",
+"1706 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1018 750 LINE",
+"1018 537 LINE",
+"1483 537 LINE",
+"1483 750 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"106 748 LINE",
+"471 748 OFFCURVE",
+"893 756 OFFCURVE",
+"1294 811 CURVE",
+"1276 1042 LINE",
+"885 1008 OFFCURVE",
+"442 1006 OFFCURVE",
+"70 1006 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"215 1675 LINE",
+"215 1077 LINE",
+"1178 1077 LINE",
+"1178 1675 LINE",
+"840 1675 LINE",
+"840 1593 LINE",
+"553 1593 LINE",
+"553 1675 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"553 1372 LINE",
+"840 1372 LINE",
+"840 1309 LINE",
+"553 1309 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"649 823 LINE",
+"649 500 LINE",
+"717 500 LINE",
+"717 823 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"375 428 LINE",
+"375 365 LINE",
+"1491 365 LINE",
+"1491 -147 LINE",
+"1556 -147 LINE",
+"1556 428 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1489 1669 LINE",
+"1489 487 LINE",
+"1554 487 LINE",
+"1554 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1081 653 LINE",
+"1081 590 LINE",
+"1516 590 LINE",
+"1516 653 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"115 772 LINE",
+"457 772 OFFCURVE",
+"903 784 OFFCURVE",
+"1290 827 CURVE",
+"1280 885 LINE",
+"897 850 OFFCURVE",
+"453 844 OFFCURVE",
+"98 842 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"289 1597 LINE",
+"289 1016 LINE",
+"1094 1016 LINE",
+"1094 1597 LINE",
+"1028 1597 LINE",
+"1028 1380 LINE",
+"354 1380 LINE",
+"354 1597 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 1317 LINE",
+"1028 1317 LINE",
+"1028 1081 LINE",
+"354 1081 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BD9D;
+}

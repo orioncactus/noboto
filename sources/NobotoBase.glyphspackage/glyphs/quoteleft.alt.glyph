@@ -1,0 +1,36 @@
+{
+glyphname = quoteleft.alt;
+layers = (
+{
+components = (
+{
+name = quoteright.alt;
+transform = "{-1, 0, 0, -1, 551, 2361}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 567;
+},
+{
+components = (
+{
+name = quoteright.alt;
+transform = "{-1, 0, 0, -1, 368, 2499}";
+}
+);
+layerId = master01;
+width = 412;
+},
+{
+components = (
+{
+name = quoteright.alt;
+transform = "{-1, 0, 0, -1, 750, 2233}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 750;
+}
+);
+leftKerningGroup = quotedbl;
+}

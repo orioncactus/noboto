@@ -1,0 +1,119 @@
+{
+glyphname = "hadescender-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1020, -407}";
+},
+{
+name = top0315;
+position = "{1020, 1280}";
+},
+{
+name = top_dd;
+position = "{1020, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = x;
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 745, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1078;
+},
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{978, -407}";
+},
+{
+name = top0315;
+position = "{978, 1280}";
+},
+{
+name = top_dd;
+position = "{978, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = x;
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 708, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 956;
+},
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1051, -407}";
+},
+{
+name = top0315;
+position = "{1051, 1280}";
+},
+{
+name = top_dd;
+position = "{1051, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = x;
+},
+{
+alignment = -1;
+name = cyrillictic;
+transform = "{1, 0, 0, 1, 696, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1123;
+}
+);
+leftKerningGroup = x;
+rightKerningGroup = x;
+unicode = 04B3;
+}

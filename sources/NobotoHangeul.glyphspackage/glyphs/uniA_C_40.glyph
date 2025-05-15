@@ -1,0 +1,167 @@
+{
+color = 0;
+glyphname = uniAC40;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1503 1563 LINE",
+"1503 1305 LINE",
+"1833 1305 LINE",
+"1833 1563 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1503 1192 LINE",
+"1503 932 LINE",
+"1833 932 LINE",
+"1833 1192 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1266 1729 LINE",
+"1266 780 LINE",
+"1595 780 LINE",
+"1595 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"709 1669 LINE",
+"709 1468 LINE SMOOTH",
+"709 1272 OFFCURVE",
+"537 1071 OFFCURVE",
+"55 993 CURVE",
+"172 725 LINE",
+"764 836 OFFCURVE",
+"1075 1141 OFFCURVE",
+"1075 1669 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"156 1669 LINE",
+"156 1409 LINE",
+"924 1409 LINE",
+"924 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"301 711 LINE",
+"301 455 LINE",
+"1270 455 LINE",
+"1270 391 LINE",
+"303 391 LINE",
+"303 -45 LINE",
+"631 -45 LINE",
+"631 150 LINE",
+"1595 150 LINE",
+"1595 711 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 82 LINE",
+"303 -176 LINE",
+"1645 -176 LINE",
+"1645 82 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1485 1399 LINE",
+"1485 1337 LINE",
+"1798 1337 LINE",
+"1798 1399 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1485 1038 LINE",
+"1485 979 LINE",
+"1798 979 LINE",
+"1798 1038 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1436 1671 LINE",
+"1436 733 LINE",
+"1503 733 LINE",
+"1503 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"948 1561 LINE",
+"948 1542 LINE SMOOTH",
+"948 1157 OFFCURVE",
+"618 879 OFFCURVE",
+"137 752 CURVE",
+"168 692 LINE",
+"670 829 OFFCURVE",
+"1018 1135 OFFCURVE",
+"1018 1561 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 1561 LINE",
+"205 1499 LINE",
+"975 1499 LINE",
+"975 1561 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"403 639 LINE",
+"403 580 LINE",
+"1438 580 LINE",
+"1438 305 LINE",
+"410 305 LINE",
+"410 -102 LINE",
+"473 -102 LINE",
+"473 244 LINE",
+"1503 244 LINE",
+"1503 639 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 -59 LINE",
+"410 -119 LINE",
+"1581 -119 LINE",
+"1581 -59 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = AC40;
+}

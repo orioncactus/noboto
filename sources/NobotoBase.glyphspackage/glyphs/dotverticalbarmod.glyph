@@ -1,0 +1,153 @@
+{
+glyphname = dotverticalbarmod;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"421 651 LINE",
+"580 651 LINE",
+"580 1452 LINE",
+"421 1452 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 996 OFFCURVE",
+"115 952 OFFCURVE",
+"184 952 CURVE SMOOTH",
+"252 952 OFFCURVE",
+"289 996 OFFCURVE",
+"289 1051 CURVE SMOOTH",
+"289 1107 OFFCURVE",
+"252 1151 OFFCURVE",
+"184 1151 CURVE SMOOTH",
+"115 1151 OFFCURVE",
+"80 1107 OFFCURVE",
+"80 1051 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1051;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 660;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"339 651 LINE",
+"393 651 LINE",
+"393 1466 LINE",
+"339 1466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 1029 OFFCURVE",
+"103 1006 OFFCURVE",
+"131 1006 CURVE SMOOTH",
+"160 1006 OFFCURVE",
+"184 1029 OFFCURVE",
+"184 1058 CURVE SMOOTH",
+"184 1087 OFFCURVE",
+"160 1111 OFFCURVE",
+"131 1111 CURVE SMOOTH",
+"103 1111 OFFCURVE",
+"80 1087 OFFCURVE",
+"80 1058 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1058;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 473;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"457 655 LINE",
+"680 655 LINE",
+"680 1466 LINE",
+"457 1466 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"80 988 OFFCURVE",
+"133 938 OFFCURVE",
+"212 938 CURVE SMOOTH",
+"292 938 OFFCURVE",
+"345 988 OFFCURVE",
+"345 1060 CURVE SMOOTH",
+"345 1131 OFFCURVE",
+"292 1181 OFFCURVE",
+"212 1181 CURVE SMOOTH",
+"133 1181 OFFCURVE",
+"80 1131 OFFCURVE",
+"80 1060 CURVE SMOOTH"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1060;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 760;
+}
+);
+unicode = A717;
+}

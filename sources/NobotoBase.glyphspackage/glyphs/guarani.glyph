@@ -1,0 +1,90 @@
+{
+glyphname = guarani;
+layers = (
+{
+components = (
+{
+name = G;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"615 1559 LINE",
+"615 -125 LINE",
+"775 -125 LINE",
+"775 1559 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1394;
+},
+{
+components = (
+{
+name = G;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"685 1559 LINE",
+"685 -125 LINE",
+"739 -125 LINE",
+"739 1559 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1406;
+},
+{
+components = (
+{
+name = G;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"555 1559 LINE",
+"555 -125 LINE",
+"815 -125 LINE",
+"815 1559 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1396;
+}
+);
+unicode = 20B2;
+}

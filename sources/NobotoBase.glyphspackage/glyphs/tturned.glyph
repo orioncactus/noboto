@@ -1,0 +1,180 @@
+{
+glyphname = tturned;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{371, 0}";
+},
+{
+name = top;
+position = "{235, 1600}";
+},
+{
+name = top0315;
+position = "{672, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"666 260 LINE",
+"666 410 LINE",
+"72 410 LINE",
+"72 260 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"469 1072 LINE",
+"469 1289 OFFCURVE",
+"353 1362 OFFCURVE",
+"216 1362 CURVE SMOOTH",
+"146 1362 OFFCURVE",
+"99 1350 OFFCURVE",
+"70 1341 CURVE",
+"70 1182 LINE",
+"85 1186 OFFCURVE",
+"125 1194 OFFCURVE",
+"155 1194 CURVE SMOOTH",
+"214 1194 OFFCURVE",
+"269 1177 OFFCURVE",
+"269 1073 CURVE",
+"269 0 LINE",
+"469 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 672;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{383, 0}";
+},
+{
+name = top;
+position = "{236, 1600}";
+},
+{
+name = top0315;
+position = "{648, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"610 292 LINE",
+"610 347 LINE",
+"109 347 LINE",
+"109 292 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"410 1115 LINE",
+"410 1332 OFFCURVE",
+"327 1394 OFFCURVE",
+"189 1394 CURVE SMOOTH",
+"161 1394 OFFCURVE",
+"105 1392 OFFCURVE",
+"76 1382 CURVE",
+"85 1331 LINE",
+"122 1336 OFFCURVE",
+"151 1340 OFFCURVE",
+"192 1340 CURVE SMOOTH",
+"279 1340 OFFCURVE",
+"355 1305 OFFCURVE",
+"355 1115 CURVE",
+"355 0 LINE",
+"410 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 648;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{376, 0}";
+},
+{
+name = top;
+position = "{244, 1600}";
+},
+{
+name = top0315;
+position = "{700, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"688 269 LINE",
+"688 503 LINE",
+"42 503 LINE",
+"42 269 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"544 1040 LINE",
+"544 1275 OFFCURVE",
+"421 1371 OFFCURVE",
+"213 1371 CURVE SMOOTH",
+"142 1371 OFFCURVE",
+"83 1361 OFFCURVE",
+"28 1342 CURVE",
+"28 1101 LINE",
+"50 1105 OFFCURVE",
+"75 1107 OFFCURVE",
+"112 1107 CURVE SMOOTH",
+"192 1107 OFFCURVE",
+"222 1084 OFFCURVE",
+"222 998 CURVE",
+"222 0 LINE",
+"544 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 700;
+}
+);
+unicode = 0287;
+}

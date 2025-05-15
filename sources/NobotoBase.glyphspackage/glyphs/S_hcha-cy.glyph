@@ -1,0 +1,73 @@
+{
+glyphname = "Shcha-cy";
+layers = (
+{
+components = (
+{
+name = "Sha-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1567 160 LINE",
+"1567 0 LINE",
+"1711 0 LINE",
+"1711 -351 LINE",
+"1889 -351 LINE",
+"1909 160 LINE"
+);
+}
+);
+width = 1996;
+},
+{
+components = (
+{
+name = "Sha-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1638 54 LINE",
+"1638 0 LINE",
+"1753 0 LINE",
+"1753 -351 LINE",
+"1807 -351 LINE",
+"1807 54 LINE"
+);
+}
+);
+width = 1877;
+},
+{
+components = (
+{
+name = "Sha-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1633 259 LINE",
+"1633 1 LINE",
+"1748 1 LINE",
+"1748 -350 LINE",
+"2050 -350 LINE",
+"2070 259 LINE"
+);
+}
+);
+width = 2127;
+}
+);
+rightKerningGroup = H;
+unicode = 0429;
+}

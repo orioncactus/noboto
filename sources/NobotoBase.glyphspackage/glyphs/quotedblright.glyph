@@ -1,0 +1,49 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+components = (
+{
+name = quoteright;
+transform = "{1, 0, 0, 1, 13, 0}";
+},
+{
+name = quoteright;
+transform = "{1, 0, 0, 1, 334, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 757;
+},
+{
+components = (
+{
+name = quoteright;
+},
+{
+name = quoteright;
+transform = "{1, 0, 0, 1, 182, 0}";
+}
+);
+layerId = master01;
+width = 502;
+},
+{
+components = (
+{
+name = quoteright;
+transform = "{1, 0, 0, 1, 14, 0}";
+},
+{
+name = quoteright;
+transform = "{1, 0, 0, 1, 371, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 867;
+}
+);
+leftKerningGroup = quotedbl;
+rightKerningGroup = quotedbl;
+unicode = 201D;
+}

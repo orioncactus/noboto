@@ -1,0 +1,134 @@
+{
+glyphname = "Iu-cy.smcp";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{746, 1320}";
+},
+{
+name = top0315;
+position = "{1665, 1320}";
+}
+);
+components = (
+{
+name = I.smcp;
+transform = "{1, 0, 0, 1, -11, 0}";
+},
+{
+name = O.smcp;
+transform = "{1, 0, 0, 1, 449, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"247 667 LINE",
+"247 506 LINE",
+"660 506 LINE",
+"660 667 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1665;
+},
+{
+anchors = (
+{
+name = top;
+position = "{716, 1320}";
+},
+{
+name = top0315;
+position = "{1563, 1320}";
+}
+);
+components = (
+{
+name = I.smcp;
+transform = "{1, 0, 0, 1, -33, 0}";
+},
+{
+name = O.smcp;
+transform = "{1, 0, 0, 1, 387, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"219 613 LINE",
+"219 559 LINE",
+"507 559 LINE",
+"507 613 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1563;
+},
+{
+anchors = (
+{
+name = top;
+position = "{816, 1320}";
+},
+{
+name = top0315;
+position = "{1714, 1320}";
+}
+);
+components = (
+{
+name = I.smcp;
+transform = "{1, 0, 0, 1, -22, 0}";
+},
+{
+name = O.smcp;
+transform = "{1, 0, 0, 1, 498, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"361 698 LINE",
+"361 438 LINE",
+"698 438 LINE",
+"698 698 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1714;
+}
+);
+}

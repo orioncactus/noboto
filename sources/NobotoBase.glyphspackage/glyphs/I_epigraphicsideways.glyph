@@ -1,0 +1,75 @@
+{
+glyphname = Iepigraphicsideways;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"52 628 LINE",
+"1508 628 LINE",
+"1508 828 LINE",
+"52 828 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1560;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"39 701 LINE",
+"1495 701 LINE",
+"1495 755 LINE",
+"39 755 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1534;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"76 567 LINE",
+"1532 567 LINE",
+"1532 889 LINE",
+"76 889 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1608;
+}
+);
+unicode = A7F7;
+}

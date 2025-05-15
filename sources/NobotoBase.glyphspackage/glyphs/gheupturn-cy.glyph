@@ -1,0 +1,76 @@
+{
+glyphname = "gheupturn-cy";
+layers = (
+{
+components = (
+{
+name = "ge-cy";
+transform = "{1, 0, 0, 1, -10, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"636 1394 LINE",
+"636 921 LINE",
+"836 921 LINE",
+"836 1394 LINE"
+);
+}
+);
+width = 916;
+},
+{
+components = (
+{
+name = "ge-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"770 1454 LINE",
+"770 1027 LINE",
+"824 1027 LINE",
+"824 1454 LINE"
+);
+}
+);
+width = 881;
+},
+{
+components = (
+{
+name = "ge-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"582 1399 LINE",
+"582 822 LINE",
+"904 822 LINE",
+"904 1399 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 956;
+}
+);
+rightKerningGroup = "ge-cy";
+unicode = 0491;
+}

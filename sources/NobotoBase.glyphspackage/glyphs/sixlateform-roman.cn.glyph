@@ -1,0 +1,89 @@
+{
+glyphname = "sixlateform-roman.cn";
+layers = (
+{
+components = (
+{
+name = C.cn;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1038 464 LINE",
+"1038 -360 LINE",
+"1246 -360 LINE",
+"1246 464 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1276;
+},
+{
+components = (
+{
+name = C.cn;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1136 446 LINE",
+"1136 -351 LINE",
+"1190 -351 LINE",
+"1190 446 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1274;
+},
+{
+components = (
+{
+name = C.cn;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"950 493 LINE",
+"950 -360 LINE",
+"1284 -360 LINE",
+"1284 493 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1343;
+}
+);
+}

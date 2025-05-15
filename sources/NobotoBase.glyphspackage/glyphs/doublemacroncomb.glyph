@@ -1,0 +1,93 @@
+{
+glyphname = doublemacroncomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop_dd;
+position = "{0, 1240}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-592 1436 LINE",
+"-592 1286 LINE",
+"591 1286 LINE",
+"591 1436 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop_dd;
+position = "{0, 1280}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-562 1340 LINE",
+"-562 1286 LINE",
+"561 1286 LINE",
+"561 1340 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop_dd;
+position = "{0, 1280}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-576 1458 LINE",
+"-576 1285 LINE",
+"579 1285 LINE",
+"579 1458 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 035E;
+}

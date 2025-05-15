@@ -1,0 +1,68 @@
+{
+glyphname = crossbar;
+layers = (
+{
+anchors = (
+{
+name = _cross;
+position = "{464, 722}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"789 645 LINE",
+"789 805 LINE",
+"147 805 LINE",
+"147 645 LINE"
+);
+}
+);
+width = 931;
+},
+{
+anchors = (
+{
+name = _cross;
+position = "{407, 746}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"695 721 LINE",
+"695 775 LINE",
+"108 775 LINE",
+"108 721 LINE"
+);
+}
+);
+width = 811;
+},
+{
+anchors = (
+{
+name = _cross;
+position = "{493, 742}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"860 651 LINE",
+"860 842 LINE",
+"139 842 LINE",
+"139 651 LINE"
+);
+}
+);
+width = 996;
+}
+);
+}

@@ -1,0 +1,42 @@
+{
+glyphname = icircumflex;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = circumflexcomb;
+}
+);
+layerId = master01;
+width = 406;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = circumflexcomb;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 518;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = circumflexcomb;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 577;
+}
+);
+unicode = 00EE;
+}

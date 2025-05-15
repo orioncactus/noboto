@@ -1,0 +1,89 @@
+{
+glyphname = "Aleutka-cy.bold";
+layers = (
+{
+components = (
+{
+name = K.alt2;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1195 965 LINE",
+"721 1398 LINE",
+"613 1281 LINE",
+"1087 848 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1318;
+},
+{
+components = (
+{
+name = K.alt2;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1034 895 LINE",
+"619 1311 LINE",
+"581 1273 LINE",
+"995 857 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1300;
+},
+{
+components = (
+{
+name = K.alt2;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1172 962 LINE",
+"631 1375 LINE",
+"515 1222 LINE",
+"1057 810 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1322;
+}
+);
+}

@@ -1,0 +1,150 @@
+{
+glyphname = cruzeiro;
+layers = (
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"751 872 LINE",
+"567 872 LINE",
+"567 30 LINE",
+"767 30 LINE",
+"767 704 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1082 884 OFFCURVE",
+"1037 892 OFFCURVE",
+"1012 892 CURVE SMOOTH",
+"782 892 OFFCURVE",
+"663 661 OFFCURVE",
+"663 405 CURVE",
+"737 450 LINE",
+"755 599 OFFCURVE",
+"838 703 OFFCURVE",
+"1002 703 CURVE SMOOTH",
+"1038 703 OFFCURVE",
+"1062 701 OFFCURVE",
+"1095 695 CURVE",
+"1095 878 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1334;
+},
+{
+components = (
+{
+name = C;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"706 882 LINE",
+"652 882 LINE",
+"652 0 LINE",
+"706 0 LINE",
+"706 694 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1118 897 OFFCURVE",
+"1092 902 OFFCURVE",
+"1059 902 CURVE SMOOTH",
+"789 902 OFFCURVE",
+"659 681 OFFCURVE",
+"659 377 CURVE",
+"695 380 LINE",
+"695 635 OFFCURVE",
+"816 849 OFFCURVE",
+"1059 849 CURVE SMOOTH",
+"1084 849 OFFCURVE",
+"1108 846 OFFCURVE",
+"1129 843 CURVE",
+"1135 891 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1327;
+},
+{
+components = (
+{
+name = C;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"844 882 LINE",
+"542 882 LINE",
+"542 130 LINE",
+"864 130 LINE",
+"864 614 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1161 898 OFFCURVE",
+"1125 902 OFFCURVE",
+"1093 902 CURVE SMOOTH",
+"899 902 OFFCURVE",
+"783 702 OFFCURVE",
+"783 412 CURVE",
+"843 372 LINE",
+"843 514 OFFCURVE",
+"912 585 OFFCURVE",
+"1071 585 CURVE SMOOTH",
+"1101 585 OFFCURVE",
+"1152 580 OFFCURVE",
+"1180 577 CURVE",
+"1185 890 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1343;
+}
+);
+unicode = 20A2;
+}

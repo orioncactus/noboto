@@ -1,0 +1,180 @@
+{
+glyphname = itildebelow;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{372, 10}";
+},
+{
+name = bottom_dd;
+position = "{625, -407}";
+},
+{
+name = mkmkbottom_acc;
+position = "{372, -422}";
+},
+{
+name = ogonek;
+position = "{455, 0}";
+},
+{
+name = rhotichook;
+position = "{403, 654}";
+},
+{
+name = top;
+position = "{374, 1600}";
+},
+{
+name = top0315;
+position = "{625, 1600}";
+},
+{
+name = top_dd;
+position = "{625, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 119, 0}";
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -122, -1610}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 725;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{330, 10}";
+},
+{
+name = bottom_dd;
+position = "{542, -407}";
+},
+{
+name = mkmkbottom_acc;
+position = "{331, -353}";
+},
+{
+name = ogonek;
+position = "{358, 0}";
+},
+{
+name = rhotichook;
+position = "{332, 654}";
+},
+{
+name = top;
+position = "{338, 1600}";
+},
+{
+name = top0315;
+position = "{542, 1600}";
+},
+{
+name = top_dd;
+position = "{542, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 120, 0}";
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -85, -1600}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 649;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{394, 10}";
+},
+{
+name = bottom_dd;
+position = "{673, -407}";
+},
+{
+name = mkmkbottom_acc;
+position = "{394, -397}";
+},
+{
+name = ogonek;
+position = "{504, 0}";
+},
+{
+name = rhotichook;
+position = "{468, 654}";
+},
+{
+name = top;
+position = "{393, 1600}";
+},
+{
+name = top0315;
+position = "{673, 1600}";
+},
+{
+name = top_dd;
+position = "{673, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = i;
+transform = "{1, 0, 0, 1, 116, 0}";
+},
+{
+alignment = -1;
+name = tilde;
+transform = "{1, 0, 0, 1, -104, -1650}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 787;
+}
+);
+unicode = 1E2D;
+}

@@ -1,0 +1,143 @@
+{
+glyphname = gbar_uni1ABE;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{717, -487}";
+},
+{
+name = cross;
+position = "{719, -114}";
+},
+{
+name = markbottom;
+position = "{717, -487}";
+},
+{
+name = top;
+position = "{718, 1290}";
+},
+{
+name = top0315;
+position = "{1430, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = gstroke;
+transform = "{1, 0, 0, 1, 149, 0}";
+},
+{
+alignment = -1;
+name = parentoverlaycomb;
+transform = "{1, 0, 0, 1, 1306, -706}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1456;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{640, -447}";
+},
+{
+name = cross;
+position = "{640, -134}";
+},
+{
+name = markbottom;
+position = "{640, -447}";
+},
+{
+name = top;
+position = "{653, 1290}";
+},
+{
+name = top0315;
+position = "{1319, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = gstroke;
+transform = "{1, 0, 0, 1, 86, 0}";
+},
+{
+alignment = -1;
+name = parentoverlaycomb;
+transform = "{1, 0, 0, 1, 1187, -708}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1349;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{692, -487}";
+},
+{
+name = cross;
+position = "{734, -128}";
+},
+{
+name = markbottom;
+position = "{692, -487}";
+},
+{
+name = top;
+position = "{692, 1290}";
+},
+{
+name = top0315;
+position = "{1485, 1290}";
+}
+);
+components = (
+{
+alignment = -1;
+name = gstroke;
+transform = "{1, 0, 0, 1, 138, 0}";
+},
+{
+alignment = -1;
+name = parentoverlaycomb;
+transform = "{1, 0, 0, 1, 1295, -718}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1489;
+}
+);
+}

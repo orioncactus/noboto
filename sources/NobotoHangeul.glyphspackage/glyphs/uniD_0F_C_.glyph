@@ -1,0 +1,179 @@
+{
+color = 0;
+glyphname = uniD0FC;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"291 436 LINE",
+"291 -63 LINE",
+"631 -63 LINE",
+"631 436 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"291 106 LINE",
+"291 -162 LINE",
+"1630 -162 LINE",
+"1630 106 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 1624 LINE",
+"139 807 LINE",
+"473 807 LINE",
+"473 1360 LINE",
+"1047 1360 LINE",
+"1047 1624 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"139 844 LINE",
+"139 580 LINE",
+"307 580 LINE SMOOTH",
+"582 580 OFFCURVE",
+"870 582 OFFCURVE",
+"1194 618 CURVE",
+"1157 883 LINE",
+"842 846 OFFCURVE",
+"573 844 OFFCURVE",
+"307 844 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1255 1729 LINE",
+"1255 332 LINE",
+"1595 332 LINE",
+"1595 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1423 1423 LINE",
+"1423 1153 LINE",
+"1839 1153 LINE",
+"1839 1423 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"293 1227 LINE",
+"293 983 LINE",
+"1014 983 LINE",
+"1014 1227 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1423 938 LINE",
+"1423 666 LINE",
+"1839 666 LINE",
+"1839 938 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"395 453 LINE",
+"395 -74 LINE",
+"463 -74 LINE",
+"463 453 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"395 -29 LINE",
+"395 -92 LINE",
+"1587 -92 LINE",
+"1587 -29 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 1518 LINE",
+"199 659 LINE",
+"264 659 LINE",
+"264 1458 LINE",
+"1001 1458 LINE",
+"1001 1518 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"199 702 LINE",
+"199 637 LINE",
+"324 637 LINE SMOOTH",
+"694 637 OFFCURVE",
+"897 647 OFFCURVE",
+"1155 694 CURVE",
+"1145 762 LINE",
+"895 713 OFFCURVE",
+"692 702 OFFCURVE",
+"324 702 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1417 1669 LINE",
+"1417 319 LINE",
+"1487 319 LINE",
+"1487 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1460 1319 LINE",
+"1460 1255 LINE",
+"1782 1255 LINE",
+"1782 1319 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"217 1122 LINE",
+"217 1061 LINE",
+"977 1061 LINE",
+"977 1122 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1460 872 LINE",
+"1460 809 LINE",
+"1782 809 LINE",
+"1782 872 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = D0FC;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = bracketright.uc;
+layers = (
+{
+components = (
+{
+name = bracketright;
+transform = "{1, 0, 0, 1, 0, 52}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 555;
+},
+{
+components = (
+{
+name = bracketright;
+transform = "{1, 0, 0, 1, 0, 52}";
+}
+);
+layerId = master01;
+width = 439;
+},
+{
+components = (
+{
+name = bracketright;
+transform = "{1, 0, 0, 1, 0, 50}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 575;
+}
+);
+leftKerningGroup = bracketright;
+}

@@ -1,0 +1,93 @@
+{
+glyphname = Sobliquestroke;
+layers = (
+{
+components = (
+{
+name = S;
+transform = "{1, 0, 0, 1, 105, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 623 LINE",
+"20 497 LINE",
+"1407 871 LINE",
+"1407 997 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1427;
+},
+{
+components = (
+{
+name = S;
+transform = "{1, 0, 0, 1, 38, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 610 LINE",
+"54 558 LINE",
+"1240 876 LINE",
+"1226 928 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1280;
+},
+{
+components = (
+{
+name = S;
+transform = "{1, 0, 0, 1, 68, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 655 LINE",
+"20 487 LINE",
+"1407 856 LINE",
+"1407 1023 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1427;
+}
+);
+unicode = A7A8;
+}

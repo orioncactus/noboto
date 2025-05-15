@@ -1,0 +1,105 @@
+{
+glyphname = macronbelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{-588, 0}";
+},
+{
+name = _markbottom;
+position = "{-588, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-588, -294}";
+}
+);
+components = (
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -1073, -1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-562, 0}";
+},
+{
+name = _markbottom;
+position = "{-561, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-561, -197}";
+}
+);
+components = (
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -968, -1600}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{-576, 0}";
+},
+{
+name = _markbottom;
+position = "{-576, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-575, -345}";
+}
+);
+components = (
+{
+alignment = -1;
+name = macron;
+transform = "{1, 0, 0, 1, -1100, -1630}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0331;
+}

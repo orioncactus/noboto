@@ -1,0 +1,143 @@
+{
+glyphname = Psi;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1109 929 LINE SMOOTH",
+"1109 666 OFFCURVE",
+"948 521 OFFCURVE",
+"707 521 CURVE SMOOTH",
+"677 521 LINE",
+"451 521 OFFCURVE",
+"290 666 OFFCURVE",
+"290 929 CURVE SMOOTH",
+"290 1456 LINE",
+"83 1456 LINE",
+"83 929 LINE",
+"83 560 OFFCURVE",
+"333 354 OFFCURVE",
+"676 354 CURVE SMOOTH",
+"706 354 LINE",
+"1059 354 OFFCURVE",
+"1318 560 OFFCURVE",
+"1318 929 CURVE",
+"1318 1456 LINE",
+"1109 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"588 1456 LINE",
+"588 0 LINE",
+"796 0 LINE",
+"796 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1416;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1220 946 LINE SMOOTH",
+"1220 654 OFFCURVE",
+"1013 471 OFFCURVE",
+"727 471 CURVE SMOOTH",
+"707 471 LINE",
+"419 471 OFFCURVE",
+"211 654 OFFCURVE",
+"211 946 CURVE SMOOTH",
+"211 1456 LINE",
+"156 1456 LINE",
+"156 946 LINE",
+"156 607 OFFCURVE",
+"388 416 OFFCURVE",
+"707 416 CURVE SMOOTH",
+"727 416 LINE",
+"1045 416 OFFCURVE",
+"1274 607 OFFCURVE",
+"1274 946 CURVE",
+"1274 1456 LINE",
+"1220 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"686 1456 LINE",
+"686 0 LINE",
+"741 0 LINE",
+"741 1456 LINE"
+);
+}
+);
+width = 1428;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1139 1017 LINE SMOOTH",
+"1139 777 OFFCURVE",
+"1058 668 OFFCURVE",
+"857 668 CURVE SMOOTH",
+"691 668 LINE",
+"487 668 OFFCURVE",
+"376 777 OFFCURVE",
+"376 1017 CURVE SMOOTH",
+"376 1456 LINE",
+"41 1456 LINE",
+"41 1017 LINE",
+"41 620 OFFCURVE",
+"289 398 OFFCURVE",
+"674 398 CURVE SMOOTH",
+"841 398 LINE",
+"1226 398 OFFCURVE",
+"1475 620 OFFCURVE",
+"1475 1017 CURVE",
+"1475 1456 LINE",
+"1139 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"601 1456 LINE",
+"601 0 LINE",
+"935 0 LINE",
+"935 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1515;
+}
+);
+rightKerningGroup = Psi;
+unicode = 03A8;
+}

@@ -1,0 +1,208 @@
+{
+glyphname = K.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{531, 6}";
+},
+{
+name = bottom_dd;
+position = "{1108, -407}";
+},
+{
+name = cross;
+position = "{230, 982}";
+},
+{
+name = right;
+position = "{1055, 0}";
+},
+{
+name = top;
+position = "{518, 1320}";
+},
+{
+name = top0315;
+position = "{1108, 1320}";
+},
+{
+name = top_dd;
+position = "{1108, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"135 1165 LINE",
+"135 0 LINE",
+"335 0 LINE",
+"335 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"841 1165 LINE",
+"457 760 LINE",
+"243 521 LINE",
+"283 323 LINE",
+"575 605 LINE",
+"1085 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1117 0 LINE",
+"580 690 LINE",
+"447 550 LINE",
+"875 0 LINE"
+);
+}
+);
+width = 1108;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{536, 6}";
+},
+{
+name = bottom_dd;
+position = "{1116, -407}";
+},
+{
+name = cross;
+position = "{235, 983}";
+},
+{
+name = right;
+position = "{1025, 0}";
+},
+{
+name = top;
+position = "{518, 1320}";
+},
+{
+name = top0315;
+position = "{1116, 1320}";
+},
+{
+name = top_dd;
+position = "{1116, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"170 1165 LINE",
+"170 0 LINE",
+"224 0 LINE",
+"224 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"934 1165 LINE",
+"424 685 LINE",
+"207 484 LINE",
+"202 414 LINE",
+"453 638 LINE",
+"1010 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1060 0 LINE",
+"441 669 LINE",
+"407 620 LINE",
+"988 0 LINE"
+);
+}
+);
+width = 1116;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{499, 9}";
+},
+{
+name = bottom_dd;
+position = "{1130, -407}";
+},
+{
+name = cross;
+position = "{202, 978}";
+},
+{
+name = right;
+position = "{1052, 0}";
+},
+{
+name = top;
+position = "{507, 1320}";
+},
+{
+name = top0315;
+position = "{1130, 1320}";
+},
+{
+name = top_dd;
+position = "{1130, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"87 1165 LINE",
+"87 0 LINE",
+"410 0 LINE",
+"410 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"742 1165 LINE",
+"499 830 LINE",
+"323 577 LINE",
+"408 287 LINE",
+"677 550 LINE",
+"1147 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1151 0 LINE",
+"723 682 LINE",
+"469 505 LINE",
+"771 0 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1130;
+}
+);
+}

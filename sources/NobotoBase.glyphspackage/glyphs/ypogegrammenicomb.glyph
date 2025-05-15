@@ -1,0 +1,141 @@
+{
+glyphname = ypogegrammenicomb;
+layers = (
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-590, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-590, -526}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-667 -341 LINE SMOOTH",
+"-667 -472 OFFCURVE",
+"-598 -526 OFFCURVE",
+"-498 -526 CURVE SMOOTH",
+"-462 -526 OFFCURVE",
+"-438 -520 OFFCURVE",
+"-423 -515 CURVE",
+"-423 -412 LINE",
+"-431 -414 OFFCURVE",
+"-451 -417 OFFCURVE",
+"-466 -417 CURVE SMOOTH",
+"-496 -417 OFFCURVE",
+"-515 -396 OFFCURVE",
+"-515 -336 CURVE SMOOTH",
+"-515 -70 LINE",
+"-667 -70 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-565, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-565, -526}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-585 -373 LINE SMOOTH",
+"-585 -484 OFFCURVE",
+"-553 -526 OFFCURVE",
+"-472 -526 CURVE SMOOTH",
+"-454 -526 OFFCURVE",
+"-434 -523 OFFCURVE",
+"-414 -519 CURVE",
+"-419 -482 LINE",
+"-438 -484 OFFCURVE",
+"-453 -486 OFFCURVE",
+"-474 -486 CURVE SMOOTH",
+"-514 -486 OFFCURVE",
+"-545 -470 OFFCURVE",
+"-545 -373 CURVE SMOOTH",
+"-545 -70 LINE",
+"-585 -70 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _markbottom;
+position = "{-590, 0}";
+},
+{
+name = mkmkbottom_acc;
+position = "{-590, -527}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-680 -337 LINE SMOOTH",
+"-680 -471 OFFCURVE",
+"-597 -526 OFFCURVE",
+"-491 -526 CURVE SMOOTH",
+"-455 -526 OFFCURVE",
+"-424 -521 OFFCURVE",
+"-396 -511 CURVE",
+"-396 -388 LINE",
+"-408 -390 OFFCURVE",
+"-420 -391 OFFCURVE",
+"-439 -391 CURVE SMOOTH",
+"-480 -391 OFFCURVE",
+"-495 -378 OFFCURVE",
+"-495 -336 CURVE SMOOTH",
+"-495 -70 LINE",
+"-680 -70 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0345;
+}

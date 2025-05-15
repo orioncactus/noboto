@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniB744;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"1368 1726 LINE",
+"1368 -195 LINE",
+"1698 -195 LINE",
+"1698 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"117 233 LINE",
+"477 229 OFFCURVE",
+"891 229 OFFCURVE",
+"1313 301 CURVE",
+"1292 539 LINE",
+"893 494 OFFCURVE",
+"446 498 OFFCURVE",
+"80 500 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"743 981 LINE",
+"743 719 LINE",
+"1264 719 LINE",
+"1264 981 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"743 1540 LINE",
+"743 946 LINE",
+"1069 946 LINE",
+"1069 1280 LINE",
+"1257 1280 LINE",
+"1257 1540 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"154 1540 LINE",
+"154 938 LINE",
+"479 938 LINE",
+"479 1280 LINE",
+"651 1280 LINE",
+"651 1540 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"154 983 LINE",
+"154 719 LINE",
+"258 719 LINE SMOOTH",
+"428 719 OFFCURVE",
+"543 721 OFFCURVE",
+"688 752 CURVE",
+"666 1014 LINE",
+"526 985 OFFCURVE",
+"418 983 OFFCURVE",
+"258 983 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"1528 1671 LINE",
+"1528 -137 LINE",
+"1595 -137 LINE",
+"1595 1671 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"137 313 LINE",
+"498 313 OFFCURVE",
+"967 319 OFFCURVE",
+"1399 387 CURVE",
+"1393 438 LINE",
+"967 383 OFFCURVE",
+"494 379 OFFCURVE",
+"123 379 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"795 862 LINE",
+"795 801 LINE",
+"1294 801 LINE",
+"1294 862 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"795 1473 LINE",
+"795 836 LINE",
+"862 836 LINE",
+"862 1411 LINE",
+"1274 1411 LINE",
+"1274 1473 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"227 1473 LINE",
+"227 827 LINE",
+"295 827 LINE",
+"295 1411 LINE",
+"692 1411 LINE",
+"692 1473 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"227 862 LINE",
+"227 801 LINE",
+"299 801 LINE SMOOTH",
+"410 801 OFFCURVE",
+"551 803 OFFCURVE",
+"735 844 CURVE",
+"723 907 LINE",
+"551 866 OFFCURVE",
+"403 862 OFFCURVE",
+"299 862 CURVE SMOOTH"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B744;
+}

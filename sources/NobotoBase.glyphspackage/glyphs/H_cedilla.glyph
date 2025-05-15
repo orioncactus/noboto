@@ -1,0 +1,75 @@
+{
+glyphname = Hcedilla;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = H;
+},
+{
+alignment = -1;
+name = cedilla;
+transform = "{1, 0, 0, 1, 49, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1463;
+},
+{
+components = (
+{
+alignment = -1;
+name = H;
+},
+{
+alignment = -1;
+name = cedilla;
+transform = "{1, 0, 0, 1, 46, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1438;
+},
+{
+components = (
+{
+alignment = -1;
+name = H;
+},
+{
+alignment = -1;
+name = cedilla;
+transform = "{1, 0, 0, 1, 45, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1442;
+}
+);
+unicode = 1E28;
+}

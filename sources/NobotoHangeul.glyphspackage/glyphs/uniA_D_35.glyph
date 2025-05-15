@@ -1,0 +1,151 @@
+{
+color = 0;
+glyphname = uniAD35;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"213 1612 LINE",
+"213 1350 LINE",
+"1020 1350 LINE",
+"1020 1612 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"412 1161 LINE",
+"412 680 LINE",
+"731 680 LINE",
+"731 1161 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"872 1612 LINE",
+"872 1466 LINE SMOOTH",
+"872 1325 OFFCURVE",
+"872 1174 OFFCURVE",
+"834 971 CURVE",
+"1155 936 LINE",
+"1196 1149 OFFCURVE",
+"1196 1325 OFFCURVE",
+"1196 1466 CURVE SMOOTH",
+"1196 1612 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"113 575 LINE",
+"463 578 OFFCURVE",
+"895 584 OFFCURVE",
+"1307 653 CURVE",
+"1290 887 LINE",
+"889 838 OFFCURVE",
+"430 834 OFFCURVE",
+"74 834 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"332 479 LINE",
+"332 217 LINE",
+"1366 217 LINE",
+"1366 -195 LINE",
+"1696 -195 LINE",
+"1696 479 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1366 1729 LINE",
+"1366 561 LINE",
+"1696 561 LINE",
+"1696 1729 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"258 1538 LINE",
+"258 1479 LINE",
+"1085 1479 LINE",
+"1085 1538 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"592 1143 LINE",
+"592 698 LINE",
+"659 698 LINE",
+"659 1143 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1051 1538 LINE",
+"1051 1468 LINE SMOOTH",
+"1051 1366 OFFCURVE",
+"1051 1204 OFFCURVE",
+"995 965 CURVE",
+"1063 956 LINE",
+"1114 1192 OFFCURVE",
+"1114 1368 OFFCURVE",
+"1114 1468 CURVE SMOOTH",
+"1114 1538 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"141 668 LINE",
+"477 668 OFFCURVE",
+"928 676 OFFCURVE",
+"1325 735 CURVE",
+"1319 791 LINE",
+"930 739 OFFCURVE",
+"473 733 OFFCURVE",
+"127 733 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"393 438 LINE",
+"393 377 LINE",
+"1507 377 LINE",
+"1507 -137 LINE",
+"1573 -137 LINE",
+"1573 438 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1507 1671 LINE",
+"1507 537 LINE",
+"1573 537 LINE",
+"1573 1671 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = AD35;
+}

@@ -1,0 +1,119 @@
+{
+glyphname = "Ghestroke-cy.smcp";
+layers = (
+{
+components = (
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -137, -140}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"231 1165 LINE",
+"231 0 LINE",
+"431 0 LINE",
+"431 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"386 1165 LINE",
+"386 1004 LINE",
+"999 1004 LINE",
+"999 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.779,
+0.6,
+1
+);
+};
+width = 1039;
+},
+{
+components = (
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -88, -162}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"287 1165 LINE",
+"287 0 LINE",
+"341 0 LINE",
+"341 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"307 1165 LINE",
+"307 1110 LINE",
+"1004 1110 LINE",
+"1004 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1064;
+},
+{
+components = (
+{
+name = crossbar;
+transform = "{1, 0, 0, 1, -129, -200}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"208 1165 LINE",
+"208 0 LINE",
+"531 0 LINE",
+"531 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"430 1165 LINE",
+"430 905 LINE",
+"1070 905 LINE",
+"1070 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1095;
+}
+);
+}

@@ -1,0 +1,183 @@
+{
+color = 0;
+glyphname = uniB6A0;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"995 1178 LINE",
+"995 918 LINE",
+"1659 918 LINE",
+"1659 1178 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"995 1651 LINE",
+"995 1120 LINE",
+"1325 1120 LINE",
+"1325 1393 LINE",
+"1655 1393 LINE",
+"1655 1651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"233 1651 LINE",
+"233 1120 LINE",
+"563 1120 LINE",
+"563 1393 LINE",
+"899 1393 LINE",
+"899 1651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"233 1176 LINE",
+"233 918 LINE",
+"356 918 LINE SMOOTH",
+"598 918 OFFCURVE",
+"752 920 OFFCURVE",
+"932 954 CURVE",
+"911 1210 LINE",
+"735 1180 OFFCURVE",
+"592 1176 OFFCURVE",
+"356 1176 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"72 809 LINE",
+"72 549 LINE",
+"1810 549 LINE",
+"1810 809 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"793 643 LINE",
+"793 266 LINE",
+"1122 266 LINE",
+"1122 643 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 96 LINE",
+"258 -166 LINE",
+"1616 -166 LINE",
+"1616 96 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 422 LINE",
+"258 -49 LINE",
+"590 -49 LINE",
+"590 422 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"991 1032 LINE",
+"991 971 LINE",
+"1612 971 LINE",
+"1612 1032 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"991 1577 LINE",
+"991 1010 LINE",
+"1059 1010 LINE",
+"1059 1516 LINE",
+"1589 1516 LINE",
+"1589 1577 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 1577 LINE",
+"279 1010 LINE",
+"346 1010 LINE",
+"346 1516 LINE",
+"877 1516 LINE",
+"877 1577 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"279 1032 LINE",
+"279 971 LINE",
+"367 971 LINE SMOOTH",
+"518 971 OFFCURVE",
+"702 981 OFFCURVE",
+"920 1032 CURVE",
+"907 1092 LINE",
+"700 1040 OFFCURVE",
+"514 1032 OFFCURVE",
+"367 1032 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"121 735 LINE",
+"121 674 LINE",
+"1753 674 LINE",
+"1753 735 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"915 713 LINE",
+"915 250 LINE",
+"983 250 LINE",
+"983 713 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"346 -27 LINE",
+"346 -88 LINE",
+"1575 -88 LINE",
+"1575 -27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"346 430 LINE",
+"346 -33 LINE",
+"414 -33 LINE",
+"414 430 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B6A0;
+}

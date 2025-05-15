@@ -1,0 +1,174 @@
+{
+glyphname = uni2DF2;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-588, 1170}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-654 1753 LINE",
+"-654 1201 LINE",
+"-522 1201 LINE",
+"-522 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-362 1753 LINE",
+"-362 1201 LINE",
+"-230 1201 LINE",
+"-230 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-846 1201 LINE",
+"-263 1201 LINE",
+"-263 1308 LINE",
+"-846 1308 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-946 1753 LINE",
+"-946 1201 LINE",
+"-814 1201 LINE",
+"-814 1753 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-562, 1170}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-582 1754 LINE",
+"-582 1202 LINE",
+"-542 1202 LINE",
+"-542 1754 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-274 1754 LINE",
+"-274 1202 LINE",
+"-234 1202 LINE",
+"-234 1754 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-866 1202 LINE",
+"-263 1202 LINE",
+"-263 1242 LINE",
+"-866 1242 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-890 1754 LINE",
+"-890 1202 LINE",
+"-850 1202 LINE",
+"-850 1754 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-577, 1170}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-659 1753 LINE",
+"-659 1201 LINE",
+"-494 1201 LINE",
+"-494 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-358 1753 LINE",
+"-358 1201 LINE",
+"-194 1201 LINE",
+"-194 1753 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-859 1201 LINE",
+"-276 1201 LINE",
+"-276 1333 LINE",
+"-859 1333 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-959 1753 LINE",
+"-959 1201 LINE",
+"-795 1201 LINE",
+"-795 1753 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 2DF2;
+}

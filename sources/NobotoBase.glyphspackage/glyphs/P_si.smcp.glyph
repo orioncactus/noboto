@@ -1,0 +1,149 @@
+{
+glyphname = Psi.smcp;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1017 854 LINE SMOOTH",
+"1017 589 OFFCURVE",
+"900 442 OFFCURVE",
+"657 442 CURVE SMOOTH",
+"636 442 LINE SMOOTH",
+"408 442 OFFCURVE",
+"295 589 OFFCURVE",
+"295 854 CURVE SMOOTH",
+"295 1165 LINE",
+"95 1165 LINE",
+"95 854 LINE SMOOTH",
+"95 487 OFFCURVE",
+"295 282 OFFCURVE",
+"636 282 CURVE SMOOTH",
+"657 282 LINE SMOOTH",
+"1008 282 OFFCURVE",
+"1217 487 OFFCURVE",
+"1217 854 CURVE SMOOTH",
+"1217 1165 LINE",
+"1017 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"556 1165 LINE",
+"556 0 LINE",
+"756 0 LINE",
+"756 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1312;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1057 846 LINE SMOOTH",
+"1057 554 OFFCURVE",
+"910 371 OFFCURVE",
+"624 371 CURVE SMOOTH",
+"604 371 LINE SMOOTH",
+"316 371 OFFCURVE",
+"168 554 OFFCURVE",
+"168 846 CURVE SMOOTH",
+"168 1165 LINE",
+"114 1165 LINE",
+"114 846 LINE SMOOTH",
+"114 507 OFFCURVE",
+"285 317 OFFCURVE",
+"604 317 CURVE SMOOTH",
+"624 317 LINE SMOOTH",
+"942 317 OFFCURVE",
+"1111 507 OFFCURVE",
+"1111 846 CURVE SMOOTH",
+"1111 1165 LINE",
+"1057 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"585 1165 LINE",
+"585 0 LINE",
+"640 0 LINE",
+"640 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1225;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1085 879 LINE SMOOTH",
+"1085 637 OFFCURVE",
+"1045 524 OFFCURVE",
+"821 524 CURVE SMOOTH",
+"668 524 LINE SMOOTH",
+"442 524 OFFCURVE",
+"377 637 OFFCURVE",
+"377 879 CURVE SMOOTH",
+"377 1165 LINE",
+"54 1165 LINE",
+"54 879 LINE SMOOTH",
+"54 485 OFFCURVE",
+"272 264 OFFCURVE",
+"653 264 CURVE SMOOTH",
+"806 264 LINE SMOOTH",
+"1188 264 OFFCURVE",
+"1408 485 OFFCURVE",
+"1408 879 CURVE SMOOTH",
+"1408 1165 LINE",
+"1085 1165 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"570 1165 LINE",
+"570 0 LINE",
+"892 0 LINE",
+"892 1165 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1462;
+}
+);
+}

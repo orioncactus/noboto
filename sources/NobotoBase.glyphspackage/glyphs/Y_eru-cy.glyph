@@ -1,0 +1,83 @@
+{
+glyphname = "Yeru-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{892, 1612}";
+},
+{
+name = top0315;
+position = "{1785, 1612}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Softsign-cy";
+transform = "{1, 0, 0, 1, 17, 0}";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1215, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 1785;
+},
+{
+anchors = (
+{
+name = top;
+position = "{875, 1612}";
+},
+{
+name = top0315;
+position = "{1648, 1612}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Softsign-cy";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1153, 0}";
+}
+);
+layerId = master01;
+width = 1648;
+},
+{
+anchors = (
+{
+name = top;
+position = "{905, 1600}";
+},
+{
+name = top0315;
+position = "{1785, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = "Softsign-cy";
+},
+{
+alignment = -1;
+name = I;
+transform = "{1, 0, 0, 1, 1198, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 1785;
+}
+);
+rightKerningGroup = H;
+unicode = 042B;
+}

@@ -1,0 +1,98 @@
+{
+glyphname = yot.ccmp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{272, -459}";
+},
+{
+name = top;
+position = "{272, 1249}";
+},
+{
+name = top0315;
+position = "{526, 1249}";
+}
+);
+components = (
+{
+name = jdotless;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.779,
+0.6,
+1
+);
+};
+width = 526;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{209, -459}";
+},
+{
+name = top;
+position = "{209, 1249}";
+},
+{
+name = top0315;
+position = "{422, 1249}";
+}
+);
+components = (
+{
+name = jdotless;
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 422;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{276, -459}";
+},
+{
+name = top;
+position = "{275, 1269}";
+},
+{
+name = top0315;
+position = "{596, 1269}";
+}
+);
+components = (
+{
+name = jdotless;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 596;
+}
+);
+}

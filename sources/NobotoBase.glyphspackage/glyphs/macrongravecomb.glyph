@@ -1,0 +1,99 @@
+{
+glyphname = macrongravecomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-502, 1170}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-164 1240 LINE",
+"-358 1536 LINE",
+"-841 1536 LINE",
+"-841 1386 LINE",
+"-465 1386 LINE",
+"-334 1240 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-445, 1170}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-127 1250 LINE",
+"-315 1516 LINE",
+"-763 1516 LINE",
+"-763 1463 LINE",
+"-342 1463 LINE",
+"-186 1250 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-499, 1170}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-104 1222 LINE",
+"-303 1536 LINE",
+"-894 1536 LINE",
+"-894 1363 LINE",
+"-492 1363 LINE",
+"-366 1222 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 1DC6;
+}

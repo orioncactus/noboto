@@ -1,0 +1,161 @@
+{
+color = 0;
+glyphname = uniBB0D;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"233 1651 LINE",
+"233 1006 LINE",
+"1180 1006 LINE",
+"1180 1651 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"854 1395 LINE",
+"854 1262 LINE",
+"559 1262 LINE",
+"559 1395 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"541 1077 LINE",
+"541 768 LINE",
+"872 768 LINE",
+"872 1077 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1358 1726 LINE",
+"1358 616 LINE",
+"1690 616 LINE",
+"1690 1726 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"123 635 LINE",
+"475 635 OFFCURVE",
+"895 641 OFFCURVE",
+"1294 702 CURVE",
+"1272 934 LINE",
+"887 897 OFFCURVE",
+"444 895 OFFCURVE",
+"84 895 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"365 543 LINE",
+"365 -176 LINE",
+"1690 -176 LINE",
+"1690 543 LINE",
+"1362 543 LINE",
+"1362 424 LINE",
+"692 424 LINE",
+"692 543 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"692 180 LINE",
+"1362 180 LINE",
+"1362 80 LINE",
+"692 80 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"297 1573 LINE",
+"297 1024 LINE",
+"1137 1024 LINE",
+"1137 1573 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1071 1513 LINE",
+"1071 1083 LINE",
+"362 1083 LINE",
+"362 1513 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"676 1051 LINE",
+"676 719 LINE",
+"743 719 LINE",
+"743 1051 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1505 1669 LINE",
+"1505 627 LINE",
+"1571 627 LINE",
+"1571 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"145 682 LINE",
+"487 682 OFFCURVE",
+"940 696 OFFCURVE",
+"1327 756 CURVE",
+"1323 811 LINE",
+"942 760 OFFCURVE",
+"483 748 OFFCURVE",
+"131 745 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"430 532 LINE",
+"430 -109 LINE",
+"1571 -109 LINE",
+"1571 532 LINE",
+"1507 532 LINE",
+"1507 297 LINE",
+"498 297 LINE",
+"498 532 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"498 238 LINE",
+"1507 238 LINE",
+"1507 -47 LINE",
+"498 -47 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = BB0D;
+}

@@ -1,0 +1,74 @@
+{
+glyphname = epsilon1revclosed_uni02DE;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = eopenreversedclosed;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 964, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1375;
+},
+{
+components = (
+{
+alignment = -1;
+name = eopenreversedclosed;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 971, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1330;
+},
+{
+components = (
+{
+alignment = -1;
+name = eopenreversedclosed;
+},
+{
+alignment = -1;
+name = rhotichookmod;
+transform = "{1, 0, 0, 1, 1024, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 1523;
+}
+);
+}

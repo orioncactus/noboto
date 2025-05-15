@@ -1,0 +1,90 @@
+{
+glyphname = "elSoft-cy";
+layers = (
+{
+components = (
+{
+name = "el-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"656 1082 LINE",
+"656 921 LINE",
+"1498 921 LINE",
+"1498 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1508;
+},
+{
+components = (
+{
+name = "el-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"940 1082 LINE",
+"940 1027 LINE",
+"1456 1027 LINE",
+"1456 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1456;
+},
+{
+components = (
+{
+name = "el-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"779 1082 LINE",
+"779 822 LINE",
+"1521 822 LINE",
+"1521 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1531;
+}
+);
+unicode = A665;
+}

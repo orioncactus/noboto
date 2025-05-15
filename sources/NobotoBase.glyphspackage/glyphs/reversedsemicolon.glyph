@@ -1,0 +1,144 @@
+{
+glyphname = reversedsemicolon;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"145 914 OFFCURVE",
+"186 864 OFFCURVE",
+"266 864 CURVE SMOOTH",
+"346 864 OFFCURVE",
+"388 914 OFFCURVE",
+"388 978 CURVE SMOOTH",
+"388 1044 OFFCURVE",
+"346 1095 OFFCURVE",
+"266 1095 CURVE SMOOTH",
+"186 1095 OFFCURVE",
+"145 1044 OFFCURVE",
+"145 978 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"367 225 LINE",
+"367 72 LINE",
+"367 -44 OFFCURVE",
+"399 -143 OFFCURVE",
+"462 -238 CURVE",
+"349 -314 LINE",
+"233 -216 OFFCURVE",
+"167 -53 OFFCURVE",
+"167 75 CURVE",
+"167 225 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 528;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"125 980 OFFCURVE",
+"149 956 OFFCURVE",
+"180 956 CURVE SMOOTH",
+"211 956 OFFCURVE",
+"236 980 OFFCURVE",
+"236 1011 CURVE SMOOTH",
+"236 1042 OFFCURVE",
+"211 1067 OFFCURVE",
+"180 1067 CURVE SMOOTH",
+"149 1067 OFFCURVE",
+"125 1042 OFFCURVE",
+"125 1011 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"192 159 LINE",
+"192 25 LINE",
+"192 -78 OFFCURVE",
+"221 -145 OFFCURVE",
+"281 -223 CURVE",
+"244 -255 LINE",
+"181 -188 OFFCURVE",
+"138 -96 OFFCURVE",
+"138 27 CURVE",
+"138 159 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 364;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"107 860 OFFCURVE",
+"179 787 OFFCURVE",
+"286 787 CURVE SMOOTH",
+"393 787 OFFCURVE",
+"465 860 OFFCURVE",
+"465 956 CURVE SMOOTH",
+"465 1052 OFFCURVE",
+"393 1125 OFFCURVE",
+"286 1125 CURVE SMOOTH",
+"179 1125 OFFCURVE",
+"107 1052 OFFCURVE",
+"107 956 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"417 254 LINE",
+"417 1 LINE",
+"417 -138 OFFCURVE",
+"449 -231 OFFCURVE",
+"493 -312 CURVE",
+"339 -392 LINE",
+"234 -300 OFFCURVE",
+"136 -128 OFFCURVE",
+"136 20 CURVE",
+"135 254 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 573;
+}
+);
+unicode = 204F;
+}

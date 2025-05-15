@@ -1,0 +1,81 @@
+{
+glyphname = "Eiotified-cy";
+layers = (
+{
+components = (
+{
+name = C;
+transform = "{1, 0, 0, 1, 455, 1}";
+},
+{
+name = I;
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"310 836 LINE",
+"310 676 LINE",
+"1324 676 LINE",
+"1324 836 LINE"
+);
+}
+);
+width = 1837;
+},
+{
+components = (
+{
+name = C;
+transform = "{1, 0, 0, 1, 467, 1}";
+},
+{
+name = I;
+transform = "{1, 0, 0, 1, -3, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"243 794 LINE",
+"243 740 LINE",
+"1185 740 LINE",
+"1185 794 LINE"
+);
+}
+);
+width = 1825;
+},
+{
+components = (
+{
+name = C;
+transform = "{1, 0, 0, 1, 532, 1}";
+},
+{
+name = I;
+transform = "{1, 0, 0, 1, -33, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"333 869 LINE",
+"333 608 LINE",
+"1336 608 LINE",
+"1336 869 LINE"
+);
+}
+);
+width = 1825;
+}
+);
+unicode = 0464;
+}

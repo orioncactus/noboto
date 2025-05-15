@@ -1,0 +1,159 @@
+{
+glyphname = Usmall;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{639, 0}";
+},
+{
+name = top;
+position = "{639, 1290}";
+},
+{
+name = top0315;
+position = "{1278, 1290}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"942 399 LINE SMOOTH",
+"942 235 OFFCURVE",
+"818 141 OFFCURVE",
+"639 141 CURVE SMOOTH",
+"463 141 OFFCURVE",
+"336 235 OFFCURVE",
+"336 399 CURVE SMOOTH",
+"336 1082 LINE",
+"137 1082 LINE",
+"137 399 LINE SMOOTH",
+"137 133 OFFCURVE",
+"352 -17 OFFCURVE",
+"639 -17 CURVE SMOOTH",
+"929 -17 OFFCURVE",
+"1141 133 OFFCURVE",
+"1141 399 CURVE SMOOTH",
+"1141 1082 LINE",
+"942 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1278;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{631, 0}";
+},
+{
+name = top;
+position = "{631, 1290}";
+},
+{
+name = top0315;
+position = "{1263, 1290}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1040 391 LINE SMOOTH",
+"1040 172 OFFCURVE",
+"864 38 OFFCURVE",
+"632 38 CURVE SMOOTH",
+"401 38 OFFCURVE",
+"222 172 OFFCURVE",
+"222 391 CURVE SMOOTH",
+"222 1082 LINE",
+"168 1082 LINE",
+"168 391 LINE SMOOTH",
+"168 130 OFFCURVE",
+"367 -17 OFFCURVE",
+"632 -17 CURVE SMOOTH",
+"896 -17 OFFCURVE",
+"1095 130 OFFCURVE",
+"1095 391 CURVE SMOOTH",
+"1095 1082 LINE",
+"1040 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1263;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{622, 0}";
+},
+{
+name = top;
+position = "{622, 1290}";
+},
+{
+name = top0315;
+position = "{1243, 1290}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"825 422 LINE SMOOTH",
+"825 298 OFFCURVE",
+"763 238 OFFCURVE",
+"622 238 CURVE SMOOTH",
+"485 238 OFFCURVE",
+"416 298 OFFCURVE",
+"416 422 CURVE SMOOTH",
+"416 1082 LINE",
+"94 1082 LINE",
+"94 422 LINE SMOOTH",
+"94 142 OFFCURVE",
+"306 -21 OFFCURVE",
+"622 -21 CURVE SMOOTH",
+"939 -21 OFFCURVE",
+"1149 142 OFFCURVE",
+"1149 422 CURVE SMOOTH",
+"1149 1082 LINE",
+"825 1082 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1243;
+}
+);
+unicode = 1D1C;
+}

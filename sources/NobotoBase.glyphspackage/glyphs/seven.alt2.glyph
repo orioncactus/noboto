@@ -1,0 +1,62 @@
+{
+color = 6;
+glyphname = seven.alt2;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"78 1456 LINE",
+"78 1296 LINE",
+"857 1296 LINE",
+"259 0 LINE",
+"469 0 LINE",
+"1068 1346 LINE",
+"1068 1456 LINE"
+);
+}
+);
+width = 1154;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"82 1456 LINE",
+"82 1402 LINE",
+"950 1402 LINE",
+"316 0 LINE",
+"371 0 LINE",
+"1012 1422 LINE",
+"1012 1456 LINE"
+);
+}
+);
+width = 1098;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"76 1456 LINE",
+"76 1196 LINE",
+"780 1196 LINE",
+"229 0 LINE",
+"569 0 LINE",
+"1119 1276 LINE",
+"1119 1456 LINE"
+);
+}
+);
+width = 1204;
+}
+);
+leftKerningGroup = "num-space";
+rightKerningGroup = "num-space";
+}

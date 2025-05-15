@@ -1,0 +1,135 @@
+{
+glyphname = oTophalf;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1095 585 LINE SMOOTH",
+"1095 892 OFFCURVE",
+"890 1102 OFFCURVE",
+"591 1102 CURVE SMOOTH",
+"294 1102 OFFCURVE",
+"90 892 OFFCURVE",
+"90 585 CURVE SMOOTH",
+"90 541 LINE",
+"290 541 LINE",
+"290 586 LINE SMOOTH",
+"290 811 OFFCURVE",
+"405 942 OFFCURVE",
+"591 942 CURVE SMOOTH",
+"779 942 OFFCURVE",
+"895 811 OFFCURVE",
+"895 586 CURVE SMOOTH",
+"895 541 LINE",
+"1095 541 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1185;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1014 625 LINE SMOOTH",
+"1014 922 OFFCURVE",
+"825 1102 OFFCURVE",
+"550 1102 CURVE SMOOTH",
+"274 1102 OFFCURVE",
+"88 922 OFFCURVE",
+"88 625 CURVE SMOOTH",
+"88 541 LINE",
+"142 541 LINE",
+"142 626 LINE SMOOTH",
+"142 907 OFFCURVE",
+"301 1048 OFFCURVE",
+"550 1048 CURVE SMOOTH",
+"801 1048 OFFCURVE",
+"960 907 OFFCURVE",
+"960 626 CURVE SMOOTH",
+"960 541 LINE",
+"1014 541 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1102;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1102;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1111 625 LINE SMOOTH",
+"1111 908 OFFCURVE",
+"894 1102 OFFCURVE",
+"584 1102 CURVE SMOOTH",
+"274 1102 OFFCURVE",
+"58 908 OFFCURVE",
+"58 625 CURVE SMOOTH",
+"58 540 LINE",
+"381 540 LINE",
+"381 626 LINE SMOOTH",
+"381 738 OFFCURVE",
+"449 842 OFFCURVE",
+"584 842 CURVE SMOOTH",
+"715 842 OFFCURVE",
+"788 738 OFFCURVE",
+"788 626 CURVE SMOOTH",
+"788 540 LINE",
+"1111 540 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 1102;
+}
+);
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1169;
+}
+);
+unicode = 1D16;
+}

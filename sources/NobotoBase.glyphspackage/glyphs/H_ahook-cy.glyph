@@ -1,0 +1,119 @@
+{
+glyphname = "Hahook-cy";
+layers = (
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1291, -407}";
+},
+{
+name = top0315;
+position = "{1291, 1612}";
+},
+{
+name = top_dd;
+position = "{1291, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = X;
+},
+{
+alignment = -1;
+name = cyrillichook;
+transform = "{1, 0, 0, 1, 935, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1336;
+},
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1223, -407}";
+},
+{
+name = top0315;
+position = "{1223, 1612}";
+},
+{
+name = top_dd;
+position = "{1223, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = X;
+},
+{
+alignment = -1;
+name = cyrillichook;
+transform = "{1, 0, 0, 1, 934, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1239;
+},
+{
+anchors = (
+{
+name = bottom_dd;
+position = "{1306, -407}";
+},
+{
+name = top0315;
+position = "{1306, 1612}";
+},
+{
+name = top_dd;
+position = "{1306, 1600}";
+}
+);
+components = (
+{
+alignment = -1;
+name = X;
+},
+{
+alignment = -1;
+name = cyrillichook;
+transform = "{1, 0, 0, 1, 1014, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1470;
+}
+);
+leftKerningGroup = X;
+rightKerningGroup = X;
+unicode = 04FC;
+}

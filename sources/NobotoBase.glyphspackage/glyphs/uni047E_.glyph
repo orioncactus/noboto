@@ -1,0 +1,79 @@
+{
+glyphname = uni047E;
+layers = (
+{
+components = (
+{
+name = "Omega-cy";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"810 1560 LINE",
+"991 1560 LINE",
+"991 1687 LINE",
+"1322 1687 LINE",
+"1321 1799 LINE",
+"497 1799 LINE",
+"497 1687 LINE",
+"810 1687 LINE"
+);
+}
+);
+width = 1797;
+},
+{
+components = (
+{
+name = "Omega-cy";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"880 1602 LINE",
+"934 1602 LINE",
+"934 1705 LINE",
+"1266 1705 LINE",
+"1264 1761 LINE",
+"565 1761 LINE",
+"565 1705 LINE",
+"880 1705 LINE"
+);
+}
+);
+width = 1836;
+},
+{
+components = (
+{
+name = "Omega-cy";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"890 1560 LINE",
+"1071 1560 LINE",
+"1071 1687 LINE",
+"1444 1687 LINE",
+"1442 1829 LINE",
+"536 1829 LINE",
+"536 1687 LINE",
+"890 1687 LINE"
+);
+}
+);
+width = 1992;
+}
+);
+leftKerningGroup = C;
+unicode = 047E;
+}

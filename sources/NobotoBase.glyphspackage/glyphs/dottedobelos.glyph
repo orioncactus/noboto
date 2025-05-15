@@ -1,0 +1,105 @@
+{
+glyphname = dottedobelos;
+layers = (
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 862, 1322}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1430, 884}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"939 1560 LINE",
+"80 178 LINE",
+"191 109 LINE",
+"1050 1491 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1130;
+},
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 721, 1281}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1467, 749}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"944 1519 LINE",
+"80 126 LINE",
+"124 98 LINE",
+"988 1491 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1068;
+},
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 866, 1269}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1541, 837}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1035 1581 LINE",
+"80 216 LINE",
+"227 129 LINE",
+"1182 1494 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1262;
+}
+);
+unicode = 2E13;
+}

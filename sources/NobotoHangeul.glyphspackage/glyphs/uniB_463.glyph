@@ -1,0 +1,155 @@
+{
+color = 0;
+glyphname = uniB463;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"74 905 LINE",
+"74 643 LINE",
+"1812 643 LINE",
+"1812 905 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"774 803 LINE",
+"774 494 LINE",
+"1104 494 LINE",
+"1104 803 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"283 1257 LINE",
+"283 999 LINE",
+"1630 999 LINE",
+"1630 1257 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"283 1665 LINE",
+"283 1079 LINE",
+"610 1079 LINE",
+"610 1405 LINE",
+"1614 1405 LINE",
+"1614 1665 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"766 432 LINE",
+"766 410 LINE SMOOTH",
+"766 266 OFFCURVE",
+"647 100 OFFCURVE",
+"176 61 CURVE",
+"287 -190 LINE",
+"823 -137 OFFCURVE",
+"1049 100 OFFCURVE",
+"1049 410 CURVE SMOOTH",
+"1049 432 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"823 432 LINE",
+"823 410 LINE SMOOTH",
+"823 100 OFFCURVE",
+"1049 -137 OFFCURVE",
+"1587 -190 CURVE",
+"1696 61 LINE",
+"1225 100 OFFCURVE",
+"1106 266 OFFCURVE",
+"1106 410 CURVE SMOOTH",
+"1106 432 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"121 799 LINE",
+"121 737 LINE",
+"1761 737 LINE",
+"1761 799 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"901 776 LINE",
+"901 510 LINE",
+"967 510 LINE",
+"967 776 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"336 1090 LINE",
+"336 1030 LINE",
+"1556 1030 LINE",
+"1556 1090 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"336 1595 LINE",
+"336 1053 LINE",
+"403 1053 LINE",
+"403 1534 LINE",
+"1540 1534 LINE",
+"1540 1595 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"901 426 LINE",
+"901 344 LINE SMOOTH",
+"901 96 OFFCURVE",
+"508 -41 OFFCURVE",
+"254 -72 CURVE",
+"276 -129 LINE",
+"565 -86 OFFCURVE",
+"961 57 OFFCURVE",
+"961 344 CURVE SMOOTH",
+"961 426 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"911 426 LINE",
+"911 344 LINE SMOOTH",
+"911 57 OFFCURVE",
+"1307 -86 OFFCURVE",
+"1593 -129 CURVE",
+"1616 -72 LINE",
+"1364 -41 OFFCURVE",
+"969 96 OFFCURVE",
+"969 344 CURVE SMOOTH",
+"969 426 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B463;
+}

@@ -1,0 +1,108 @@
+{
+glyphname = "fita-cy";
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{559, 1290}";
+},
+{
+name = top0315;
+position = "{1165, 1290}";
+}
+);
+components = (
+{
+name = o;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"257 627 LINE",
+"257 467 LINE",
+"899 467 LINE",
+"899 627 LINE"
+);
+}
+);
+width = 1165;
+},
+{
+anchors = (
+{
+name = top;
+position = "{559, 1318}";
+},
+{
+name = top0315;
+position = "{1153, 1318}";
+}
+);
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, -3, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"114 567 LINE",
+"114 513 LINE",
+"999 513 LINE",
+"999 567 LINE"
+);
+}
+);
+width = 1153;
+},
+{
+anchors = (
+{
+name = top;
+position = "{570, 1290}";
+},
+{
+name = top0315;
+position = "{1153, 1290}";
+}
+);
+components = (
+{
+name = o;
+transform = "{1, 0, 0, 1, -2, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"225 630 LINE",
+"225 439 LINE",
+"906 439 LINE",
+"906 630 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1153;
+}
+);
+leftKerningGroup = o;
+rightKerningGroup = o;
+unicode = 0473;
+}

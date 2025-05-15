@@ -1,0 +1,135 @@
+{
+glyphname = ubar;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{643, 0}";
+},
+{
+name = top;
+position = "{643, 1290}";
+},
+{
+name = top0315;
+position = "{1299, 1290}";
+}
+);
+components = (
+{
+name = u;
+transform = "{1, 0, 0, 1, 86, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 645 LINE",
+"20 485 LINE",
+"1279 485 LINE",
+"1279 645 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1299;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{601, 0}";
+},
+{
+name = top;
+position = "{601, 1290}";
+},
+{
+name = top0315;
+position = "{1262, 1290}";
+}
+);
+components = (
+{
+name = u;
+transform = "{1, 0, 0, 1, 71, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"40 642 LINE",
+"40 588 LINE",
+"1222 588 LINE",
+"1222 642 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1262;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{714, 0}";
+},
+{
+name = top;
+position = "{714, 1290}";
+},
+{
+name = top0315;
+position = "{1423, 1290}";
+}
+);
+components = (
+{
+name = u;
+transform = "{1, 0, 0, 1, 136, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"30 665 LINE",
+"30 474 LINE",
+"1393 474 LINE",
+"1393 665 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1423;
+}
+);
+unicode = 0289;
+}

@@ -1,0 +1,186 @@
+{
+glyphname = "Che-cy";
+layers = (
+{
+anchors = (
+{
+name = left;
+position = "{1031, 0}";
+},
+{
+name = right;
+position = "{1231, 0}";
+},
+{
+name = top;
+position = "{688, 1612}";
+},
+{
+name = top0315;
+position = "{1411, 1612}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"146 992 LINE",
+"146 664 OFFCURVE",
+"331 541 OFFCURVE",
+"641 541 CURVE SMOOTH",
+"833 541 OFFCURVE",
+"947 568 OFFCURVE",
+"1078 609 CURVE",
+"1078 777 LINE",
+"943 736 OFFCURVE",
+"801 708 OFFCURVE",
+"641 708 CURVE SMOOTH",
+"448 708 OFFCURVE",
+"354 770 OFFCURVE",
+"354 992 CURVE SMOOTH",
+"354 1456 LINE",
+"146 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1027 0 LINE",
+"1235 0 LINE",
+"1235 1456 LINE",
+"1027 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1411;
+},
+{
+anchors = (
+{
+name = left;
+position = "{1075, 0}";
+},
+{
+name = right;
+position = "{1129, 0}";
+},
+{
+name = top;
+position = "{688, 1612}";
+},
+{
+name = top0315;
+position = "{1325, 1612}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"195 1105 LINE",
+"195 779 OFFCURVE",
+"367 658 OFFCURVE",
+"674 658 CURVE SMOOTH",
+"823 658 OFFCURVE",
+"975 690 OFFCURVE",
+"1108 728 CURVE",
+"1108 782 LINE",
+"963 737 OFFCURVE",
+"820 712 OFFCURVE",
+"674 712 CURVE SMOOTH",
+"399 712 OFFCURVE",
+"249 825 OFFCURVE",
+"249 1105 CURVE SMOOTH",
+"249 1456 LINE",
+"195 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1076 0 LINE",
+"1130 0 LINE",
+"1130 1456 LINE",
+"1076 1456 LINE"
+);
+}
+);
+width = 1325;
+},
+{
+anchors = (
+{
+name = left;
+position = "{985, 0}";
+},
+{
+name = right;
+position = "{1307, 0}";
+},
+{
+name = top;
+position = "{776, 1600}";
+},
+{
+name = top0315;
+position = "{1429, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"135 1013 LINE",
+"135 673 OFFCURVE",
+"370 517 OFFCURVE",
+"730 517 CURVE SMOOTH",
+"791 517 OFFCURVE",
+"981 532 OFFCURVE",
+"1046 554 CURVE",
+"1046 824 LINE",
+"983 801 OFFCURVE",
+"799 787 OFFCURVE",
+"730 787 CURVE SMOOTH",
+"556 787 OFFCURVE",
+"470 837 OFFCURVE",
+"470 1013 CURVE SMOOTH",
+"470 1456 LINE",
+"135 1456 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"979 0 LINE",
+"1314 0 LINE",
+"1314 1456 LINE",
+"979 1456 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.6,
+0.609,
+1,
+1
+);
+};
+width = 1429;
+}
+);
+leftKerningGroup = "Che-cy";
+rightKerningGroup = H;
+unicode = 0427;
+}

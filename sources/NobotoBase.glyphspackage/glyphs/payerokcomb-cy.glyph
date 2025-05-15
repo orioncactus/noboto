@@ -1,0 +1,150 @@
+{
+glyphname = "payerokcomb-cy";
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-582, 1170}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"-870 1341 OFFCURVE",
+"-742 1237 OFFCURVE",
+"-580 1237 CURVE SMOOTH",
+"-478 1237 OFFCURVE",
+"-391 1293 OFFCURVE",
+"-357 1359 CURVE",
+"-445 1385 LINE",
+"-481 1366 OFFCURVE",
+"-512 1349 OFFCURVE",
+"-575 1349 CURVE SMOOTH",
+"-684 1349 OFFCURVE",
+"-717 1430 OFFCURVE",
+"-715 1508 CURVE",
+"-856 1508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-453 1445 LINE",
+"-538 1129 LINE",
+"-392 1129 LINE",
+"-307 1445 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-556, 1170}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"-788 1341 OFFCURVE",
+"-680 1257 OFFCURVE",
+"-540 1257 CURVE SMOOTH",
+"-448 1257 OFFCURVE",
+"-395 1303 OFFCURVE",
+"-370 1341 CURVE",
+"-383 1385 LINE",
+"-414 1347 OFFCURVE",
+"-455 1310 OFFCURVE",
+"-540 1310 CURVE SMOOTH",
+"-627 1310 OFFCURVE",
+"-723 1350 OFFCURVE",
+"-721 1508 CURVE",
+"-774 1508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-391 1445 LINE",
+"-468 1149 LINE",
+"-414 1149 LINE",
+"-337 1445 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-571, 1170}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"-881 1311 OFFCURVE",
+"-733 1217 OFFCURVE",
+"-571 1217 CURVE SMOOTH",
+"-469 1217 OFFCURVE",
+"-382 1273 OFFCURVE",
+"-348 1339 CURVE",
+"-429 1405 LINE",
+"-465 1386 OFFCURVE",
+"-496 1369 OFFCURVE",
+"-554 1369 CURVE SMOOTH",
+"-651 1369 OFFCURVE",
+"-688 1430 OFFCURVE",
+"-686 1508 CURVE",
+"-867 1508 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"-440 1455 LINE",
+"-529 1129 LINE",
+"-363 1129 LINE",
+"-274 1455 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 0;
+}
+);
+unicode = A67D;
+}

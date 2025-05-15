@@ -1,0 +1,109 @@
+{
+glyphname = threedotpunctuation;
+layers = (
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 781, 735}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1345, 335}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1345, 1135}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 955;
+},
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 712, 701}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1162, 253}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1162, 1147}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 483;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 36;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 721;
+},
+{
+components = (
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 857, 717}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1338, 336}";
+},
+{
+name = dotbelowcomb;
+transform = "{1, 0, 0, 1, 1338, 1098}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 487;
+}
+);
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 999;
+}
+);
+unicode = 2056;
+}

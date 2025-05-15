@@ -1,0 +1,162 @@
+{
+glyphname = "djerv-cy";
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1078 0 LINE",
+"643 738 LINE",
+"525 738 LINE",
+"492 661 LINE",
+"854 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"584 738 LINE",
+"464 738 LINE",
+"30 0 LINE",
+"254 0 LINE",
+"620 667 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"451 1082 LINE",
+"451 571 LINE",
+"651 571 LINE",
+"651 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"234 883 LINE",
+"234 723 LINE",
+"876 723 LINE",
+"876 883 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1122;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1028 0 LINE",
+"569 731 LINE",
+"521 731 LINE",
+"559 642 LINE",
+"963 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"565 731 LINE",
+"517 731 LINE",
+"58 0 LINE",
+"122 0 LINE",
+"526 643 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 1082 LINE",
+"515 671 LINE",
+"569 671 LINE",
+"569 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"250 777 LINE",
+"250 723 LINE",
+"837 723 LINE",
+"837 777 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1092;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1098 0 LINE",
+"688 764 LINE",
+"519 764 LINE",
+"487 591 LINE",
+"751 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"578 764 LINE",
+"410 764 LINE",
+"0 0 LINE",
+"347 0 LINE",
+"615 597 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"385 1082 LINE",
+"385 597 LINE",
+"707 597 LINE",
+"707 1082 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"169 842 LINE",
+"169 651 LINE",
+"930 651 LINE",
+"930 842 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1085;
+}
+);
+unicode = A649;
+}

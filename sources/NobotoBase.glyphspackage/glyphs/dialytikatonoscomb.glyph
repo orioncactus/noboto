@@ -1,0 +1,93 @@
+{
+glyphname = dialytikatonoscomb;
+layers = (
+{
+anchors = (
+{
+name = _marktop;
+position = "{-591, 1290}";
+},
+{
+name = mkmktop;
+position = "{-591, 1747}";
+}
+);
+components = (
+{
+alignment = -1;
+name = dieresistonos;
+transform = "{1, 0, 0, 1, -1103, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-556, 1290}";
+},
+{
+name = mkmktop;
+position = "{-556, 1700}";
+}
+);
+components = (
+{
+alignment = -1;
+name = dieresistonos;
+transform = "{1, 0, 0, 1, -1030, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _marktop;
+position = "{-591, 1290}";
+},
+{
+name = mkmktop;
+position = "{-591, 1870}";
+}
+);
+components = (
+{
+alignment = -1;
+name = dieresistonos;
+transform = "{1, 0, 0, 1, -1143, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 0;
+}
+);
+unicode = 0344;
+}

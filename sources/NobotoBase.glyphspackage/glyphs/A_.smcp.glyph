@@ -1,0 +1,272 @@
+{
+glyphname = A.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{596, 0}";
+},
+{
+name = bottom_dd;
+position = "{1169, -407}";
+},
+{
+name = ogonek;
+position = "{1106, 0}";
+},
+{
+name = right;
+position = "{1124, 0}";
+},
+{
+name = tonos;
+position = "{329, 1163}";
+},
+{
+name = top;
+position = "{587, 1320}";
+},
+{
+name = top0315;
+position = "{1169, 1320}";
+},
+{
+name = top_dd;
+position = "{1169, 1600}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"628 1165 LINE",
+"499 1165 LINE",
+"19 0 LINE",
+"222 0 LINE",
+"617 998 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1149 0 LINE",
+"676 1165 LINE",
+"545 1165 LINE",
+"555 1002 LINE",
+"946 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"231 434 LINE",
+"231 274 LINE",
+"931 274 LINE",
+"931 434 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 721;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 444;
+}
+);
+};
+width = 1169;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{551, 0}";
+},
+{
+name = bottom_dd;
+position = "{1058, -407}";
+},
+{
+name = ogonek;
+position = "{1027, 0}";
+},
+{
+name = right;
+position = "{1029, 0}";
+},
+{
+name = tonos;
+position = "{249, 1163}";
+},
+{
+name = top;
+position = "{530, 1320}";
+},
+{
+name = top0315;
+position = "{1058, 1320}";
+},
+{
+name = top_dd;
+position = "{1058, 1600}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"546 1165 LINE",
+"497 1165 LINE",
+"28 0 LINE",
+"87 0 LINE",
+"507 1049 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1029 0 LINE",
+"560 1165 LINE",
+"512 1165 LINE",
+"551 1050 LINE",
+"971 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"217 396 LINE",
+"217 342 LINE",
+"843 342 LINE",
+"843 396 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 721;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 444;
+}
+);
+};
+width = 1058;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{606, 0}";
+},
+{
+name = bottom_dd;
+position = "{1207, -407}";
+},
+{
+name = ogonek;
+position = "{1143, 0}";
+},
+{
+name = right;
+position = "{1080, 0}";
+},
+{
+name = tonos;
+position = "{193, 1163}";
+},
+{
+name = top;
+position = "{605, 1320}";
+},
+{
+name = top0315;
+position = "{1207, 1320}";
+},
+{
+name = top_dd;
+position = "{1207, 1600}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"668 1165 LINE",
+"446 1165 LINE",
+"-9 0 LINE",
+"315 0 LINE",
+"598 796 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1215 0 LINE",
+"754 1165 LINE",
+"528 1165 LINE",
+"599 794 LINE",
+"891 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 434 LINE",
+"263 204 LINE",
+"893 204 LINE",
+"893 434 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 721;
+},
+{
+angle = 0;
+isGlobal = 0;
+magnetic = 5;
+x = 0;
+y = 444;
+}
+);
+com.typemytype.robofont.mark = (
+1,
+0.6,
+0.6,
+1
+);
+};
+width = 1207;
+}
+);
+}

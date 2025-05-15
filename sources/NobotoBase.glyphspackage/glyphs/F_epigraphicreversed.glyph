@@ -1,0 +1,129 @@
+{
+glyphname = Fepigraphicreversed;
+layers = (
+{
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"962 0 LINE",
+"962 1456 LINE",
+"754 1456 LINE",
+"754 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"796 637 LINE",
+"796 803 LINE",
+"159 803 LINE",
+"159 637 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"796 1289 LINE",
+"796 1456 LINE",
+"60 1456 LINE",
+"60 1289 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1128;
+},
+{
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"972 0 LINE",
+"972 1456 LINE",
+"918 1456 LINE",
+"918 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"957 716 LINE",
+"957 772 LINE",
+"172 772 LINE",
+"172 716 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"957 1402 LINE",
+"957 1456 LINE",
+"70 1456 LINE",
+"70 1402 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.967,
+0.6,
+1,
+1
+);
+};
+width = 1172;
+},
+{
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1004 0 LINE",
+"1004 1456 LINE",
+"669 1456 LINE",
+"669 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"762 580 LINE",
+"762 850 LINE",
+"100 850 LINE",
+"100 580 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"762 1185 LINE",
+"762 1456 LINE",
+"38 1456 LINE",
+"38 1185 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1121;
+}
+);
+unicode = A7FB;
+}

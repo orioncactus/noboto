@@ -1,0 +1,124 @@
+{
+glyphname = koppaArchaic;
+layers = (
+{
+components = (
+{
+name = o;
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"486 66 LINE",
+"486 -416 LINE",
+"686 -416 LINE",
+"686 66 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 465;
+y = 0;
+},
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 586;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1173;
+},
+{
+components = (
+{
+name = o;
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"536 20 LINE",
+"536 -416 LINE",
+"590 -416 LINE",
+"590 20 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 563;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1127;
+},
+{
+components = (
+{
+name = o;
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"416 40 LINE",
+"416 -416 LINE",
+"739 -416 LINE",
+"739 40 LINE {name = hr00;}"
+);
+}
+);
+userData = {
+com.typemytype.robofont.guides = (
+{
+angle = 90;
+isGlobal = 0;
+magnetic = 5;
+x = 577;
+y = 0;
+}
+);
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1153;
+}
+);
+unicode = 03D9;
+}

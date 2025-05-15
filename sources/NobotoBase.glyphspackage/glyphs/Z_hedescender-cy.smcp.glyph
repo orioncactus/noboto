@@ -1,0 +1,89 @@
+{
+glyphname = "Zhedescender-cy.smcp";
+layers = (
+{
+components = (
+{
+name = "Zhe-cy.smcp";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"1574 159 LINE",
+"1394 159 LINE",
+"1394 -341 LINE",
+"1574 -341 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+1,
+0.779,
+0.6,
+1
+);
+};
+width = 1604;
+},
+{
+components = (
+{
+name = "Zhe-cy.smcp";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"1539 54 LINE",
+"1485 54 LINE",
+"1485 -331 LINE",
+"1539 -331 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1639;
+},
+{
+components = (
+{
+name = "Zhe-cy.smcp";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"1777 260 LINE",
+"1517 260 LINE",
+"1517 -331 LINE",
+"1777 -331 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 1827;
+}
+);
+}

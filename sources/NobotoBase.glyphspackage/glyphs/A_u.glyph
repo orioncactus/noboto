@@ -1,0 +1,123 @@
+{
+glyphname = Au;
+layers = (
+{
+components = (
+{
+name = U;
+transform = "{1, 0, 0, 1, 810, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+paths = (
+{
+closed = 1;
+nodes = (
+"986 1456 LINE",
+"859 1456 LINE",
+"-22 0 LINE",
+"223 0 LINE",
+"971 1298 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"374 532 LINE",
+"374 347 LINE",
+"1127 347 LINE",
+"1127 532 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2134;
+},
+{
+components = (
+{
+name = U;
+transform = "{1, 0, 0, 1, 771, 0}";
+}
+);
+layerId = master01;
+paths = (
+{
+closed = 1;
+nodes = (
+"980 1456 LINE",
+"931 1456 LINE",
+"50 0 LINE",
+"115 0 LINE",
+"895 1298 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 478 LINE",
+"354 425 LINE",
+"993 425 LINE",
+"993 478 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2136;
+},
+{
+components = (
+{
+name = U;
+transform = "{1, 0, 0, 1, 810, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+paths = (
+{
+closed = 1;
+nodes = (
+"966 1456 LINE",
+"763 1456 LINE",
+"12 0 LINE",
+"386 0 LINE",
+"1003 1298 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"339 599 LINE",
+"339 329 LINE",
+"1091 329 LINE",
+"1091 599 LINE"
+);
+}
+);
+userData = {
+com.typemytype.robofont.mark = (
+0.939,
+1,
+0.6,
+1
+);
+};
+width = 2167;
+}
+);
+unicode = A736;
+}

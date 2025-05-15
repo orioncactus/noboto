@@ -1,0 +1,165 @@
+{
+color = 0;
+glyphname = uniB0B6;
+layers = (
+{
+layerId = "99E75090-8A73-42EE-982D-99D4C12EA1BB";
+paths = (
+{
+closed = 1;
+nodes = (
+"143 1604 LINE",
+"143 844 LINE",
+"475 844 LINE",
+"475 1604 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"143 989 LINE",
+"143 717 LINE",
+"281 717 LINE SMOOTH",
+"578 717 OFFCURVE",
+"750 727 OFFCURVE",
+"930 776 CURVE",
+"895 1042 LINE",
+"723 999 OFFCURVE",
+"563 989 OFFCURVE",
+"281 989 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"995 1694 LINE",
+"995 639 LINE",
+"1305 639 LINE",
+"1305 1694 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1190 1309 LINE",
+"1190 1042 LINE",
+"1622 1042 LINE",
+"1622 1309 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1411 1729 LINE",
+"1411 637 LINE",
+"1729 637 LINE",
+"1729 1729 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1055 559 LINE",
+"1055 299 LINE",
+"1395 299 LINE",
+"1395 -195 LINE",
+"1729 -195 LINE",
+"1729 559 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"303 559 LINE",
+"303 299 LINE",
+"653 299 LINE",
+"653 -188 LINE",
+"987 -188 LINE",
+"987 559 LINE"
+);
+}
+);
+width = 1884;
+},
+{
+layerId = "35A15426-DDB1-4AC4-90C4-1762146010E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"221 1530 LINE",
+"221 815 LINE",
+"291 815 LINE",
+"291 1530 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"221 840 LINE",
+"221 776 LINE",
+"326 776 LINE SMOOTH",
+"541 776 OFFCURVE",
+"745 786 OFFCURVE",
+"1001 836 CURVE",
+"993 903 LINE",
+"743 852 OFFCURVE",
+"535 840 OFFCURVE",
+"326 840 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1167 1634 LINE",
+"1167 575 LINE",
+"1235 575 LINE",
+"1235 1634 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1212 1155 LINE",
+"1212 1094 LINE",
+"1581 1094 LINE",
+"1581 1155 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1563 1669 LINE",
+"1563 561 LINE",
+"1628 561 LINE",
+"1628 1669 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"1063 520 LINE",
+"1063 457 LINE",
+"1565 457 LINE",
+"1565 -141 LINE",
+"1628 -141 LINE",
+"1628 520 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"371 520 LINE",
+"371 457 LINE",
+"891 457 LINE",
+"891 -141 LINE",
+"963 -141 LINE",
+"963 520 LINE"
+);
+}
+);
+width = 1884;
+}
+);
+unicode = B0B6;
+}

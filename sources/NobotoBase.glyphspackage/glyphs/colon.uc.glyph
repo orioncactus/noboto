@@ -1,0 +1,47 @@
+{
+glyphname = colon.uc;
+layers = (
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -10, 187}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -10, 1062}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+width = 511;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, -21, 198}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, -21, 1160}";
+}
+);
+layerId = master01;
+width = 364;
+},
+{
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 2, 171}";
+},
+{
+name = period;
+transform = "{1, 0, 0, 1, 2, 969}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+width = 603;
+}
+);
+}

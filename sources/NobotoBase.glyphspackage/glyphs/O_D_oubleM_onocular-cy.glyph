@@ -1,0 +1,105 @@
+{
+glyphname = "ODoubleMonocular-cy";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 1294, -634}";
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 2267, -634}";
+},
+{
+alignment = -1;
+name = O;
+transform = "{1, 0, 0, 1, 973, 0}";
+}
+);
+layerId = "7E29EDC2-3C1E-4E70-8272-9573F49A38C1";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 2386;
+},
+{
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 1243, -693}";
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 2287, -693}";
+},
+{
+alignment = -1;
+name = O;
+transform = "{1, 0, 0, 1, 1044, 0}";
+}
+);
+layerId = master01;
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 2408;
+},
+{
+components = (
+{
+alignment = -1;
+name = O;
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 1282, -633}";
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 2205, -633}";
+},
+{
+alignment = -1;
+name = O;
+transform = "{1, 0, 0, 1, 923, 0}";
+}
+);
+layerId = "3F40CA7F-E6AC-489E-A736-3B62737B1DDA";
+userData = {
+com.typemytype.robofont.mark = (
+0.798,
+1,
+0.6,
+1
+);
+};
+width = 2336;
+}
+);
+unicode = A66C;
+}
