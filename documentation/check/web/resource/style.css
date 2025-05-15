@@ -148,17 +148,13 @@ article.std-charset {
 }
 
 @keyframes variable-loop {
-    0% {
-        font-weight: 400;
+    0%,
+    90%,
+    100% {
+        font-weight: 100;
     }
     45% {
-        font-weight: 1000;
-    }
-    90% {
-        font-weight: 400;
-    }
-    100% {
-        font-weight: 400;
+        font-weight: 900;
     }
 }
 
